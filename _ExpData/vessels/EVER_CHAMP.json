@@ -1,0 +1,157 @@
+{
+  "vessel_name": "EVER CHAMP",
+  "last_updated": "2026-10-17",
+  "total_records": 25,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Boiler Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2026/12/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Anti-Fouling Systems - Periodical Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Load Line - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Construction - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Construction - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Equipment - Periodical Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Equipment - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Radio - Periodical Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "OPP (MARPOL Annex I) - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "OPP (MARPOL Annex I) - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "APP (MARPOL Annex VI) - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "APP (MARPOL Annex VI) - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Ballast Water Management - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Ballast Water Management - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2028/12/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/12/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2028/12/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/12/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/04/20",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirement:\nAs per ISM Code, Clause 1, paragraph 1.2.3.1:\n“The safety management system should ensure:\n.1 compliance with mandatory rules and regulations.”\nIn this respect, reference is made to the following STCW Code requirements:\nAs per STCW Code, Section A-VIII/1, paragraph 1:\n“Administrations shall, for the purpose of preventing fatigue:\nestablish and enforce rest periods for watchkeeping personnel; and\nrequire that watch systems are so arranged that the efficiency of all watchkeeping personnel is not impaired by fatigue and that duties are so organized that the first watch at the commencement of a voyage and subsequent relieving watches are sufficiently rested and otherwise fit for duty.”\nAs per STCW Code, Section A-VIII/1, paragraph 3:\n“The hours of rest may be divided into no more than two periods, one of which shall be at least 6 hours in length, and the intervals between consecutive periods of rest shall not exceed 14 hours.”\nEvidence:\nUpon sampling of crew work and rest hour records, inconsistencies were identified, as follows:\nThe work and rest hours record of AB King Philip Ceazar indicated a rest period from 08:00 to 16:00 on 14 August 2026. However, according to the Training or Drill Record, Form FM-0804-1, the seafarer participated in a fire drill conducted between 13:30 and 14:00 on the same date. The work and rest hours record therefore did not reflect the actual activity performed, and the required eight-hour continuous rest period was compromised.\nThe work and rest hours record of Chief Mate Valentino Charles for August 2026 showed multiple days on which the rest periods were divided into more than two periods within a 24-hour period. Short work periods ranging from approximately 30 minutes up to 3 hours resulted in up to five rest periods being recorded within a 24-hour period.\nNature of Non-Conformity:\nWork and rest hour records were found inaccurate and did not demonstrate compliance with the required rest-period arrangement.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2038/12/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "vessel_name": "EVER GIFTED",
+  "last_updated": "2026-10-17",
+  "total_records": 22,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Boiler Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/01/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Anti-Fouling Systems - Periodical Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Load Line - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Construction - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Construction - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Equipment - Periodical Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Equipment - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Radio - Periodical Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "OPP (MARPOL Annex I) - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "OPP (MARPOL Annex I) - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "APP (MARPOL Annex VI) - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "APP (MARPOL Annex VI) - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Ballast Water Management - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Ballast Water Management - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2028/12/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/12/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/01/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2033/12/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
+    }
+  ]
+}

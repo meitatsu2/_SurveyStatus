@@ -1,0 +1,151 @@
+{
+  "vessel_name": "EVER MERCY",
+  "last_updated": "2026-10-17",
+  "total_records": 24,
+  "records": [
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - Elevator 2RemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Automation Survey 2RemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Ballast Water Management Survey 2Dual ModeRemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Carriage of Dangerous Goods Survey 2Dual ModeRemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Hull Survey 2RemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual IAPP Annex VI Survey 2Dual ModeRemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual IOPP Annex I Survey 2Dual ModeRemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Load Line Survey 2RemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Machinery Survey 2RemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Safety Construction Survey 2Dual ModeRemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Safety Equipment Survey 2Dual ModeRemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - NBLES 2RemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Intermediate Ballast Water Management Survey 1Dual Mode",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Intermediate Carriage of Dangerous Goods Survey 1Dual Mode",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Intermediate IAPP Annex VI Survey 1Dual Mode",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Intermediate IOPP Annex I Survey 1Dual Mode",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Intermediate Safety Construction Survey 1Dual Mode",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Periodical Safety Equipment Survey 1Dual ModeRemote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Periodical Safety Radio Survey 2RemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/11/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2029/11/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 1",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/11/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 1",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/11/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Propeller Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2039/11/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Propeller Shaft",
+      "CODE": "CB06"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "vessel_name": "EVER SMILE",
+  "last_updated": "2026-10-17",
+  "total_records": 4,
+  "records": [
+    {
+      "DUE_DATE": "2027/04/05",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - LAAC1 - LIFTING APPLIANCES ANNUAL\n*",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2029/03/28",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2031/05/31",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - TS1 - SCREWSHAFT",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2031/06/01",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - SS - SPECIAL",
+      "CODE": "CB03"
+    }
+  ]
+}

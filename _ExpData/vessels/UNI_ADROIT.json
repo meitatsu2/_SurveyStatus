@@ -1,0 +1,133 @@
+{
+  "vessel_name": "UNI-ADROIT",
+  "last_updated": "2026-10-17",
+  "total_records": 21,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/14",
+      "CLASS": "CR",
+      "DESCRIPTION": "CR - It is recommended that the defective MF/HF equipment be dealt with as soon as possible but not later than 14 December 2026 granted by the flag Administration.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - TURBO CHARGER OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - BALLAST PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - BILGE & BALLAST PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 MAIN COOL. S.W. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 BOILER FEED WATER PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 BOILER WATER CIRC. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 MAIN AIR COMPRESSOR",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.8 HYDR. PUMP FOR WINDLASS, MOOR.WINCH",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2028/03/02",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Survey C (M1/M2/M3)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2028/04/19",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/04/19",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/04/19",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/04/19",
+      "CLASS": "CR",
+      "DESCRIPTION": "CR - It is recommended that the holed bottom plating, approximately 1 cm in diameter, between Fr. 18 and 19 in way of bilge tank be permanently repaired as soon as possible but not later than 19/04/2028, and that the temporary repair be further examined at the next coming annual survey.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2028/04/19",
+      "CLASS": "CR",
+      "DESCRIPTION": "CR - It is recommended that the malfunctioned digital indicator of echo sounder to be dealt with as soon as possible but not later than 19 April 2028.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2028/04/19",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Machinery",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/04/19",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Bottom Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/04/19",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Auto. & Rem. System",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/03/04",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2038/03/02",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2038/03/02",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
+    }
+  ]
+}

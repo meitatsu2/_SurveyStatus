@@ -1,0 +1,61 @@
+{
+  "vessel_name": "EVER BUILD",
+  "last_updated": "2026-10-17",
+  "total_records": 9,
+  "records": [
+    {
+      "DUE_DATE": "2027/02/27",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Boiler Survey - Auxiliary BoilerRemote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/27",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Boiler Survey - Exhaust Gas EconomizerRemote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/27",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/03/01",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 3Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2029/04/23",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 2",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/04/23",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 2",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/04/23",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2034/04/23",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Record Only Comment : Engine Power Limitation (EPL) approved, limiting the main engine's power and speed to 18,700 kW and 83.4 rpm.",
+      "CODE": "CA19"
+    }
+  ]
+}
