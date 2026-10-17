@@ -1,8 +1,8 @@
 # Ignore everything
-*
+#*
 
 # Keep folders named _ExpData
-!_ExpData/
+#!_ExpData/
 
 # Keep files and folders inside _ExpData
-!_ExpData/**
+#!_ExpData/**
