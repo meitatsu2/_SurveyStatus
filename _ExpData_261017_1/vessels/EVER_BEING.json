@@ -1,0 +1,85 @@
+{
+  "vessel_name": "EVER BEING",
+  "last_updated": "2026-10-17",
+  "total_records": 13,
+  "records": [
+    {
+      "DUE_DATE": "2027/03/13",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Safety Management Certificate Intermediate Verification",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/13",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Ship Security Certificate Intermediate Verification",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/13",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Maritime Labour Certificate Intermediate Inspection",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2028/10/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2028/10/11",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/10/11",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/10/11",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/10/11",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Machinery",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/10/11",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Bottom Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/10/11",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Auto. & Rem. System",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/10/11",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Condition Monitoring Special Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2033/10/11",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2033/10/11",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
+    }
+  ]
+}

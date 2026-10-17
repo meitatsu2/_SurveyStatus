@@ -1,0 +1,43 @@
+{
+  "vessel_name": "EVER URBAN",
+  "last_updated": "2026-10-17",
+  "total_records": 6,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 MAIN COOL. S.W. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2028/01/02",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/04/06",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2030/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2038/04/06",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "vessel_name": "EVER BIRTH",
+  "last_updated": "2026-10-17",
+  "total_records": 22,
+  "records": [
+    {
+      "DUE_DATE": "2025/12/03",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Emergency Shutdown System, QCV System // MACHINERY > Emergency Shutdown System, QCV System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2025/12/03",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Emergency Shutdown System, QCV System // MACHINERY > Emergency Shutdown System, QCV System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/16",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - Elevator 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/27",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Automation Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Ballast Water Management Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Carriage of Dangerous Goods Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Hull Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual IAPP Annex VI Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual IOPP Annex I Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Load Line Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Machinery Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Safety Construction Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Safety Equipment Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Periodical Safety Radio Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/12/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/12/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 2",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/12/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 2",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/12/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2028/05/20",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirement:\nAs per DMLC Part II, Sect. 10.1), (a) “Food & Catering”, the company is to provide seafarers onboard the provision of food and drinking water and take into consideration on their religious requirements and cultural practices.\nEvidence:\n- \nThe crew onboard have diverse religious backgrounds, including Islam, with some crew members being Muslim.\n- Pork and other meats are mixed. Cooking pans are mixed.\nNature: \nBased on the evidence gathered, the separation of meat product and cooking utensils are not as per DMLC Part II, Sect. 10.1), (a).",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2032/12/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Record Only Comment : Engine Power Limitation (EPL) approved, limiting the main engine’s power and speed to 19,150 kW and 84.1 rpm.",
+      "CODE": "CA19"
+    }
+  ]
+}
