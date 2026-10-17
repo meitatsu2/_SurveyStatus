@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER ALP",
-  "last_updated": "2026-10-17",
-  "total_records": 93,
+  "last_updated": "2026-10-18",
+  "total_records": 98,
   "records": [
     {
       "DUE_DATE": "2026/12/08",
@@ -553,6 +553,36 @@
       "DUE_DATE": "2026/12/31",
       "CLASS": "NK",
       "DESCRIPTION": "CMS - AUX. AIR RESERVOIR",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/16",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Safety Management CertificateECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/16",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Maritime Labour CertificateECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/16",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - ISM Renewal Audit 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/16",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - ISPS Renewal Verification 1 - Part A & BRemote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/16",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - MLC Renewal Inspection 1Remote",
       "CODE": ""
     },
     {

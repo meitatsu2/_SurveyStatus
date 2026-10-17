@@ -1,0 +1,463 @@
+{
+  "vessel_name": "EVER USEFUL",
+  "last_updated": "2026-10-17",
+  "total_records": 76,
+  "records": [
+    {
+      "DUE_DATE": "2026/09/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.4 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/09/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.4 MAIN JOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.5 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.11 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.8 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.12 CROSSHEAD PIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.12 CRANKPIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.6 MAIN JOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.8 MAIN JOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.10 MAIN JOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.12 MAIN JOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.13 MAIN JOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - FIRE & G.S. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 MAIN COOL. S.W. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 F.O. LP FEED PUMP FOR M/E (IB)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 F.O. BOOSTER PUMP FOR M/E (IB)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 F.O. BOOSTER PUMP FOR M/E (OB)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 F.O. SUPPLY PUMP FOR G/E (OB)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 F.O. CIRCULATING PUMP FOR G/E (IB)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 F.O. CIRCULATING PUMP FOR G/E (OB)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.5 F.O. SUPPLY PUMP FOR PURIFIER (NOT ATT.)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.6 F.O. SUPPLY PUMP FOR PURIFIER (NOT ATT.)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - AUX. DIESEL F.O. HEATER",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 MAIN COOL. S.W. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 F.O. TRANSFER PUMP (MAIN) (IB)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 F.O. LP FEED PUMP FOR M/E (OB)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 F.O. SUPPLY PUMP FOR G/E (IB)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 F.O. SUPPLY PUMP FOR PURIFIER (NOT ATT.)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 F.O. SUPPLY PUMP FOR PURIFIER (NOT ATT.)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 F.O. SUPPLY PUMP FOR PURIFIER (NOT ATT.)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.4 F.O. SUPPLY PUMP FOR PURIFIER (NOT ATT.)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 MAIN L.O. COOLER (OB)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 MAIN L.O. COOLER (IB)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - STERN TUBE L.O. COOLER",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 CROSSHEAD PIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 CROSSHEAD PIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.5 CROSSHEAD PIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 CRANKPIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 CRANKPIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.5 CRANKPIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 MAIN JOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 MAIN JOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 MAIN JOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.5 MAIN JOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 MAIN COOLING F.W. PUMP (F)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 MAIN COOLING F.W. PUMP (M)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 MAIN COOLING F.W. PUMP (A)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 F.O. TRANSFER PUMP (MAIN) (OB)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 MAIN L.O. PUMP (S)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 MAIN L.O. PUMP (P)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 CROSSHEAD L.O. PUMP (OB)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 CROSSHEAD L.O. PUMP (IB)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 TURBOCHARGER L.O. PUMP (F)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 TURBOCHARGER L.O. PUMP (A)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 STERN TUBE L.O. PUMP (F)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 STERN TUBE L.O. PUMP (A)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.5 F.O. HEATER FOR PURIFIER",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.6 F.O. HEATER FOR PURIFIER",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 MAIN AIR RESERVOIR (IB)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 MAIN AIR RESERVOIR (OB)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Load Line - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Construction - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Equipment - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Radio - Periodical Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "OPP (MARPOL Annex I) - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "APP (MARPOL Annex VI) - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Ballast Water Management - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2028/01/13",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2029/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/01/13",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2034/11/17",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
+    }
+  ]
+}
