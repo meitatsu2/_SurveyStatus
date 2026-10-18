@@ -421,10 +421,10 @@
 
         async function initData() {
             try {
-                console.log("Fetching master indexes from _ExpData...");
+                console.log("Fetching master indexes from ExpData...");
                 const [vesselRes, picRes] = await Promise.all([
-                    fetch("_ExpData/vessel_list.json"),
-                    fetch("_ExpData/pic.json")
+                    fetch("ExpData/vessel_list.json"),
+                    fetch("ExpData/pic.json")
                 ]);
 
                 if (!vesselRes.ok) throw new Error(`vessel_list.json HTTP ${vesselRes.status}`);
@@ -439,7 +439,7 @@
                 applyFiltersAndSort();
             } catch (err) {
                 console.error("Error loading master index data:", err);
-                vesselListTbody.innerHTML = `<tr><td colspan="10" style="color:red; text-align:center; padding: 20px;">Failed to load vessel data: ${err.message}. Ensure _ExpData folder exists in repository root.</td></tr>`;
+                vesselListTbody.innerHTML = `<tr><td colspan="10" style="color:red; text-align:center; padding: 20px;">Failed to load vessel data: ${err.message}. Ensure ExpData folder exists in repository root.</td></tr>`;
             }
         }
 
@@ -544,7 +544,7 @@
             footerDetailMode.classList.remove("hidden");
 
             try {
-                const fetchPath = `_ExpData/vessels/${vessel.file_name}`;
+                const fetchPath = `ExpData/vessels/${vessel.file_name}`;
                 console.log(`Fetching vessel detail: ${fetchPath}`);
                 
                 const response = await fetch(fetchPath);
