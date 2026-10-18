@@ -2,9 +2,65 @@ COMMENTS:
 1. Now I want to develop a website to check survey status by vessel in index.html addressed in the repository meitatsu2/_SurveyStatus.
 2. Layout of the website: 
 2.1 The page shall fit smart phone display.
-2.2 split the page to 3 parts: header/table/footer
-2.3 the header includes: 'Evergreen Survey Status Master' as title on top. 
-icons of home, from the left to the right at next row to the title.
+2.2 split the page to 3 parts: header/data/footer
+2.3 the header includes: 'Evergreen Survey Status Master' as title on top with an icon of home to refresh the page to default upon click at left. 
+2.4 the data frame below header:
+    2.4.1 a title showing 'VESSEL LIST' on top left of the frame followed by a table of vessel_list.json with the fields 
+    "vessel_name","dept","pic","class","company","scode","cname","deliver","smail","cemail","file_name" from the left to the right.
+    2.4.2 the field headers with sort key on "vessel_name","dept","pic","class","company","scode","cname" and "deliver".
+    each time when the sort key clicked on the field, it switches ascend/descend sorting on the field.
+    2.4.3 the field headers with filter key on "dept" and "pic". 'ALL' shall be added to the item. items of "pic" is depending on selected "dept".
+    2.4.4 the items of the field "vessel_name" link to data of individual vessels. on click the vessel_name,  
+    the data frame transfers to the vessel data in $vessel_name$.json.
+    2.4.5 in the data frame of vessel data, the data frame is vertically split to up and down window.
+    2.4.6 a title showing $VESSEL NAME$ & ' Surv.S updated' & $last updated$ followed by a table of $vessel_name$.json with the fields
+    "DUE_DATE","CLASS","DESCRIPTION" and "CODE" from the left to the right on up window.
+    2.4.7 Format of the record in due_date shall be as follows:
+        $due_date$ <= $today$: backgroung color of the box for due_date shall be red, text color in white, text in bold, else 
+        $due_date$ - $today$<30: backgroung color of the box for due_date shall be orange, text color in black, text in regular, else 
+        $due_date$ - $today$<60: backgroung color of the box for due_date shall be yellow, text color in black, text in regular, else 
+        $due_date$ - $today$<90: backgroung color of the box for due_date shall be green, text color in black, text in regular, else 
+        backgroung color of the box for due_date shall be white, text color in black, text in regular.
+    2.4.8 calculate records with value in code in $vessel_name$.json as follows:
+        Take earliest due_date of CB03, CB04 and CB06 if duplicated due_dates are found for a code.
+        $DD_EXP$= minimum due_date of (CB03, CB04, CB06)        
+        $SS_IN$=$due_date of CB03$-90
+        $AS4_OUT$=$due_date of CB03$-275
+        $AS4_IN$=$due_date of CB03$-455
+        $AS3_OUT$=$due_date of CB03$-640
+        $AS3_IN$=$due_date of CB03$-820
+        $AS2_OUT$= $due_date of CB03$-1005
+        $AS2_IN$=$due_date of CB03$-1185
+        $AS1_OUT$=$due_date of CB03$-1371        
+        $AS1_IN$= $due_date of CB03$-1551
+    2.4.9 in down window, show the above date only if the date is later than today led by its name,e.g. 'AS1_IN=', sorted by the date. 
+        Dividor ', ' to be inserted between adjacent days.
+        format of the dates in the same way with comment 2.4.7.
+        Age of DD= int(($DD_EXP$-$deliver$)/36.5)*10 shall be shown at end of this window.
+    
+2.5 The page footer layout is depending on data frame.
+    2.5.1 when the data frame showing vessel list table, the footer shows version number of html code followed by the developer's name 'Adam M.T. Chen' and date of the version.
+    2.5.2 when the data frame showing status data of individual vessel, the footer shows the record operator to move to first, previous, next or last vessel status in filtered and / or sorted vessel list in the latest data frame setting.
+    
+3. Show me the logic for my approval before I request to provide the complete code.
+
+
+
+    
+
+
+
+
+
+
+
+icons of home, dropdown of 'Dept' and 'PIC' from the left to the right at next row to the title.
+The source of the dropdown of dept is pic.json. one item per dept.
+The source of the dropdown of pic is pic.json. default to show all pic. 
+items of pic is dependent on dept if selected. i.e. only the pic of the corresponding dept to be shown in items of pic when the dropdown of dept changed.
+'ALL' shall be added to items of dept and pic.
+when select 'ALL' for dept, all items will be shown in pic.
+2.4 the data frame shall default to show the complete data of vessel_list.json in table. 
 
 
 '********************************************************************************************
