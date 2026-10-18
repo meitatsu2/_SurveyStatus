@@ -1,18 +1,12 @@
 {
   "vessel_name": "UNI-PROBITY",
-  "last_updated": "2026-10-18",
+  "last_updated": "2026-10-19",
   "total_records": 18,
   "records": [
     {
       "DUE_DATE": "2027/01/10",
       "CLASS": "CR",
       "DESCRIPTION": "CR - The deformed bulwark with top plate on the F'cle deck between Fr.202 (S) and Fr.204 (S) should be dealt with as soon as possible, but not later than 10 January 2027.",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2027/01/11",
-      "CLASS": "NK",
-      "DESCRIPTION": "NK - The deformed bulwark (stb. side) from Fr.202 to Fr.203 on the F'CLE deck to be permanently repaired by the due date below.",
       "CODE": "CA19"
     },
     {
@@ -38,6 +32,12 @@
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Ship Security Certificate Renewal Verification",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/11",
+      "CLASS": "NK",
+      "DESCRIPTION": "NK - The deformed bulwark (stb. side) from Fr.202 to Fr.203 on the F'CLE deck to be permanently repaired by the due date below.",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2027/01/14",
