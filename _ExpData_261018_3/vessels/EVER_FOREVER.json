@@ -1,0 +1,133 @@
+{
+  "vessel_name": "EVER FOREVER",
+  "last_updated": "2026-10-18",
+  "total_records": 21,
+  "records": [
+    {
+      "DUE_DATE": "2026/11/20",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - International Air Pollution Prevention CertificateECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/20",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : SCR (Selective Catalytic Reduction) NOx Sensor was reported malfunction and in progress remotely troubleshoot with markers may spare part if require.\nMaster of this subject vessel confirmed that risk assessment was carried out with risk control measures was implemented onboard. All affected crew were informed regards to this failure. All other process parameters such as quenching temperature, including WMS, etc. had been stably maintained within the expected process range.\nThe owner's representative informed that the repair process had been continue troubleshooting with maker and lead time to resolve then require sufficient time.\nIn this regard, this Statutory Condition with a Conditional of International Air Pollution Prevention Certificate was issued valid up to two (2) month, 14 September 2026 pending the repair or replacement of SCR NOx Sensor as per Panama authorization letter No.111-01-004-DGMM-DOR/OPR, subject to the following conditions;\na. Risk assessment to be carried out with risk control measures to be implemented onboard;\nb. All engineers and engine management team are to be made aware of the present inoperable condition of the main and/or auxiliary engine NOx Tier III;\nc. The malfunction of Nox Sensor shall be recorded in the ship’s logbook; and\nd. The Master shall report the defect to the competent coastal and port State authorities before entering the NOx Emission Control Area designated under MARPOL Annex VI and comply with any conditions that may be imposed by the coastal/port State authorities.\nRemote survey was carried out review documents/photos as following:\n1. Master and CE Attestation letter;\n2. Risk assessment;\n3. Bunker Delivery Note (BDN)\n4. Engine Logbook & Fuel Changeover Record Book.\n5. Photos shown NOx Sensor malfunction.\nUpon satisfactory completion reviewed of the above, this Statutory Condition with a Conditional of International Air Pollution Prevention Certificate was issued valid up to two (2) month, 14 September 2026.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2026/12/30",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : Vessel owner reported failure of Diesel Generator Engine No 3. Vessel was boarded by undersigned on 01 October 2026 and it was reported by vessel crew that initially exhaust valve of Unit Number 5 failed which caused damage to Piston and Rocker arm of aforementioned unit. It was also reported that all cylinder heads on this engine were overhauled. But during testing it was noted that engine will not start. Vessel crew trouble shot the problem to be the Turbocharger of this engine. It was noted that the rotor of the turbocharger is not spinning and crew suspects that broken pieces of valves might have made its way to turbocharger causing damage to it. Vessel crew reported that new turbocharger is on order and has long lead time. During survey attendance all three remaining Generator engines(1,2 and 4) were tried on load satisfactorily. Per Electrical Load Analysis, one generator is sufficient to carry sea going load.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2027/01/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - SOLAS Lifting Appliances - Annual Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Automation Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Ballast Water Management Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Carriage of Dangerous Goods Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Hull Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual IAPP Annex VI Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual IOPP Annex I Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Load Line Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Machinery Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Safety Construction Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Safety Equipment Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Periodical Safety Radio Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - Elevator 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2028/12/13",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2030/12/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 2",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/12/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 2",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/12/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Propeller Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2035/12/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Propeller Shaft",
+      "CODE": "CB06"
+    }
+  ]
+}

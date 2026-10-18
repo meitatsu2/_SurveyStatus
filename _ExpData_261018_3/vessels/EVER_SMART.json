@@ -1,0 +1,37 @@
+{
+  "vessel_name": "EVER SMART",
+  "last_updated": "2026-10-18",
+  "total_records": 5,
+  "records": [
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "LR",
+      "DESCRIPTION": "LR - STEERING GEAR CENTRE (NO.2) HYD OIL PUMP UNIT",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2027/02/15",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - LAAC - LIFTING APPLIANCES ANNUAL\n*",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2028/02/14",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2030/02/06",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - TS1 - SCREWSHAFT",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2031/03/01",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - SS - SPECIAL",
+      "CODE": "CB03"
+    }
+  ]
+}
