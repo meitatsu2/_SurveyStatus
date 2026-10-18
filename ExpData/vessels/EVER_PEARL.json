@@ -1,38 +1,8 @@
 {
   "vessel_name": "EVER PEARL",
   "last_updated": "2026-10-18",
-  "total_records": 34,
+  "total_records": 31,
   "records": [
-    {
-      "DUE_DATE": "2026/10/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Cert - Safety Equipment",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "NK - In accordance with MPA authorization letters dated 15 September 2026, dispensation has been granted on behalf of the Flag Administration for the malfunctioning S-VDR to be repaired not later than 14 October 2026.\n(Opening date: 14 September 2026)",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2026/11/04",
-      "CLASS": "NK",
-      "DESCRIPTION": "Cert - Safety Radio",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/04",
-      "CLASS": "NK",
-      "DESCRIPTION": "NK - In accordance with MPA Shipping Circular No.10 of 2025, dispensation has been granted on behalf of the Flag Administration for the malfunctioned MF/HF radio installation to be repaired not later than 4 November 2026 subject to the following condition:\nThe Master shall notify the relevant competent authority when calling to a foreign port as per SOLAS\nregulation I/11(C).\n(Opening date: 5 September 2026)",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2026/11/04",
-      "CLASS": "NK",
-      "DESCRIPTION": "NK - In accordance with MPA Shipping Circular No.10 of 2025, dispensation has been granted on behalf of the Flag Administration for the malfunctioned No.2 Gyro Compass to be repaired not later than 4 November 2026 subject to the following condition:\nThe Master shall notify the relevant competent authority when calling to a foreign port as per SOLAS regulation I/11(C).\n(Opening date: 5 September 2026)",
-      "CODE": "CA19"
-    },
     {
       "DUE_DATE": "2026/11/30",
       "CLASS": "NK",
@@ -114,7 +84,19 @@
     {
       "DUE_DATE": "2026/12/22",
       "CLASS": "NK",
+      "DESCRIPTION": "Cert - Safety Equipment",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/22",
+      "CLASS": "NK",
       "DESCRIPTION": "Safety Equipment - Renewal Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/22",
+      "CLASS": "NK",
+      "DESCRIPTION": "Cert - Safety Radio",
       "CODE": ""
     },
     {

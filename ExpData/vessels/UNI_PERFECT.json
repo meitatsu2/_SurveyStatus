@@ -1,8 +1,20 @@
 {
   "vessel_name": "UNI-PERFECT",
   "last_updated": "2026-10-18",
-  "total_records": 39,
+  "total_records": 41,
   "records": [
+    {
+      "DUE_DATE": "2026/11/08",
+      "CLASS": "NK",
+      "DESCRIPTION": "Cert - OPP (MARPOL Annex I)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/08",
+      "CLASS": "NK",
+      "DESCRIPTION": "NK - In accordance with the Flag Administration's Authorization Letter (Ref: SEG-110576 dated 8 October 2026) and E-mail for remote survey on 10 & 11 October 2026, the malfunctioning Oily Water Separator (OWS) 15 PPM Oil Content Detector is to be repaired at the owner's earliest convenience, but not later than below due date, subject to the following requirements:\n1. No overboard discharge of oil or oily waste, including sludge, will be permitted during the interim. All such material will be retained onboard for discharge to shore facilities\n2. All overboard discharge valves associated with the inoperative equipment will be sealed and clearly marked with signs prohibiting their use except in emergencies\n3. The crew must been notified of the inoperative status and trained accordingly\n4. All evens and actions concerning the OWS will be logged in the Oil Record Book, including the sealing of valves and nature of the deficiency\n5. Vessel has sufficient bilge water holding tank capacity to contain any leakage in the engine room and arrange for shore disposal as and when required\n6. Port authorities must be informed of the OWS malfunction \n7. Risk assessment carried out",
+      "CODE": "CA19"
+    },
     {
       "DUE_DATE": "2027/01/31",
       "CLASS": "NK",

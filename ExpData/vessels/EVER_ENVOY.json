@@ -6,7 +6,7 @@
     {
       "DUE_DATE": "2026/11/05",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 5Remote",
+      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 5RemoteIn Progress",
       "CODE": ""
     },
     {
@@ -1303,7 +1303,7 @@
       "DUE_DATE": "2027/03/31",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 5Remote",
-      "CODE": ""
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2027/03/31",

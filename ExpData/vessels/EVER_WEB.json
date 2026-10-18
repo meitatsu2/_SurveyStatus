@@ -1,0 +1,43 @@
+{
+  "vessel_name": "EVER WEB",
+  "last_updated": "2026-10-18",
+  "total_records": 6,
+  "records": [
+    {
+      "DUE_DATE": "2027/09/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2029/09/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 1Remote",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/09/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 1",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/09/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 1",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/09/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Propulsion Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2039/09/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Propulsion Shaft",
+      "CODE": "CB06"
+    }
+  ]
+}

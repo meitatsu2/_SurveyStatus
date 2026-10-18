@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LEGEND",
   "last_updated": "2026-10-18",
-  "total_records": 18,
+  "total_records": 19,
   "records": [
     {
       "DUE_DATE": "2027/02/17",
@@ -92,6 +92,12 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Drydocking SurveyRemote",
       "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/06/13",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 3Remote",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2028/06/13",

@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LOGIC",
   "last_updated": "2026-10-18",
-  "total_records": 83,
+  "total_records": 84,
   "records": [
     {
       "DUE_DATE": "2026/07/31",
@@ -449,20 +449,8 @@
     },
     {
       "DUE_DATE": "2028/04/21",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/04/21",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2028/04/21",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Hull (No.3)",
       "CODE": "CB03"
     },
     {
@@ -490,15 +478,33 @@
       "CODE": "CB06"
     },
     {
-      "DUE_DATE": "2038/03/04",
+      "DUE_DATE": "2028/04/21",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/04/21",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/04/21",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2038/03/04",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2038/03/04",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]

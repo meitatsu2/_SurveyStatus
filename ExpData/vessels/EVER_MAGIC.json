@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER MAGIC",
   "last_updated": "2026-10-18",
-  "total_records": 6,
+  "total_records": 7,
   "records": [
     {
       "DUE_DATE": "2027/03/24",
@@ -14,6 +14,12 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Drydocking SurveyRemote",
       "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2030/03/24",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 1Remote",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2030/03/24",

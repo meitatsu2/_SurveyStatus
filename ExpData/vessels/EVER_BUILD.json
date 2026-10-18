@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER BUILD",
   "last_updated": "2026-10-18",
-  "total_records": 9,
+  "total_records": 10,
   "records": [
     {
       "DUE_DATE": "2027/02/27",
@@ -26,6 +26,12 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 3Remote",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2029/04/23",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 2Remote",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2029/04/23",

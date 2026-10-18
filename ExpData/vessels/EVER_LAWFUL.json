@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LAWFUL",
   "last_updated": "2026-10-18",
-  "total_records": 15,
+  "total_records": 16,
   "records": [
     {
       "DUE_DATE": "2026/11/15",
@@ -62,6 +62,12 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Drydocking SurveyRemote",
       "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/11/19",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 3Remote",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2027/11/19",

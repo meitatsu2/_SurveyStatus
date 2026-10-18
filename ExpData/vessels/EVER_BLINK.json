@@ -1,18 +1,18 @@
 {
   "vessel_name": "EVER BLINK",
   "last_updated": "2026-10-18",
-  "total_records": 10,
+  "total_records": 11,
   "records": [
-    {
-      "DUE_DATE": "2027/08/11",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
     {
       "DUE_DATE": "2027/08/11",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Bottom Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/08/11",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
       "CODE": "CB04"
     },
     {
@@ -23,14 +23,8 @@
     },
     {
       "DUE_DATE": "2029/09/19",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/09/19",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Hull (No.2)",
       "CODE": "CB03"
     },
     {
@@ -52,15 +46,27 @@
       "CODE": "CB06"
     },
     {
-      "DUE_DATE": "2034/09/19",
+      "DUE_DATE": "2029/09/19",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/09/19",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2034/09/19",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2034/09/19",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]

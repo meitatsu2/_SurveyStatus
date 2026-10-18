@@ -1,8 +1,74 @@
 {
   "vessel_name": "EVER LIFTING",
   "last_updated": "2026-10-18",
-  "total_records": 3,
+  "total_records": 14,
   "records": [
+    {
+      "DUE_DATE": "2026/06/15",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - LAAC - LIFTING APPLIANCES ANNUAL\n*",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - AS - ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - EPAS - EP ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - PLI - LOAD LINE INSPECTION",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - SCA - SAFCON ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - SEA - SAFETY EQUIPMENT ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - RTP - RADIOTEL. PERIODICAL\n*",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - DIA - DANGEROUS GOODS REG. 19 ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - MOA - MARPOL I (OIL) ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - MAA - MARPOL VI (AIR) ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - BWA - BALLAST WATER ANNUAL",
+      "CODE": ""
+    },
     {
       "DUE_DATE": "2028/06/09",
       "CLASS": "LR",

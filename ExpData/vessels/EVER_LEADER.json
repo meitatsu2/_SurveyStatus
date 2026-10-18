@@ -1,20 +1,8 @@
 {
   "vessel_name": "EVER LEADER",
   "last_updated": "2026-10-18",
-  "total_records": 23,
+  "total_records": 24,
   "records": [
-    {
-      "DUE_DATE": "2026/10/12",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Cargo Ship Safety Equipment CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/12",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Outstanding : The vessel's managing company requested a remote survey via email to report the No.1 PA/GA Control System malfunction.\nIn accordance with the Singapore MPA Shipping Circular No. 10 of 2025 and ABS survey process instructions, the survey was completed remotely based on digital data and information provided by the Owner and the vessel. The following items were verified and found satisfactory:\n- Normal operation of the No.2 PA/GA Control System.\nThe following documents were reviewed:\n- Master’s attestation\n- Risk assessment\n- Crew awareness records\n- Videos and photos demonstrating the No.2 PA/GA Control System operation and system status\n- Abandon drill record\n- Maintenance records of PA/GA system\n- Repair Plan\n- Company's confirmation of compliance with Singapore MPA Shipping Circular No. 10 of 2025\nUpon satisfactory verification of above, a Statutory Condition has been imposed in accordance with Shipping Circular No. 10 of 2025, permitting the vessel to continue operating with the defective No.1 PA/GA Control System, pending repairing at the earliest opportunity but no later than \n12 October 2026\n. A Short-Term Cargo Ship Safety Equipment Certificate valid until \n12 October 2026\n has been issued accordingly.\nThe Master has been notified of the following in accordance with Singapore MPA Shipping Circular No. 10 of 2025:\n- Taking into account of the malfunction equipment when planning and executing a voyage to a port where the repair or replace will be carried out.\n- Notifying the relevant competent authority when calling to a foreign port as per SOLAS regulation I/11(C).",
-      "CODE": "CA19"
-    },
     {
       "DUE_DATE": "2026/11/10",
       "CLASS": "AB",
@@ -32,6 +20,18 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 4Remote",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Cargo Ship Safety Equipment CertificateECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : The vessel's managing company requested a remote survey via email to report the No.1 PA/GA Control System malfunction.\nIn accordance with the Singapore MPA Shipping Circular No. 10 of 2025 and ABS survey process instructions, the survey was completed remotely based on digital data and information provided by the Owner and the vessel. The following items were verified and found satisfactory:\n- Normal operation of the No.2 PA/GA Control System.\nThe following documents were reviewed:\n- Master’s attestation\n- Risk assessment\n- Crew awareness records\n- Videos and photos demonstrating the No.2 PA/GA Control System operation and system status\n- Abandon drill record\n- Maintenance records of PA/GA system\n- Repair Plan\n- Company's confirmation of compliance with Singapore MPA Shipping Circular No. 10 of 2025\nUpon satisfactory verification of above, a Statutory Condition has been imposed in accordance with Shipping Circular No. 10 of 2025, permitting the vessel to continue operating with the defective No.1 PA/GA Control System, pending repairing at the earliest opportunity but no later than \n12 October 2026\n. A Short-Term Cargo Ship Safety Equipment Certificate valid until \n12 October 2026\n has been issued accordingly.\nThe Master has been notified of the following in accordance with Singapore MPA Shipping Circular No. 10 of 2025:\n- Taking into account of the malfunction equipment when planning and executing a voyage to a port where the repair or replace will be carried out.\n- Notifying the relevant competent authority when calling to a foreign port as per SOLAS regulation I/11(C).",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2027/02/24",
@@ -116,6 +116,12 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Drydocking SurveyRemote",
       "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/01/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 3Remote",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2028/01/14",

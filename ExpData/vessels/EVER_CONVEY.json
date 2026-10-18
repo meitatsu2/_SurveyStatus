@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER CONVEY",
   "last_updated": "2026-10-18",
-  "total_records": 16,
+  "total_records": 17,
   "records": [
     {
       "DUE_DATE": "2027/03/27",
@@ -59,14 +59,8 @@
     },
     {
       "DUE_DATE": "2031/09/09",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/09/09",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Hull (No.2)",
       "CODE": "CB03"
     },
     {
@@ -88,15 +82,27 @@
       "CODE": "CB06"
     },
     {
-      "DUE_DATE": "2036/09/09",
+      "DUE_DATE": "2031/09/09",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/09/09",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2036/09/09",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2036/09/09",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]

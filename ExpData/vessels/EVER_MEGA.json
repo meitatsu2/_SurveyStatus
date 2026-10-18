@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER MEGA",
   "last_updated": "2026-10-18",
-  "total_records": 7,
+  "total_records": 8,
   "records": [
     {
       "DUE_DATE": "2026/12/08",
@@ -20,6 +20,12 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Drydocking SurveyRemote",
       "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2029/07/24",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 1Remote",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2029/07/24",

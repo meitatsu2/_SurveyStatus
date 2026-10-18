@@ -383,48 +383,6 @@
     },
     {
       "DUE_DATE": "2026/09/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Cert - Class",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2026/09/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Boiler Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2026/09/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2026/09/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Cert - Inventory of Hazardous Materials",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Inventory of Hazardous Materials - Renewal Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/27",
       "CLASS": "CR",
       "DESCRIPTION": "Cert - Classification",
       "CODE": ""
@@ -481,7 +439,7 @@
       "DUE_DATE": "2026/09/27",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Class Special Survey of Hull (No.5)",
-      "CODE": ""
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2026/09/27",
@@ -565,6 +523,48 @@
       "DUE_DATE": "2026/09/27",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Additional Survey Requested by flag State",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Cert - Class",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2026/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Boiler Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2026/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2026/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Cert - Inventory of Hazardous Materials",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Inventory of Hazardous Materials - Renewal Survey",
       "CODE": ""
     },
     {

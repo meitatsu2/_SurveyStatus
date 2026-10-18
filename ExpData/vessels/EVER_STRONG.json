@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER STRONG",
   "last_updated": "2026-10-18",
-  "total_records": 58,
+  "total_records": 82,
   "records": [
     {
       "DUE_DATE": "2027/03/06",
@@ -13,6 +13,18 @@
       "DUE_DATE": "2027/03/06",
       "CLASS": "AB",
       "DESCRIPTION": "Cert - International Ship Security Certificate (ISSC)ECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - ISM Renewal Audit 2Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - ISPS Renewal Verification 2 - Part A & BRemote",
       "CODE": ""
     },
     {
@@ -55,6 +67,12 @@
       "DUE_DATE": "2027/03/08",
       "CLASS": "AB",
       "DESCRIPTION": "Cert - Maritime Labour CertificateECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/08",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - MLC Renewal Inspection 2Remote",
       "CODE": ""
     },
     {
@@ -350,6 +368,132 @@
       "CLASS": "AB",
       "DESCRIPTION": "Cert - Statement of Compliance for Inventory of Hazardous Materials Certificate (EU)ECC",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Automation Survey 5Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Hull Survey 5Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Machinery Survey 5Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Boiler Survey - Auxiliary Water Tube BoilerRemote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Boiler Survey - Exhaust Gas EconomizerRemote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal Ballast Water Management Survey 5",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal Carriage of Dangerous Goods Survey 5",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal IAPP Annex VI Survey 5Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal IOPP Annex I Survey 5",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal ISPP Annex IV Survey 4",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal Load Line Survey 4",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal Safety Construction Survey 5",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal Safety Equipment Survey 6",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal Safety Radio Survey 5Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal Survey IHM 2Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 4Remote",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 4",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 4",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2037/04/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
+      "CODE": "CB06"
     }
   ]
 }

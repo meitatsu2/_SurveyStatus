@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LEGACY",
   "last_updated": "2026-10-18",
-  "total_records": 56,
+  "total_records": 57,
   "records": [
     {
       "DUE_DATE": "2026/06/06",
@@ -60,19 +60,19 @@
     {
       "DUE_DATE": "2026/10/28",
       "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel Oil Heater No.01 Relief Valve // MACHINERY > Fuel Oil Service System > Fuel Oil Heater No.01, ME > Fuel Oil Heater No.01 Relief Valve",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel Oil Heater No.01 Relief Valve // MACHINERY > Fuel Oil Service System > Fuel Oil Heater No.01, ME > Fuel Oil Heater No.01 Relief Valve",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/28",
+      "CLASS": "AB",
       "DESCRIPTION": "CMS - Fuel Oil Heater No.01 Relief Valve // MACHINERY > Fuel Oil Service System > Fuel Oil Heater No.01, GE > Fuel Oil Heater No.01 Relief Valve",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/28",
-      "CLASS": "AB",
-      "DESCRIPTION": "CMS - Fuel Oil Heater No.01 Relief Valve // MACHINERY > Fuel Oil Service System > Fuel Oil Heater No.01, ME > Fuel Oil Heater No.01 Relief Valve",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/28",
-      "CLASS": "AB",
-      "DESCRIPTION": "CMS - Fuel Oil Heater No.01 Relief Valve // MACHINERY > Fuel Oil Service System > Fuel Oil Heater No.01, ME > Fuel Oil Heater No.01 Relief Valve",
       "CODE": ""
     },
     {
@@ -228,73 +228,73 @@
     {
       "DUE_DATE": "2026/11/22",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 4Remote",
+      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/02/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Automation Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual Automation Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/02/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Ballast Water Management Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual Ballast Water Management Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/02/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Carriage of Dangerous Goods Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual Carriage of Dangerous Goods Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/02/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Hull Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual Hull Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/02/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual IAPP Annex VI Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual IAPP Annex VI Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/02/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual IOPP Annex I Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual IOPP Annex I Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/02/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Load Line Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual Load Line Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/02/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Machinery Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual Machinery Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/02/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Safety Construction Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual Safety Construction Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/02/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Safety Equipment Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual Safety Equipment Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/02/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Periodical Safety Radio Survey 4Remote",
+      "DESCRIPTION": "Surv - Periodical Safety Radio Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
@@ -302,6 +302,12 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Drydocking SurveyRemote",
       "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/11/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 3Remote",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2027/11/26",

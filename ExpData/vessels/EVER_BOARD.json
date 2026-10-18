@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER BOARD",
   "last_updated": "2026-10-18",
-  "total_records": 64,
+  "total_records": 65,
   "records": [
     {
       "DUE_DATE": "2026/10/31",
@@ -23,18 +23,6 @@
     },
     {
       "DUE_DATE": "2026/11/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Boiler Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2026/11/14",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Bottom Survey",
       "CODE": "CB04"
@@ -50,6 +38,18 @@
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Exhaust Gas Boiler Survey",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Boiler Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
     },
     {
       "DUE_DATE": "2026/11/30",
@@ -79,60 +79,6 @@
       "DUE_DATE": "2026/11/30",
       "CLASS": "NK",
       "DESCRIPTION": "CMS - NO.2 F.O. CIRCULATING PUMP",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.1 CROSSHEAD PIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 CROSSHEAD PIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.3 CROSSHEAD PIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.1 CRANKPIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 CRANKPIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.3 CRANKPIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.1 CRANKJOURNAL & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 CRANKJOURNAL & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.3 CRANKJOURNAL & BEARING OF M/E",
       "CODE": ""
     },
     {
@@ -226,6 +172,60 @@
       "CODE": ""
     },
     {
+      "DUE_DATE": "2026/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 CROSSHEAD PIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 CROSSHEAD PIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 CROSSHEAD PIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 CRANKPIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 CRANKPIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 CRANKPIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 CRANKJOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 CRANKJOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 CRANKJOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
       "DUE_DATE": "2027/01/31",
       "CLASS": "NK",
       "DESCRIPTION": "CMS - NO.2 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
@@ -235,24 +235,6 @@
       "DUE_DATE": "2027/01/31",
       "CLASS": "NK",
       "DESCRIPTION": "CMS - NO.5 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/26",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Intermediate Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/26",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Annual Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/26",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Annual Survey",
       "CODE": ""
     },
     {
@@ -340,6 +322,24 @@
       "CODE": ""
     },
     {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
       "DUE_DATE": "2028/12/25",
       "CLASS": "NK",
       "DESCRIPTION": "Class - Prop. Shaft Survey",
@@ -347,14 +347,8 @@
     },
     {
       "DUE_DATE": "2028/12/26",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/12/26",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Hull (No.2)",
       "CODE": "CB03"
     },
     {
@@ -376,15 +370,27 @@
       "CODE": "CB06"
     },
     {
-      "DUE_DATE": "2033/12/26",
+      "DUE_DATE": "2028/12/26",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/12/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2033/12/26",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2033/12/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]

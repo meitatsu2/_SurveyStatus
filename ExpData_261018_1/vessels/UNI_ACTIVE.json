@@ -1,0 +1,661 @@
+{
+  "vessel_name": "UNI-ACTIVE",
+  "last_updated": "2026-10-18",
+  "total_records": 109,
+  "records": [
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 MAIN COOL. S.W. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 F.O. SUPPLY PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 F.O. CIRCULATING PUMP FOR G/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - AUX. DIESEL COOL. F.W. COOLER",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - AUX. CONDENSER",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - D.O. TRANSFER PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 F.O. CIRCULATING PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - JACKET COOL. F.W. COOLER",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 MAIN AIR RESERVOIR",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - CAM SHAFT DRIVING GEAR OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - BALLAST PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - FIRE & G.S. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 JACKET COOL. F.W. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 CENTRAL COOLING F.W. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 BOILER FEED WATER PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 BOILER WATER CIRC. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 STERN TUBE L.O. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 AUX. BLOWER OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 MAIN GENERATOR DIESEL ENGINE",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - EMERGENCY GENERATOR DIESEL ENGINE",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - BILGE & BALLAST PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 MAIN L.O. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 CROSSHEAD L.O. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 MAIN AIR COMPRESSOR",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 CENTRAL COOLER",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - F.O. SETTLING TANK",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - F.O. SERVICE TANK",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - D.O. SETTLING TANK",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - D.O. SERVICE TANK",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.6 HYDR. PUMP FOR WINDLASS, MOOR.WINCH",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - M/E AUX.BLOWER NO.1",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - NO.2 AUX INT COMB ENG FOR GENERATOR",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - SEA WATER COOLING PUMP FOR M/E, NO.1",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - SEA WATER COOLING PUMP FOR M/E, NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - FUEL OIL SUPPLY PUMP FOR G/E NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - FUEL OIL SUPPLY PUMP FOR M/E, NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - FUEL OIL TRANSFER PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - DIESEL OIL TRANSFER PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - FUEL OIL CIRCUL. PUMP FOR N/E NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - FUEL OIL CIRCUL. PUMP FOR G/E NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - BILGE PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - FIRE/G.S. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - AIR RECEIVER FOR M/E, NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - CENTRAL COOLER NO.1",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - COOLER FOR M/E F.W.",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - COOLER FOR AUX/E F.W.",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - DRAIN COOLER",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - HEATER FOR M/E F.O. NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - HEATER FOR G/E F.O. NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - M/E AUX.BLOWER NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - M/E DEFLECTION OF CRANK SHAFT",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - M/E HOLDING DOWN BOLTS AND CHOCKS",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - M/E SAFETY DEVICES",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - NO.3 AUX INT COMB ENG FOR GENERATOR",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - AUX INT COMB ENG FOR EMERG GENERATOR",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - MAIN AIR COMPRESSOR NO.3",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - EMERGENCY AIR COMPRESSOR",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - F.O. PURIFIER WITH HEATER NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - FRESH WATER COOLING PUMP FOR M/E JACKET, NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - CENTRAL FRESH WATER COOLING PUMP NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - LUB. OIL PUMP FOR M/E, NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - LUB. OIL PUMP FOR CROSSHEAD, NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - L.O. PUMP FOR STERN TUBE BEARING, NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - BOILER FEED PUMP NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - BOILER CIRCULATING WATER PUMP NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - BALLAST WATER PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - EMERGENCY FIRE PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - BILGE & BALLAST PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - FUEL OIL SETTLING TANK FOR M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - FUEL OIL SETTLING TANK FOR G/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - FUEL OIL SERVICE TANK FOR M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - FUEL OIL SERVICE TANK FOR G/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - CENTRAL COOLER NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - BILGE SYSTEM",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - PIPING SYSTEM",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - MAIN CIRCUIT",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - EMERGENCY CIRCUIT",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - CIRCUIT BREAKER",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - CABLE INSTALLATION",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - MEASUREMENT OF INSULATION RESISTANCE",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - RUNNING TEST OF GENERATOR",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - REMOTE CONTROL CIRCUIT OF F.O. PUMPS & FANS",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - E/R REMOTE CONTROL QUICK CLOSING V.FOR F.O.TANK",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Annual Survey of Hull",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Annual Survey of Machinery",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Annual Survey of Auto. & Rem. System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Auxiliary Boiler Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Exhaust Gas Boiler Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Load Line Annual Survey (1)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Safety Construction Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Safety Equipment Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Safety Radio Periodical Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - I.O.P.P. Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - I.A.P.P. Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Ballast Water Management Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Dangerous Goods Carriage Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Additional Survey Requested by flag State",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/11/16",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2027/11/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Survey C (M1/M2/M3)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2028/01/15",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/01/15",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/01/15",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/01/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Machinery",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/01/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Bottom Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/01/15",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Auto. & Rem. System",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2032/10/26",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2037/11/16",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
+    }
+  ]
+}

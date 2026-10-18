@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LOVELY",
   "last_updated": "2026-10-18",
-  "total_records": 10,
+  "total_records": 11,
   "records": [
     {
       "DUE_DATE": "2026/11/06",
@@ -44,6 +44,12 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
       "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2030/06/29",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 3Remote",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2030/06/29",

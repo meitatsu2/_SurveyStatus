@@ -1,13 +1,19 @@
 {
   "vessel_name": "EVER BURLY",
   "last_updated": "2026-10-18",
-  "total_records": 6,
+  "total_records": 7,
   "records": [
     {
       "DUE_DATE": "2027/09/01",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Drydocking SurveyRemote",
       "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2029/08/22",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 2Remote",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2029/08/22",

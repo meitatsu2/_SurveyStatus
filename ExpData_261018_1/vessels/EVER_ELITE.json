@@ -1,0 +1,829 @@
+{
+  "vessel_name": "EVER ELITE",
+  "last_updated": "2026-10-18",
+  "total_records": 137,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Automation Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Ballast Water Management Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Carriage of Dangerous Goods Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Hull Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual IAPP Annex VI Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual IOPP Annex I Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Load Line Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Machinery Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Safety Construction Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Safety Equipment Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Periodical Safety Radio Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Air cooler No.01 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Air cool...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Air cooler No.01 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Air cool...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Air cooler No.02 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Air cool...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Air cooler No.02 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Air cool...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Air cooler No.03 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Air cool...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Air cooler No.03 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Air cool...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Auxiliary Air Reservoir // MACHINERY > Compressed Air System > Auxiliary Air Reservoir",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Auxiliary Air Reservoir // MACHINERY > Compressed Air System > Auxiliary Air Reservoir",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Auxiliary F.O transfer Pump // MACHINERY > Fuel oil service and transfer system > Auxiliary F.O transfer Pump",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Ballast Piping // MACHINERY > Ballast System > Ballast Piping",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Ballast System // MACHINERY > Ballast System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Bilge & Ballast Pump // MACHINERY > Ballast System > Bilge & Ballast Pump",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Boiler feed water System // MACHINERY > Boiler feed water System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Boiler water circulating Pump No.02 // MACHINERY > Boiler feed water System > Boiler water circulating Pump No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Cable // MACHINERY > Main Power Distribution System > Cable",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Cable // MACHINERY > Emergency Power Distribution System > Cable",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Compressed Air System // MACHINERY > Compressed Air System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Coupling Bolts // MACHINERY > Main Propulsion System > Shaft - Intermediate No.01 > Coupling Bolts",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Coupling Bolts // MACHINERY > Main Propulsion System > Shaft - Intermediate No.02 > Coupling Bolts",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Coupling Bolts // MACHINERY > Main Propulsion System > Shaft - Intermediate No.03 > Coupling Bolts",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankcase // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Crankcase",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankpin & bearing No.01 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Cylinder...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankpin & bearing No.02 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Cylinder...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankpin & bearing No.10 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Cylinder...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankpin & bearing No.12 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Cylinder...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankshaft Deflection Record // OUTFITTING > Crankshaft Deflection Record",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crosshead, guide shoe & bearing No.01 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Cylinder...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crosshead, guide shoe & bearing No.02 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Cylinder...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crosshead, guide shoe & bearing No.10 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Cylinder...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crosshead, guide shoe & bearing No.12 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Cylinder...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Cylinder Exhaust valve No.10 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Cylinder...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Cylinder Unit No.01 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Cylinder...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Cylinder Unit No.02 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Cylinder...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Cylinder Unit No.10 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Cylinder...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Cylinder Unit No.12 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Cylinder...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Emergency Fire Pump // MACHINERY > Fire Main System > Emergency Fire Pump",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Emergency Power Distribution System // MACHINERY > Emergency Power Distribution System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fire Main System // MACHINERY > Fire Main System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fire Main System // MACHINERY > Fire Main System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fire main Piping // MACHINERY > Fire Main System > Fire main Piping",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Foundation, Ram, Cylinder, Pipe // MACHINERY > Steering Gear System > Steering Gear Unit > Foundation, Ram, Cylinder, Pipe",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fresh water system // MACHINERY > Fresh water system",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel Oil piping // MACHINERY > Fuel oil service and transfer system > Fuel Oil piping",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel injection pump No.01 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Fuel inj...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel injection pump No.02 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Fuel inj...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel injection pump No.03 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Fuel inj...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel injection pump No.04 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Fuel inj...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel injection pump No.05 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Fuel inj...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel injection pump No.06 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Fuel inj...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel injection pump No.07 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Fuel inj...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel injection pump No.08 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Fuel inj...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel injection pump No.09 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Fuel inj...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel injection pump No.10 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Fuel inj...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel injection pump No.11 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Fuel inj...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel injection pump No.12 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Fuel inj...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel oil drain shift Pump // MACHINERY > Fuel oil service and transfer system > Fuel oil drain shift Pump",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel oil service and transfer system // MACHINERY > Fuel oil service and transfer system",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Gear Wheel // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Gear Wheel",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Generator engine F.O heater No.01 // MACHINERY > Fuel oil service and transfer system > Generator engine F.O heater No.01",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Generator engine F.O heater No.01 // MACHINERY > Fuel oil service and transfer system > Generator engine F.O heater No.01",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Governor // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Governor",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Hazardous Area Compliance Note // OUTFITTING > Hazardous Area Compliance Note",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Heeling Pump // MACHINERY > Ballast System > Heeling Pump",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Insulation Resistance Reading of Circuit // OUTFITTING > Insulation Resistance Reading of Circuit",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Insulation Resistance Reading of Electric Motor and Generator // OUTFITTING > Insulation Resistance Reading of Electric Motor and Generator",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - L.O transfer Pump // MACHINERY > Lubricating Oil Service and Transfer System > L.O transfer Pump",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Lubricating Oil Service and Transfer System // MACHINERY > Lubricating Oil Service and Transfer System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Lubricating oil piping // MACHINERY > Lubricating Oil Service and Transfer System > Lubricating oil piping",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main (Reserve) cooling sea water & ballast Pump // MACHINERY > Seawater System > Main (Reserve) cooling sea water & ballast Pump",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main Air Compressor No.03 // MACHINERY > Compressed Air System > Main Air Compressor No.03",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main Air Reservoir No.01 // MACHINERY > Compressed Air System > Main Air Reservoir No.01",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main Air Reservoir No.01 // MACHINERY > Compressed Air System > Main Air Reservoir No.01",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main Air Reservoir No.02 // MACHINERY > Compressed Air System > Main Air Reservoir No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main Air Reservoir No.02 // MACHINERY > Compressed Air System > Main Air Reservoir No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main Diesel Generator Engine No.04 // MACHINERY > Main Power Distribution System > Main Diesel Generator Engine No.04",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main Diesel engine (Counting from aft to forward) // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main Distribution Board // MACHINERY > Main Power Distribution System > Main Distribution Board",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main F.O transfer pump No.02 // MACHINERY > Fuel oil service and transfer system > Main F.O transfer pump No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main L.O Pump No.02 // MACHINERY > Lubricating Oil Service and Transfer System > Main L.O Pump No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main Power Distribution System // MACHINERY > Main Power Distribution System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main Propulsion System // MACHINERY > Main Propulsion System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main bearing No.01 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Main bea...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main bearing No.10 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Main bea...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main bearing No.12 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Main bea...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main bearing No.14 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Main bea...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main cooling sea water Pump No.02 // MACHINERY > Seawater System > Main cooling sea water Pump No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main engine F.O heater No.03 // MACHINERY > Fuel oil service and transfer system > Main engine F.O heater No.03",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main engine F.O heater No.03 // MACHINERY > Fuel oil service and transfer system > Main engine F.O heater No.03",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main engine L.O cooler No.02 // MACHINERY > Lubricating Oil Service and Transfer System > Main engine L.O cooler No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main engine L.O cooler No.02 // MACHINERY > Lubricating Oil Service and Transfer System > Main engine L.O cooler No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main sludge Pump // MACHINERY > Oily water handling System > Main sludge Pump",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Mooring System // MACHINERY > Mooring System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Mooring System // MACHINERY > Mooring System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Oily water handling System // MACHINERY > Oily water handling System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Safety valve for Exhaust gas economizer // MACHINERY > Steam System > Safety valve for Exhaust gas economizer",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Safety valve for Exhaust gas economizer // MACHINERY > Steam System > Safety valve for Exhaust gas economizer",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Seawater System // MACHINERY > Seawater System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Seawater piping // MACHINERY > Seawater System > Seawater piping",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Shaft - Intermediate No.01 // MACHINERY > Main Propulsion System > Shaft - Intermediate No.01",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Shaft - Intermediate No.02 // MACHINERY > Main Propulsion System > Shaft - Intermediate No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Shaft - Intermediate No.03 // MACHINERY > Main Propulsion System > Shaft - Intermediate No.03",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Shaft bearing No.01 // MACHINERY > Main Propulsion System > Shaft - Intermediate No.01 > Shaft bearing No.01",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Shaft bearing No.02 // MACHINERY > Main Propulsion System > Shaft - Intermediate No.02 > Shaft bearing No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Shaft bearing No.03 // MACHINERY > Main Propulsion System > Shaft - Intermediate No.02 > Shaft bearing No.03",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Steam System // MACHINERY > Steam System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Steering Gear System // MACHINERY > Steering Gear System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Steering Gear Unit // MACHINERY > Steering Gear System > Steering Gear Unit",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Steering Gear Unit // MACHINERY > Steering Gear System > Steering Gear Unit",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Steering Gear Unit // MACHINERY > Steering Gear System > Steering Gear Unit",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Steering gear hydraulic Pump No.01 // MACHINERY > Steering Gear System > Steering Gear Unit > Steering gear hydraulic Pump No.01",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Steering gear hydraulic Pump No.02 // MACHINERY > Steering Gear System > Steering Gear Unit > Steering gear hydraulic Pump No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Steering gear hydraulic Pump No.03 // MACHINERY > Steering Gear System > Steering Gear Unit > Steering gear hydraulic Pump No.03",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Thrust bearing // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Thrust b...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Tiller // MACHINERY > Steering Gear System > Tiller",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Turbocharger No.02 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Turbocha...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Windlass portside // MACHINERY > Mooring System > Windlass portside",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Windlass portside // MACHINERY > Mooring System > Windlass portside",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Windlass starboard side // MACHINERY > Mooring System > Windlass starboard side",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Windlass starboard side // MACHINERY > Mooring System > Windlass starboard side",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/10/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 5",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/10/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 5",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/11/11",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2028/11/10",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2037/11/11",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Record Only Comment : Reported by the owner's representative, trailing edge of propeller E blade was found bent afterward approx. 15 mm over an area of approx. 150 x 50 mm at the location of approx. 900 mm from blade tip.\nThe area was re-inspected during dry docking survey at this time, liquid penetrate test was carried out and no visual unacceptable indication was found, the repair is considered not necessary.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Record Only Comment : Engine Power Limitation (EPL) approved, limiting the main engine’s power and speed to 32100kW and 88.8 rpm.",
+      "CODE": "CA19"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER ALOT",
   "last_updated": "2026-10-18",
-  "total_records": 5,
+  "total_records": 7,
   "records": [
     {
       "DUE_DATE": "2027/01/15",
@@ -14,6 +14,18 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Drydocking SurveyRemote",
       "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/06/21",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Hull 1",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/06/21",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 1Remote",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2027/06/21",

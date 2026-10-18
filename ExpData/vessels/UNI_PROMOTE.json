@@ -1,7 +1,7 @@
 {
   "vessel_name": "UNI-PROMOTE",
   "last_updated": "2026-10-18",
-  "total_records": 34,
+  "total_records": 35,
   "records": [
     {
       "DUE_DATE": "2026/10/31",
@@ -49,18 +49,6 @@
       "DUE_DATE": "2027/01/18",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Lifting Appliances Thorough Examination\nSWL:4.0 tons at Fr.33~43(C) in Engine Room(SOLAS II-1/3-13)",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/09",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Annual Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/09",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Annual Survey",
       "CODE": ""
     },
     {
@@ -148,10 +136,16 @@
       "CODE": ""
     },
     {
-      "DUE_DATE": "2028/03/26",
+      "DUE_DATE": "2027/04/09",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey",
-      "CODE": "CB06"
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/09",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
     },
     {
       "DUE_DATE": "2028/03/26",
@@ -160,10 +154,10 @@
       "CODE": "CB06"
     },
     {
-      "DUE_DATE": "2029/01/18",
+      "DUE_DATE": "2028/03/26",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
     },
     {
       "DUE_DATE": "2029/01/18",
@@ -172,15 +166,15 @@
       "CODE": "CB04"
     },
     {
-      "DUE_DATE": "2031/01/09",
+      "DUE_DATE": "2029/01/18",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
     },
     {
       "DUE_DATE": "2031/01/09",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Hull (No.6)",
       "CODE": "CB03"
     },
     {
@@ -196,15 +190,27 @@
       "CODE": "CB03"
     },
     {
-      "DUE_DATE": "2033/03/05",
+      "DUE_DATE": "2031/01/09",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/01/09",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2033/03/05",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2033/03/05",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]

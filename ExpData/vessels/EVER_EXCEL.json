@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER EXCEL",
   "last_updated": "2026-10-18",
-  "total_records": 232,
+  "total_records": 233,
   "records": [
     {
       "DUE_DATE": "2026/03/16",
@@ -1370,6 +1370,12 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Drydocking SurveyRemote",
       "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/06/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 5Remote",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2027/06/06",

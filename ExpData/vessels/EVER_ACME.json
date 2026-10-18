@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER ACME",
   "last_updated": "2026-10-18",
-  "total_records": 20,
+  "total_records": 22,
   "records": [
     {
       "DUE_DATE": "2026/12/16",
@@ -98,6 +98,18 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Drydocking SurveyRemote",
       "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/12/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Hull 1",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/12/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 1Remote",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2027/12/28",

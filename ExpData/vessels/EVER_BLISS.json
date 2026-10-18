@@ -1,13 +1,19 @@
 {
   "vessel_name": "EVER BLISS",
   "last_updated": "2026-10-18",
-  "total_records": 9,
+  "total_records": 10,
   "records": [
     {
       "DUE_DATE": "2027/09/02",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Drydocking SurveyRemote",
       "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/09/02",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 2Remote",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2027/09/02",

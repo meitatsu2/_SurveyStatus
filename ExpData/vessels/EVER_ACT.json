@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER ACT",
   "last_updated": "2026-10-18",
-  "total_records": 51,
+  "total_records": 40,
   "records": [
     {
       "DUE_DATE": "2026/09/09",
@@ -44,12 +44,6 @@
       "CLASS": "LR",
       "DESCRIPTION": "Surv - TS1 - SCREWSHAFT",
       "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2026/09/09",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - EGE1 - EXHAUST GAS ECONOMISER",
-      "CODE": ""
     },
     {
       "DUE_DATE": "2026/09/09",
@@ -193,66 +187,6 @@
       "DUE_DATE": "2026/09/09",
       "CLASS": "LR",
       "DESCRIPTION": "CMS - TANK GROUP // ENGINE ROOM SEWAGE HOLDING FREE STANDING TANK // Examine Externally",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/09",
-      "CLASS": "LR",
-      "DESCRIPTION": "Cert - Certificate of Class",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/09",
-      "CLASS": "LR",
-      "DESCRIPTION": "Cert - International Load Line Certificate",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/09",
-      "CLASS": "LR",
-      "DESCRIPTION": "Cert - International Load Line Certificate",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/09",
-      "CLASS": "LR",
-      "DESCRIPTION": "Cert - Cargo Ship Safety Construction Certificate (Harmonized)",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/09",
-      "CLASS": "LR",
-      "DESCRIPTION": "Cert - Cargo Ship Safety Equipment Certificate (Harmonized)",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/09",
-      "CLASS": "LR",
-      "DESCRIPTION": "Cert - Cargo Ship Safety Radio Certificate (Harmonized)",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/09",
-      "CLASS": "LR",
-      "DESCRIPTION": "Cert - International Oil Pollution Prevention Certificate",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/09",
-      "CLASS": "LR",
-      "DESCRIPTION": "Cert - International Sewage Pollution Prevention Certificate",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/09",
-      "CLASS": "LR",
-      "DESCRIPTION": "Cert - International Air Pollution Prevention Certificate",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/09",
-      "CLASS": "LR",
-      "DESCRIPTION": "Cert - International Ballast Water Management Certificate",
       "CODE": ""
     },
     {

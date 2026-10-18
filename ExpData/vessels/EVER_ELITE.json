@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER ELITE",
   "last_updated": "2026-10-18",
-  "total_records": 137,
+  "total_records": 138,
   "records": [
     {
       "DUE_DATE": "2027/01/15",
@@ -156,13 +156,13 @@
     {
       "DUE_DATE": "2027/02/28",
       "CLASS": "AB",
-      "DESCRIPTION": "CMS - Cable // MACHINERY > Main Power Distribution System > Cable",
+      "DESCRIPTION": "CMS - Cable // MACHINERY > Emergency Power Distribution System > Cable",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/02/28",
       "CLASS": "AB",
-      "DESCRIPTION": "CMS - Cable // MACHINERY > Emergency Power Distribution System > Cable",
+      "DESCRIPTION": "CMS - Cable // MACHINERY > Main Power Distribution System > Cable",
       "CODE": ""
     },
     {
@@ -782,6 +782,12 @@
       "CLASS": "AB",
       "DESCRIPTION": "CMS - Windlass starboard side // MACHINERY > Mooring System > Windlass starboard side",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/10/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 5Remote",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2027/10/15",

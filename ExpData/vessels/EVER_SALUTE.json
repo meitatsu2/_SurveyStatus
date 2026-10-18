@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER SALUTE",
   "last_updated": "2026-10-18",
-  "total_records": 114,
+  "total_records": 115,
   "records": [
     {
       "DUE_DATE": "2026/11/28",
@@ -656,6 +656,12 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Drydocking SurveyRemote",
       "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/01/10",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 4Remote",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2028/01/10",
