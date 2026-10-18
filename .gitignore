@@ -1,3 +1,8 @@
+# Ignore historical data folder and files inside the folder
+_ExpData_*/
+_ExpData_*/**
+
+
 # Ignore everything
 #*
 
