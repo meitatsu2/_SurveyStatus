@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Evergreen Survey Status Master</title>
     <style>
         :root {
@@ -19,57 +19,65 @@
             padding: 0;
         }
 
-        body {
+        html, body {
+            height: 100%;
+            width: 100%;
+            overflow: hidden; /* Prevents whole-page scrolling */
             font-family: var(--font-family);
             background-color: var(--bg-light);
             color: #333;
-            display: flex;
-            flex-direction: column;
-            height: 100vh;
-            overflow: hidden;
         }
 
-        /* HEADER */
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* HEADER: SINGLE ROW HEIGHT */
         header {
+            flex: 0 0 auto;
             background-color: var(--primary-green);
             color: white;
             display: flex;
             align-items: center;
             justify-content: space-between;
-            padding: 10px 15px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            padding: 6px 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.15);
             z-index: 10;
+            height: 40px;
         }
 
         header h1 {
-            font-size: 1.1rem;
+            font-size: 0.95rem;
             font-weight: 600;
             text-align: center;
             flex-grow: 1;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
 
         .home-btn {
             background: none;
             border: none;
             color: white;
-            font-size: 1.3rem;
+            font-size: 1.1rem;
             cursor: pointer;
-            padding: 4px 8px;
+            padding: 2px 6px;
             border-radius: 4px;
-            transition: background 0.2s;
         }
 
         .home-btn:hover {
             background-color: var(--primary-dark);
         }
 
-        /* DATA FRAME */
+        /* DATA FRAME (MAIN CONTAINER) */
         main {
-            flex-grow: 1;
-            overflow-y: auto;
-            padding: 10px;
+            flex: 1 1 auto;
             display: flex;
             flex-direction: column;
+            overflow: hidden;
+            padding: 6px;
         }
 
         .view-panel {
@@ -77,6 +85,7 @@
             flex-direction: column;
             height: 100%;
             width: 100%;
+            overflow: hidden;
         }
 
         .hidden {
@@ -84,46 +93,48 @@
         }
 
         .controls-bar {
+            flex: 0 0 auto;
             display: flex;
             flex-wrap: wrap;
-            gap: 10px;
+            gap: 6px;
             align-items: center;
-            margin-bottom: 10px;
+            margin-bottom: 6px;
             background: white;
-            padding: 8px 12px;
-            border-radius: 6px;
-            border: 1px solid var(--border-color);
-        }
-
-        .controls-bar label {
-            font-size: 0.85rem;
-            font-weight: bold;
-        }
-
-        .controls-bar select {
             padding: 4px 8px;
-            font-size: 0.85rem;
             border-radius: 4px;
             border: 1px solid var(--border-color);
         }
 
+        .controls-bar label {
+            font-size: 0.75rem;
+            font-weight: bold;
+        }
+
+        .controls-bar select {
+            padding: 2px 4px;
+            font-size: 0.75rem;
+            border-radius: 3px;
+            border: 1px solid var(--border-color);
+        }
+
         .table-wrapper {
-            flex-grow: 1;
+            flex: 1 1 auto;
             overflow: auto;
             background: white;
             border: 1px solid var(--border-color);
-            border-radius: 6px;
+            border-radius: 4px;
+            -webkit-overflow-scrolling: touch;
         }
 
         table {
             width: 100%;
             border-collapse: collapse;
-            font-size: 0.8rem;
+            font-size: 0.75rem;
             white-space: nowrap;
         }
 
         th, td {
-            padding: 8px 10px;
+            padding: 5px 8px;
             text-align: left;
             border-bottom: 1px solid #eeeeee;
         }
@@ -152,107 +163,93 @@
             text-decoration: underline;
         }
 
-        /* VESSEL DETAIL WINDOWS */
+        /* 4:1 RATIO SPLIT FOR VESSEL DETAIL */
         .detail-header-title {
+            flex: 0 0 auto;
             font-weight: bold;
-            font-size: 0.95rem;
-            margin-bottom: 8px;
-            padding: 6px 10px;
+            font-size: 0.8rem;
+            margin-bottom: 4px;
+            padding: 4px 8px;
             background: #e3f2fd;
-            border-radius: 4px;
-            border-left: 4px solid #1976d2;
+            border-radius: 3px;
+            border-left: 3px solid #1976d2;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
 
+        /* UP WINDOW (4/5 height = 80%) */
         .upper-window {
-            flex: 6;
+            flex: 4 1 0%;
             display: flex;
             flex-direction: column;
-            margin-bottom: 10px;
-            min-height: 200px;
+            margin-bottom: 6px;
+            min-height: 0; /* Enables proper flex scrolling */
+            overflow: hidden;
         }
 
+        /* DOWN WINDOW (1/5 height = 20%) */
         .lower-window {
-            flex: 4;
+            flex: 1 1 0%;
             background: white;
             border: 1px solid var(--border-color);
-            border-radius: 6px;
-            padding: 10px;
+            border-radius: 4px;
+            padding: 6px;
             overflow-y: auto;
-            font-size: 0.85rem;
-            line-height: 1.6;
+            font-size: 0.75rem;
+            line-height: 1.4;
+            min-height: 0;
         }
 
         .milestones-container {
             display: flex;
             flex-wrap: wrap;
-            gap: 6px;
+            gap: 4px;
             align-items: center;
-            margin-bottom: 10px;
         }
 
         .milestone-badge {
-            padding: 3px 8px;
-            border-radius: 4px;
+            padding: 2px 6px;
+            border-radius: 3px;
             border: 1px solid #ccc;
-            font-size: 0.8rem;
+            font-size: 0.7rem;
             display: inline-block;
         }
 
         .dd-age-box {
-            margin-top: 8px;
-            padding-top: 8px;
+            margin-top: 4px;
+            padding-top: 4px;
             border-top: 1px dashed var(--border-color);
             font-weight: bold;
             color: #444;
+            font-size: 0.75rem;
         }
 
-        /* Status Due Date Formatting */
-        .status-red {
-            background-color: #dc3545 !important;
-            color: #ffffff !important;
-            font-weight: bold;
-        }
+        /* Due Date Colors */
+        .status-red { background-color: #dc3545 !important; color: #ffffff !important; font-weight: bold; }
+        .status-orange { background-color: #fd7e14 !important; color: #000000 !important; }
+        .status-yellow { background-color: #ffc107 !important; color: #000000 !important; }
+        .status-green { background-color: #28a745 !important; color: #000000 !important; }
+        .status-white { background-color: #ffffff !important; color: #000000 !important; }
 
-        .status-orange {
-            background-color: #fd7e14 !important;
-            color: #000000 !important;
-            font-weight: normal;
-        }
-
-        .status-yellow {
-            background-color: #ffc107 !important;
-            color: #000000 !important;
-            font-weight: normal;
-        }
-
-        .status-green {
-            background-color: #28a745 !important;
-            color: #000000 !important;
-            font-weight: normal;
-        }
-
-        .status-white {
-            background-color: #ffffff !important;
-            color: #000000 !important;
-            font-weight: normal;
-        }
-
-        /* FOOTER */
+        /* FOOTER: SINGLE ROW HEIGHT */
         footer {
+            flex: 0 0 auto;
             background-color: #343a40;
             color: #ffffff;
-            padding: 8px 12px;
-            font-size: 0.8rem;
+            padding: 4px 10px;
+            font-size: 0.7rem;
             display: flex;
             align-items: center;
             justify-content: space-between;
             z-index: 10;
+            height: 32px;
         }
 
         .footer-nav {
             display: flex;
             align-items: center;
-            gap: 6px;
+            gap: 4px;
             width: 100%;
             justify-content: space-between;
         }
@@ -261,10 +258,11 @@
             background: #495057;
             border: 1px solid #6c757d;
             color: white;
-            padding: 4px 10px;
-            border-radius: 4px;
+            padding: 2px 6px;
+            border-radius: 3px;
             cursor: pointer;
-            font-size: 0.75rem;
+            font-size: 0.7rem;
+            white-space: nowrap;
         }
 
         .nav-btn:hover {
@@ -287,7 +285,7 @@
     <header>
         <button class="home-btn" id="homeBtn" title="Reset to default">🏠</button>
         <h1>Evergreen Survey Status Master</h1>
-        <div style="width: 30px;"></div>
+        <div style="width: 20px;"></div>
     </header>
 
     <!-- DATA FRAME -->
@@ -295,9 +293,9 @@
         <!-- VIEW A: VESSEL LIST -->
         <div id="viewVesselList" class="view-panel">
             <div class="controls-bar">
-                <span style="font-weight: bold; font-size: 0.9rem;">VESSEL LIST</span>
+                <span style="font-weight: bold; font-size: 0.8rem;">VESSEL LIST</span>
                 
-                <div style="margin-left: auto; display: flex; gap: 10px; align-items: center;">
+                <div style="margin-left: auto; display: flex; gap: 6px; align-items: center;">
                     <label for="filterDept">DEPT:</label>
                     <select id="filterDept">
                         <option value="ALL">ALL</option>
@@ -335,6 +333,7 @@
 
         <!-- VIEW B: INDIVIDUAL VESSEL STATUS DETAIL -->
         <div id="viewVesselDetail" class="view-panel hidden">
+            <!-- UP WINDOW (4/5 HEIGHT) -->
             <div class="upper-window">
                 <div class="detail-header-title" id="detailHeaderTitle">
                     VESSEL Surv.S updated YYYY-MM-DD
@@ -356,8 +355,9 @@
                 </div>
             </div>
 
+            <!-- DOWN WINDOW (1/5 HEIGHT) -->
             <div class="lower-window">
-                <div style="font-weight: bold; margin-bottom: 6px; font-size: 0.85rem; color: #555;">Upcoming Survey Windows (> Today):</div>
+                <div style="font-weight: bold; margin-bottom: 2px; font-size: 0.7rem; color: #555;">Upcoming Survey Windows (> Today):</div>
                 <div id="milestonesContainer" class="milestones-container">
                     <!-- Dynamic Badges -->
                 </div>
@@ -376,11 +376,11 @@
 
         <div id="footerDetailMode" class="footer-nav hidden">
             <button class="nav-btn return-btn" id="btnReturn">↩ Return</button>
-            <div style="display: flex; gap: 4px;">
-                <button class="nav-btn" id="btnFirst">|&lt; First</button>
-                <button class="nav-btn" id="btnPrev">&lt; Prev</button>
-                <button class="nav-btn" id="btnNext">Next &gt;</button>
-                <button class="nav-btn" id="btnLast">Last &gt;|</button>
+            <div style="display: flex; gap: 3px;">
+                <button class="nav-btn" id="btnFirst">|&lt;</button>
+                <button class="nav-btn" id="btnPrev">&lt;</button>
+                <button class="nav-btn" id="btnNext">&gt;</button>
+                <button class="nav-btn" id="btnLast">&gt;|</button>
             </div>
         </div>
     </footer>
@@ -433,13 +433,11 @@
                 masterVesselList = await vesselRes.json();
                 picMappingList = await picRes.json();
 
-                console.log(`Loaded ${masterVesselList.length} vessels and ${picMappingList.length} PIC entries.`);
-
                 populateDeptDropdown();
                 applyFiltersAndSort();
             } catch (err) {
                 console.error("Error loading master index data:", err);
-                vesselListTbody.innerHTML = `<tr><td colspan="10" style="color:red; text-align:center; padding: 20px;">Failed to load vessel data: ${err.message}. Ensure ExpData folder exists in repository root.</td></tr>`;
+                vesselListTbody.innerHTML = `<tr><td colspan="10" style="color:red; text-align:center; padding: 10px;">Failed to load vessel data: ${err.message}. Ensure ExpData folder exists in repository root.</td></tr>`;
             }
         }
 
@@ -504,7 +502,7 @@
             vesselListTbody.innerHTML = "";
 
             if (filteredVesselList.length === 0) {
-                vesselListTbody.innerHTML = `<tr><td colspan="10" style="text-align:center; padding: 15px;">No vessel records found.</td></tr>`;
+                vesselListTbody.innerHTML = `<tr><td colspan="10" style="text-align:center; padding: 10px;">No vessel records found.</td></tr>`;
                 return;
             }
 
@@ -545,8 +543,6 @@
 
             try {
                 const fetchPath = `ExpData/vessels/${vessel.file_name}`;
-                console.log(`Fetching vessel detail: ${fetchPath}`);
-                
                 const response = await fetch(fetchPath);
                 if (!response.ok) throw new Error(`HTTP ${response.status} loading ${fetchPath}`);
                 
