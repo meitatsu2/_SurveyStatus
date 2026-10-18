@@ -126,20 +126,21 @@
             -webkit-overflow-scrolling: touch;
         }
 
-        table {
+        /* VESSEL LIST TABLE */
+        #vesselListTable {
             width: 100%;
             border-collapse: collapse;
             font-size: 0.75rem;
             white-space: nowrap;
         }
 
-        th, td {
+        #vesselListTable th, #vesselListTable td {
             padding: 5px 8px;
             text-align: left;
             border-bottom: 1px solid #eeeeee;
         }
 
-        th {
+        #vesselListTable th {
             background-color: #e9ecef;
             position: sticky;
             top: 0;
@@ -148,8 +149,53 @@
             user-select: none;
         }
 
-        th:hover {
+        #vesselListTable th:hover {
             background-color: #dee2e6;
+        }
+
+        /* INDIVIDUAL VESSEL STATUS TABLE (FIXED 1.5x DISPLAY WIDTH) */
+        #vesselStatusTable {
+            width: 150vw; /* Fixed 1.5 times phone display width */
+            border-collapse: collapse;
+            font-size: 0.75rem;
+            table-layout: fixed;
+        }
+
+        #vesselStatusTable th, #vesselStatusTable td {
+            padding: 5px 6px;
+            text-align: left;
+            border-bottom: 1px solid #eeeeee;
+            vertical-align: top;
+        }
+
+        #vesselStatusTable th {
+            background-color: #e9ecef;
+            position: sticky;
+            top: 0;
+            z-index: 2;
+            user-select: none;
+        }
+
+        /* Column Specific Width Rules */
+        .col-due-date {
+            width: 85px;
+        }
+
+        .col-cs {
+            width: 32px; /* Reduced width to fit 2 letters */
+            text-align: center !important;
+        }
+
+        .col-description {
+            width: auto;
+            white-space: normal !important; /* Word wrap enabled */
+            word-break: break-word;
+            max-height: 33vh; /* Height capped at 1/3 of upper window */
+            overflow-y: auto;
+        }
+
+        .col-code {
+            width: 65px;
         }
 
         .vessel-link {
@@ -225,10 +271,10 @@
             font-size: 0.75rem;
         }
 
-        /* Due Date Colors */
+        /* RECTIFIED COLOR SCHEME: Yellow updated to #f7ff07 */
         .status-red { background-color: #dc3545 !important; color: #ffffff !important; font-weight: bold; }
         .status-orange { background-color: #fd7e14 !important; color: #000000 !important; }
-        .status-yellow { background-color: #f7ff07 !important; color: #000000 !important; }
+        .status-yellow { background-color: #f7ff07 !important; color: #000000 !important; } /* Updated yellow */
         .status-green { background-color: #28a745 !important; color: #000000 !important; }
         .status-white { background-color: #ffffff !important; color: #000000 !important; }
 
@@ -243,7 +289,7 @@
             align-items: center;
             justify-content: space-between;
             z-index: 10;
-            height: 42px; /* Increased height for larger tap targets */
+            height: 42px;
         }
 
         .footer-nav {
@@ -283,7 +329,6 @@
             background: var(--primary-dark);
         }
 
-        /* PAGINATION CONTAINER: Occupies 2/3 (66.6%) of display width */
         .pagination-group {
             display: flex;
             width: 66.6%;
@@ -293,7 +338,7 @@
         }
 
         .pagination-group .nav-btn {
-            flex: 1; /* Distributes width evenly across the 4 buttons */
+            flex: 1;
             text-align: center;
         }
     </style>
@@ -358,13 +403,13 @@
                     VESSEL Surv.S updated YYYY-MM-DD
                 </div>
                 <div class="table-wrapper">
-                    <table>
+                    <table id="vesselStatusTable">
                         <thead>
                             <tr>
-                                <th>DUE_DATE</th>
-                                <th>CLASS</th>
-                                <th>DESCRIPTION</th>
-                                <th>CODE</th>
+                                <th class="col-due-date">DUE_DATE</th>
+                                <th class="col-cs">CS</th> <!-- Replaced CLASS with CS -->
+                                <th class="col-description">DESCRIPTION</th>
+                                <th class="col-code">CODE</th>
                             </tr>
                         </thead>
                         <tbody id="vesselStatusTbody">
@@ -587,10 +632,10 @@
                 const dueClass = getDueDateColorClass(r.DUE_DATE, today);
 
                 tr.innerHTML = `
-                    <td class="${dueClass}">${escapeHtml(r.DUE_DATE)}</td>
-                    <td>${escapeHtml(r.CLASS)}</td>
-                    <td>${escapeHtml(r.DESCRIPTION)}</td>
-                    <td>${escapeHtml(r.CODE)}</td>
+                    <td class="col-due-date ${dueClass}">${escapeHtml(r.DUE_DATE)}</td>
+                    <td class="col-cs">${escapeHtml(r.CLASS)}</td>
+                    <td class="col-description">${escapeHtml(r.DESCRIPTION)}</td>
+                    <td class="col-code">${escapeHtml(r.CODE)}</td>
                 `;
                 vesselStatusTbody.appendChild(tr);
             });
