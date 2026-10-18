@@ -1,0 +1,55 @@
+{
+  "vessel_name": "EVER MAX",
+  "last_updated": "2026-10-18",
+  "total_records": 8,
+  "records": [
+    {
+      "DUE_DATE": "2028/06/25",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/06/25",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/06/25",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2028/06/25",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/06/25",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/11/10",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirements: \nSTCW Section A-VIII/1 notes that all persons who shall be provided with a rest period of not less than a minimum of 10 hours of rest in any 24-hour period, the hours of rest may be divided into no more than two periods, one of which shall be at least 6 hours in length.\nEvidence: \nThere was no a rest period that is at least 6 hours for below crew and time interval listed.\n1. C/O, 1600 hr. / 28-Feb-2026 to 1600 hr. / 01-Mar-2026\n2. 3/O, 1600 hr. / 28-Feb-2026 to 1600 hr. / 01-Mar-2026\n3. 4/E (Mr. Wei), 2000 hr. / 28-Feb-2026 to 2000 hr. / 01-Mar-2026\n4. AB (Mr. Xia), 1600 hr. / 28-Feb-2026 to 1600 hr. / 01-Mar-2026\n5. MM (Mr. Gerarman), 1600 hr. / 28-Feb-2026 to 1600 hr. / 01-Mar-2026\nNature: \nThe above-listed crew’s resting hours records were considered against STCW and MLC requirements.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2028/11/10",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirement: \nAs per the Safety and Environmental Management Manual Rev. 22, PR-1001, Section 5.2 \"Report and treatment of deficiencies\" & Section 5.5 \"Routing maintenance\", the ship is to be properly maintained and operated so that it remains in conformance with all applicable international standard and requirements.\nEvidence: \nDuring the walkabout inspection during the audit, the M/E crankcase between Cyl. #4 and Cyl. #5 was leaking oil, and an unauthorized drain arrangement was modified.\nNature of NC: \nThe ship was not properly maintained and operated in compliance with the requirements.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2038/06/25",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
+    }
+  ]
+}
