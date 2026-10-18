@@ -22,7 +22,7 @@
         html, body {
             height: 100%;
             width: 100%;
-            overflow: hidden; /* Prevents whole-page scrolling */
+            overflow: hidden;
             font-family: var(--font-family);
             background-color: var(--bg-light);
             color: #333;
@@ -61,7 +61,7 @@
             background: none;
             border: none;
             color: white;
-            font-size: 1.1rem;
+            font-size: 1.2rem;
             cursor: pointer;
             padding: 2px 6px;
             border-radius: 4px;
@@ -178,17 +178,17 @@
             text-overflow: ellipsis;
         }
 
-        /* UP WINDOW (4/5 height = 80%) */
+        /* UP WINDOW (80% height) */
         .upper-window {
             flex: 4 1 0%;
             display: flex;
             flex-direction: column;
             margin-bottom: 6px;
-            min-height: 0; /* Enables proper flex scrolling */
+            min-height: 0;
             overflow: hidden;
         }
 
-        /* DOWN WINDOW (1/5 height = 20%) */
+        /* DOWN WINDOW (20% height) */
         .lower-window {
             flex: 1 1 0%;
             background: white;
@@ -228,41 +228,43 @@
         /* Due Date Colors */
         .status-red { background-color: #dc3545 !important; color: #ffffff !important; font-weight: bold; }
         .status-orange { background-color: #fd7e14 !important; color: #000000 !important; }
-        .status-yellow { background-color: #ffc107 !important; color: #000000 !important; }
+        .status-yellow { background-color: #f7ff07 !important; color: #000000 !important; }
         .status-green { background-color: #28a745 !important; color: #000000 !important; }
         .status-white { background-color: #ffffff !important; color: #000000 !important; }
 
-        /* FOOTER: SINGLE ROW HEIGHT */
+        /* FOOTER: EXPANDED BUTTON LAYOUT */
         footer {
             flex: 0 0 auto;
             background-color: #343a40;
             color: #ffffff;
             padding: 4px 10px;
-            font-size: 0.7rem;
+            font-size: 0.75rem;
             display: flex;
             align-items: center;
             justify-content: space-between;
             z-index: 10;
-            height: 32px;
+            height: 42px; /* Increased height for larger tap targets */
         }
 
         .footer-nav {
             display: flex;
             align-items: center;
-            gap: 4px;
             width: 100%;
             justify-content: space-between;
+            gap: 8px;
         }
 
         .nav-btn {
             background: #495057;
             border: 1px solid #6c757d;
             color: white;
-            padding: 2px 6px;
-            border-radius: 3px;
+            padding: 6px 10px;
+            border-radius: 4px;
             cursor: pointer;
-            font-size: 0.7rem;
+            font-size: 0.85rem;
+            font-weight: bold;
             white-space: nowrap;
+            touch-action: manipulation;
         }
 
         .nav-btn:hover {
@@ -272,10 +274,27 @@
         .return-btn {
             background: var(--primary-green);
             border-color: var(--primary-dark);
+            padding: 6px 12px;
+            font-size: 0.8rem;
+            flex: 0 0 auto;
         }
 
         .return-btn:hover {
             background: var(--primary-dark);
+        }
+
+        /* PAGINATION CONTAINER: Occupies 2/3 (66.6%) of display width */
+        .pagination-group {
+            display: flex;
+            width: 66.6%;
+            gap: 6px;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .pagination-group .nav-btn {
+            flex: 1; /* Distributes width evenly across the 4 buttons */
+            text-align: center;
         }
     </style>
 </head>
@@ -376,7 +395,7 @@
 
         <div id="footerDetailMode" class="footer-nav hidden">
             <button class="nav-btn return-btn" id="btnReturn">↩ Return</button>
-            <div style="display: flex; gap: 3px;">
+            <div class="pagination-group">
                 <button class="nav-btn" id="btnFirst">|&lt;</button>
                 <button class="nav-btn" id="btnPrev">&lt;</button>
                 <button class="nav-btn" id="btnNext">&gt;</button>
