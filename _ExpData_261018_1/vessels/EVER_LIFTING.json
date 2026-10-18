@@ -1,0 +1,25 @@
+{
+  "vessel_name": "EVER LIFTING",
+  "last_updated": "2026-10-18",
+  "total_records": 3,
+  "records": [
+    {
+      "DUE_DATE": "2028/06/09",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2030/08/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - SS - SPECIAL",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/08/31",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - TS1 - SCREWSHAFT",
+      "CODE": "CB06"
+    }
+  ]
+}
