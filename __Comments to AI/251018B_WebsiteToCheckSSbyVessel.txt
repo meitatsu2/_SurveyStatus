@@ -84,17 +84,108 @@ To find the public web URL for your newly deployed website on GitHub Pages:
 '********************************************************************************************
 '********************************************************************************************
 '********************************************************************************************
+COMMENTS:
+1. The published index.html successfully shows a website with intended structure. 
+However, no any data found in the vessel list, neither selective items in DEPT and PIC except 'all'
+2. Please make sure the code retrieve vessel_list.json and pic.json in the subfolder '_ExpData' in the repo and status data of each vessels in the sub-subfolder 'vessels'
+3. Please find where went wrong.
+
+'********************************************************************************************
+'********************************************************************************************
+'********************************************************************************************
+comments:
+The DevTools console shows "Fetching master indexes from _ExpData...
+BlockingPageContent.js:2  action SET_STORAGE_DATA @ 14:20:10.934
+salContent.js:1  prev state {blocking: false}
+salContent.js:1  action     {type: 'SET_STORAGE_DATA', urls: {…}, online: true, eula: true, welcome: true, …}
+salContent.js:1  next state {blocking: false}
+_SurveyStatus/:426  GET https://meitatsu2.github.io/_SurveyStatus/_ExpData/vessel_list.json 404 (Not Found)
+initData @ _SurveyStatus/:426
+(anonymous) @ _SurveyStatus/:418
+NotificationContent.js:2  action SET_LOCALE @ 14:20:10.952
+salContent.js:1  prev state {notification: false, locale: '', mode: '', os: '', browser: '', …}
+salContent.js:1  action     {type: 'SET_LOCALE', locale: 'ja'}
+salContent.js:1  next state {notification: false, locale: 'ja', mode: '', os: '', browser: '', …}
+NotificationContent.js:2  action SET_STORAGE_DATA @ 14:20:10.959
+salContent.js:1  prev state {notification: false, locale: 'ja', mode: '', os: '', browser: '', …}
+salContent.js:1  action     {type: 'SET_STORAGE_DATA', urls: {…}, online: true, eula: true, welcome: true, …}
+salContent.js:1  next state {notification: false, locale: 'ja', mode: 'Toolbar', os: 'win', browser: 'chrome', …}
+_SurveyStatus/:427  GET https://meitatsu2.github.io/_SurveyStatus/_ExpData/pic.json 404 (Not Found)
+initData @ _SurveyStatus/:427
+(anonymous) @ _SurveyStatus/:418
+_SurveyStatus/:441 Error loading master index data: Error: vessel_list.json HTTP 404
+    at initData (_SurveyStatus/:430:42)"
+
+It seems the subfolder cannot be found by the browser. Did I miss anything? such as any procedure to make these subfolders visible from external access?
+'********************************************************************************************
+'********************************************************************************************
+'********************************************************************************************
+GEMINI:
+The console output makes the root cause clear: the browser is sending the HTTP requests to `[https://meitatsu2.github.io/_SurveyStatus/_ExpData/vessel_list.json](https://meitatsu2.github.io/_SurveyStatus/_ExpData/vessel_list.json)`, but the GitHub Pages server returns **`404 (Not Found)`**.
+
+There are **three common reasons** why these subfolders are not visible to the browser on GitHub Pages:
+
+---
+
+### **1. GitHub Pages Ignores Folders Starting with an Underscore `_` by Default**
+
+This is the most likely culprit. GitHub Pages uses **Jekyll** by default to build static sites. By design, **Jekyll completely ignores and ignores rendering any folder starting with an underscore `_**` (such as `_ExpData` or `_SurveyStatus`).
+
+#### **The Fix:**
+
+You need to add an empty file named `.nojekyll` to the **root** of your repository (`meitatsu2/_SurveyStatus`). This tells GitHub Pages to bypass Jekyll processing and serve all files and folders as static content, including those starting with `_`.
+
+1. In your local repository `_SurveyStatus` (or directly on GitHub):
+2. Create a new empty file named **`.nojekyll`** (with a leading dot, no extension).
+3. Stage, commit, and push it to your `main` branch:
+```bash
+git add .nojekyll
+git commit -m "Add .nojekyll to bypass Jekyll folder restrictions"
+git push origin main
+
+```
 
 
-'********************************************************************************************
-'********************************************************************************************
-'********************************************************************************************
 
-'********************************************************************************************
-'********************************************************************************************
-'********************************************************************************************
+---
 
+### **2. Folder or File Case Sensitivity Mismatch**
 
+Linux web servers (which host GitHub Pages) are **strictly case-sensitive**.
+
+Verify that:
+
+* The folder in your repository is spelled exactly `_ExpData` (matching the uppercase `E` and `D`).
+* The files inside are named exactly `vessel_list.json` and `pic.json` (all lowercase).
+
+If the folder in your GitHub repository is named `_expdata` or `_EXPDATA`, the server will return a `404 Not Found` when JavaScript requests `_ExpData`.
+
+---
+
+### **3. The `_ExpData` Folder Was Not Pushed to the `main` Branch**
+
+Ensure that the files were committed to the remote repository branch configured for GitHub Pages.
+
+#### **How to Verify:**
+
+1. Open your browser and go to:
+`[https://github.com/meitatsu2/_SurveyStatus](https://github.com/meitatsu2/_SurveyStatus)`
+2. Check if the folder `_ExpData` is visible in the root file listing of the `main` branch.
+3. Click into `_ExpData` to confirm that `vessel_list.json`, `pic.json`, and the `vessels/` subfolder are present inside.
+
+If `_ExpData` is missing on GitHub, run your `GitHub_deploy.py` script again (or manually `git add _ExpData/ && git commit && git push`).
+
+---
+
+### **Summary Checklist to Make Subfolders Visible**
+
+| Step | Action | Resolution |
+| --- | --- | --- |
+| **Step 1** | Add **`.nojekyll`** file to the root of `_SurveyStatus` | Overrides Jekyll's rule that hides `_` prefixed directories. |
+| **Step 2** | Match folder name case (`_ExpData`) | Resolves Linux case-sensitivity path mismatches. |
+| **Step 3** | Confirm branch publish status | Ensures files exist on the `main` branch deployed by Pages. |
+
+Once you push the `.nojekyll` file, wait 1–2 minutes for GitHub Pages to rebuild, then refresh your site (`Ctrl + F5`).
 '********************************************************************************************
 '********************************************************************************************
 '********************************************************************************************
