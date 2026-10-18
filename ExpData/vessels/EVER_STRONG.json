@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER STRONG",
   "last_updated": "2026-10-18",
-  "total_records": 81,
+  "total_records": 82,
   "records": [
     {
       "DUE_DATE": "2027/03/06",
@@ -487,6 +487,12 @@
       "DUE_DATE": "2027/04/15",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2037/04/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
       "CODE": "CB06"
     }
   ]

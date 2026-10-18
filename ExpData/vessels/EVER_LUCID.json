@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LUCID",
   "last_updated": "2026-10-18",
-  "total_records": 50,
+  "total_records": 59,
   "records": [
     {
       "DUE_DATE": "2026/01/31",
@@ -59,6 +59,24 @@
     },
     {
       "DUE_DATE": "2026/12/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Boiler Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Boiler Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2026/12/12",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Bottom Survey",
       "CODE": "CB04"
@@ -76,22 +94,10 @@
       "CODE": ""
     },
     {
-      "DUE_DATE": "2026/12/12",
+      "DUE_DATE": "2026/12/31",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Boiler Survey",
+      "DESCRIPTION": "CMS - NO.3 F.O. SUPPLY PUMP FOR G/E",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/12",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Boiler Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/12",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
     },
     {
       "DUE_DATE": "2026/12/31",
@@ -160,12 +166,6 @@
       "CODE": ""
     },
     {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.3 F.O. SUPPLY PUMP FOR G/E",
-      "CODE": ""
-    },
-    {
       "DUE_DATE": "2027/01/14",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Lifting Appliances Thorough Examination\nSWL:12.5 tons at E/R(fore)",
@@ -199,6 +199,24 @@
       "DUE_DATE": "2027/01/14",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Lifting Appliances Thorough Examination\nSWL:0.9 tons at Fr.59(S)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
       "CODE": ""
     },
     {
@@ -286,22 +304,58 @@
       "CODE": ""
     },
     {
-      "DUE_DATE": "2027/04/14",
+      "DUE_DATE": "2029/01/14",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Intermediate Survey",
-      "CODE": ""
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
     },
     {
-      "DUE_DATE": "2027/04/14",
+      "DUE_DATE": "2029/01/14",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Annual Survey",
-      "CODE": ""
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
     },
     {
-      "DUE_DATE": "2027/04/14",
+      "DUE_DATE": "2029/01/14",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Hull (No.3)",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/01/14",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Machinery",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/01/14",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Auto. & Rem. System",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/01/14",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Condition Monitoring Special Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2029/01/25",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Annual Survey",
-      "CODE": ""
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2038/12/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2038/12/12",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
     }
   ]
 }

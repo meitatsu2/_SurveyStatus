@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER ENVOY",
   "last_updated": "2026-10-18",
-  "total_records": 219,
+  "total_records": 222,
   "records": [
     {
       "DUE_DATE": "2026/11/05",
@@ -1316,6 +1316,24 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Special Periodical Survey - Hull 5",
       "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/12/24",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2034/12/25",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Record Only Comment : Engine Power Limitation (EPL) approved, limiting the main engine’s power and speed to 32200 kW and 88.9 rpm",
+      "CODE": "CA19"
     }
   ]
 }

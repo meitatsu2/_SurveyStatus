@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER MAGNA",
   "last_updated": "2026-10-18",
-  "total_records": 4,
+  "total_records": 10,
   "records": [
     {
       "DUE_DATE": "2026/11/22",
@@ -26,6 +26,42 @@
       "CLASS": "NK",
       "DESCRIPTION": "NK - In accordance with MPA Shipping Circular No.10 of 2025, dispensation has been granted on behalf of the Flag Administration for the malfunctioned of No.2 ECDIS is to be repaired not later than 5 December 2026.\nOpening date: 6 October 2026",
       "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2028/07/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2030/07/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/07/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2030/07/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/07/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2040/07/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
     }
   ]
 }

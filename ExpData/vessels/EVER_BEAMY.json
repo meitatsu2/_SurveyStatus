@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER BEAMY",
   "last_updated": "2026-10-18",
-  "total_records": 7,
+  "total_records": 20,
   "records": [
     {
       "DUE_DATE": "2026/12/05",
@@ -44,6 +44,84 @@
       "CLASS": "NK",
       "DESCRIPTION": "CMS - NO.2 PURIFIER L.O. HEATER",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2028/06/06",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2028/06/07",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/06/07",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/06/07",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/06/07",
+      "CLASS": "NK",
+      "DESCRIPTION": "NK - The following deformed starboard side shell plate with adjacent longitudinal steel in way of G/E L.O. SETT. TK (S) IN E/R is to be permanently repaired by the Due Date below subject to ship crew's daily monitoring and inspection by the attending surveyor at every class periodical survey:\n- Deformed shell plate from Fr.27 to Fr.31 between longitudinal steel No.30 and PASSAGE WAY FLAT.\n- Deformed longitudinal steel No.31 from Fr.27 to Fr.31.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2028/06/07",
+      "CLASS": "CR",
+      "DESCRIPTION": "CR - 1). S-side shell plating at Fr.27 ~ 31, side shell longitudinal No. 31, 1500mm above L.W.L. in way of\nG/E L.O. SETT. TANK was indented about 3000 x 1500 mm in area and maximum depth about 60mm.\n\nThe above-mentioned deficiency shall be rectified as soon as possible but not later than\n07 June 2028.(refer to Report No.968-26-073)",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2028/06/07",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Hull (No.2)",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/06/07",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Machinery",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/06/07",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Bottom Survey BIW",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/06/07",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Auto. & Rem. System",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/06/07",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Condition Monitoring Special Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2033/06/07",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2033/06/07",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
     }
   ]
 }

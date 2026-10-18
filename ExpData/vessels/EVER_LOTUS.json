@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LOTUS",
   "last_updated": "2026-10-18",
-  "total_records": 41,
+  "total_records": 45,
   "records": [
     {
       "DUE_DATE": "2026/01/31",
@@ -248,6 +248,30 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - MLC Intermediate Inspection 3Remote",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2028/12/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/12/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/12/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2038/12/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER ACME",
   "last_updated": "2026-10-18",
-  "total_records": 15,
+  "total_records": 22,
   "records": [
     {
       "DUE_DATE": "2026/12/16",
@@ -92,6 +92,48 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Periodical Safety Radio Survey 4Remote",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/12/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/12/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Hull 1",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/12/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 1Remote",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/12/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 1",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/12/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2037/12/28",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Record Only Comment : Indentation on side shell plating in way of under deck passage between frames 34 and 36 and side longitudinals SL 69A and SL 69B (250 x 200mm x 30mm approx.) was found smooth and no repairs were deemed necessary.",
+      "CODE": "CA19"
     }
   ]
 }

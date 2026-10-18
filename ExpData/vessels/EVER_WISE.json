@@ -1,13 +1,61 @@
 {
   "vessel_name": "EVER WISE",
   "last_updated": "2026-10-18",
-  "total_records": 1,
+  "total_records": 9,
   "records": [
     {
       "DUE_DATE": "2027/03/17",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 2Remote",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2028/03/17",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/03/17",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : Bracket connecting Side shell plate (S), Aft peak tank top plating and SL14 at Fr. 3,4 and 5 were found buckled around 50-90 mm.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2030/03/17",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 1Remote",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/03/17",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 1",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/03/17",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 1",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/03/17",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Propellor Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2040/03/17",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Propellor Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Record Only Comment : Side shell plate (S) in way of Aft peak tank between frame (Fr.02-Fr.06) as follows:\n1. Side shell plate (S) found with smooth indentation with the maximum depth Approximate 100 mm in way of Aft peak tank, measured areas 2000 x 1500 mm.\n2. Aft peak tank top plating between frame (Fr.02-Fr.06) found with smooth indentation with the maximum depth Approximate 80 mm, measured areas 2000 x 2000 mm.\n3. Side longitudinal SL13 and SL14 were found with smooth deformation of Approximate 20 mm between frame (Fr.02-Fr.06)\nAbove listed areas of Side Shell Starboard were externally and internally examined (From Aft Peak Tank) and no visually visible fractures observed at this time.\nAbove damages noted as \"Record Only\" and no immediate repairs are considered necessary at this time.",
+      "CODE": "CA19"
     }
   ]
 }

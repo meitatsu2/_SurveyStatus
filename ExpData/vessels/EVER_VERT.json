@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER VERT",
   "last_updated": "2026-10-18",
-  "total_records": 10,
+  "total_records": 16,
   "records": [
     {
       "DUE_DATE": "2027/03/18",
@@ -62,6 +62,42 @@
       "CLASS": "NK",
       "DESCRIPTION": "Ballast Water Management - Annual Survey",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/12/18",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2029/12/18",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/12/18",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2029/12/18",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/12/18",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2039/12/18",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
     }
   ]
 }

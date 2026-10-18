@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER FAITH",
   "last_updated": "2026-10-18",
-  "total_records": 2,
+  "total_records": 8,
   "records": [
     {
       "DUE_DATE": "2026/11/15",
@@ -14,6 +14,42 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 2Remote",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2028/02/18",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2030/03/01",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 2Remote",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/03/01",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 2",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/03/01",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 2",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/03/01",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Propeller Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2035/03/01",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Propeller Shaft",
+      "CODE": "CB06"
     }
   ]
 }

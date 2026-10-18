@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER GOVERN",
   "last_updated": "2026-10-18",
-  "total_records": 4,
+  "total_records": 11,
   "records": [
     {
       "DUE_DATE": "2027/02/06",
@@ -26,6 +26,48 @@
       "CLASS": "AB",
       "DESCRIPTION": "Cert - Interim Maritime Labour CertificateECC",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/29",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2029/06/27",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 2Remote",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/06/27",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 2",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/06/27",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 2",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/07/08",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2029/07/08",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : As reported by the Owners, the EGCS distance piece/overboard pipe of the Generator Engine had been found wasted and was repaired temporarily by means of a cement box, in order to eliminate the water ingress. Vessel was attended at this time in order for the effectiveness of the temporary repairs to be verified. \nIn particular the following were verified to the satisfaction of the attending surveyor:\n\n- \nCement box and the surrounding area were inspected and their condition was deemed satisfactory.\n\n- \nExtensive thickness measurements (TMs) were taken on the accessible sections of the pipe both upstream and downstream of the overboard pipe. This gauging was performed to determine the extent of corrosion and to ascertain, as far as reasonably practicable, the absence of further deterioration or potential failure points.\n\n- \nThe bilge alarm system, bilge pumping system, and emergency bilge suction operation were tested.  The crew provided a satisfactory demonstration of their operation in an emergency scenario.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2034/07/08",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
+      "CODE": "CB06"
     }
   ]
 }

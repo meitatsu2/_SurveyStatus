@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LEGACY",
   "last_updated": "2026-10-18",
-  "total_records": 49,
+  "total_records": 57,
   "records": [
     {
       "DUE_DATE": "2026/06/06",
@@ -296,6 +296,54 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Periodical Safety Radio Survey 4RemoteIn Progress",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/11/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/11/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 3Remote",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/11/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 3",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/11/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 3",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/11/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2037/11/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Record Only Comment : Shell plating found set-in about 25mm from Fr. 24 to 36 between shell longitudinal No. 42 and the platform 14945 mm above base line. Affected shell plating was internally examined, and associated internals found not deformed. It was recommended to be noted for record purpose only.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Record Only Comment : Engine Power Limitation (EPL) is approved, limiting the main engine’s power to 35,200 kW at 83.1 rpm.",
+      "CODE": "CA19"
     }
   ]
 }

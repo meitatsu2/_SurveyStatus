@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LEADER",
   "last_updated": "2026-10-18",
-  "total_records": 17,
+  "total_records": 24,
   "records": [
     {
       "DUE_DATE": "2026/11/10",
@@ -104,6 +104,48 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Periodical Safety Radio Survey 4Remote",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/10/24",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2028/01/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/01/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 3Remote",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/01/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 3",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/01/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 3",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/06/03",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirement:\nIn accordance with MPA SHIPPING CIRCULAR NO. 2 of 2024, Singapore-registered ships (SRS) on the need for reporting of marine casualties and marine incidents. In addition to report to the MPA, ships are also required to report to the TSIB.\nEvidence:\nIn accordance with the sea protest, one(1) motor man was injured during maintenance of the M/E exhaust valve on 15 September 2025. The motor man’s two fingers of the right hand were fractured and hospitalized. The following documents were remained onboard: \n- Sea Protest signed by master dated on 15 September 2025.\n- Accident & Casualty Report was issued on 15 September 2025.\n- Accident Investigation Report was signed by the Master and Safety Officer on 15 September 2025.\n- Training and drill record to prevent a similar incident was dated on 16 September 2025.\n- Corrective and Preventative Action Report was final reviewed and closed out of the report by DP on 10 October 2025.\nHowever, there is no evidence onboard that MPA and TSIB were reported for the incident.\nNature:\nIt is the objective evidence that Singapore MPA Shipping Circular No.2 of 2024 was not complied with to the reporting requirement.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2037/11/25",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
+      "CODE": "CB06"
     }
   ]
 }

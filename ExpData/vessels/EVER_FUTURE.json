@@ -1,8 +1,14 @@
 {
   "vessel_name": "EVER FUTURE",
   "last_updated": "2026-10-18",
-  "total_records": 3,
+  "total_records": 4,
   "records": [
+    {
+      "DUE_DATE": "2027/10/03",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirements\nClass LR approved Cargo Securing Manual (CSM) Section 3.3.1 “ Minimum requirements for inspection of cargo securing devices” mentioned that inspection and maintenance of both fixed and portable securing gears should be under the responsibility of Master. Visual inspection of all components being utilized should be completed interval not exceeding 6 months.\nEvidence.\nWhile sampling maintenance of lashing gears, records of maintenance for fixed lashing gears were unable to verify onboard this time.\nNature\nMaintenance of fixed lashing gears were not carried out as per CSM Sec 3.1",
+      "CODE": "CA19"
+    },
     {
       "DUE_DATE": "2029/03/04",
       "CLASS": "LR",

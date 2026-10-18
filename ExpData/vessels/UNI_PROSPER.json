@@ -1,7 +1,7 @@
 {
   "vessel_name": "UNI-PROSPER",
   "last_updated": "2026-10-18",
-  "total_records": 101,
+  "total_records": 103,
   "records": [
     {
       "DUE_DATE": "2026/04/30",
@@ -383,6 +383,48 @@
     },
     {
       "DUE_DATE": "2026/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Cert - Class",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2026/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Boiler Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2026/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2026/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Cert - Inventory of Hazardous Materials",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Inventory of Hazardous Materials - Renewal Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/09/27",
       "CLASS": "CR",
       "DESCRIPTION": "Cert - Classification",
       "CODE": ""
@@ -526,48 +568,6 @@
       "CODE": ""
     },
     {
-      "DUE_DATE": "2026/09/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Cert - Class",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2026/09/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Boiler Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2026/09/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2026/09/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Cert - Inventory of Hazardous Materials",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Inventory of Hazardous Materials - Renewal Survey",
-      "CODE": ""
-    },
-    {
       "DUE_DATE": "2026/10/27",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey C (M1/M2/M3)",
@@ -608,6 +608,18 @@
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Ship Security Certificate Renewal Verification",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2031/06/26",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2036/10/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
     }
   ]
 }

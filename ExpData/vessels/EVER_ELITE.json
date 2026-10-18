@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER ELITE",
   "last_updated": "2026-10-18",
-  "total_records": 130,
+  "total_records": 138,
   "records": [
     {
       "DUE_DATE": "2027/01/15",
@@ -782,6 +782,54 @@
       "CLASS": "AB",
       "DESCRIPTION": "CMS - Windlass starboard side // MACHINERY > Mooring System > Windlass starboard side",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/10/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 5Remote",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/10/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 5",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/10/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 5",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/11/11",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2028/11/10",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2037/11/11",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Record Only Comment : Reported by the owner's representative, trailing edge of propeller E blade was found bent afterward approx. 15 mm over an area of approx. 150 x 50 mm at the location of approx. 900 mm from blade tip.\nThe area was re-inspected during dry docking survey at this time, liquid penetrate test was carried out and no visual unacceptable indication was found, the repair is considered not necessary.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Record Only Comment : Engine Power Limitation (EPL) approved, limiting the main engine’s power and speed to 32100kW and 88.8 rpm.",
+      "CODE": "CA19"
     }
   ]
 }

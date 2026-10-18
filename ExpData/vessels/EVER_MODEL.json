@@ -1,0 +1,49 @@
+{
+  "vessel_name": "EVER MODEL",
+  "last_updated": "2026-10-18",
+  "total_records": 7,
+  "records": [
+    {
+      "DUE_DATE": "2028/09/29",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2030/09/29",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 1Remote",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/09/29",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 1",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/09/29",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 1",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/09/29",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Propeller Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2040/09/29",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Propeller Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Record Only Comment : It was reported that, on 29 August, the vessel came into contact with a slanted wall during Panama Canal transit, resulting in damage to the side shell and transom area at the mooring deck. The affected area was inspected in way of the mooring deck Starboard Side, between Frames -1 and -5, between the deck and Side Longitudinal No. 55. In way of the side shell, a smooth deformation was found over an area of approximately 2500 x 700 mm, with a maximum indentation depth of 20 mm. In way of the transom plate, a smooth deformation was found over an area of approximately 200 x 350 mm, with a maximum indentation depth of 15 mm. No fractures were observed. No repairs were considered necessary at this time. This is reported for record only purposes.",
+      "CODE": "CA19"
+    }
+  ]
+}
