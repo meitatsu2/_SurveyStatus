@@ -1,0 +1,145 @@
+{
+  "vessel_name": "EVER LEADER",
+  "last_updated": "2026-10-18",
+  "total_records": 23,
+  "records": [
+    {
+      "DUE_DATE": "2026/10/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Cargo Ship Safety Equipment CertificateECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : The vessel's managing company requested a remote survey via email to report the No.1 PA/GA Control System malfunction.\nIn accordance with the Singapore MPA Shipping Circular No. 10 of 2025 and ABS survey process instructions, the survey was completed remotely based on digital data and information provided by the Owner and the vessel. The following items were verified and found satisfactory:\n- Normal operation of the No.2 PA/GA Control System.\nThe following documents were reviewed:\n- Master’s attestation\n- Risk assessment\n- Crew awareness records\n- Videos and photos demonstrating the No.2 PA/GA Control System operation and system status\n- Abandon drill record\n- Maintenance records of PA/GA system\n- Repair Plan\n- Company's confirmation of compliance with Singapore MPA Shipping Circular No. 10 of 2025\nUpon satisfactory verification of above, a Statutory Condition has been imposed in accordance with Shipping Circular No. 10 of 2025, permitting the vessel to continue operating with the defective No.1 PA/GA Control System, pending repairing at the earliest opportunity but no later than \n12 October 2026\n. A Short-Term Cargo Ship Safety Equipment Certificate valid until \n12 October 2026\n has been issued accordingly.\nThe Master has been notified of the following in accordance with Singapore MPA Shipping Circular No. 10 of 2025:\n- Taking into account of the malfunction equipment when planning and executing a voyage to a port where the repair or replace will be carried out.\n- Notifying the relevant competent authority when calling to a foreign port as per SOLAS regulation I/11(C).",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2026/11/10",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Cargo Ship Safety Construction CertificateECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/10",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : As reported by the Owner's Representative, two (2) ventilation fans of Cargo Hold Ventilation System were malfunctioned as listed below, the deficiencies could not be rectified due to no spare parts onboard.\n- Cargo Hold No. 01: M101 exhaust fan motor was burnt out.\n- Cargo Hold No. 02: M201 exhaust fan blades were damaged.\nAs reported by the Owner's Representative, the spare parts will be connected onboard when the vessel calls Asia ports around 24-Oct-2026 to 03-Nov-2026.\nRemote Survey was carried out at this time, per authorization email of Singapore MPA dated 08 September 2026.\nFollowing documents/photos submitted by owner’s representative were reviewed and considered satisfactory:\n\n- \nRisk Assessment with control measures prepared by Master.\n\n- \nMaster’s Statement of Fact for damaged cargo hold ventilation fans.\n\n- \nDamage report.\n\n- \nPhotos of all the defective cargo hold fans are to be safely isolated from use.\n\n- \nEntry of the defective cargo hold fans is to be recorded in ship’s log book.\n\n- \nSpare parts arrangement\n\n- \nMaster’s Statement of Fact to confirm the followings:\n\n- \nAll shipboard personnel were briefed and made aware of the defective cargo hold fans\n\n- \nAll other cargo hold fans are regularly inspected and operationally tested in good working order\n\n- \nAll cargo holds natural ventilators remained in open position subjected to weather conditions as deemed necessary by the Master\n\n- \nEntry of the affected cargo holds are restricted and only permitted upon Master’s order and proper ventilation carried out prior to entry\n\n- \nAll crew were properly trained and familiar with the use of portable oxygen/gas analyzers\n\n- \nSufficient walkie-talkies are available on board as means of communication\n\n- \nThe competent Port State authorities to be notified of the defective power ventilators when the vessel calls at foreign ports\n\nAs per authorization of Flag Administration, a short-term Cargo Ship Safety Construction Certificate valid until 10 November 2026 was issued at this time, pending rectification of defective two (2) ventilation fans in Cargo Holds.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2026/12/01",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/24",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - Elevator 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Automation Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Ballast Water Management Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Carriage of Dangerous Goods Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Hull Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual IAPP Annex VI Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual IOPP Annex I Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Load Line Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Machinery Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Safety Construction Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Safety Equipment Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Periodical Safety Radio Survey 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/10/24",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2028/01/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/01/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 3",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/01/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 3",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/06/03",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirement:\nIn accordance with MPA SHIPPING CIRCULAR NO. 2 of 2024, Singapore-registered ships (SRS) on the need for reporting of marine casualties and marine incidents. In addition to report to the MPA, ships are also required to report to the TSIB.\nEvidence:\nIn accordance with the sea protest, one(1) motor man was injured during maintenance of the M/E exhaust valve on 15 September 2025. The motor man’s two fingers of the right hand were fractured and hospitalized. The following documents were remained onboard: \n- Sea Protest signed by master dated on 15 September 2025.\n- Accident & Casualty Report was issued on 15 September 2025.\n- Accident Investigation Report was signed by the Master and Safety Officer on 15 September 2025.\n- Training and drill record to prevent a similar incident was dated on 16 September 2025.\n- Corrective and Preventative Action Report was final reviewed and closed out of the report by DP on 10 October 2025.\nHowever, there is no evidence onboard that MPA and TSIB were reported for the incident.\nNature:\nIt is the objective evidence that Singapore MPA Shipping Circular No.2 of 2024 was not complied with to the reporting requirement.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2037/11/25",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
+      "CODE": "CB06"
+    }
+  ]
+}
