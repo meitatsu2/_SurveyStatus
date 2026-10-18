@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER ALP",
   "last_updated": "2026-10-18",
-  "total_records": 98,
+  "total_records": 97,
   "records": [
     {
       "DUE_DATE": "2026/12/08",
@@ -584,12 +584,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - MLC Renewal Inspection 1Remote",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2036/12/08",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
     }
   ]
 }

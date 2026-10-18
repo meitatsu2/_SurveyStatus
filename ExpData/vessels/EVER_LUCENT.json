@@ -1,61 +1,13 @@
 {
   "vessel_name": "EVER LUCENT",
   "last_updated": "2026-10-18",
-  "total_records": 9,
+  "total_records": 1,
   "records": [
     {
       "DUE_DATE": "2027/03/21",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 4Remote",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/08/09",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Non-Conformity : Requirement:\nISM Clause 8.1\n1. The company should identify potential emergency shipboard situations, and establish procedures to respond to them.\n2. Company’s Fire Training Manual Chapter 9 – Fire Fighting Procedures\nEvidence:\nAs part of the additional audit to verify the effectiveness of corrective and preventive actions taken in response to the deficiencies raised during the Xiamen PSC inspection, a drill was conducted with scenario a fire in the paint store. During the drill, inefficient communication between the fire party, Chief Officer, and Master was observed. The firemen did not use their explosion proof firemen VHFs, resulting in no communication between the fire team and the Chief Officer or Master.\nWhen questioned, the Chief Officer explained that since the firemen were using SCBA (Self-Contained Breathing Apparatus), they could not use efficiently the VHFs because the voice was broken and instead relied on a method of pulling the life lines to communicate. It was also noted that the firemen’s VHFs lacked peripherals compatible with SCBA, such as skull microphones, helmet speakers, and push-to-talk buttons.\nUpon reviewing the company’s Fire Training Manual, it was evident that there was no reference to the use of firemen VHFs in such situations.\nThis highlights a need for improvement to ensure effective communication during fire emergencies.\nNature:\nInadequate procedures in place to ensure efficient communication during fire emergencies.",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2028/07/24",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2029/03/10",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2029/03/10",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 3Remote",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/03/10",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 3",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/03/10",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 3",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2033/07/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2099/12/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Record Only Comment : Engine Power Limitation (EPL) approved, limiting the main engine’s power to 35950kW(64% load).",
-      "CODE": "CA19"
     }
   ]
 }

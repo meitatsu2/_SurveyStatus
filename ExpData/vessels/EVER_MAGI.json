@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER MAGI",
   "last_updated": "2026-10-18",
-  "total_records": 9,
+  "total_records": 4,
   "records": [
     {
       "DUE_DATE": "2027/01/13",
@@ -26,36 +26,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Drydocking SurveyRemote",
       "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2029/03/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 1Remote",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/03/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 1",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/03/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 1",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/03/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Survey - Propeller Shaft",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2039/03/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Propeller Shaft",
-      "CODE": "CB06"
     }
   ]
 }

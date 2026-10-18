@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER WIZ",
   "last_updated": "2026-10-18",
-  "total_records": 25,
+  "total_records": 19,
   "records": [
     {
       "DUE_DATE": "2026/11/20",
@@ -116,42 +116,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Periodical Safety Radio Survey 2RemoteIn Progress",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/11/20",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2029/11/20",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 1RemoteIn Progress",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/11/20",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 1",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/11/20",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 1",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/11/20",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Survey - Propellor Shaft",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2039/11/20",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Propellor Shaft",
-      "CODE": "CB06"
     }
   ]
 }

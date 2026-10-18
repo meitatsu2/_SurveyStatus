@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER CAREER",
   "last_updated": "2026-10-18",
-  "total_records": 191,
+  "total_records": 189,
   "records": [
     {
       "DUE_DATE": "2026/11/01",
@@ -1136,18 +1136,6 @@
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Maritime Labour Certificate Renewal Inspection",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2036/11/01",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2036/11/01",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
     }
   ]
 }

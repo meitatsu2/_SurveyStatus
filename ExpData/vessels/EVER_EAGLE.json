@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER EAGLE",
   "last_updated": "2026-10-18",
-  "total_records": 186,
+  "total_records": 181,
   "records": [
     {
       "DUE_DATE": "2026/06/22",
@@ -1088,36 +1088,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Special Periodical Survey - Hull 5In Progress",
       "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/11/30",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Non-Conformity : Requirement: \nPer SE Manual, PR-1001, Section 5.5 Routing maintenance, the C/O and 2/E need to ensure that the ship is properly maintained and operated so that it remains in conformance with all applicable international standards and requirements. \nEvidence: \nWhile walkabout inspection during this audit, the following hardware deficiencies were observed:\n1. No.1 C/H Mechanical Ventilation Trunk (STBD) in way of Fr. 260/ 2nd Deck was corroded/ holed.\n2. No.2 C/H Mechanical Ventilation Trunks (Port & STBD) in way of Fr. 228/ 2nd Deck were corroded/ holed.\n3. Cargo Hatch Cover No. 5H. CP, No. 7H. S, No. 9 H. CP, No. 12 H. C & No. 12 H. S’s side coaming lower edge were corroded/ holed.\n4. Hatch Coaming Stay Stiffener’s toe in way of FR. 248/ Upper Deck/ Port & STBD were fractured.\n5. Cable Penetration Device in way FR. 10/ 2nd Deck/ STBD was not properly sealed after modification (CCTV Installation).\nNature of NC:\nThe ship was not properly maintained and operated in compliance with the requirements.",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2028/11/30",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Non-Conformity : Requirement: \nAs per EMC Marine Circular (Ref. No. 2025-017), Attachment 1 \"Emergency Generator Test Items and Procedure Guide\", a risk assessment must be done before testing, and testing can only be carried out after ensuring safety of ship, personnel and cargo.\nEvidence: \nThere is no risk assessment record being found since the Marine Circular (Ref. No. 2025-017) was published.\nNature of NC: \nThe risk assessment was not carried out to identify such equipment and was categorized as a Nonconformity.",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2029/04/15",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2034/04/16",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2099/12/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Record Only Comment : Engine Power Limitation (EPL) approved, limiting the main engine’s power and speed to 32, 000 kW and 88.7 rpm.",
-      "CODE": "CA19"
     }
   ]
 }

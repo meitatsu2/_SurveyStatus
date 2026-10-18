@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER AIM",
   "last_updated": "2026-10-18",
-  "total_records": 59,
+  "total_records": 58,
   "records": [
     {
       "DUE_DATE": "2026/10/27",
@@ -350,12 +350,6 @@
       "CLASS": "NK",
       "DESCRIPTION": "CMS - NO.3 HYDR. PUMP OF STEERING GEAR",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2036/10/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
     }
   ]
 }

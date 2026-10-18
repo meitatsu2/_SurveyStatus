@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LEGEND",
   "last_updated": "2026-10-18",
-  "total_records": 19,
+  "total_records": 13,
   "records": [
     {
       "DUE_DATE": "2027/02/17",
@@ -80,42 +80,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "CMS - Stern Tube Lube Oil Pump NO.02 // MACHINERY > Stern Tube Lubricating Oil System > Stern Tube Lube Oil Pump NO.02",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/09/13",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Outstanding : The fractures of main engine foundation, No.3 Main Generator engine foundation and No.4 Main Generator engine foundation were repaired by welding which carried out by qualified welders in accordance with approved welding procedures and using approved welding consumables/materials. The details of welding repairs were listed in Items 512, 513, 514, 521, 522 and 523 through work order 7129219.   \nSince the repair plan provided by maker was not submitted and approved by ABS engineering office, the repaired area of engine foundations are to be monitoring by chief engineer regularly and reporting ABS if any deficiency.",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2028/06/13",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2028/06/13",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 3Remote",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/06/13",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 3",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/06/13",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 3",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/01/20",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
-      "CODE": "CB06"
     }
   ]
 }

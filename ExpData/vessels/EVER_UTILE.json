@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER UTILE",
   "last_updated": "2026-10-18",
-  "total_records": 7,
+  "total_records": 2,
   "records": [
     {
       "DUE_DATE": "2027/02/28",
@@ -14,36 +14,6 @@
       "CLASS": "NK",
       "DESCRIPTION": "CMS - NO.3 F.O. SUPPLY PUMP FOR PURIFIER (NOT ATT.)",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2028/03/21",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2030/03/21",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2030/03/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2030/03/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2037/07/06",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
     }
   ]
 }

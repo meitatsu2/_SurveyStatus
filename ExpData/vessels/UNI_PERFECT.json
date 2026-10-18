@@ -1,7 +1,7 @@
 {
   "vessel_name": "UNI-PERFECT",
   "last_updated": "2026-10-18",
-  "total_records": 41,
+  "total_records": 35,
   "records": [
     {
       "DUE_DATE": "2026/11/08",
@@ -212,42 +212,6 @@
       "CLASS": "NK",
       "DESCRIPTION": "CMS - NO.2 MOORING WINCH",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2028/04/17",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2028/04/17",
-      "CLASS": "NK",
-      "DESCRIPTION": "NK - Following dented starboard side shell plate in way of FPT is to be permanently repaired by the due date below subject to inspections for confirmation of no progress of deterioration at periodical survey.\n\n-Dented starboard shell plate (E-14A) from Fr.195 to Fr.196+500mm, in between No.12 FT and \n 400mm in height below SL-11a. Dented Size: 1300mm(L) x 248mm(W) x 70mm(D)",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2030/04/05",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2030/04/05",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2030/07/13",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2040/07/13",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER BIRTH",
   "last_updated": "2026-10-18",
-  "total_records": 23,
+  "total_records": 15,
   "records": [
     {
       "DUE_DATE": "2025/12/03",
@@ -92,54 +92,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Periodical Safety Radio Survey 4Remote",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/12/28",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2027/12/28",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 2Remote",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2027/12/28",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 2",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2027/12/28",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 2",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2027/12/28",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2028/05/20",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Non-Conformity : Requirement:\nAs per DMLC Part II, Sect. 10.1), (a) “Food & Catering”, the company is to provide seafarers onboard the provision of food and drinking water and take into consideration on their religious requirements and cultural practices.\nEvidence:\n- \nThe crew onboard have diverse religious backgrounds, including Islam, with some crew members being Muslim.\n- Pork and other meats are mixed. Cooking pans are mixed.\nNature: \nBased on the evidence gathered, the separation of meat product and cooking utensils are not as per DMLC Part II, Sect. 10.1), (a).",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2032/12/28",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2099/12/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Record Only Comment : Engine Power Limitation (EPL) approved, limiting the main engine’s power and speed to 19,150 kW and 84.1 rpm.",
-      "CODE": "CA19"
     }
   ]
 }

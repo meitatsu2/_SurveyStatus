@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER FOREVER",
   "last_updated": "2026-10-18",
-  "total_records": 22,
+  "total_records": 16,
   "records": [
     {
       "DUE_DATE": "2026/11/20",
@@ -98,42 +98,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Annual Survey - Elevator 1Remote",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2028/12/13",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2030/12/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 2Remote",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2030/12/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 2",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2030/12/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 2",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2030/12/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Survey - Propeller Shaft",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2035/12/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Propeller Shaft",
-      "CODE": "CB06"
     }
   ]
 }

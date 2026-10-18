@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER STEADY",
   "last_updated": "2026-10-18",
-  "total_records": 193,
+  "total_records": 191,
   "records": [
     {
       "DUE_DATE": "2026/08/26",
@@ -1148,18 +1148,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Special Periodical Survey - Hull 4In Progress",
       "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2037/01/21",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail ShaftIn Progress",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2099/12/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Record Only Comment : Engine Power Limitation (EPL) approved, limiting the main engine’s power and speed to 26,450 kW and 80.3 rpm.",
-      "CODE": "CA19"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER ACT",
   "last_updated": "2026-10-18",
-  "total_records": 40,
+  "total_records": 44,
   "records": [
     {
       "DUE_DATE": "2026/09/09",
@@ -202,6 +202,18 @@
       "CODE": "CA19"
     },
     {
+      "DUE_DATE": "2026/09/09",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - EGE1 - EXHAUST GAS ECONOMISER",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/09/09",
+      "CLASS": "LR",
+      "DESCRIPTION": "Cert - International Ballast Water Management Certificate",
+      "CODE": ""
+    },
+    {
       "DUE_DATE": "2027/03/13",
       "CLASS": "AB",
       "DESCRIPTION": "Cert - International Ship Security Certificate (ISSC)ECC",
@@ -241,6 +253,18 @@
       "DUE_DATE": "2027/03/13",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - MLC Renewal Inspection 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/17",
+      "CLASS": "LR",
+      "DESCRIPTION": "Cert - International Ballast Water Management Certificate",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/17",
+      "CLASS": "LR",
+      "DESCRIPTION": "Cert - Interim International Certificate on Inventory of Hazardous Materials",
       "CODE": ""
     }
   ]

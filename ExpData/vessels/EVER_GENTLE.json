@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER GENTLE",
   "last_updated": "2026-10-18",
-  "total_records": 11,
+  "total_records": 6,
   "records": [
     {
       "DUE_DATE": "2027/02/14",
@@ -38,36 +38,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Drydocking SurveyRemote",
       "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2029/03/15",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 2Remote",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/03/15",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 2",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/03/15",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 2",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/03/15",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2034/03/15",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
-      "CODE": "CB06"
     }
   ]
 }

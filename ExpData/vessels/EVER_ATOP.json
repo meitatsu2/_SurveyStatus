@@ -6,6 +6,12 @@
     {
       "DUE_DATE": "2027/10/27",
       "CLASS": "LR",
+      "DESCRIPTION": "LR - PROPELLER BLADE DAMAGED",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2027/10/27",
+      "CLASS": "LR",
       "DESCRIPTION": "Surv - SS - SPECIAL",
       "CODE": "CB03"
     },
@@ -20,12 +26,6 @@
       "CLASS": "LR",
       "DESCRIPTION": "Surv - TS1 - SCREWSHAFT",
       "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2027/10/27",
-      "CLASS": "LR",
-      "DESCRIPTION": "LR - PROPELLER BLADE DAMAGED",
-      "CODE": "CA19"
     }
   ]
 }

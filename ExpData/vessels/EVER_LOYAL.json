@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LOYAL",
   "last_updated": "2026-10-18",
-  "total_records": 118,
+  "total_records": 109,
   "records": [
     {
       "DUE_DATE": "2026/03/31",
@@ -656,60 +656,6 @@
       "CLASS": "NK",
       "DESCRIPTION": "CMS - NO.2 MAIN AIR COMPRESSOR",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2029/03/19",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Class Special Survey of Hull (No.3)",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/03/19",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Class Special Survey of Machinery",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/03/19",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Class Special Survey of Auto. & Rem. System",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/03/19",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Propeller Shaft Condition Monitoring Special Survey",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2029/03/19",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/03/19",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/05/24",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2039/03/20",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2039/03/20",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
     }
   ]
 }

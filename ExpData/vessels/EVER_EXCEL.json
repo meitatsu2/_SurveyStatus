@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER EXCEL",
   "last_updated": "2026-10-18",
-  "total_records": 233,
+  "total_records": 227,
   "records": [
     {
       "DUE_DATE": "2026/03/16",
@@ -1364,42 +1364,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "CMS - Tie Rods // MACHINERY > Main Propulsion System > Main Diesel Engine > Tie Rods",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/06/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2027/06/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 5Remote",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2027/06/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 5",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2027/06/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 5",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2030/04/07",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2037/05/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
-      "CODE": "CB06"
     }
   ]
 }

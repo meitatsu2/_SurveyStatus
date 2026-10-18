@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER SALUTE",
   "last_updated": "2026-10-18",
-  "total_records": 115,
+  "total_records": 108,
   "records": [
     {
       "DUE_DATE": "2026/11/28",
@@ -650,48 +650,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Periodical Safety Radio Survey 4Remote",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2028/01/10",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2028/01/10",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 4Remote",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/01/10",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 4",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/01/10",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 4",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2030/08/02",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2037/12/11",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2099/12/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Record Only Comment : Engine Power Limitation (EPL) is approved, limiting the main engine’s power to 28,500 kW at 80.4 rpm.",
-      "CODE": "CA19"
     }
   ]
 }

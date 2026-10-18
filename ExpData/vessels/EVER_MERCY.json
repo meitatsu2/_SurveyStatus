@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER MERCY",
   "last_updated": "2026-10-18",
-  "total_records": 12,
+  "total_records": 6,
   "records": [
     {
       "DUE_DATE": "2027/02/06",
@@ -38,42 +38,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Periodical Safety Equipment Survey 1Dual ModeRemote",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/11/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2029/11/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 1Remote",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/11/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 1",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/11/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 1",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/11/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Survey - Propeller Shaft",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2039/11/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Propeller Shaft",
-      "CODE": "CB06"
     }
   ]
 }

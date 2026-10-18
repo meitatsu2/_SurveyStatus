@@ -1,7 +1,7 @@
 {
   "vessel_name": "UNI-ACCORD",
   "last_updated": "2026-10-18",
-  "total_records": 14,
+  "total_records": 8,
   "records": [
     {
       "DUE_DATE": "2026/12/07",
@@ -50,42 +50,6 @@
       "CLASS": "NK",
       "DESCRIPTION": "Safety Construction - Annual Survey",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/10/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2027/10/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2027/10/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2027/10/18",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2028/03/17",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Non-Conformity : Requirement:\n- As per SSP Section 5.2 Records of periodic review of SSP and the amendment of SSP to be recorded and available on board.\nEvidence:\n- No records of the ship security plan, periodic review by CSO and records of the amendment of the SSP are provided on board.\nNature:\n- The SSP procedure was not followed accordingly.",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2037/10/01",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
     }
   ]
 }

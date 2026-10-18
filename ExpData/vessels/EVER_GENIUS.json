@@ -6,6 +6,12 @@
     {
       "DUE_DATE": "2028/08/01",
       "CLASS": "LR",
+      "DESCRIPTION": "LR - NO.1 BOW THRUSTER OUT OF SERVICE",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2028/08/01",
+      "CLASS": "LR",
       "DESCRIPTION": "Surv - SS - SPECIAL",
       "CODE": "CB03"
     },
@@ -20,12 +26,6 @@
       "CLASS": "LR",
       "DESCRIPTION": "Surv - TS1 - SCREWSHAFT",
       "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2028/08/01",
-      "CLASS": "LR",
-      "DESCRIPTION": "LR - NO.1 BOW THRUSTER OUT OF SERVICE",
-      "CODE": "CA19"
     }
   ]
 }

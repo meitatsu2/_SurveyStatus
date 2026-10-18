@@ -1,7 +1,7 @@
 {
   "vessel_name": "UNI-PROBITY",
   "last_updated": "2026-10-18",
-  "total_records": 18,
+  "total_records": 7,
   "records": [
     {
       "DUE_DATE": "2027/01/10",
@@ -44,72 +44,6 @@
       "CLASS": "NK",
       "DESCRIPTION": "NK - The damaged outboard stern tube bearing is to be renewed not later than the due date below, further\nextension of the due date maybe considered subject to L.O. analysis report and temperature record verified\nby the attending surveyor in accordance with SVD instruction (Ref: TZ #601627-2 and Ref:TZ #645432-3).",
       "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2029/07/14",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Bottom Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2029/07/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2031/02/23",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2031/06/21",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Class Special Survey of Hull (No.6)",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/06/21",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Class Special Survey of Machinery",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/06/21",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Class Special Survey of Auto. & Rem. System",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/06/21",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/06/21",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/07/14",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Propeller Shaft Survey C (M1/M2/M3)",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2031/07/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2041/07/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "vessel_name": "EVER MEMO",
+  "last_updated": "2026-10-18",
+  "total_records": 3,
+  "records": [
+    {
+      "DUE_DATE": "2027/10/10",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2029/10/10",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - SS - SPECIAL",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/10/10",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - TS1 - SCREWSHAFT",
+      "CODE": "CB06"
+    }
+  ]
+}

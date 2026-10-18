@@ -1,7 +1,7 @@
 {
   "vessel_name": "UNI-PROSPER",
   "last_updated": "2026-10-18",
-  "total_records": 103,
+  "total_records": 101,
   "records": [
     {
       "DUE_DATE": "2026/04/30",
@@ -608,18 +608,6 @@
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Ship Security Certificate Renewal Verification",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2031/06/26",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2036/10/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
     }
   ]
 }
