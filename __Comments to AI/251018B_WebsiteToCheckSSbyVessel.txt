@@ -46,33 +46,41 @@ COMMENTS:
 
 
 
-    
-
-
-
-
-
-
-
-icons of home, dropdown of 'Dept' and 'PIC' from the left to the right at next row to the title.
-The source of the dropdown of dept is pic.json. one item per dept.
-The source of the dropdown of pic is pic.json. default to show all pic. 
-items of pic is dependent on dept if selected. i.e. only the pic of the corresponding dept to be shown in items of pic when the dropdown of dept changed.
-'ALL' shall be added to items of dept and pic.
-when select 'ALL' for dept, all items will be shown in pic.
-2.4 the data frame shall default to show the complete data of vessel_list.json in table. 
-
 
 '********************************************************************************************
 '********************************************************************************************
 '********************************************************************************************
-
-
+COMMENTS:
+1. Correct Age of DD= int(($DD_EXP$-$deliver$)/36.5)/10.
+2. For model 2 of the footer, a 'return' control shall be shown at left of pagination controls to restore vessel_list in the latest setting in data frame. 
+3. Home icon in the header controls the page to go back to initial default status.
+4. Go ahead to provide the index.html
 
 '********************************************************************************************
 '********************************************************************************************
 '********************************************************************************************
+gemini:
+To find the public web URL for your newly deployed website on GitHub Pages:
 
+1. **Open your repository on GitHub**: Go to [https://github.com/meitatsu2/_SurveyStatus](https://www.google.com/search?q=https://github.com/meitatsu2/_SurveyStatus).
+2. **Go to Repository Settings**: Click the **Settings** tab (represented by a gear icon) near the top right of the repository page.
+3. **Navigate to Pages**: In the left sidebar under the **Code and automation** section, click **Pages**.
+4. **Locate your Site URL**:
+* If GitHub Pages is already active, you will see a banner at the top of the page stating:
+> **Your site is live at** `[https://meitatsu2.github.io/_SurveyStatus/](https://meitatsu2.github.io/_SurveyStatus/)`
+
+
+* If GitHub Pages is **not yet enabled**:
+1. Under **Build and deployment** $\rightarrow$ **Source**, ensure **Deploy from a branch** is selected.
+2. Under **Branch**, select **`main`** (or `master`) and leave the folder set to **`/ (root)`**.
+3. Click **Save**.
+4. Wait 1–2 minutes, refresh the page, and your public URL will appear at the top.
+
+
+
+
+
+---
 '********************************************************************************************
 '********************************************************************************************
 '********************************************************************************************
