@@ -1,8 +1,62 @@
 {
   "vessel_name": "EVER ORIENT",
-  "last_updated": "2026-10-19",
-  "total_records": 6,
+  "last_updated": "2026-10-20",
+  "total_records": 15,
   "records": [
+    {
+      "DUE_DATE": "2027/04/18",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/18",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/18",
+      "CLASS": "NK",
+      "DESCRIPTION": "Load Line - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/18",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Construction - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/18",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Equipment - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/18",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Radio - Periodical Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/18",
+      "CLASS": "NK",
+      "DESCRIPTION": "OPP (MARPOL Annex I) - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/18",
+      "CLASS": "NK",
+      "DESCRIPTION": "APP (MARPOL Annex VI) - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/18",
+      "CLASS": "NK",
+      "DESCRIPTION": "Ballast Water Management - Annual Survey",
+      "CODE": ""
+    },
     {
       "DUE_DATE": "2029/01/15",
       "CLASS": "NK",

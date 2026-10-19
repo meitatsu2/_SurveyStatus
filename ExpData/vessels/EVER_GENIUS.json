@@ -1,8 +1,14 @@
 {
   "vessel_name": "EVER GENIUS",
-  "last_updated": "2026-10-19",
-  "total_records": 4,
+  "last_updated": "2026-10-20",
+  "total_records": 5,
   "records": [
+    {
+      "DUE_DATE": "2027/11/01",
+      "CLASS": "LR",
+      "DESCRIPTION": "LR - EXHAUST GAS ECONOMISER OUT OF SERVICE",
+      "CODE": "CA19"
+    },
     {
       "DUE_DATE": "2028/08/01",
       "CLASS": "LR",

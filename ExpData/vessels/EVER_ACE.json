@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER ACE",
-  "last_updated": "2026-10-19",
-  "total_records": 12,
+  "last_updated": "2026-10-20",
+  "total_records": 10,
   "records": [
     {
       "DUE_DATE": "2026/11/11",
@@ -30,19 +30,7 @@
     {
       "DUE_DATE": "2027/01/12",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Safety Management CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/12",
-      "CLASS": "AB",
       "DESCRIPTION": "Cert - Certificate of Vessel ComplianceECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/12",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Maritime Labour CertificateECC",
       "CODE": ""
     },
     {

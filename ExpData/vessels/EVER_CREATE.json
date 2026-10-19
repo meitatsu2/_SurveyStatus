@@ -1,8 +1,14 @@
 {
   "vessel_name": "EVER CREATE",
-  "last_updated": "2026-10-19",
-  "total_records": 16,
+  "last_updated": "2026-10-20",
+  "total_records": 18,
   "records": [
+    {
+      "DUE_DATE": "2026/12/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "CR - A gap between hatch cover seal rubber and hatch coaming top plate was found in way of the forward, outboard corner area of No. 1F (S) hatch cover and the forward, inboard corner area of No. 1F (P) hatch cover, which resulted in hatch cover weather tightness can not be maintained.\nThe above-mentioned defective areas were applied with polyurethane foam gap filling agent and marine tapes as temporary repairs to keep weather tight and considered satisfactory.\nIt is recommended that the above defective hatch covers be permanently repaired and hose tested to the satisfaction of the attending surveyor as soon as possible, but not later than 16 December 2026, as granted by the flag Administration.\nDispensation Application DOC. No. ES-2026-0709, which is valid until 16 December 2026, must be kept on board at all times together with the International Load Line Certificate.",
+      "CODE": "CA19"
+    },
     {
       "DUE_DATE": "2027/03/11",
       "CLASS": "CR",
@@ -32,6 +38,12 @@
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Lifting Appliances Thorough Examination\nSWL:0.5 tons at Fr.21(S)",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/06/24",
+      "CLASS": "CR",
+      "DESCRIPTION": "CR - In way of No. 1F (S) Cargo Hold Hatch Cover\nThe internal structures in way of the forward, outboard stacking position were found deformed, buckled and twisted.\nHatch cover top plating was found deformed between transverse beam Nos. T14 and T16, and between longitudinal beam Nos. L13 and L14.\nIt is recommended that the above defective items be repaired and dealt with to the satisfaction of the attending surveyor prior to crediting vessel’s next Annual Survey, but not later than 24 June 2027.",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2029/03/11",

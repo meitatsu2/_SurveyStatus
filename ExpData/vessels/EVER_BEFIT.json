@@ -1,32 +1,8 @@
 {
   "vessel_name": "EVER BEFIT",
-  "last_updated": "2026-10-19",
-  "total_records": 17,
+  "last_updated": "2026-10-20",
+  "total_records": 13,
   "records": [
-    {
-      "DUE_DATE": "2026/08/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/08/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.5 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.4 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.7 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
-      "CODE": ""
-    },
     {
       "DUE_DATE": "2027/01/31",
       "CLASS": "NK",

@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LASTING",
-  "last_updated": "2026-10-19",
-  "total_records": 14,
+  "last_updated": "2026-10-20",
+  "total_records": 16,
   "records": [
     {
       "DUE_DATE": "2026/06/19",
@@ -68,6 +68,18 @@
       "CLASS": "LR",
       "DESCRIPTION": "Surv - BWA - BALLAST WATER ANNUAL",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/15",
+      "CLASS": "LR",
+      "DESCRIPTION": "LR - BRIDGE TELEGRAPH REPEATERS",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2026/12/15",
+      "CLASS": "LR",
+      "DESCRIPTION": "LR - EGCS GAS ANALYSER DEVICE",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2027/07/31",

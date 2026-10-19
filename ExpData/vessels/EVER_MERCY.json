@@ -1,44 +1,8 @@
 {
   "vessel_name": "EVER MERCY",
-  "last_updated": "2026-10-19",
-  "total_records": 12,
+  "last_updated": "2026-10-20",
+  "total_records": 6,
   "records": [
-    {
-      "DUE_DATE": "2027/02/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Intermediate Ballast Water Management Survey 1Dual Mode",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Intermediate Carriage of Dangerous Goods Survey 1Dual Mode",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Intermediate IAPP Annex VI Survey 1Dual Mode",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Intermediate IOPP Annex I Survey 1Dual Mode",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Intermediate Safety Construction Survey 1Dual Mode",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Periodical Safety Equipment Survey 1Dual ModeRemote",
-      "CODE": ""
-    },
     {
       "DUE_DATE": "2027/11/06",
       "CLASS": "AB",

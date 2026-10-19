@@ -1,14 +1,8 @@
 {
   "vessel_name": "EVER LYRIC",
-  "last_updated": "2026-10-19",
+  "last_updated": "2026-10-20",
   "total_records": 16,
   "records": [
-    {
-      "DUE_DATE": "2026/10/22",
-      "CLASS": "CR",
-      "DESCRIPTION": "CR - 1. The deformed bulwark with bulwark stays on the upper deck between Fr.-6 & L.10(P) ~ L.4(S) were found.\n2. The cracked & fractured welding of lashing bridge pillars at No.21 lashing bridge on the upper deck, between Fr.-6 & L.2(P), L.4(P), were found.\n3. The deformed lashing bridge pillar and A-Bracing at No.21 lashing bridge, approximately 1600 mm above the upper deck, between Fr.-6 & L.2(P), L.4(P), L.7(P), were found.\n4. The deformed No.1 lashing walkway at No.21 lashing bridge, between Fr.-5 ~ -6 & L.4(P) ~ L.7(P), was found.\n5. The hole in way of upper deck at Fr.-6 & L.4(P) was found.\nThe above-mentioned items are recommended to be permanently repaired to the satisfaction of the attending surveyor as soon as possible, but not later than 22/10/2026.",
-      "CODE": "CA19"
-    },
     {
       "DUE_DATE": "2026/12/11",
       "CLASS": "NK",
@@ -19,6 +13,12 @@
       "DUE_DATE": "2026/12/11",
       "CLASS": "NK",
       "DESCRIPTION": "NK - The following temporarily repaired supporting structure of No.21 Lashing Bridge at bay 78, between CL and L7(P) are to be permanently repaired by the due date below.\n1. Diagonal Bracing in between CL and L4(P). \n2. Two(2) Bridge column at L4(P) and L7(P).  \n\nSubject to the following conditions:\n1. Risk assessment to be carried out in accordance with the company's safety management manual.\n2. Until the permanent repair, countermeasure such as periodical monitoring by crew are to be carried out\n    at Master's responsibility based on the result of the risk assessment.\n3. If any serious progress of the damage is found by crew, including our class, all parties concerned are to\n    be informed without any delay.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2027/01/21",
+      "CLASS": "CR",
+      "DESCRIPTION": "CR - 1. The deformed bulwark with bulwark stays on the upper deck between Fr.-6 & L.10(P) ~ L.4(S) were found.\n2. The cracked & fractured welding of lashing bridge pillars at No.21 lashing bridge on the upper deck, between Fr.-6 & L.2(P), L.4(P), were found.\n3. The deformed lashing bridge pillar and A-Bracing at No.21 lashing bridge, approximately 1600 mm above the upper deck, between Fr.-6 & L.2(P), L.4(P), L.7(P), were found.\n4. The deformed No.1 lashing walkway at No.21 lashing bridge, between Fr.-5 ~ -6 & L.4(P) ~ L.7(P), was found.\n5. The hole in way of upper deck at Fr.-6 & L.4(P) was found.\nThe above-mentioned items are recommended to be permanently repaired to the satisfaction of the attending surveyor as soon as possible, but not later than 21 January 2027",
       "CODE": "CA19"
     },
     {

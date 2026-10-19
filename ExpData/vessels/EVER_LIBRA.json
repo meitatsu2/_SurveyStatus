@@ -1,8 +1,14 @@
 {
   "vessel_name": "EVER LIBRA",
-  "last_updated": "2026-10-19",
+  "last_updated": "2026-10-20",
   "total_records": 12,
   "records": [
+    {
+      "DUE_DATE": "2026/12/09",
+      "CLASS": "LR",
+      "DESCRIPTION": "LR - Port side chain cable stud to be repaired.",
+      "CODE": "CA19"
+    },
     {
       "DUE_DATE": "2026/12/09",
       "CLASS": "CR",
@@ -10,10 +16,16 @@
       "CODE": "CA19"
     },
     {
-      "DUE_DATE": "2026/12/09",
+      "DUE_DATE": "2027/10/21",
       "CLASS": "LR",
-      "DESCRIPTION": "LR - Port side chain cable stud to be repaired.",
-      "CODE": "CA19"
+      "DESCRIPTION": "Surv - SS - SPECIAL",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/10/21",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
+      "CODE": "CB04"
     },
     {
       "DUE_DATE": "2027/10/21",
@@ -50,18 +62,6 @@
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Condition Monitoring Special Survey",
       "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2027/10/21",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - SS - SPECIAL",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2027/10/21",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
-      "CODE": "CB04"
     },
     {
       "DUE_DATE": "2027/10/31",
