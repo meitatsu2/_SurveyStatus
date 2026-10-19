@@ -224,7 +224,9 @@ Here is the updated index.html code with all four requested modifications incorp
 '********************************************************************************************
 '********************************************************************************************
 '********************************************************************************************
-
+COMMENTS:
+1. The vessel list is not covered by all vessel_name.json, I need the vessel list to identify the vessels with json in the vessel name in existing format while other in regular format.
+2. Tell me the logic to achieve this purpose for my approval before I request to provide the complete revised html code.
 '********************************************************************************************
 '********************************************************************************************
 '********************************************************************************************
