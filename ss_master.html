@@ -1,7 +1,3 @@
-// Auth Guard: Redirect back to login if session token is missing
-if (sessionStorage.getItem("auth_pass") !== "true") {
-    window.location.replace("index.html");
-}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -461,6 +457,9 @@ if (sessionStorage.getItem("auth_pass") !== "true") {
 
     <!-- APPLICATION LOGIC -->
     <script>
+    // Auth Guard: Redirect back to login if session token is missing
+    if (sessionStorage.getItem("auth_pass") !== "true") {window.location.replace("index.html");
+    }
     (function() {
         let masterVesselList = [];
         let filteredVesselList = [];
