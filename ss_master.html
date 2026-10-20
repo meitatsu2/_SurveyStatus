@@ -153,9 +153,27 @@
             background-color: #dee2e6;
         }
 
+        /* Active Vessel Link Style (Bold & Clickable) */
+        .vessel-link {
+            color: var(--primary-green);
+            font-weight: bold;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .vessel-link:hover {
+            text-decoration: underline;
+        }
+
+        /* Inactive Vessel Style (Regular Text) */
+        .vessel-no-link {
+            color: #333333;
+            font-weight: normal;
+        }
+
         /* INDIVIDUAL VESSEL STATUS TABLE (FIXED 1.5x DISPLAY WIDTH) */
         #vesselStatusTable {
-            width: 150vw; /* Fixed 1.5 times phone display width */
+            width: 150vw;
             border-collapse: collapse;
             font-size: 0.75rem;
             table-layout: fixed;
@@ -176,37 +194,25 @@
             user-select: none;
         }
 
-        /* Column Specific Width Rules */
         .col-due-date {
             width: 85px;
         }
 
         .col-cs {
-            width: 32px; /* Reduced width to fit 2 letters */
+            width: 32px;
             text-align: center !important;
         }
 
         .col-description {
             width: auto;
-            white-space: normal !important; /* Word wrap enabled */
+            white-space: normal !important;
             word-break: break-word;
-            max-height: 33vh; /* Height capped at 1/3 of upper window */
+            max-height: 33vh;
             overflow-y: auto;
         }
 
         .col-code {
             width: 65px;
-        }
-
-        .vessel-link {
-            color: var(--primary-green);
-            font-weight: bold;
-            text-decoration: none;
-            cursor: pointer;
-        }
-
-        .vessel-link:hover {
-            text-decoration: underline;
         }
 
         /* 4:1 RATIO SPLIT FOR VESSEL DETAIL */
@@ -271,10 +277,10 @@
             font-size: 0.75rem;
         }
 
-        /* RECTIFIED COLOR SCHEME: Yellow updated to #f7ff07 */
+        /* COLOR SCHEME */
         .status-red { background-color: #dc3545 !important; color: #ffffff !important; font-weight: bold; }
         .status-orange { background-color: #fd7e14 !important; color: #000000 !important; }
-        .status-yellow { background-color: #f7ff07 !important; color: #000000 !important; } /* Updated yellow */
+        .status-yellow { background-color: #f7ff07 !important; color: #000000 !important; }
         .status-green { background-color: #28a745 !important; color: #000000 !important; }
         .status-white { background-color: #ffffff !important; color: #000000 !important; }
 
@@ -407,7 +413,7 @@
                         <thead>
                             <tr>
                                 <th class="col-due-date">DUE_DATE</th>
-                                <th class="col-cs">CS</th> <!-- Replaced CLASS with CS -->
+                                <th class="col-cs">CS</th>
                                 <th class="col-description">DESCRIPTION</th>
                                 <th class="col-code">CODE</th>
                             </tr>
@@ -454,6 +460,7 @@
     (function() {
         let masterVesselList = [];
         let filteredVesselList = [];
+        let activeVesselIndexes = []; // Array of indexes that have active status JSON files
         let picMappingList = [];
         let currentSortField = "vessel_name";
         let currentSortAsc = true;
@@ -497,12 +504,28 @@
                 masterVesselList = await vesselRes.json();
                 picMappingList = await picRes.json();
 
+                // Check active status JSON availability across the vessel fleet
+                await checkVesselStatusAvailability();
+
                 populateDeptDropdown();
                 applyFiltersAndSort();
             } catch (err) {
                 console.error("Error loading master index data:", err);
                 vesselListTbody.innerHTML = `<tr><td colspan="10" style="color:red; text-align:center; padding: 10px;">Failed to load vessel data: ${err.message}. Ensure ExpData folder exists in repository root.</td></tr>`;
             }
+        }
+
+        async function checkVesselStatusAvailability() {
+            // Verify presence of status JSON files in parallel batch
+            const checks = masterVesselList.map(async (v) => {
+                try {
+                    const res = await fetch(`ExpData/vessels/${v.file_name}`, { method: 'HEAD' });
+                    v.has_status = res.ok;
+                } catch (e) {
+                    v.has_status = false;
+                }
+            });
+            await Promise.all(checks);
         }
 
         function populateDeptDropdown() {
@@ -559,6 +582,12 @@
                 return 0;
             });
 
+            // Update index list of vessels with active status files for pagination
+            activeVesselIndexes = [];
+            filteredVesselList.forEach((v, idx) => {
+                if (v.has_status) activeVesselIndexes.push(idx);
+            });
+
             renderVesselListTable();
         }
 
@@ -572,8 +601,14 @@
 
             filteredVesselList.forEach((v, idx) => {
                 const tr = document.createElement("tr");
+
+                // Render bold green link for vessels WITH status JSON, regular text for vessels WITHOUT
+                const nameHtml = v.has_status 
+                    ? `<span class="vessel-link" data-index="${idx}">${escapeHtml(v.vessel_name)}</span>`
+                    : `<span class="vessel-no-link">${escapeHtml(v.vessel_name)}</span>`;
+
                 tr.innerHTML = `
-                    <td><span class="vessel-link" data-index="${idx}">${escapeHtml(v.vessel_name)}</span></td>
+                    <td>${nameHtml}</td>
                     <td>${escapeHtml(v.dept)}</td>
                     <td>${escapeHtml(v.pic)}</td>
                     <td>${escapeHtml(v.class)}</td>
@@ -600,6 +635,8 @@
             selectedVesselIndex = index;
             const vessel = filteredVesselList[selectedVesselIndex];
 
+            if (!vessel.has_status) return; // Prevent opening vessels without status data
+
             viewVesselList.classList.add("hidden");
             viewVesselDetail.classList.remove("hidden");
             footerListMode.classList.add("hidden");
@@ -619,6 +656,24 @@
             } catch (err) {
                 console.error("Error loading vessel json:", err);
                 vesselStatusTbody.innerHTML = `<tr><td colspan="4" style="color:red; text-align:center;">Failed to load vessel data: ${err.message}</td></tr>`;
+            }
+        }
+
+        function navigateDetail(direction) {
+            if (activeVesselIndexes.length === 0) return;
+            
+            let currentPos = activeVesselIndexes.indexOf(selectedVesselIndex);
+            
+            if (direction === "first") {
+                openVesselDetail(activeVesselIndexes[0]);
+            } else if (direction === "last") {
+                openVesselDetail(activeVesselIndexes[activeVesselIndexes.length - 1]);
+            } else if (direction === "prev") {
+                if (currentPos > 0) openVesselDetail(activeVesselIndexes[currentPos - 1]);
+            } else if (direction === "next") {
+                if (currentPos >= 0 && currentPos < activeVesselIndexes.length - 1) {
+                    openVesselDetail(activeVesselIndexes[currentPos + 1]);
+                }
             }
         }
 
@@ -742,10 +797,10 @@
             homeBtn.addEventListener("click", resetToDefaultHome);
             btnReturn.addEventListener("click", returnToVesselList);
 
-            btnFirst.addEventListener("click", () => openVesselDetail(0));
-            btnPrev.addEventListener("click", () => openVesselDetail(selectedVesselIndex - 1));
-            btnNext.addEventListener("click", () => openVesselDetail(selectedVesselIndex + 1));
-            btnLast.addEventListener("click", () => openVesselDetail(filteredVesselList.length - 1));
+            btnFirst.addEventListener("click", () => navigateDetail("first"));
+            btnPrev.addEventListener("click", () => navigateDetail("prev"));
+            btnNext.addEventListener("click", () => navigateDetail("next"));
+            btnLast.addEventListener("click", () => navigateDetail("last"));
         }
 
         function returnToVesselList() {

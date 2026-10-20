@@ -1,0 +1,10 @@
+
+Run the script in powershell terminal:
+\_MYPYTHON\Python_Core\python\python -c "import hashlib; print(hashlib.sha256('PASSWORD'.encode()).hexdigest())"
+
+Paste the generated strings on pw.json:
+{
+  "valid_hashes": [
+    "generated string to be pasted here"
+  ]
+}
