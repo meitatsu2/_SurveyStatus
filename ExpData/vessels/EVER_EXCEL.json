@@ -1038,6 +1038,12 @@
     {
       "DUE_DATE": "2027/04/08",
       "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 5Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/08",
+      "CLASS": "AB",
       "DESCRIPTION": "CMS - Emergency Generator Engine // MACHINERY > Emergency Power Distribution System > Emergency Generator Engine",
       "CODE": ""
     },
@@ -1123,12 +1129,6 @@
       "DUE_DATE": "2027/04/08",
       "CLASS": "AB",
       "DESCRIPTION": "CMS - Vibration Damper // MACHINERY > Main Propulsion System > Main Diesel Engine > Vibration Damper",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/08",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 5Remote",
       "CODE": ""
     },
     {

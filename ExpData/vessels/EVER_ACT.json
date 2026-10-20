@@ -18,6 +18,24 @@
     {
       "DUE_DATE": "2027/03/13",
       "CLASS": "AB",
+      "DESCRIPTION": "Surv - ISM Renewal Audit 1 - SERemote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/13",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - ISPS Renewal Verification 1 - Part A & BRemote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/13",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - MLC Renewal Inspection 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/13",
+      "CLASS": "AB",
       "DESCRIPTION": "Cert - International Ship Security Certificate (ISSC)ECC",
       "CODE": ""
     },
@@ -37,24 +55,6 @@
       "DUE_DATE": "2027/03/13",
       "CLASS": "AB",
       "DESCRIPTION": "Cert - Maritime Labour CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/13",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - ISM Renewal Audit 1 - SERemote",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/13",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - ISPS Renewal Verification 1 - Part A & BRemote",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/13",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - MLC Renewal Inspection 1Remote",
       "CODE": ""
     },
     {

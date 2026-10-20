@@ -354,24 +354,6 @@
     {
       "DUE_DATE": "2027/04/18",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - International Ship Security Certificate (ISSC)ECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/18",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Safety Management CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/18",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Maritime Labour CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/18",
-      "CLASS": "AB",
       "DESCRIPTION": "Surv - ISM Renewal Audit 1Remote",
       "CODE": ""
     },
@@ -385,6 +367,24 @@
       "DUE_DATE": "2027/04/18",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - MLC Renewal Inspection 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/18",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - International Ship Security Certificate (ISSC)ECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/18",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Safety Management CertificateECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/18",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Maritime Labour CertificateECC",
       "CODE": ""
     },
     {

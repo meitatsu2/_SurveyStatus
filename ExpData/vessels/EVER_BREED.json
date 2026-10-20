@@ -150,12 +150,6 @@
     {
       "DUE_DATE": "2027/04/12",
       "CLASS": "AB",
-      "DESCRIPTION": "ABS Non-Conformity : Requirement\n:\nObsolete documents are to be promptly removed.\nEvidence\n:\nAccording to the SE Manual, Rev.14, the Form No. FM-0401-1 \"Risk Assessment for Shipboard Operations, Rev. 4\" was updated on 01 January 2024.\nFound the obsoleted edition (Rev. 3, date 01 March 2021) still used by the Engine Department.\nNature\n:\nThe ISM requirement for document control was not followed.",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2027/04/12",
-      "CLASS": "AB",
       "DESCRIPTION": "Surv - ISM Intermediate Audit 2Remote",
       "CODE": ""
     },
@@ -170,6 +164,12 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - MLC Intermediate Inspection 2Remote",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirement\n:\nObsolete documents are to be promptly removed.\nEvidence\n:\nAccording to the SE Manual, Rev.14, the Form No. FM-0401-1 \"Risk Assessment for Shipboard Operations, Rev. 4\" was updated on 01 January 2024.\nFound the obsoleted edition (Rev. 3, date 01 March 2021) still used by the Engine Department.\nNature\n:\nThe ISM requirement for document control was not followed.",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2028/11/27",
