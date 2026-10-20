@@ -1,3 +1,9 @@
 
 Run the following command in powershell terminal:
-\_MYPYTHON\Python_Core\python\python -c "import hashlib; print(hashlib.sha256('Evergreen2026'.encode()).hexdigest())"
+\_MYPYTHON\Python_Core\python\python -c "import hashlib; print(hashlib.sha256('YourPassword'.encode()).hexdigest())"
+Paste the generated 64-character hash into pw.json:
+{
+  "valid_hashes": [
+    "d781b0a82798e2098d6c778fa8dd830176840d21055f1be6d5b03f0b2f976a43"
+  ]
+}
