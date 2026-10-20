@@ -2,25 +2,118 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Evergreen Survey Status - Authentication</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Evergreen Survey Status Master - Authentication</title>
     <style>
-        body { font-family: sans-serif; background: #f4f6f8; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
-        .card { background: white; padding: 24px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); text-align: center; width: 280px; }
-        input { width: 100%; padding: 10px; margin: 12px 0; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
-        button { width: 100%; padding: 10px; background: #008751; color: white; border: none; border-radius: 4px; font-weight: bold; cursor: pointer; }
-        .error { color: red; font-size: 0.8rem; margin-top: 8px; display: none; }
+        :root {
+            --primary-green: #008751;
+            --primary-dark: #005a36;
+            --bg-light: #f4f6f8;
+            --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: var(--font-family);
+            background-color: var(--bg-light);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: #333;
+        }
+
+        .auth-card {
+            background: white;
+            padding: 24px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+            width: 90%;
+            max-width: 320px;
+            text-align: center;
+        }
+
+        .auth-card h2 {
+            font-size: 1.1rem;
+            color: var(--primary-green);
+            margin-bottom: 16px;
+        }
+
+        .input-group {
+            margin-bottom: 16px;
+        }
+
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            font-size: 0.9rem;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            outline: none;
+        }
+
+        input[type="password"]:focus {
+            border-color: var(--primary-green);
+        }
+
+        button.btn-login {
+            width: 100%;
+            padding: 10px;
+            background-color: var(--primary-green);
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 0.9rem;
+            font-weight: bold;
+            cursor: pointer;
+            touch-action: manipulation;
+        }
+
+        button.btn-login:hover {
+            background-color: var(--primary-dark);
+        }
+
+        .error-msg {
+            color: #dc3545;
+            font-size: 0.8rem;
+            margin-top: 10px;
+            display: none;
+        }
     </style>
 </head>
 <body>
-    <div class="card">
-        <h3>Survey Status Access</h3>
-        <input type="password" id="pwInput" placeholder="Enter Password">
-        <button onclick="verifyPassword()">Access System</button>
-        <div id="errMsg" class="error">Invalid password. Please try again.</div>
+
+    <div class="auth-card">
+        <h2>Evergreen Survey Status</h2>
+        <div class="input-group">
+            <input type="password" id="pwInput" placeholder="Enter Access Password" autocomplete="current-password">
+        </div>
+        <button class="btn-login" id="btnLogin">Access System</button>
+        <div class="error-msg" id="errorMsg">Invalid password. Access denied.</div>
     </div>
 
     <script>
+    (function() {
+        const pwInput = document.getElementById("pwInput");
+        const btnLogin = document.getElementById("btnLogin");
+        const errorMsg = document.getElementById("errorMsg");
+
+        // Direct redirect if already authenticated in current session
+        if (sessionStorage.getItem("auth_pass") === "true") {
+            window.location.replace("ss_master.html");
+            return;
+        }
+
+        btnLogin.addEventListener("click", verifyPassword);
+        pwInput.addEventListener("keypress", (e) => {
+            if (e.key === "Enter") verifyPassword();
+        });
+
         async function hashPassword(str) {
             const encoder = new TextEncoder();
             const data = encoder.encode(str);
@@ -30,27 +123,31 @@
         }
 
         async function verifyPassword() {
-            const input = document.getElementById("pwInput").value;
-            const errMsg = document.getElementById("errMsg");
-            
-            if (!input) return;
+            const val = pwInput.value.trim();
+            if (!val) return;
 
             try {
-                const inputHash = await hashPassword(input);
-                const res = await fetch("pw.json");
-                const data = await res.json();
+                const userHash = await hashPassword(val);
+                const response = await fetch("pw.json", { cache: "no-store" });
+                
+                if (!response.ok) throw new Error("pw.json missing");
+                
+                const data = await response.json();
 
-                if (data.valid_hashes.includes(inputHash)) {
-                    sessionStorage.setItem("authenticated", "true");
-                    // Redirect to secret status page
-                    window.location.href = "ss_master.html";
+                if (data.valid_hashes && data.valid_hashes.includes(userHash)) {
+                    sessionStorage.setItem("auth_pass", "true");
+                    window.location.replace("ss_master.html");
                 } else {
-                    errMsg.style.display = "block";
+                    errorMsg.style.display = "block";
+                    pwInput.value = "";
                 }
             } catch (err) {
-                console.error("Auth error:", err);
+                console.error("Auth verify error:", err);
+                errorMsg.textContent = "Authentication system error.";
+                errorMsg.style.display = "block";
             }
         }
+    })();
     </script>
 </body>
 </html>
