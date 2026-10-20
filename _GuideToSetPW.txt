@@ -1,0 +1,3 @@
+
+Run the following command in powershell terminal:
+\_MYPYTHON\Python_Core\python\python -c "import hashlib; print(hashlib.sha256('Evergreen2026'.encode()).hexdigest())"
