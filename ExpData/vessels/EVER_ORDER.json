@@ -6,6 +6,24 @@
     {
       "DUE_DATE": "2027/02/12",
       "CLASS": "AB",
+      "DESCRIPTION": "Surv - ISM Renewal Audit 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - ISPS Renewal Verification 1 - Part A & BRemote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - MLC Renewal Inspection 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/12",
+      "CLASS": "AB",
       "DESCRIPTION": "Cert - Safety Management CertificateECC",
       "CODE": ""
     },
@@ -26,24 +44,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "ABS Non-Conformity : Requirements:\nSEMS, MN-11, 1,1 Valid documents can be located and are available at points of use.\nEvidence:\nBelow records were missing during record sampling:\n1. C/Cook familiarization training \"Basic safety training record\". \n2. Fuel sampled inventory log for bunkering was last updated until 13-Oct-2023. \n3. Hot work permit dated 12-Jul-2024 was reviewed and found that the risk assessment G05 was not reviewed.\nNatural:\nThe above records should be available and retained as required by the SEMS and to be presented as the proof that the operation, or procedure has been carried out.",
       "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2027/02/12",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - ISM Renewal Audit 1Remote",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/12",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - ISPS Renewal Verification 1 - Part A & BRemote",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/12",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - MLC Renewal Inspection 1Remote",
-      "CODE": ""
     },
     {
       "DUE_DATE": "2029/06/27",
