@@ -1,0 +1,67 @@
+{
+  "vessel_name": "EVER BLISS",
+  "last_updated": "2026-10-26",
+  "total_records": 10,
+  "records": [
+    {
+      "DUE_DATE": "2027/09/02",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/09/02",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 2Remote",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/09/02",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 2",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/09/02",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 2",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/09/02",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2028/02/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirements:\nAccording to Panama MERCHANT MARINE CIRCULAR MMC-133 that once the SSA terminal has been configured with the main email address threat@amp.gob.pa, the company operator shall request access to platform by email to the e-mail address: info@panama-ssas.com, in order to receive an email from info@panama-ssas.com, with their access credentials and instructions for using the platform and be able to schedule the annual SSAS TEST. Only one annual SSAS TEST is mandatory and must be schedule through the following link: https://polestarglobal.force.com/SSAS/login, in a period no longer than twelve (12) calendar months.\nEvidence:\nThe last two SSAS tests through platform were conducted on 02-Sep-2025 and 12-Apr-2024 and that period was over 12 months.\nNature:\nThe PMA MMC-133 was not follow up.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2032/09/02",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Record Only Comment : Engine Power Limitation (EPL) approved, limiting the main engine’s power to 19,120 kW at 84.1 rpm (limited fuel index to 85%).",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Record Only Comment : A smooth set-in on port side shell plating located above the 2nd deck (12,180 mm above baseline), between Fr. No.60 & 61 and between Side Longitudinal No. 33 & 34, the maximum set-in area was approximately 1,000 mm (L) x 400 mm (h) x depth of 30 mm.\nThe affected areas were examined internally and externally, and both structural integrity and tightness were found not impaired.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Record Only Comment : A smooth set-in on port side shell plating located at around 7m ~ 8m above baseline, between Fr. No. 56 & 60, the maximum set-in area was approximately 300 mm (L) x 100 mm (h) x depth of 70 mm (measurement was taken from external by the ABS recognized diving firm). \nThe affected areas were examined internally and externally, and both structural integrity and tightness were found not impaired.",
+      "CODE": "CA19"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "vessel_name": "EVER PRIDE",
+  "last_updated": "2026-10-26",
+  "total_records": 7,
+  "records": [
+    {
+      "DUE_DATE": "2028/01/18",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2028/01/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/01/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/01/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/12/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirement: \nAs per ISM Code, Clause 10, paragraph 10.1 – Maintenance of the ship and equipment:\n“\nThe Company should establish procedures to ensure that the ship is maintained in conformity with the provisions of the relevant rules and regulations and with any additional requirements which may be established by the Company\n.”\nEvidence:\nDuring the audit, regular testing of the Oily Water Separator and Oil Content Meter was found recorded in the Oil Record Book under Code I, with the last tests recorded on 04 July and 10 July 2026.  \nHowever, during operational testing of the OWS and verification of the system arrangement by recirculating bilge water from bilge tank to bilge tank, the following was identified:  \n1. The sampled effluent was not reaching the measuring cell of the Oil Content Meter.  \n2. During troubleshooting it was found that the sampling line connecting the discharge with the measuring oil content meter was clogged.  \n3. After de-clogging carried out on the spot by the engine crew, sampling of discharged effluent was verified as reaching the measuring cell.  \n4. The above condition had not been identified during the previously recorded routine tests, indicating that inspections and testing were not effective in verifying proper operation of the OWS/OCM arrangement.  \nNature of Non-Conformity:\nIneffective inspection and testing of the OWS/OCM system to verify proper operational condition.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2028/12/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirement:\nAs per ISM Code, Clause 1, paragraph 1.2.3.1:\n“\nThe safety management system should ensure: .1 compliance with mandatory rules and regulations\n.”\nIn this respect, reference is made to:\n- MLC, 2006, Standard A2.3, paragraph 12:\n“Records of seafarers’ daily hours of work or of their daily hours of rest shall be maintained to allow monitoring of compliance with paragraphs 5 to 11 of this Standard\n.”\n- STCW Code, Section A-VIII/1, paragraph 5:\n“\nRecords of daily hours of rest of seafarers shall be maintained to allow monitoring of compliance with the provisions of this section\n.”\nEvidence:\nDuring the audit, the records of hours of rest of seafarers documented in form FM-0604-2 were found not properly completed in relation to drills conducted on 18 April 2026 and 16 May 2026.\nUpon cross-checking the work and rest hours records against the Training or Drill Record documented in form FM-0804-1, the following discrepancies were identified:\nThe drill conducted on 18 April 2026 from 14:30 to 17:00 was not recorded as working time for 2nd Officer, 3rd Officer, AB1 and OS\nThe drills conducted on 16 May 2026 from 14:00 to 15:30 were not recorded as working time for Bosun, AB1, AB2, OS\nThe records maintained did not reflect the actual shipboard activities carried out by the personnel concerned.\nNature of Non-Conformity:\nWork and rest hour records were not accurately maintained",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2038/01/15",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
+    }
+  ]
+}

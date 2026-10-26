@@ -1,0 +1,127 @@
+{
+  "vessel_name": "EVER CREATE",
+  "last_updated": "2026-10-26",
+  "total_records": 20,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "CR - A gap between hatch cover seal rubber and hatch coaming top plate was found in way of the forward, outboard corner area of No. 1F (S) hatch cover and the forward, inboard corner area of No. 1F (P) hatch cover, which resulted in hatch cover weather tightness can not be maintained.\nThe above-mentioned defective areas were applied with polyurethane foam gap filling agent and marine tapes as temporary repairs to keep weather tight and considered satisfactory.\nIt is recommended that the above defective hatch covers be permanently repaired and hose tested to the satisfaction of the attending surveyor as soon as possible, but not later than 16 December 2026, as granted by the flag Administration.\nDispensation Application DOC. No. ES-2026-0709, which is valid until 16 December 2026, must be kept on board at all times together with the International Load Line Certificate.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2026/12/17",
+      "CLASS": "NK",
+      "DESCRIPTION": "NK - The not fully weathertight No.1F (P/S) hatch covers is be permanent repaired as soon as possible but not later than the due date below, and subjected to following:\na. The affected cargo hold space is daily monitored and relevant entries should be recorded in the vessel's official log book.\nb. A risk assessment is carried out as per Company's SMS procedure and appropriate control measures are implemented on board.\nc. All the officers in charge of a navigational watch are aware of the said deficiency and of the measures implemented to compensate it",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2027/03/11",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Lifting Appliances Thorough Examination\nSWL:4.0 tons at Fr.34(P)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/11",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Lifting Appliances Thorough Examination\nSWL:4.0 tons at Fr.34(S)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/11",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Lifting Appliances Thorough Examination\nSWL:4.0 tons at E/R",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/11",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Lifting Appliances Thorough Examination\nSWL:0.5 tons at Fr.21(P)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/11",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Lifting Appliances Thorough Examination\nSWL:0.5 tons at Fr.21(S)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/06/24",
+      "CLASS": "NK",
+      "DESCRIPTION": "NK - The following damage in way of No.1F(S) hatch cover shall be repaired to the satisfaction of the attending surveyor prior to crediting vessel's next Annual Survey, but not later than the due date below.\n1. The internal structures in way of the forward, outboard stacking position were found deformed, buckled and twisted. \n2. Hatch cover top plating was found deformed between transverse beam Nos. T14 and T16, and between longitudinal beam Nos. L13 and L14. \nAbove damage shall be subject to regular examination of ship crew for verification of progress of damage, and report to Class if any serious progress.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2027/06/24",
+      "CLASS": "CR",
+      "DESCRIPTION": "CR - In way of No. 1F (S) Cargo Hold Hatch Cover\nThe internal structures in way of the forward, outboard stacking position were found deformed, buckled and twisted.\nHatch cover top plating was found deformed between transverse beam Nos. T14 and T16, and between longitudinal beam Nos. L13 and L14.\nIt is recommended that the above defective items be repaired and dealt with to the satisfaction of the attending surveyor prior to crediting vessel’s next Annual Survey, but not later than 24 June 2027.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2029/03/11",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Bottom Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2029/03/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2031/03/23",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2031/03/24",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/03/24",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/03/24",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Hull (No.2)",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/03/24",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Machinery",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/03/24",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Auto. & Rem. System",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/03/24",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Condition Monitoring Special Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2036/03/24",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2036/03/24",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
+    }
+  ]
+}

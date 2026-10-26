@@ -1,0 +1,31 @@
+{
+  "vessel_name": "EVER MASS",
+  "last_updated": "2026-10-26",
+  "total_records": 4,
+  "records": [
+    {
+      "DUE_DATE": "2026/11/20",
+      "CLASS": "LR",
+      "DESCRIPTION": "LR - SPEED LOG",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2027/05/27",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2029/05/27",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - SS - SPECIAL",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/05/27",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - TS1 - SCREWSHAFT",
+      "CODE": "CB06"
+    }
+  ]
+}

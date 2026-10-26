@@ -1,0 +1,277 @@
+{
+  "vessel_name": "EVER LOTUS",
+  "last_updated": "2026-10-26",
+  "total_records": 45,
+  "records": [
+    {
+      "DUE_DATE": "2026/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 TURBO CHARGER OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 TURBO CHARGER OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 TURBO CHARGER OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/07/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/07/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 AIR INTER COOLER OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/07/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 AIR INTER COOLER OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/07/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 AIR INTER COOLER OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/07/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - FIRE & G.S. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/08/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 BOLER WATER FEED PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/09/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 AUX. BLOWER OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/09/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 AUX. BLOWER OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/09/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 AUX. BLOWER OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.6 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.6 CROSSHEAD PIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Boiler Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Boiler Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2026/12/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Anti-Fouling Systems - Periodical Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 JACKET COOL. F.W. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 F.O. TRANSFER PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - D.O. TRANSFER PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 F.O. CIRCULATING PUMP FOR G/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 F.O. CIRCULATING PUMP FOR G/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Load Line - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Construction - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Construction - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Equipment - Periodical Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Equipment - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Safety Radio - Periodical Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "OPP (MARPOL Annex I) - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "OPP (MARPOL Annex I) - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "APP (MARPOL Annex VI) - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "APP (MARPOL Annex VI) - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Ballast Water Management - Intermediate Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Ballast Water Management - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/11",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - ISM Intermediate Audit 3Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/11",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - ISPS Intermediate Verification 3 - Part A & BRemote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/11",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - MLC Intermediate Inspection 3Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2028/12/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/12/10",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/12/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2038/12/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
+    }
+  ]
+}

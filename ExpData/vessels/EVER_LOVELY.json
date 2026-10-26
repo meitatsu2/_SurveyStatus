@@ -1,0 +1,73 @@
+{
+  "vessel_name": "EVER LOVELY",
+  "last_updated": "2026-10-26",
+  "total_records": 11,
+  "records": [
+    {
+      "DUE_DATE": "2026/11/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : The Owner’s Representative contacted the ABS Global Operations Center (GOC) to report that three ventilation fans were experiencing overload alarms. The affected fans are:\n- No.2 C/H (S) No.4 Exhaust Fan\n- No.5 C/H (S) No.3 Exhaust Fan\n- Under Deck Passage (S) No.5 Supply Fan\nAccording to the vessel, the affected fans are capable of running; however, overload alarms are triggered when the fans are stopped. The vessel further confirmed that other ventilation fans, including associated motors and ventilation arrangements serving the affected cargo holds and under deck passage spaces, remain operational. The Owner reported that spare motors have been requested and a work order has been raised for permanent repair at a suitable port in Asia, with repairs expected during the vessel's trading schedule in November 2026.\nAs authorized by the Maritime and Port Authority of Singapore (MPA), the undersigned Surveyor carried out the attendance remotely in accordance with the provisions of MPA Shipping Circular No. 10 of 2025 dated 24 November 2025.\nThe following documentation and conditions were provided by the vessel and reviewed to the satisfaction of the attending Surveyor:\n- Application for dispensation submitted to MPA through ABS.\n- Statement of Facts dated 05 October 2026 confirming the condition of the affected fans and vessel arrangements.\n- Risk Assessment identifying potential hazards associated with reduced cargo hold ventilation and detailing mitigating measures to maintain risk at an acceptable level.\n- Representative photographs evidencing the overload alarms affecting the subject ventilation fans.\n- Confirmation that alternative ventilation arrangements serving the affected spaces remain available and operational.\n- Repair plan and confirmation that replacement motors have been requested and arrangements made for permanent rectification at a future port call.\n- Review of the vessel's Cargo Ship Safety Construction Certificate and Document of Compliance for Ships Carrying Dangerous Goods.\n- Master Attestation to confirm current conditions \nBased on the submitted documentary evidence and the risk control measures implemented by the vessel, the attending Surveyor is without objection to the issuance of a statutory condition valid until 06 December 2026, pending permanent rectification of the affected cargo hold ventilation fans.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2027/04/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 2Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2028/04/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/12/19",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirements\nSE Procedure PR-0601.1 required to ensure that all personnel and seafarers who involve SE management system are trained and qualified to extent necessary to undertake their assigned duties and responsibilities effectively.\nISM Clause 6.4 -The Company should ensure that all personnel involved in the Company’s SMS have an adequate understanding of relevant rules, regulations, codes and guidelines.\nEvidences.\n1. Singapore FSC inspection report Item 02 mentions that Crew unable to demonstrate operational test of emergency generator. \n2. Singapore FSC inspection report item 03 mentions that Crew unable to provide explanation of how the automatic changeover of the 6600V/440V step-down transformers is achieved in an emergency.\n3. Singapore FSC inspection report item 04 mentions that GMDSS MF/HF weekly test with acknowledgement from coast station not carried out weekly. Interview with responsible officer revealed that he was not familiar with GMDSS weekly test procedures as required by GMDSS log instruction 2.2. From March to June 2026, only tests with ship stations were conducted on a weekly basis instead of the required MF/HF weekly test with coast station acknowledgement.\n4. Singapore FSC inspection report item 06 mentions that Engine room fan fire damper no.1 & 5 unable to close shut. Interviews with the engineers indicated that the damper closing indicator bar was not properly seated on the closing pad and had slight free play. The engineers assumed that the dampers were in fully closed position.\n5. Singapore FSC inspection report item 7 and 8 mentions that signs of oil leakages / accumulation in numerous locations in engine room. Investigation and interviews with the engine room personnel revealed that they were aware of the oil stains and oil-soaked insulation caused by the leakages. However, cleaning and rectification were not carried out in a timely manner, as they assumed the condition was not serious enough. ( It was noted that the oil leakages were arrested and the oil stains were removed during the course of the audit).\n6. Singapore FSC inspection report item 12 mentions that all main engine units fuel oil high pressure pipes connections/fittings found not fitted with anti-splash tape. Investigation and interviews with the engineers revealed that there was insufficient anti-splash tape available onboard. No spare requisition had been made to replenish the stock until the deficiency was raised during the Singapore FSC inspection. (Company superintendents arranged to supply spares anti-splash tapes during the course of audit)\n7. Singapore FSC inspection report item 14 mentions that Oily water separator oil content meter alarm activated at 15 ppm but 3-way solenoid valve only close and circulate to bilge holding tank at 20 ppm. Investigation and interviews with the engineers revealed that they were satisfied that the OWS was functioning properly when the 15 ppm alarm was activated, but they were not aware that the 3-way solenoid valve was closed only at 20 ppm due to the delay setting. ( Shore technician attended and set the OWS during the course of audit)\nNature\nShip officers and crew were not sufficiently familiar with the required procedures and the proper operation of the above-mentioned items.\nThe above items were rectified and subsequently witnessed by the attending ABS surveyor.\nThe Master conducted an ad hoc safety meeting on 09 July 2026, during which the above PSC deficiencies were discussed.\nCompany officials provided training to the ship officers and crew during the course of this audit.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2028/12/19",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirements.\nISM Clause 10.1. The Company should establish procedures to ensure that the ship is maintained in conformity with the provisions of the relevant rules and regulations and with any additional requirements.\nISM Clause 10.2. In meeting these requirements the Company should ensure that\n- 10.2.2 any nonconformity is reported with its possible cause, if known;\n- 10.2.3 appropriate corrective action is taken; and\nEvidence\nDuring the Singapore Flag State Control inspection carried out on 07 July 2026, the following deficiencies were raised:\nDeficiency 01: The galley overboard pipe was found temporarily repaired with jubilee clips, and the sewage and grey water overboard valves were found leaking.\nDeficiency 09: The fresh water line between the chain lockers was found temporarily repaired with jubilee clips and a rubber gasket. In addition, the compressed air valve located between the chain lockers and the valve at the forward station between the anchor windlasses were found leaking.\nDeficiency 13: Signs of exhaust gas leakage were observed at several locations on the No. 1 and No. 2 auxiliary engine EGCS exhaust trunking at D-deck.\nInvestigation and interviews with shipboard staff revealed that they were aware of these deficiencies and that maintenance was reportedly in progress. However, the deficiencies had not been reported to the Company.\nNature\nShipboard personnel were aware of the deficiencies, but failed to report them to the Company in a timely manner and allowed temporary repairs and defective conditions to remain without adequate escalation and follow-up.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2028/12/19",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirement:\nThe onboard VIMS system requires weekly testing of the emergency generator under the following categories:\n- A1 – Controlled blackout test (on load)\n- A2 – Sequence test (on load)\n- B1 – Sequence test (off load)\nEvidence:\nEmergency was tested weekly however testing of “A1- Controlled black out test – Onload” and “A2- Sequence test- onload” were unable to verify since January 2026.\nNature:\nEmergency onload tests were not carried out as required by VIMS.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2030/04/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2030/06/29",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 3Remote",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/06/29",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 3",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/06/29",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 3",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2040/04/14",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
+      "CODE": "CB06"
+    }
+  ]
+}

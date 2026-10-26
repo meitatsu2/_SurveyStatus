@@ -1,0 +1,169 @@
+{
+  "vessel_name": "UNI-PROSPER",
+  "last_updated": "2026-10-26",
+  "total_records": 27,
+  "records": [
+    {
+      "DUE_DATE": "2027/03/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - Load Line",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - Safety Construction",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - Safety Equipment",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - Safety Radio",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - DOC of Dangerous Goods",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - I.O.P.P.",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - I.S.P.P.",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - I.A.P.P.",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - Ballast Water Management",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - Ship Recycling",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - Ship Recycling(EU) (SoC)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/22",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - Safety Management",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/22",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - Ship Security",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/22",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Safety Management Certificate Renewal Verification",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/22",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Ship Security Certificate Renewal Verification",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - Classification",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2029/10/16",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2029/10/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Bottom Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2031/06/26",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2031/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/09/27",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Hull (No.6)",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/09/27",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Machinery",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/09/27",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Class Special Survey of Auto. & Rem. System",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/10/16",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Survey C (M1/M2/M3)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2031/11/24",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2041/10/16",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
+    }
+  ]
+}

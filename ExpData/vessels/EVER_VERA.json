@@ -1,0 +1,49 @@
+{
+  "vessel_name": "EVER VERA",
+  "last_updated": "2026-10-26",
+  "total_records": 7,
+  "records": [
+    {
+      "DUE_DATE": "2026/11/06",
+      "CLASS": "NK",
+      "DESCRIPTION": "NK - The malfunctioned port anchor windlass to be permanently repaired no later than due date below. In addition, the function test for both side anchor windlass need to be done which confirm all keep\nin normal working condition after complete repair.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2027/08/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2029/08/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/08/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2029/08/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/08/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2039/08/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
+    }
+  ]
+}

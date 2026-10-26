@@ -1,0 +1,139 @@
+{
+  "vessel_name": "EVER WORLD",
+  "last_updated": "2026-10-26",
+  "total_records": 22,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/11",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Cargo Ship Safety Equipment CertificateECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/11",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : The owner's representative contacted the Global Operations Center to request a Remote Survey regarding the malfunction of the Local Water Mist Fire-Fighting System protecting the D/G Oil Supply Unit (Zone 7).\nThe Master reported that, while the vessel was alongside in China on 06 October 2026, the Zone 7 Local Water Mist Fire-Fighting System activated automatically at 21:23 LT and again at 00:55 LT on 07 October 2026 without any indication of fire. The Master further reported that an onboard investigation was conducted and identified a defective Printed Circuit Board (PCB) installed within the Local Control Box as the root cause of the unintended activations.\nThe Master stated that, as an immediate corrective action, the power supply to the affected Zone 7 system was isolated and the defective PCB was removed from service to prevent further inadvertent activation. The Master confirmed that all other Local Water Mist Fire-Fighting System zones remained fully operational and available for service.\nThe Owner submitted the following documentation, which was reviewed by the undersigned Surveyor and found satisfactory:\n\n- \nSigned Statement of Facts from the Master and Chief Engineer describing the incident and actions taken onboard;\n\n- \nDamage Report detailing the failure of the PCB within the Zone 7 Local Control Box;\n\n- \nRelevant logbook entries documenting the abnormal system activations and subsequent corrective actions;\n\n- \nPhotographs and videos showing the affected equipment and system condition;\n\n- \nRisk Assessment addressing the temporary condition and associated mitigating measures;\n\n- \nConfirmation that all remaining Local Water Mist Fire-Fighting System zones remain operational;\n\n- \nDetails of the warranty claim submitted to the system maker - Parts to arrive at the end of October;\n\n- \nCorrective action plan confirming replacement of the defective PCB upon receipt of the spare part from the manufacturer.\n\nThe Master advised that a warranty claim had been submitted to the system maker and that a replacement PCB had been ordered and was awaiting delivery onboard. The Master further confirmed that enhanced safety measures had been implemented, including increased patrol frequency in the affected area, continuous monitoring of the fire detection system, readiness of portable fire-fighting equipment, and crew awareness of the temporary condition.\nBased on the information and evidence provided by the Owner, the temporary safety measures implemented onboard, and on approval from the Singapore Flag Administration as per Circular 10/2025, the undersigned Surveyor has no objection to raising a Statutory Condition Finding No. 26.0 and issuing a Short-Term Cargo Ship Safety Equipment Certificate, valid until 11 December 2026, pending completion of repairs and restoration of the approved design condition.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2026/12/11",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : The owner's representative contacted the Global Operations Center to request a Remote Survey regarding the malfunction of the Local Water Mist Fire-Fighting System protecting the D/G Oil Supply Unit (Zone 7).\nThe Master reported that, while the vessel was alongside in China on 06 October 2026, the Zone 7 Local Water Mist Fire-Fighting System activated automatically at 21:23 LT and again at 00:55 LT on 07 October 2026 without any indication of fire. The Master further reported that an onboard investigation was conducted and identified a defective Printed Circuit Board (PCB) installed within the Local Control Box as the root cause of the unintended activations.\nThe Master stated that, as an immediate corrective action, the power supply to the affected Zone 7 system was isolated and the defective PCB was removed from service to prevent further inadvertent activation. The Master confirmed that all other Local Water Mist Fire-Fighting System zones remained fully operational and available for service.\nThe Owner submitted the following documentation, which was reviewed by the undersigned Surveyor and found satisfactory:\n\n- \nSigned Statement of Facts from the Master and Chief Engineer describing the incident and actions taken onboard;\n\n- \nDamage Report detailing the failure of the PCB within the Zone 7 Local Control Box;\n\n- \nRelevant logbook entries documenting the abnormal system activations and subsequent corrective actions;\n\n- \nPhotographs and videos showing the affected equipment and system condition;\n\n- \nRisk Assessment addressing the temporary condition and associated mitigating measures;\n\n- \nConfirmation that all remaining Local Water Mist Fire-Fighting System zones remain operational;\n\n- \nDetails of the warranty claim submitted to the system maker - Parts to arrive at the end of October;\n\n- \nCorrective action plan confirming replacement of the defective PCB upon receipt of the spare part from the manufacturer.\n\nThe Master advised that a warranty claim had been submitted to the system maker and that a replacement PCB had been ordered and was awaiting delivery onboard. The Master further confirmed that enhanced safety measures had been implemented, including increased patrol frequency in the affected area, continuous monitoring of the fire detection system, readiness of portable fire-fighting equipment, and crew awareness of the temporary condition.\nBased on the information and evidence provided by the Owner, the temporary safety measures implemented onboard, the undersigned Surveyor has no objection to raising a Condition of Class Finding No. 27.0, valid until 11 December 2026, pending completion of repairs and restoration of the approved design condition.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2027/03/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Automation Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Ballast Water Management Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Carriage of Dangerous Goods Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Hull Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual IAPP Annex VI Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual IOPP Annex I Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Load Line Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Machinery Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Safety Construction Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Safety Equipment Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - NBLES 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Periodical Safety Radio Survey 1Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2028/12/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2030/12/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 1Remote",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/12/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 1",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/12/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 1",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/12/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Propellor Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2040/12/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Propellor Shaft",
+      "CODE": "CB06"
+    }
+  ]
+}

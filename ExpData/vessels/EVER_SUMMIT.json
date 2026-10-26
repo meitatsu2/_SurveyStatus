@@ -1,0 +1,139 @@
+{
+  "vessel_name": "EVER SUMMIT",
+  "last_updated": "2026-10-26",
+  "total_records": 22,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/17",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 5Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/02",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Chain Locker & Fwd Spaces Bilge Discharge Valve // MACHINERY > Chain Locker & Fwd Spaces Bilge System > Chain Locker & Fwd Spaces Bilge Discharge Valve",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/02",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Chain Locker & Fwd Spaces Bilge Piping // MACHINERY > Chain Locker & Fwd Spaces Bilge System > Chain Locker & Fwd Spaces Bilge Piping",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/02",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Chain Locker & Fwd Spaces Bilge System // MACHINERY > Chain Locker & Fwd Spaces Bilge System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/02",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Chain Locker & Fwd Spaces Bilge System // MACHINERY > Chain Locker & Fwd Spaces Bilge System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/02",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Sanitary Discharge Valve(s) // MACHINERY > Sanitary Water System > Sanitary Discharge Valve(s)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/02",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Sanitary Water System // MACHINERY > Sanitary Water System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/02",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Ship Side SW Cooling Sea Valves // MACHINERY > Sea Water Cooling System > Ship Side SW Cooling Sea Valves",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Maritime Labour CertificateECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Safety Management CertificateECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - International Ship Security Certificate (ISSC)ECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - ISM Renewal Audit 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - ISPS Renewal Verification 4 - Part A & BRemote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - MLC Renewal Inspection 3Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/06/25",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/06/25",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 4Remote",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/06/25",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 4",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/06/25",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 4",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/06/25",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : 1. As per the Owner Representative, ship’s Doppler Sonar was found abnormal & affected transmitting the messages of STW (Speed Through Water) to Radar & ECDIS. Entries of MPA Logbook & Ship’s Logbook were reviewed and uploaded into work order.\n2. The error STW messages of Doppler Sonar was examined & found affected to three(3) Radars and two(2) ECDISs. \nMeantime, two(2) GPS & one(1) AIS were examined & operationally tested, confirmed the functions & transmitting the speed messages of GPSs/AIS to Radars & ECDISs to be in order.  \n3. Service Engineers were onboard ship to examine & repair the abnormal Doppler Sonar on 17 January 2026 & 02 December 2025, and service reports were reviewed and same was uploaded into work order.\n4. Control measures of ship’s Risk Assessment for Shipboard Operations (Form: FM-0401-1) & Training Record (Form: FM-0804-1) dated 21 April 2026 was reviewed against situation of abnormal Doppler Sonar, and same was uploaded into work order.\nMaster was advised that all officers & navigation watch seafarers are to be closely monitored ship’s speed information through GPSs/AIS. \n 5. Reference with MPA Circular NO. 10 of 2025 - Issuance of Dispensation by Recognised Organisations (ROs), a short-term Cargo Ship Safety Equipment Certificate and a Statutory Condition (SC) with a validity until 29 June 2026 to allow the Singapore-registered ship to continue her voyage, pending repair or replace the malfunctioned Doppler Sonar.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2027/07/10",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2037/07/10",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Record Only Comment : Engine Power Limitation (EPL) approved, limiting the main engine’s power and speed to 28,450 kW and 80.3 rpm",
+      "CODE": "CA19"
+    }
+  ]
+}

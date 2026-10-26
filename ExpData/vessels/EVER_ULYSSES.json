@@ -1,0 +1,43 @@
+{
+  "vessel_name": "EVER ULYSSES",
+  "last_updated": "2026-10-26",
+  "total_records": 6,
+  "records": [
+    {
+      "DUE_DATE": "2027/07/25",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2028/07/24",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2030/06/30",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 6Remote",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/06/30",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 6",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/06/30",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 6",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2037/07/25",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
+      "CODE": "CB06"
+    }
+  ]
+}

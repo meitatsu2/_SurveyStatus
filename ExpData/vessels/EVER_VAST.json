@@ -1,0 +1,49 @@
+{
+  "vessel_name": "EVER VAST",
+  "last_updated": "2026-10-26",
+  "total_records": 7,
+  "records": [
+    {
+      "DUE_DATE": "2027/06/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/06/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "NK - Following dented port side shell plates are to be permanently repaired by the due date below\nsubject to inspections for confirmation of no progress of deterioration at periodical survey.\n1. Dented p.side shell plate (H194B) from Fr.8 to Fr.12, between SL-4 and SL-5 iwo passage way.\n    Dented Size: 1,900mm(L) x 600mm(W) x 30mm(D)\n2. Dented p.side shell plate (H194B) from Fr.12 to Fr.16, between SL-4 and SL-5 iwo passage way.\n    Dented Size: 1,000mm(L) x 400mm(W) x 10mm(D)\n3. Dented p.side shell plate (R193A) from Fr.23 to Fr.27, between SL-5 and 2nd deck iwo passage way.\n    Dented Size: 2000mm(L) x 600mm(W) x 30mm(D)",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2029/06/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/06/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2029/06/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/06/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2039/06/26",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
+    }
+  ]
+}
