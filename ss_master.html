@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Evergreen Survey Status Master</title>
+    <style>
+        :root {
+            --primary-green: #008751;
+            --primary-dark: #005a36;
+            --bg-light: #f4f6f8;
+            --border-color: #cccccc;
+            --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        html, body {
+            height: 100%;
+            width: 100%;
+            overflow: hidden;
+            font-family: var(--font-family);
+            background-color: var(--bg-light);
+            color: #333;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* HEADER: SINGLE ROW HEIGHT */
+        header {
+            flex: 0 0 auto;
+            background-color: var(--primary-green);
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 6px 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+            z-index: 10;
+            height: 40px;
+        }
+
+        header h1 {
+            font-size: 0.95rem;
+            font-weight: 600;
+            text-align: center;
+            flex-grow: 1;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .home-btn {
+            background: none;
+            border: none;
+            color: white;
+            font-size: 1.2rem;
+            cursor: pointer;
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+
+        .home-btn:hover {
+            background-color: var(--primary-dark);
+        }
+
+        /* DATA FRAME (MAIN CONTAINER) */
+        main {
+            flex: 1 1 auto;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            padding: 6px;
+        }
+
+        .view-panel {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            width: 100%;
+            overflow: hidden;
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        .controls-bar {
+            flex: 0 0 auto;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            align-items: center;
+            margin-bottom: 6px;
+            background: white;
+            padding: 4px 8px;
+            border-radius: 4px;
+            border: 1px solid var(--border-color);
+        }
+
+        .controls-bar label {
+            font-size: 0.75rem;
+            font-weight: bold;
+        }
+
+        .controls-bar select {
+            padding: 2px 4px;
+            font-size: 0.75rem;
+            border-radius: 3px;
+            border: 1px solid var(--border-color);
+        }
+
+        .table-wrapper {
+            flex: 1 1 auto;
+            overflow: auto;
+            background: white;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        /* VESSEL LIST TABLE */
+        #vesselListTable {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.75rem;
+            white-space: nowrap;
+        }
+
+        #vesselListTable th, #vesselListTable td {
+            padding: 5px 8px;
+            text-align: left;
+            border-bottom: 1px solid #eeeeee;
+        }
+
+        #vesselListTable th {
+            background-color: #e9ecef;
+            position: sticky;
+            top: 0;
+            z-index: 2;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        #vesselListTable th:hover {
+            background-color: #dee2e6;
+        }
+
+        /* Active Vessel Link Style (Bold & Clickable) */
+        .vessel-link {
+            color: var(--primary-green);
+            font-weight: bold;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .vessel-link:hover {
+            text-decoration: underline;
+        }
+
+        /* Inactive Vessel Style (Regular Text) */
+        .vessel-no-link {
+            color: #333333;
+            font-weight: normal;
+        }
+
+        /* INDIVIDUAL VESSEL STATUS TABLE (FIXED 1.5x DISPLAY WIDTH) */
+        #vesselStatusTable {
+            width: 150vw;
+            border-collapse: collapse;
+            font-size: 0.75rem;
+            table-layout: fixed;
+        }
+
+        #vesselStatusTable th, #vesselStatusTable td {
+            padding: 5px 6px;
+            text-align: left;
+            border-bottom: 1px solid #eeeeee;
+            vertical-align: top;
+        }
+
+        #vesselStatusTable th {
+            background-color: #e9ecef;
+            position: sticky;
+            top: 0;
+            z-index: 2;
+            user-select: none;
+        }
+
+        .col-due-date {
+            width: 85px;
+        }
+
+        .col-cs {
+            width: 32px;
+            text-align: center !important;
+        }
+
+        .col-description {
+            width: auto;
+            white-space: normal !important;
+            word-break: break-word;
+            max-height: 33vh;
+            overflow-y: auto;
+        }
+
+        .col-code {
+            width: 65px;
+        }
+
+        /* 4:1 RATIO SPLIT FOR VESSEL DETAIL */
+        .detail-header-title {
+            flex: 0 0 auto;
+            font-weight: bold;
+            font-size: 0.8rem;
+            margin-bottom: 4px;
+            padding: 4px 8px;
+            background: #e3f2fd;
+            border-radius: 3px;
+            border-left: 3px solid #1976d2;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        /* UP WINDOW (80% height) */
+        .upper-window {
+            flex: 4 1 0%;
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 6px;
+            min-height: 0;
+            overflow: hidden;
+        }
+
+        /* DOWN WINDOW (20% height) */
+        .lower-window {
+            flex: 1 1 0%;
+            background: white;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            padding: 6px;
+            overflow-y: auto;
+            font-size: 0.75rem;
+            line-height: 1.4;
+            min-height: 0;
+        }
+
+        .milestones-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+            align-items: center;
+        }
+
+        .milestone-badge {
+            padding: 2px 6px;
+            border-radius: 3px;
+            border: 1px solid #ccc;
+            font-size: 0.7rem;
+            display: inline-block;
+        }
+
+        .dd-age-box {
+            margin-top: 4px;
+            padding-top: 4px;
+            border-top: 1px dashed var(--border-color);
+            font-weight: bold;
+            color: #444;
+            font-size: 0.75rem;
+        }
+
+        /* COLOR SCHEME */
+        .status-red { background-color: #dc3545 !important; color: #ffffff !important; font-weight: bold; }
+        .status-orange { background-color: #fd7e14 !important; color: #000000 !important; }
+        .status-yellow { background-color: #f7ff07 !important; color: #000000 !important; }
+        .status-green { background-color: #28a745 !important; color: #000000 !important; }
+        .status-white { background-color: #ffffff !important; color: #000000 !important; }
+
+        /* FOOTER: EXPANDED BUTTON LAYOUT */
+        footer {
+            flex: 0 0 auto;
+            background-color: #343a40;
+            color: #ffffff;
+            padding: 4px 10px;
+            font-size: 0.75rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            z-index: 10;
+            height: 42px;
+        }
+
+        .footer-nav {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            justify-content: space-between;
+            gap: 8px;
+        }
+
+        .nav-btn {
+            background: #495057;
+            border: 1px solid #6c757d;
+            color: white;
+            padding: 6px 10px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            font-weight: bold;
+            white-space: nowrap;
+            touch-action: manipulation;
+        }
+
+        .nav-btn:hover {
+            background: #6c757d;
+        }
+
+        .return-btn {
+            background: var(--primary-green);
+            border-color: var(--primary-dark);
+            padding: 6px 12px;
+            font-size: 0.8rem;
+            flex: 0 0 auto;
+        }
+
+        .return-btn:hover {
+            background: var(--primary-dark);
+        }
+
+        .pagination-group {
+            display: flex;
+            width: 66.6%;
+            gap: 6px;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .pagination-group .nav-btn {
+            flex: 1;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <button class="home-btn" id="homeBtn" title="Reset to default">🏠</button>
+        <h1>Evergreen Survey Status Master</h1>
+        <div style="width: 20px;"></div>
+    </header>
+
+    <!-- DATA FRAME -->
+    <main>
+        <!-- VIEW A: VESSEL LIST -->
+        <div id="viewVesselList" class="view-panel">
+            <div class="controls-bar">
+                <span style="font-weight: bold; font-size: 0.8rem;">VESSEL LIST</span>
+                
+                <div style="margin-left: auto; display: flex; gap: 6px; align-items: center;">
+                    <label for="filterDept">DEPT:</label>
+                    <select id="filterDept">
+                        <option value="ALL">ALL</option>
+                    </select>
+
+                    <label for="filterPic">PIC:</label>
+                    <select id="filterPic">
+                        <option value="ALL">ALL</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="table-wrapper">
+                <table id="vesselListTable">
+                    <thead>
+                        <tr>
+                            <th data-sort="vessel_name">VESSEL NAME <span>↕</span></th>
+                            <th data-sort="dept">DEPT <span>↕</span></th>
+                            <th data-sort="pic">PIC <span>↕</span></th>
+                            <th data-sort="class">CLASS <span>↕</span></th>
+                            <th data-sort="company">COMPANY <span>↕</span></th>
+                            <th data-sort="scode">SCODE <span>↕</span></th>
+                            <th data-sort="cname">CNAME <span>↕</span></th>
+                            <th data-sort="deliver">DELIVER <span>↕</span></th>
+                            <th>SMAIL</th>
+                            <th>CEMAIL</th>
+                        </tr>
+                    </thead>
+                    <tbody id="vesselListTbody">
+                        <!-- Dynamic Rows -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- VIEW B: INDIVIDUAL VESSEL STATUS DETAIL -->
+        <div id="viewVesselDetail" class="view-panel hidden">
+            <!-- UP WINDOW (4/5 HEIGHT) -->
+            <div class="upper-window">
+                <div class="detail-header-title" id="detailHeaderTitle">
+                    VESSEL Surv.S updated YYYY-MM-DD
+                </div>
+                <div class="table-wrapper">
+                    <table id="vesselStatusTable">
+                        <thead>
+                            <tr>
+                                <th class="col-due-date">DUE_DATE</th>
+                                <th class="col-cs">CS</th>
+                                <th class="col-description">DESCRIPTION</th>
+                                <th class="col-code">CODE</th>
+                            </tr>
+                        </thead>
+                        <tbody id="vesselStatusTbody">
+                            <!-- Dynamic Status Rows -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- DOWN WINDOW (1/5 HEIGHT) -->
+            <div class="lower-window">
+                <div style="font-weight: bold; margin-bottom: 2px; font-size: 0.7rem; color: #555;">Upcoming Survey Windows (> Today):</div>
+                <div id="milestonesContainer" class="milestones-container">
+                    <!-- Dynamic Badges -->
+                </div>
+                <div id="ddAgeBox" class="dd-age-box">
+                    Age of DD = --
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer id="appFooter">
+        <div id="footerListMode" style="width: 100%; text-align: center;">
+            v1.0 | Developer: Adam M.T. Chen | Date: 2026-10-18
+        </div>
+
+        <div id="footerDetailMode" class="footer-nav hidden">
+            <button class="nav-btn return-btn" id="btnReturn">↩ Return</button>
+            <div class="pagination-group">
+                <button class="nav-btn" id="btnFirst">|&lt;</button>
+                <button class="nav-btn" id="btnPrev">&lt;</button>
+                <button class="nav-btn" id="btnNext">&gt;</button>
+                <button class="nav-btn" id="btnLast">&gt;|</button>
+            </div>
+        </div>
+    </footer>
+
+    <!-- APPLICATION LOGIC -->
+    <script>
+    // Auth Guard: Redirect back to login if session token is missing
+    if (sessionStorage.getItem("auth_pass") !== "true") {
+        window.location.replace("index.html");
+    }
+
+    // Clear token on page refresh or tab close
+    window.addEventListener("beforeunload", () => {
+        sessionStorage.removeItem("auth_pass");
+    });
+
+    (function() {
+        let masterVesselList = [];
+        let filteredVesselList = [];
+        let activeVesselIndexes = []; // Array of indexes that have active status JSON files
+        let picMappingList = [];
+        let currentSortField = "vessel_name";
+        let currentSortAsc = true;
+        let selectedVesselIndex = -1;
+
+        const viewVesselList = document.getElementById("viewVesselList");
+        const viewVesselDetail = document.getElementById("viewVesselDetail");
+        const vesselListTbody = document.getElementById("vesselListTbody");
+        const vesselStatusTbody = document.getElementById("vesselStatusTbody");
+        const filterDept = document.getElementById("filterDept");
+        const filterPic = document.getElementById("filterPic");
+        const homeBtn = document.getElementById("homeBtn");
+        const footerListMode = document.getElementById("footerListMode");
+        const footerDetailMode = document.getElementById("footerDetailMode");
+        const detailHeaderTitle = document.getElementById("detailHeaderTitle");
+        const milestonesContainer = document.getElementById("milestonesContainer");
+        const ddAgeBox = document.getElementById("ddAgeBox");
+
+        const btnReturn = document.getElementById("btnReturn");
+        const btnFirst = document.getElementById("btnFirst");
+        const btnPrev = document.getElementById("btnPrev");
+        const btnNext = document.getElementById("btnNext");
+        const btnLast = document.getElementById("btnLast");
+
+        document.addEventListener("DOMContentLoaded", () => {
+            initData();
+            setupEventListeners();
+        });
+
+        async function initData() {
+            try {
+                console.log("Fetching master indexes from ExpData...");
+                const [vesselRes, picRes] = await Promise.all([
+                    fetch("ExpData/vessel_list.json"),
+                    fetch("ExpData/pic.json")
+                ]);
+
+                if (!vesselRes.ok) throw new Error(`vessel_list.json HTTP ${vesselRes.status}`);
+                if (!picRes.ok) throw new Error(`pic.json HTTP ${picRes.status}`);
+
+                masterVesselList = await vesselRes.json();
+                picMappingList = await picRes.json();
+
+                // Check active status JSON availability across the vessel fleet
+                await checkVesselStatusAvailability();
+
+                populateDeptDropdown();
+                applyFiltersAndSort();
+            } catch (err) {
+                console.error("Error loading master index data:", err);
+                vesselListTbody.innerHTML = `<tr><td colspan="10" style="color:red; text-align:center; padding: 10px;">Failed to load vessel data: ${err.message}. Ensure ExpData folder exists in repository root.</td></tr>`;
+            }
+        }
+
+        async function checkVesselStatusAvailability() {
+            // Verify presence of status JSON files in parallel batch
+            const checks = masterVesselList.map(async (v) => {
+                try {
+                    const res = await fetch(`ExpData/vessels/${v.file_name}`, { method: 'HEAD' });
+                    v.has_status = res.ok;
+                } catch (e) {
+                    v.has_status = false;
+                }
+            });
+            await Promise.all(checks);
+        }
+
+        function populateDeptDropdown() {
+            const depts = Array.from(new Set(picMappingList.map(p => p.dept).filter(Boolean))).sort();
+            filterDept.innerHTML = '<option value="ALL">ALL</option>';
+            depts.forEach(d => {
+                const opt = document.createElement("option");
+                opt.value = d;
+                opt.textContent = d;
+                filterDept.appendChild(opt);
+            });
+            updatePicDropdown();
+        }
+
+        function updatePicDropdown() {
+            const selectedDept = filterDept.value;
+            filterPic.innerHTML = '<option value="ALL">ALL</option>';
+
+            let pics = [];
+            if (selectedDept === "ALL") {
+                pics = Array.from(new Set(picMappingList.map(p => p.pic).filter(Boolean)));
+            } else {
+                pics = picMappingList.filter(p => p.dept === selectedDept).map(p => p.pic).filter(Boolean);
+            }
+            pics.sort();
+
+            pics.forEach(p => {
+                const opt = document.createElement("option");
+                opt.value = p;
+                opt.textContent = p;
+                filterPic.appendChild(opt);
+            });
+        }
+
+        function applyFiltersAndSort() {
+            const deptVal = filterDept.value;
+            const picVal = filterPic.value;
+
+            filteredVesselList = masterVesselList.filter(item => {
+                const matchDept = (deptVal === "ALL") || (item.dept === deptVal);
+                const matchPic = (picVal === "ALL") || (item.pic === picVal);
+                return matchDept && matchPic;
+            });
+
+            filteredVesselList.sort((a, b) => {
+                let valA = a[currentSortField] || "";
+                let valB = b[currentSortField] || "";
+                
+                if (typeof valA === "string") valA = valA.toUpperCase();
+                if (typeof valB === "string") valB = valB.toUpperCase();
+
+                if (valA < valB) return currentSortAsc ? -1 : 1;
+                if (valA > valB) return currentSortAsc ? 1 : -1;
+                return 0;
+            });
+
+            // Update index list of vessels with active status files for pagination
+            activeVesselIndexes = [];
+            filteredVesselList.forEach((v, idx) => {
+                if (v.has_status) activeVesselIndexes.push(idx);
+            });
+
+            renderVesselListTable();
+        }
+
+        function renderVesselListTable() {
+            vesselListTbody.innerHTML = "";
+
+            if (filteredVesselList.length === 0) {
+                vesselListTbody.innerHTML = `<tr><td colspan="10" style="text-align:center; padding: 10px;">No vessel records found.</td></tr>`;
+                return;
+            }
+
+            filteredVesselList.forEach((v, idx) => {
+                const tr = document.createElement("tr");
+
+                // Render bold green link for vessels WITH status JSON, regular text for vessels WITHOUT
+                const nameHtml = v.has_status 
+                    ? `<span class="vessel-link" data-index="${idx}">${escapeHtml(v.vessel_name)}</span>`
+                    : `<span class="vessel-no-link">${escapeHtml(v.vessel_name)}</span>`;
+
+                tr.innerHTML = `
+                    <td>${nameHtml}</td>
+                    <td>${escapeHtml(v.dept)}</td>
+                    <td>${escapeHtml(v.pic)}</td>
+                    <td>${escapeHtml(v.class)}</td>
+                    <td>${escapeHtml(v.company)}</td>
+                    <td>${escapeHtml(v.scode)}</td>
+                    <td>${escapeHtml(v.cname)}</td>
+                    <td>${escapeHtml(v.deliver)}</td>
+                    <td>${escapeHtml(v.smail)}</td>
+                    <td>${escapeHtml(v.cemail)}</td>
+                `;
+                vesselListTbody.appendChild(tr);
+            });
+
+            document.querySelectorAll(".vessel-link").forEach(link => {
+                link.addEventListener("click", (e) => {
+                    const idx = parseInt(e.target.getAttribute("data-index"), 10);
+                    openVesselDetail(idx);
+                });
+            });
+        }
+
+        async function openVesselDetail(index) {
+            if (index < 0 || index >= filteredVesselList.length) return;
+            selectedVesselIndex = index;
+            const vessel = filteredVesselList[selectedVesselIndex];
+
+            if (!vessel.has_status) return; // Prevent opening vessels without status data
+
+            viewVesselList.classList.add("hidden");
+            viewVesselDetail.classList.remove("hidden");
+            footerListMode.classList.add("hidden");
+            footerDetailMode.classList.remove("hidden");
+
+            try {
+                const fetchPath = `ExpData/vessels/${vessel.file_name}`;
+                const response = await fetch(fetchPath);
+                if (!response.ok) throw new Error(`HTTP ${response.status} loading ${fetchPath}`);
+                
+                const data = await response.json();
+
+                detailHeaderTitle.textContent = `${data.vessel_name} Surv.S updated ${data.last_updated}`;
+                renderVesselStatusTable(data.records);
+                calculateAndRenderMilestones(data.records, vessel.deliver);
+
+            } catch (err) {
+                console.error("Error loading vessel json:", err);
+                vesselStatusTbody.innerHTML = `<tr><td colspan="4" style="color:red; text-align:center;">Failed to load vessel data: ${err.message}</td></tr>`;
+            }
+        }
+
+        function navigateDetail(direction) {
+            if (activeVesselIndexes.length === 0) return;
+            
+            let currentPos = activeVesselIndexes.indexOf(selectedVesselIndex);
+            
+            if (direction === "first") {
+                openVesselDetail(activeVesselIndexes[0]);
+            } else if (direction === "last") {
+                openVesselDetail(activeVesselIndexes[activeVesselIndexes.length - 1]);
+            } else if (direction === "prev") {
+                if (currentPos > 0) openVesselDetail(activeVesselIndexes[currentPos - 1]);
+            } else if (direction === "next") {
+                if (currentPos >= 0 && currentPos < activeVesselIndexes.length - 1) {
+                    openVesselDetail(activeVesselIndexes[currentPos + 1]);
+                }
+            }
+        }
+
+        function renderVesselStatusTable(records) {
+            vesselStatusTbody.innerHTML = "";
+            const today = new Date();
+            today.setHours(0,0,0,0);
+
+            records.forEach(r => {
+                const tr = document.createElement("tr");
+                const dueClass = getDueDateColorClass(r.DUE_DATE, today);
+
+                tr.innerHTML = `
+                    <td class="col-due-date ${dueClass}">${escapeHtml(r.DUE_DATE)}</td>
+                    <td class="col-cs">${escapeHtml(r.CLASS)}</td>
+                    <td class="col-description">${escapeHtml(r.DESCRIPTION)}</td>
+                    <td class="col-code">${escapeHtml(r.CODE)}</td>
+                `;
+                vesselStatusTbody.appendChild(tr);
+            });
+        }
+
+        function calculateAndRenderMilestones(records, deliverStr) {
+            milestonesContainer.innerHTML = "";
+            const today = new Date();
+            today.setHours(0,0,0,0);
+
+            const cb03Records = records.filter(r => r.CODE === "CB03" && r.DUE_DATE).map(r => new Date(r.DUE_DATE)).sort((a,b) => a - b);
+            const cb04Records = records.filter(r => r.CODE === "CB04" && r.DUE_DATE).map(r => new Date(r.DUE_DATE)).sort((a,b) => a - b);
+            const cb06Records = records.filter(r => r.CODE === "CB06" && r.DUE_DATE).map(r => new Date(r.DUE_DATE)).sort((a,b) => a - b);
+
+            const cb03Date = cb03Records.length > 0 ? cb03Records[0] : null;
+
+            let ddExpDate = null;
+            const validDdDates = [cb03Records[0], cb04Records[0], cb06Records[0]].filter(Boolean);
+            if (validDdDates.length > 0) {
+                ddExpDate = new Date(Math.min(...validDdDates));
+            }
+
+            if (cb03Date) {
+                const milestones = [
+                    { name: "DD_EXP", date: ddExpDate },
+                    { name: "SS_IN", date: addDays(cb03Date, -90) },
+                    { name: "AS4_OUT", date: addDays(cb03Date, -275) },
+                    { name: "AS4_IN", date: addDays(cb03Date, -455) },
+                    { name: "AS3_OUT", date: addDays(cb03Date, -640) },
+                    { name: "AS3_IN", date: addDays(cb03Date, -820) },
+                    { name: "AS2_OUT", date: addDays(cb03Date, -1005) },
+                    { name: "AS2_IN", date: addDays(cb03Date, -1185) },
+                    { name: "AS1_OUT", date: addDays(cb03Date, -1371) },
+                    { name: "AS1_IN", date: addDays(cb03Date, -1551) }
+                ];
+
+                const validMilestones = milestones
+                    .filter(m => m.date && m.date > today)
+                    .sort((a,b) => a.date - b.date);
+
+                validMilestones.forEach(m => {
+                    const dateStr = formatDate(m.date);
+                    const colorClass = getDueDateColorClass(dateStr, today);
+                    const badge = document.createElement("span");
+                    badge.className = `milestone-badge ${colorClass}`;
+                    badge.textContent = `${m.name}=${dateStr}`;
+                    milestonesContainer.appendChild(badge);
+                });
+            } else {
+                milestonesContainer.innerHTML = "<span style='color:#777;'>No CB03 anchor date available for milestones.</span>";
+            }
+
+            if (ddExpDate && deliverStr) {
+                const deliverDate = new Date(deliverStr);
+                if (!isNaN(deliverDate)) {
+                    const diffDays = (ddExpDate - deliverDate) / (1000 * 60 * 60 * 24);
+                    const ageOfDD = Math.floor(diffDays / 36.5) / 10;
+                    ddAgeBox.textContent = `Age of DD = ${ageOfDD.toFixed(1)} years`;
+                } else {
+                    ddAgeBox.textContent = `Age of DD = N/A (Invalid Deliver Date)`;
+                }
+            } else {
+                ddAgeBox.textContent = `Age of DD = N/A`;
+            }
+        }
+
+        function getDueDateColorClass(dueDateStr, today) {
+            if (!dueDateStr) return "status-white";
+            const due = new Date(dueDateStr);
+            if (isNaN(due)) return "status-white";
+
+            const diffDays = Math.ceil((due - today) / (1000 * 60 * 60 * 24));
+
+            if (diffDays <= 0) return "status-red";
+            if (diffDays < 30) return "status-orange";
+            if (diffDays < 60) return "status-yellow";
+            if (diffDays < 90) return "status-green";
+            return "status-white";
+        }
+
+        function setupEventListeners() {
+            filterDept.addEventListener("change", () => {
+                updatePicDropdown();
+                applyFiltersAndSort();
+            });
+
+            filterPic.addEventListener("change", () => {
+                applyFiltersAndSort();
+            });
+
+            document.querySelectorAll("#vesselListTable th[data-sort]").forEach(th => {
+                th.addEventListener("click", () => {
+                    const field = th.getAttribute("data-sort");
+                    if (currentSortField === field) {
+                        currentSortAsc = !currentSortAsc;
+                    } else {
+                        currentSortField = field;
+                        currentSortAsc = true;
+                    }
+                    applyFiltersAndSort();
+                });
+            });
+
+            homeBtn.addEventListener("click", resetToDefaultHome);
+            btnReturn.addEventListener("click", returnToVesselList);
+
+            btnFirst.addEventListener("click", () => navigateDetail("first"));
+            btnPrev.addEventListener("click", () => navigateDetail("prev"));
+            btnNext.addEventListener("click", () => navigateDetail("next"));
+            btnLast.addEventListener("click", () => navigateDetail("last"));
+        }
+
+        function returnToVesselList() {
+            viewVesselDetail.classList.add("hidden");
+            viewVesselList.classList.remove("hidden");
+            footerDetailMode.classList.add("hidden");
+            footerListMode.classList.remove("hidden");
+        }
+
+        function resetToDefaultHome() {
+            filterDept.value = "ALL";
+            updatePicDropdown();
+            filterPic.value = "ALL";
+            currentSortField = "vessel_name";
+            currentSortAsc = true;
+            applyFiltersAndSort();
+            returnToVesselList();
+        }
+
+        function addDays(date, days) {
+            const result = new Date(date);
+            result.setDate(result.getDate() + days);
+            return result;
+        }
+
+        function formatDate(d) {
+            const year = d.getFullYear();
+            const month = String(d.getMonth() + 1).padStart(2, '0');
+            const day = String(d.getDate()).padStart(2, '0');
+            return `${year}/${month}/${day}`;
+        }
+
+        function escapeHtml(text) {
+            if (!text) return "";
+            return String(text)
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+    })();
+    </script>
+</body>
+</html>
