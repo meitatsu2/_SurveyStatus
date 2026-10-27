@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER VOW",
-  "last_updated": "2026-10-26",
-  "total_records": 10,
+  "last_updated": "2026-10-27",
+  "total_records": 12,
   "records": [
     {
       "DUE_DATE": "2026/11/24",
@@ -24,8 +24,20 @@
     {
       "DUE_DATE": "2027/04/25",
       "CLASS": "NK",
+      "DESCRIPTION": "Class - Boiler Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/25",
+      "CLASS": "NK",
       "DESCRIPTION": "Class - Docking Survey",
       "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/04/25",
+      "CLASS": "NK",
+      "DESCRIPTION": "Anti-Fouling Systems - Periodical Survey",
+      "CODE": ""
     },
     {
       "DUE_DATE": "2027/04/25",
