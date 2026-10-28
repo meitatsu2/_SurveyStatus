@@ -1,6 +1,10 @@
 {
   "vessel_name": "EVER VOW",
+<<<<<<< HEAD
   "last_updated": "2026-10-28",
+=======
+  "last_updated": "2026-10-27",
+>>>>>>> a4e649c47eae9b36d3bc9cee4e78f589b272afe7
   "total_records": 12,
   "records": [
     {
@@ -36,6 +40,12 @@
     {
       "DUE_DATE": "2027/04/25",
       "CLASS": "NK",
+      "DESCRIPTION": "Class - Boiler Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/25",
+      "CLASS": "NK",
       "DESCRIPTION": "Class - Docking Survey",
       "CODE": "CB04"
     },
@@ -44,6 +54,15 @@
       "CLASS": "NK",
       "DESCRIPTION": "Anti-Fouling Systems - Periodical Survey",
       "CODE": ""
+<<<<<<< HEAD
+=======
+    },
+    {
+      "DUE_DATE": "2027/04/25",
+      "CLASS": "NK",
+      "DESCRIPTION": "NK - Dented side shell and buckled web frame stiffener iwo stbd passageway Fr 19 between SL-3 to SL-5 to be permanently repaired no later than below mentioned due date, subject to inspection during periodical survey to ensure no propagation of damaged area.",
+      "CODE": "CA19"
+>>>>>>> a4e649c47eae9b36d3bc9cee4e78f589b272afe7
     },
     {
       "DUE_DATE": "2029/04/25",
