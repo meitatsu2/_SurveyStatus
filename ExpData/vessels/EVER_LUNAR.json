@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LUNAR",
-  "last_updated": "2026-10-26",
-  "total_records": 47,
+  "last_updated": "2026-10-28",
+  "total_records": 40,
   "records": [
     {
       "DUE_DATE": "2026/11/30",
@@ -49,48 +49,6 @@
       "DUE_DATE": "2026/11/30",
       "CLASS": "CR",
       "DESCRIPTION": "CMS - M/E SAFETY DEVICES",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/30",
-      "CLASS": "CR",
-      "DESCRIPTION": "CMS - STEERING GEAR SYSTEM",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/30",
-      "CLASS": "CR",
-      "DESCRIPTION": "CMS - WINDLASS",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/30",
-      "CLASS": "CR",
-      "DESCRIPTION": "CMS - BILGE SYSTEM",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/30",
-      "CLASS": "CR",
-      "DESCRIPTION": "CMS - CABLE INSTALLATION",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/30",
-      "CLASS": "CR",
-      "DESCRIPTION": "CMS - MEASUREMENT OF INSULATION RESISTANCE",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/30",
-      "CLASS": "CR",
-      "DESCRIPTION": "CMS - RUNNING TEST OF GENERATOR",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/30",
-      "CLASS": "CR",
-      "DESCRIPTION": "CMS - REMOTE CONTROL CIRCUIT OF F.O. PUMPS & FANS",
       "CODE": ""
     },
     {

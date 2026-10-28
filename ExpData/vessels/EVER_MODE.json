@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER MODE",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-28",
   "total_records": 17,
   "records": [
     {
@@ -66,14 +66,14 @@
     {
       "DUE_DATE": "2027/12/03",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
+      "DESCRIPTION": "NK - Following dented portside shell plating and side longitudinal are to be permanently repaired by the due date \nbelow subject to inspection for confirmation of no progress of deterioration at periodical survey.\n\n1.Dented port side shell plating (No.E123) from Fr.86-200mm to Fr.88, between SL-46 and SL-47 \n   iwo G.E. ROOM(P). \n2.Deformed side longitudinal (L47) from Fr.87+310 to Fr.88.",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2027/12/03",
       "CLASS": "NK",
-      "DESCRIPTION": "NK - Following dented portside shell plating and side longitudinal are to be permanently repaired by the due date \nbelow subject to inspection for confirmation of no progress of deterioration at periodical survey.\n\n1.Dented port side shell plating (No.E123) from Fr.86-200mm to Fr.88, between SL-46 and SL-47 \n   iwo G.E. ROOM(P). \n2.Deformed side longitudinal (L47) from Fr.87+310 to Fr.88.",
-      "CODE": "CA19"
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
     },
     {
       "DUE_DATE": "2029/12/03",

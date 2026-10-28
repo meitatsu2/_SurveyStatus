@@ -1,8 +1,14 @@
 {
   "vessel_name": "EVER CHAMP",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-28",
   "total_records": 30,
   "records": [
+    {
+      "DUE_DATE": "2026/12/13",
+      "CLASS": "NK",
+      "DESCRIPTION": "NK - In accordance with MPA Shipping Circular No.10 of 2025, dispensation has been granted on behalf of the Flag Administration for the malfunctioned HMI display unit of incinerator to be repaired/replaced not later than 13 Dec 2026. \nOpening date: 13 Oct 2026\n\n(1) Risk assessment to be carried out with risk control measures to be implemented onboard the vessel had sufficient sludge tank capacity to retain all sludge generated during the intended voyage(s), and to arrange\nfor shore disposal as and when if necessary;\n(2) Appropriate entry is made in the oil record book (part i) accordingly, ship crew is aware of the defect and action to be taken to mitigate the risk;\n(3) Garbage if unable to be incinerated, to be retained on board and arrange for shore disposal as and when required; and\n(4) The Master shall notify the relevant competent authority as required by regulation 5.6 of MARPOL Annex VI when the ship is calling to a port.",
+      "CODE": "CA19"
+    },
     {
       "DUE_DATE": "2026/12/13",
       "CLASS": "NK",
@@ -14,12 +20,6 @@
       "CLASS": "NK",
       "DESCRIPTION": "Cert - APP (MARPOL Annex VI)",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/13",
-      "CLASS": "NK",
-      "DESCRIPTION": "NK - In accordance with MPA Shipping Circular No.10 of 2025, dispensation has been granted on behalf of the Flag Administration for the malfunctioned HMI display unit of incinerator to be repaired/replaced not later than 13 Dec 2026. \nOpening date: 13 Oct 2026\n\n(1) Risk assessment to be carried out with risk control measures to be implemented onboard the vessel had sufficient sludge tank capacity to retain all sludge generated during the intended voyage(s), and to arrange\nfor shore disposal as and when if necessary;\n(2) Appropriate entry is made in the oil record book (part i) accordingly, ship crew is aware of the defect and action to be taken to mitigate the risk;\n(3) Garbage if unable to be incinerated, to be retained on board and arrange for shore disposal as and when required; and\n(4) The Master shall notify the relevant competent authority as required by regulation 5.6 of MARPOL Annex VI when the ship is calling to a port.",
-      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2026/12/15",

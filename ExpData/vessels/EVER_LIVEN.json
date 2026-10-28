@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER LIVEN",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-28",
   "total_records": 77,
   "records": [
     {
@@ -425,18 +425,6 @@
     },
     {
       "DUE_DATE": "2028/04/29",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - SS - SPECIAL",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/04/29",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2028/04/29",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Class Special Survey of Hull (No.3)",
       "CODE": "CB03"
@@ -458,6 +446,18 @@
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Class Special Survey of Auto. & Rem. System",
       "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/04/29",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - SS - SPECIAL",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/04/29",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
+      "CODE": "CB04"
     },
     {
       "DUE_DATE": "2037/11/13",

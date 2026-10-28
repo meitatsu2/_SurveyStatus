@@ -1,19 +1,19 @@
 {
   "vessel_name": "UNI-PRUDENT",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-28",
   "total_records": 6,
   "records": [
     {
       "DUE_DATE": "2028/05/30",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
+      "DESCRIPTION": "NK - The temporary repaired Shell plate, Web and Longitudinal are to be permanently repaired by 30 May 2028 subject to the results of further inspection during each periodic survey.",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2028/05/30",
       "CLASS": "NK",
-      "DESCRIPTION": "NK - The temporary repaired Shell plate, Web and Longitudinal are to be permanently repaired by 30 May 2028 subject to the results of further inspection during each periodic survey.",
-      "CODE": "CA19"
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
     },
     {
       "DUE_DATE": "2030/05/30",

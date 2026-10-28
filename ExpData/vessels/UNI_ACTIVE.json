@@ -1,186 +1,12 @@
 {
   "vessel_name": "UNI-ACTIVE",
-  "last_updated": "2026-10-26",
-  "total_records": 110,
+  "last_updated": "2026-10-28",
+  "total_records": 94,
   "records": [
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 MAIN COOL. S.W. PUMP",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 F.O. SUPPLY PUMP",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 F.O. CIRCULATING PUMP FOR G/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - AUX. DIESEL COOL. F.W. COOLER",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - AUX. CONDENSER",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/30",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - D.O. TRANSFER PUMP",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/30",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 F.O. CIRCULATING PUMP",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/30",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - JACKET COOL. F.W. COOLER",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 MAIN AIR RESERVOIR",
-      "CODE": ""
-    },
     {
       "DUE_DATE": "2027/01/31",
       "CLASS": "NK",
       "DESCRIPTION": "CMS - CAM SHAFT DRIVING GEAR OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - BALLAST PUMP",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - FIRE & G.S. PUMP",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 JACKET COOL. F.W. PUMP",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 CENTRAL COOLING F.W. PUMP",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 BOILER FEED WATER PUMP",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 BOILER WATER CIRC. PUMP",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 STERN TUBE L.O. PUMP",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/28",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 AUX. BLOWER OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/28",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.3 MAIN GENERATOR DIESEL ENGINE",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/28",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - EMERGENCY GENERATOR DIESEL ENGINE",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/28",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - BILGE & BALLAST PUMP",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/28",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 MAIN L.O. PUMP",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/28",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 CROSSHEAD L.O. PUMP",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/28",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.3 MAIN AIR COMPRESSOR",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/28",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 CENTRAL COOLER",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/28",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - F.O. SETTLING TANK",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/28",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - F.O. SERVICE TANK",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/28",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - D.O. SETTLING TANK",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/28",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - D.O. SERVICE TANK",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/28",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.6 HYDR. PUMP FOR WINDLASS, MOOR.WINCH",
       "CODE": ""
     },
     {
@@ -295,6 +121,84 @@
       "DUE_DATE": "2027/02/28",
       "CLASS": "CR",
       "DESCRIPTION": "CMS - HEATER FOR G/E F.O. NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 AUX. BLOWER OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 MAIN GENERATOR DIESEL ENGINE",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - EMERGENCY GENERATOR DIESEL ENGINE",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - BILGE & BALLAST PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 MAIN L.O. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 CROSSHEAD L.O. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 MAIN AIR COMPRESSOR",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 CENTRAL COOLER",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - F.O. SETTLING TANK",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - F.O. SERVICE TANK",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - D.O. SETTLING TANK",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - D.O. SERVICE TANK",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/02/28",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.6 HYDR. PUMP FOR WINDLASS, MOOR.WINCH",
       "CODE": ""
     },
     {

@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER SUMMIT",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-28",
   "total_records": 22,
   "records": [
     {
@@ -54,24 +54,6 @@
     {
       "DUE_DATE": "2027/03/12",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Maritime Labour CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/12",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Safety Management CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/12",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - International Ship Security Certificate (ISSC)ECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/12",
-      "CLASS": "AB",
       "DESCRIPTION": "Surv - ISM Renewal Audit 4Remote",
       "CODE": ""
     },
@@ -85,6 +67,24 @@
       "DUE_DATE": "2027/03/12",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - MLC Renewal Inspection 3Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Maritime Labour CertificateECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Safety Management CertificateECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - International Ship Security Certificate (ISSC)ECC",
       "CODE": ""
     },
     {

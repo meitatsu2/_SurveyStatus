@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER LOYAL",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-28",
   "total_records": 118,
   "records": [
     {
@@ -347,48 +347,6 @@
     },
     {
       "DUE_DATE": "2027/03/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 CROSSHEAD PIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.5 CRANKPIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.7 CRANKPIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.5 CRANKJOURNAL & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.7 CRANKJOURNAL & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.9 CRANKJOURNAL & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 MAIN AIR COMPRESSOR",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/31",
       "CLASS": "CR",
       "DESCRIPTION": "CMS - M/E CYL. 2 CROSSHEAD/GUIDE/CONNECT.ROD & BEARG",
       "CODE": ""
@@ -655,6 +613,48 @@
       "DUE_DATE": "2027/03/31",
       "CLASS": "CR",
       "DESCRIPTION": "CMS - E/R REMOTE CONTROL QUICK CLOSING V.FOR F.O.TANK",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 CROSSHEAD PIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.5 CRANKPIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.7 CRANKPIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.5 CRANKJOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.7 CRANKJOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.9 CRANKJOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 MAIN AIR COMPRESSOR",
       "CODE": ""
     },
     {

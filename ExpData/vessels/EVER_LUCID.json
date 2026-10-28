@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER LUCID",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-28",
   "total_records": 59,
   "records": [
     {
@@ -95,12 +95,6 @@
     },
     {
       "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.3 F.O. SUPPLY PUMP FOR G/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
       "CLASS": "CR",
       "DESCRIPTION": "CMS - M/E CYL. 3 CYLINDER COVER",
       "CODE": ""
@@ -163,6 +157,12 @@
       "DUE_DATE": "2026/12/31",
       "CLASS": "CR",
       "DESCRIPTION": "CMS - WINDLASS",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 F.O. SUPPLY PUMP FOR G/E",
       "CODE": ""
     },
     {

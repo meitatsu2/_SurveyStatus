@@ -1,14 +1,8 @@
 {
   "vessel_name": "EVER SMART",
-  "last_updated": "2026-10-26",
-  "total_records": 5,
+  "last_updated": "2026-10-28",
+  "total_records": 4,
   "records": [
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "LR",
-      "DESCRIPTION": "LR - STEERING GEAR CENTRE (NO.2) HYD OIL PUMP UNIT",
-      "CODE": "CA19"
-    },
     {
       "DUE_DATE": "2027/02/15",
       "CLASS": "LR",

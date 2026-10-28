@@ -1,6 +1,6 @@
 {
   "vessel_name": "UNI-ADROIT",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-28",
   "total_records": 22,
   "records": [
     {
@@ -65,6 +65,18 @@
     },
     {
       "DUE_DATE": "2028/04/19",
+      "CLASS": "CR",
+      "DESCRIPTION": "CR - It is recommended that the holed bottom plating, approximately 1 cm in diameter, between Fr. 18 and 19 in way of bilge tank be permanently repaired as soon as possible but not later than 19/04/2028, and that the temporary repair be further examined at the next coming annual survey.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2028/04/19",
+      "CLASS": "CR",
+      "DESCRIPTION": "CR - It is recommended that the malfunctioned digital indicator of echo sounder to be dealt with as soon as possible but not later than 19 April 2028.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2028/04/19",
       "CLASS": "NK",
       "DESCRIPTION": "Class - Special Survey",
       "CODE": "CB03"
@@ -80,18 +92,6 @@
       "CLASS": "NK",
       "DESCRIPTION": "Class - Special Survey",
       "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/04/19",
-      "CLASS": "CR",
-      "DESCRIPTION": "CR - It is recommended that the holed bottom plating, approximately 1 cm in diameter, between Fr. 18 and 19 in way of bilge tank be permanently repaired as soon as possible but not later than 19/04/2028, and that the temporary repair be further examined at the next coming annual survey.",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2028/04/19",
-      "CLASS": "CR",
-      "DESCRIPTION": "CR - It is recommended that the malfunctioned digital indicator of echo sounder to be dealt with as soon as possible but not later than 19 April 2028.",
-      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2028/04/19",
