@@ -1,20 +1,8 @@
 {
   "vessel_name": "EVER LEADING",
-  "last_updated": "2026-10-28",
-  "total_records": 8,
+  "last_updated": "2026-10-31",
+  "total_records": 5,
   "records": [
-    {
-      "DUE_DATE": "2027/09/10",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - SS - SPECIAL",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2027/09/10",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
-      "CODE": "CB04"
-    },
     {
       "DUE_DATE": "2028/05/24",
       "CLASS": "AB",
@@ -44,12 +32,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "ABS Non-Conformity : Requirement:\nThe Company should establish procedures, plans and instructions, including checklists as appropriate, for key shipboard operations concerning the safety of the personnel, ship and protection of the environment. The various tasks should be defined and assigned to qualified personnel.\na) \n\n- \nPR-0705 \"Special shipboard operations\" states: \"For safe work procedures for entering dangerous (enclosed) space, please refer to Code of Safe Working Practices Chapter 15.\" \n\n- \nCode of Safe Working Practices Chapter 15 states: \"When the space is open for work to be carried out, an attendant should be posted or a barrier and warning sign put in place\"\n\n- \nThe vessel's list of Enclosed Spaces includes the CO2 Room, Main Engine Scavenge space and Main Engine Crankcase.\n\nb) \n\n- \nPR-0705 \"Special shipboard operations\" states: \"For safe work procedures for work at height, please refer to COSWP Chapter 17. While outboard or aloft work carried out on board, a permit to work system, “Outboard or aloft work permit” (CK-0705-3) should be employed and complied accordingly.\"\n\n- \nCode of Safe Working Practices Chapter 17 states: \"Anyone working where there is a risk of falling may be regarded as working at height. Working at height (also known as working aloft) should be risk assessed and suitable control measures should be taken to protect people who may be at risk. Depending on the severity of the risk, a permit to work may be required.\"\n\nc)\nPR-0401 \"Risk Assessment\" states: \"The purpose of this procedure is identification, evaluation, rating and reporting any risks. The risk Assessment is defined as the process of assessing the risks associated with each of the hazards identified. The Risk assessment process identifies hazards present in a work undertaking, analyses the level of risk, considers those in danger and evaluates whether hazards are adequately controlled, considering any measures already in place.\nEvidence:\na)\nOn 28 May 2025, 25 June 2025, 23 July 2025 and 25 August 2025, two persons signed the Enclosed Space Permit for inspection of the CO2 room. The same two persons also entered the Space, leaving no attendant outside the space to facilitate rescue.\nSeveral members of the vessel's crew were observed entering the CO2 room without an Enclosed Space Permit during the audit.\nMaintenance records indicate that an entry into crankcase took place on 28 April 2025. No objective evidence could be provided that an Enclosed Space Permit was utilized for this work.\nOn 26 May 2025, the vessel's crew overhauled the cylinder head and piston of Main Engine No. 02. No objective evidence could be provided that an Enclosed Space Permit was utilized for entry into the scavenge space, which is required for this work.\nb) A crewmember was observed climbing on the Paint Locker storage rails without a Working Aloft Permit having been issued or a Risk Assessment having been conducted.\nc) \n\n- \nA top overhaul repair on Diesel Engine No. 02 was initiated on 05 March 2026. However, the Risk Assessment for removing the top cover was only signed on 09 March 2026. A Risk Assessment for the same purpose was also signed on 13 March 2026, but the crew could not explain why it was completed twice.\n\n- \nOn 26 May 2025, the vessel's crew overhauled the cylinder head and piston of Main Engine No. 02. The Risk Assessment conducted only dealt with hazards pertaining to the removal of the piston. No objective evidence could be provided that risks pertaining to the removal of the cylinder head were assessed.\n\n- \nThe Risk Assessment E-10 \"Operation of Steering Equipment\" was not conducted for various arrivals and departures.\n\nNature:\na) Enclosed Space Procedures were not effectively implemented\nb) Working Aloft Procedures were not effectively implemented.\nc) Risk Assessment procedures were not effectively implemented.\nNote: The root cause shall be provided and individual corrective and preventive action shall be taken for each item listed.",
       "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2030/11/08",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - TS1 - SCREWSHAFT",
-      "CODE": "CB06"
     }
   ]
 }

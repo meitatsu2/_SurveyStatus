@@ -1,18 +1,12 @@
 {
   "vessel_name": "UNI-PROBITY",
-  "last_updated": "2026-10-28",
+  "last_updated": "2026-10-31",
   "total_records": 18,
   "records": [
     {
       "DUE_DATE": "2027/01/10",
       "CLASS": "CR",
       "DESCRIPTION": "CR - The deformed bulwark with top plate on the F'cle deck between Fr.202 (S) and Fr.204 (S) should be dealt with as soon as possible, but not later than 10 January 2027.",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2027/01/11",
-      "CLASS": "NK",
-      "DESCRIPTION": "NK - The deformed bulwark (stb. side) from Fr.202 to Fr.203 on the F'CLE deck to be permanently repaired by the due date below.",
       "CODE": "CA19"
     },
     {
@@ -40,16 +34,16 @@
       "CODE": ""
     },
     {
+      "DUE_DATE": "2027/01/11",
+      "CLASS": "NK",
+      "DESCRIPTION": "NK - The deformed bulwark (stb. side) from Fr.202 to Fr.203 on the F'CLE deck to be permanently repaired by the due date below.",
+      "CODE": "CA19"
+    },
+    {
       "DUE_DATE": "2027/01/14",
       "CLASS": "NK",
       "DESCRIPTION": "NK - The damaged outboard stern tube bearing is to be renewed not later than the due date below, further\nextension of the due date maybe considered subject to L.O. analysis report and temperature record verified\nby the attending surveyor in accordance with SVD instruction (Ref: TZ #601627-2 and Ref:TZ #645432-3).",
       "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2029/07/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
     },
     {
       "DUE_DATE": "2029/07/14",
@@ -58,22 +52,16 @@
       "CODE": "CB04"
     },
     {
+      "DUE_DATE": "2029/07/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
       "DUE_DATE": "2031/02/23",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
       "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2031/06/21",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/06/21",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2031/06/21",
@@ -94,15 +82,27 @@
       "CODE": "CB03"
     },
     {
-      "DUE_DATE": "2031/07/14",
+      "DUE_DATE": "2031/06/21",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey",
-      "CODE": "CB06"
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/06/21",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2031/07/14",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey C (M1/M2/M3)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2031/07/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
       "CODE": "CB06"
     },
     {

@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER ECLAT",
-  "last_updated": "2026-10-28",
-  "total_records": 9,
+  "last_updated": "2026-10-31",
+  "total_records": 3,
   "records": [
     {
       "DUE_DATE": "2027/03/21",
@@ -20,42 +20,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "Cert - Interim Maritime Labour CertificateECC",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2029/09/21",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2031/09/21",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/09/21",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2031/09/21",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/09/21",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2041/09/21",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
     }
   ]
 }

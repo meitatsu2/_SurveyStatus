@@ -1,44 +1,8 @@
 {
   "vessel_name": "EVER BEFIT",
-  "last_updated": "2026-10-28",
-  "total_records": 13,
+  "last_updated": "2026-10-31",
+  "total_records": 6,
   "records": [
-    {
-      "DUE_DATE": "2027/01/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 AIR INTER COOLER OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - F.O. HEATER FOR SHIFT LINE",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2028/06/26",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2028/06/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/06/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2028/06/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
     {
       "DUE_DATE": "2028/06/27",
       "CLASS": "CR",
@@ -67,12 +31,6 @@
       "DUE_DATE": "2028/06/27",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Condition Monitoring Special Survey",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2033/06/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     },
     {

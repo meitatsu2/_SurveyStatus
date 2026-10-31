@@ -1,43 +1,13 @@
 {
   "vessel_name": "EVER ACE",
-  "last_updated": "2026-10-28",
-  "total_records": 6,
+  "last_updated": "2026-10-31",
+  "total_records": 1,
   "records": [
-    {
-      "DUE_DATE": "2026/11/11",
-      "CLASS": "LR",
-      "DESCRIPTION": "Cert - International Ballast Water Management Certificate",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/11",
-      "CLASS": "LR",
-      "DESCRIPTION": "Cert - Interim International Certificate on Inventory of Hazardous Materials",
-      "CODE": ""
-    },
     {
       "DUE_DATE": "2027/01/12",
       "CLASS": "AB",
       "DESCRIPTION": "Cert - Certificate of Vessel ComplianceECC",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2029/06/07",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2031/07/27",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - SS - SPECIAL",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/07/27",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - TS1 - SCREWSHAFT",
-      "CODE": "CB06"
     }
   ]
 }

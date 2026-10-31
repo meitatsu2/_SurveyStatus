@@ -1,20 +1,8 @@
 {
   "vessel_name": "EVER BIRTH",
-  "last_updated": "2026-10-28",
-  "total_records": 23,
+  "last_updated": "2026-10-31",
+  "total_records": 21,
   "records": [
-    {
-      "DUE_DATE": "2025/12/03",
-      "CLASS": "AB",
-      "DESCRIPTION": "CMS - Emergency Shutdown System, QCV System // MACHINERY > Emergency Shutdown System, QCV System",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2025/12/03",
-      "CLASS": "AB",
-      "DESCRIPTION": "CMS - Emergency Shutdown System, QCV System // MACHINERY > Emergency Shutdown System, QCV System",
-      "CODE": ""
-    },
     {
       "DUE_DATE": "2026/12/16",
       "CLASS": "AB",

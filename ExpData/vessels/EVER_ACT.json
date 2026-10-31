@@ -1,14 +1,8 @@
 {
   "vessel_name": "EVER ACT",
-  "last_updated": "2026-10-28",
-  "total_records": 10,
+  "last_updated": "2026-10-31",
+  "total_records": 7,
   "records": [
-    {
-      "DUE_DATE": "2026/09/09",
-      "CLASS": "LR",
-      "DESCRIPTION": "Cert - International Ballast Water Management Certificate",
-      "CODE": ""
-    },
     {
       "DUE_DATE": "2027/03/13",
       "CLASS": "AB",
@@ -49,18 +43,6 @@
       "DUE_DATE": "2027/03/13",
       "CLASS": "AB",
       "DESCRIPTION": "Cert - Maritime Labour CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/17",
-      "CLASS": "LR",
-      "DESCRIPTION": "Cert - International Ballast Water Management Certificate",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/17",
-      "CLASS": "LR",
-      "DESCRIPTION": "Cert - Interim International Certificate on Inventory of Hazardous Materials",
       "CODE": ""
     }
   ]

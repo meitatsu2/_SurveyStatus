@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER CREATE",
-  "last_updated": "2026-10-28",
+  "last_updated": "2026-10-31",
   "total_records": 20,
   "records": [
     {
@@ -47,14 +47,14 @@
     },
     {
       "DUE_DATE": "2027/06/24",
-      "CLASS": "NK",
-      "DESCRIPTION": "NK - The following damage in way of No.1F(S) hatch cover shall be repaired to the satisfaction of the attending surveyor prior to crediting vessel's next Annual Survey, but not later than the due date below.\n1. The internal structures in way of the forward, outboard stacking position were found deformed, buckled and twisted. \n2. Hatch cover top plating was found deformed between transverse beam Nos. T14 and T16, and between longitudinal beam Nos. L13 and L14. \nAbove damage shall be subject to regular examination of ship crew for verification of progress of damage, and report to Class if any serious progress.",
+      "CLASS": "CR",
+      "DESCRIPTION": "CR - In way of No. 1F (S) Cargo Hold Hatch Cover\nThe internal structures in way of the forward, outboard stacking position were found deformed, buckled and twisted.\nHatch cover top plating was found deformed between transverse beam Nos. T14 and T16, and between longitudinal beam Nos. L13 and L14.\nIt is recommended that the above defective items be repaired and dealt with to the satisfaction of the attending surveyor prior to crediting vessel’s next Annual Survey, but not later than 24 June 2027.",
       "CODE": "CA19"
     },
     {
       "DUE_DATE": "2027/06/24",
-      "CLASS": "CR",
-      "DESCRIPTION": "CR - In way of No. 1F (S) Cargo Hold Hatch Cover\nThe internal structures in way of the forward, outboard stacking position were found deformed, buckled and twisted.\nHatch cover top plating was found deformed between transverse beam Nos. T14 and T16, and between longitudinal beam Nos. L13 and L14.\nIt is recommended that the above defective items be repaired and dealt with to the satisfaction of the attending surveyor prior to crediting vessel’s next Annual Survey, but not later than 24 June 2027.",
+      "CLASS": "NK",
+      "DESCRIPTION": "NK - The following damage in way of No.1F(S) hatch cover shall be repaired to the satisfaction of the attending surveyor prior to crediting vessel's next Annual Survey, but not later than the due date below.\n1. The internal structures in way of the forward, outboard stacking position were found deformed, buckled and twisted. \n2. Hatch cover top plating was found deformed between transverse beam Nos. T14 and T16, and between longitudinal beam Nos. L13 and L14. \nAbove damage shall be subject to regular examination of ship crew for verification of progress of damage, and report to Class if any serious progress.",
       "CODE": "CA19"
     },
     {
@@ -74,18 +74,6 @@
       "CLASS": "NK",
       "DESCRIPTION": "Class - Prop. Shaft Survey",
       "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2031/03/24",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/03/24",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2031/03/24",
@@ -112,15 +100,27 @@
       "CODE": "CB06"
     },
     {
-      "DUE_DATE": "2036/03/24",
+      "DUE_DATE": "2031/03/24",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/03/24",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2036/03/24",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2036/03/24",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]

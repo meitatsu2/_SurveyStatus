@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LUNAR",
-  "last_updated": "2026-10-28",
-  "total_records": 40,
+  "last_updated": "2026-10-31",
+  "total_records": 47,
   "records": [
     {
       "DUE_DATE": "2026/11/30",
@@ -52,6 +52,48 @@
       "CODE": ""
     },
     {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - STEERING GEAR SYSTEM",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - WINDLASS",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - BILGE SYSTEM",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - CABLE INSTALLATION",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - MEASUREMENT OF INSULATION RESISTANCE",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - RUNNING TEST OF GENERATOR",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/30",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - REMOTE CONTROL CIRCUIT OF F.O. PUMPS & FANS",
+      "CODE": ""
+    },
+    {
       "DUE_DATE": "2026/12/31",
       "CLASS": "NK",
       "DESCRIPTION": "CMS - NO.7 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
@@ -73,18 +115,6 @@
       "DUE_DATE": "2027/01/31",
       "CLASS": "NK",
       "DESCRIPTION": "CMS - NO.9 CROSSHEAD PIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/08",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Annual Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/08",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Annual Survey",
       "CODE": ""
     },
     {
@@ -178,10 +208,16 @@
       "CODE": ""
     },
     {
-      "DUE_DATE": "2027/11/27",
+      "DUE_DATE": "2027/04/08",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/08",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
     },
     {
       "DUE_DATE": "2027/11/27",
@@ -190,16 +226,10 @@
       "CODE": "CB04"
     },
     {
-      "DUE_DATE": "2030/01/08",
+      "DUE_DATE": "2027/11/27",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2030/01/08",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
     },
     {
       "DUE_DATE": "2030/01/08",
@@ -226,6 +256,18 @@
       "CODE": "CB06"
     },
     {
+      "DUE_DATE": "2030/01/08",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/01/08",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
       "DUE_DATE": "2030/02/27",
       "CLASS": "NK",
       "DESCRIPTION": "Class - Prop. Shaft Survey",
@@ -233,14 +275,14 @@
     },
     {
       "DUE_DATE": "2039/11/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
       "CODE": "CB06"
     },
     {
       "DUE_DATE": "2039/11/27",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]

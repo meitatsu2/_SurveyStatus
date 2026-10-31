@@ -1,14 +1,8 @@
 {
   "vessel_name": "EVER LUCKY",
-  "last_updated": "2026-10-28",
-  "total_records": 12,
+  "last_updated": "2026-10-31",
+  "total_records": 11,
   "records": [
-    {
-      "DUE_DATE": "2026/12/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "NK - The damaged two set BWTS UV chambers to be permanently repaired no later than 14 December 2026 according to flag special authority under Letter No. 111-01-011-DGMM-DOR/OPR.",
-      "CODE": "CA19"
-    },
     {
       "DUE_DATE": "2026/12/31",
       "CLASS": "NK",

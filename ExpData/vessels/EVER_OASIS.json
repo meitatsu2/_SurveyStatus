@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER OASIS",
-  "last_updated": "2026-10-28",
-  "total_records": 11,
+  "last_updated": "2026-10-31",
+  "total_records": 3,
   "records": [
     {
       "DUE_DATE": "2027/01/02",
@@ -20,54 +20,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - MLC Renewal Inspection 1Remote",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/02",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - International Ship Security Certificate (ISSC)ECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/02",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Safety Management CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/02",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Maritime Labour CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2029/06/04",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2031/07/04",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2031/07/05",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/07/05",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2036/07/05",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
     }
   ]
 }

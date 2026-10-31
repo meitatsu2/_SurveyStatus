@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER CONVEY",
-  "last_updated": "2026-10-28",
-  "total_records": 17,
+  "last_updated": "2026-10-31",
+  "total_records": 12,
   "records": [
     {
       "DUE_DATE": "2027/03/27",
@@ -46,30 +46,6 @@
       "CODE": "CB04"
     },
     {
-      "DUE_DATE": "2029/09/06",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2031/09/08",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2031/09/09",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/09/09",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
       "DUE_DATE": "2031/09/09",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Class Special Survey of Hull (No.2)",
@@ -91,12 +67,6 @@
       "DUE_DATE": "2031/09/09",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Condition Monitoring Special Survey",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2036/09/09",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     },
     {

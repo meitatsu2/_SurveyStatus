@@ -1,14 +1,8 @@
 {
   "vessel_name": "EVER FRANK",
-  "last_updated": "2026-10-28",
-  "total_records": 8,
+  "last_updated": "2026-10-31",
+  "total_records": 4,
   "records": [
-    {
-      "DUE_DATE": "2026/11/07",
-      "CLASS": "LR",
-      "DESCRIPTION": "LR - STBD ANCHOR OUT OF SERVICE",
-      "CODE": "CA19"
-    },
     {
       "DUE_DATE": "2027/11/29",
       "CLASS": "AB",
@@ -32,24 +26,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "ABS Non-Conformity : Requirements:\nThe safety-management system should ensure:\n\n- \ncompliance with mandatory rules and regulations; and\n\n- \nthat applicable codes, guidelines and standards recommended by the Organization, Administrations, classification societies and maritime industry organizations are taken into account.\n\nResolution MEPC.277(70) states \"The entry for each completed incineration shall include date and time and position of the ship (latitude and longitude) at the start and stop of incineration, categories of garbage incinerated and the estimated amount incinerated for each category in cubic meters\".\nSMS Procedure 03-05-00 \"Garbage Management\" states: \n\"Entries in the Garbage Record book shall be made on each of the following occasions:\n\n- \nGarbage is incinerated - include estimated amount incinerated in cubic meters\"\n\nOil Record Book's \"List of items to be Recorded\" includes \"time and place of replacing 15 ppm equipment parts\".\nEvidence:\n\n- \nIncineration of sea chest strainer waste took place on 18 February 2025 and 31 January 2025 as indicated in the Anti-fouling Record Book. However, the quantity of incinerated waste was not indicated in the relevant Garbage Record Book entries.\n\n- \nThe 15 ppm Oil Content Meter of the Oily Water Separator was replaced on 21 July 2024 as indicated in a job report of the same date. No relevant entry was made in the Oil Record Book to indicate the time and place of replacement.\n\nNature:\nOil Record Book and Garbage Record Book entries were not as required.",
       "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2029/01/23",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2031/02/17",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - SS - SPECIAL",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/02/17",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - TS1 - SCREWSHAFT",
-      "CODE": "CB06"
     }
   ]
 }

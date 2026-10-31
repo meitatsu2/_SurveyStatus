@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER LYRIC",
-  "last_updated": "2026-10-28",
+  "last_updated": "2026-10-31",
   "total_records": 16,
   "records": [
     {
@@ -47,18 +47,6 @@
     },
     {
       "DUE_DATE": "2030/04/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2030/04/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2030/04/14",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Class Special Survey of Hull (No.3)",
       "CODE": "CB03"
@@ -80,6 +68,18 @@
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Condition Monitoring Special Survey",
       "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2030/04/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/04/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2030/06/28",

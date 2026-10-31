@@ -1,84 +1,12 @@
 {
   "vessel_name": "EVER LEGEND",
-  "last_updated": "2026-10-28",
-  "total_records": 19,
+  "last_updated": "2026-10-31",
+  "total_records": 7,
   "records": [
     {
       "DUE_DATE": "2027/02/17",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 4Remote",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "CMS - Connecting Rod No.03 // MACHINERY > Main Propulsion System > Main Diesel Engine > Cylinder Unit No.03 > Connecting Rod ...",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "CMS - Connecting Rod No.05 // MACHINERY > Main Propulsion System > Main Diesel Engine > Cylinder Unit No.05 > Connecting Rod ...",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "CMS - Cylinder Head No.03 // MACHINERY > Main Propulsion System > Main Diesel Engine > Cylinder Unit No.03 > Cylinder Head N...",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "CMS - Cylinder Head No.05 // MACHINERY > Main Propulsion System > Main Diesel Engine > Cylinder Unit No.05 > Cylinder Head N...",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "CMS - Cylinder Liner No.03 // MACHINERY > Main Propulsion System > Main Diesel Engine > Cylinder Unit No.03 > Cylinder Liner ...",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "CMS - Cylinder Liner No.05 // MACHINERY > Main Propulsion System > Main Diesel Engine > Cylinder Unit No.05 > Cylinder Liner ...",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "CMS - Fuel Injection Pump No.08 // MACHINERY > Main Propulsion System > Main Diesel Engine > Cylinder Unit No.08 > Fuel Injection ...",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "CMS - Fuel Injection Valve No.04 // MACHINERY > Main Propulsion System > Main Diesel Engine > Cylinder Unit No.04 > Fuel Injection ...",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "CMS - Piston Assembly No.03 // MACHINERY > Main Propulsion System > Main Diesel Engine > Cylinder Unit No.03 > Piston Assembly...",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "CMS - Piston Assembly No.05 // MACHINERY > Main Propulsion System > Main Diesel Engine > Cylinder Unit No.05 > Piston Assembly...",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "CMS - Stern Tube Lube Oil Pump NO.01 // MACHINERY > Stern Tube Lubricating Oil System > Stern Tube Lube Oil Pump NO.01",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "CMS - Stern Tube Lube Oil Pump NO.02 // MACHINERY > Stern Tube Lubricating Oil System > Stern Tube Lube Oil Pump NO.02",
       "CODE": ""
     },
     {

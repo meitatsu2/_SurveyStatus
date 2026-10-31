@@ -1,18 +1,12 @@
 {
   "vessel_name": "EVER LIBRA",
-  "last_updated": "2026-10-28",
-  "total_records": 12,
+  "last_updated": "2026-10-31",
+  "total_records": 8,
   "records": [
     {
       "DUE_DATE": "2026/12/09",
       "CLASS": "CR",
       "DESCRIPTION": "CR - The weld beads of the studs on the first three shots of the port-side anchor chain were found to be defective.\nIt is recommended that the above-mentioned deficiency to be dealt with as soon as possible but not later than 09 December 2026.",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2026/12/09",
-      "CLASS": "LR",
-      "DESCRIPTION": "LR - Port side chain cable stud to be repaired.",
       "CODE": "CA19"
     },
     {
@@ -49,24 +43,6 @@
       "DUE_DATE": "2027/10/21",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Condition Monitoring Special Survey",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2027/10/21",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - SS - SPECIAL",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2027/10/21",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2027/10/31",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - TS1 - SCREWSHAFT",
       "CODE": "CB06"
     },
     {

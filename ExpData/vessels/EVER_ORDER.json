@@ -1,8 +1,14 @@
 {
   "vessel_name": "EVER ORDER",
-  "last_updated": "2026-10-28",
-  "total_records": 12,
+  "last_updated": "2026-10-31",
+  "total_records": 4,
   "records": [
+    {
+      "DUE_DATE": "2027/02/12",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirements:\nSEMS, MN-11, 1,1 Valid documents can be located and are available at points of use.\nEvidence:\nBelow records were missing during record sampling:\n1. C/Cook familiarization training \"Basic safety training record\". \n2. Fuel sampled inventory log for bunkering was last updated until 13-Oct-2023. \n3. Hot work permit dated 12-Jul-2024 was reviewed and found that the risk assessment G05 was not reviewed.\nNatural:\nThe above records should be available and retained as required by the SEMS and to be presented as the proof that the operation, or procedure has been carried out.",
+      "CODE": "CA19"
+    },
     {
       "DUE_DATE": "2027/02/12",
       "CLASS": "AB",
@@ -20,60 +26,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - MLC Renewal Inspection 1Remote",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/12",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Safety Management CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/12",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - International Ship Security Certificate (ISSC)ECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/12",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Maritime Labour CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/12",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Non-Conformity : Requirements:\nSEMS, MN-11, 1,1 Valid documents can be located and are available at points of use.\nEvidence:\nBelow records were missing during record sampling:\n1. C/Cook familiarization training \"Basic safety training record\". \n2. Fuel sampled inventory log for bunkering was last updated until 13-Oct-2023. \n3. Hot work permit dated 12-Jul-2024 was reviewed and found that the risk assessment G05 was not reviewed.\nNatural:\nThe above records should be available and retained as required by the SEMS and to be presented as the proof that the operation, or procedure has been carried out.",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2029/06/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2031/08/24",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2031/08/25",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/08/25",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2036/08/25",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
     }
   ]
 }

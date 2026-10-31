@@ -1,20 +1,8 @@
 {
   "vessel_name": "EVER SHINE",
-  "last_updated": "2026-10-28",
-  "total_records": 7,
+  "last_updated": "2026-10-31",
+  "total_records": 3,
   "records": [
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "LR",
-      "DESCRIPTION": "LR - NO1 SUPPLY VENT FAN MOTOR",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2028/03/30",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
-      "CODE": "CB04"
-    },
     {
       "DUE_DATE": "2029/02/20",
       "CLASS": "AB",
@@ -32,18 +20,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "ABS Non-Conformity : Requirement: \nPer SE Manual, PR-0605, Section 5.1.2 Shipboard Safety Committee, the frequency of meetings should be held once per month and can be particular; a meeting should also be held after any serious incident or accident on the ship, if the normal meeting is not due within a week.\nEvidence: \nAB's (Guo, Xiao-Bin) left index finger was injured (fracture) during the anchor operation on 13 April 2025. After medical care/ treatment ashore, the doctor diagnosed that the AB's discharge status was unfit for duty.\nThe earlier safety meeting was held on 31 March 2025 & the later safety meeting was held on 30 April 2025.\nNature of NC: \nBased on the evidence gathered, there was no documentary proof that an additional safety meeting was held within a week after the serious incident or accident, and it was categorized as Nonconformity.",
       "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2030/03/16",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - TS1 - SCREWSHAFT",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2030/09/26",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - SS - SPECIAL",
-      "CODE": "CB03"
     }
   ]
 }

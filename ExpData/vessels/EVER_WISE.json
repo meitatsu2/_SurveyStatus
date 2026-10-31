@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER WISE",
-  "last_updated": "2026-10-28",
+  "last_updated": "2026-10-31",
   "total_records": 9,
   "records": [
     {
@@ -12,14 +12,14 @@
     {
       "DUE_DATE": "2028/03/17",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
-      "CODE": "CB04"
+      "DESCRIPTION": "ABS Outstanding : Bracket connecting Side shell plate (S), Aft peak tank top plating and SL14 at Fr. 3,4 and 5 were found buckled around 50-90 mm.",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2028/03/17",
       "CLASS": "AB",
-      "DESCRIPTION": "ABS Outstanding : Bracket connecting Side shell plate (S), Aft peak tank top plating and SL14 at Fr. 3,4 and 5 were found buckled around 50-90 mm.",
-      "CODE": "CA19"
+      "DESCRIPTION": "Surv - Drydocking SurveyRemote",
+      "CODE": "CB04"
     },
     {
       "DUE_DATE": "2030/03/17",

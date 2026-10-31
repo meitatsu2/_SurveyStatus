@@ -1,56 +1,8 @@
 {
   "vessel_name": "EVER CAREER",
-  "last_updated": "2026-10-28",
+  "last_updated": "2026-10-31",
   "total_records": 191,
   "records": [
-    {
-      "DUE_DATE": "2026/11/01",
-      "CLASS": "NK",
-      "DESCRIPTION": "Cert - Class",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/01",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2026/11/01",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Boiler Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/01",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2026/11/01",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2026/11/01",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2026/11/01",
-      "CLASS": "NK",
-      "DESCRIPTION": "Cert - Inventory of Hazardous Materials",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/01",
-      "CLASS": "NK",
-      "DESCRIPTION": "Inventory of Hazardous Materials - Renewal Survey",
-      "CODE": ""
-    },
     {
       "DUE_DATE": "2026/11/01",
       "CLASS": "CR",
@@ -72,19 +24,7 @@
     {
       "DUE_DATE": "2026/11/01",
       "CLASS": "CR",
-      "DESCRIPTION": "Cert - Safety Equipment",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/01",
-      "CLASS": "CR",
       "DESCRIPTION": "Cert - Safety Radio",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/01",
-      "CLASS": "CR",
-      "DESCRIPTION": "Cert - DOC of Dangerous Goods",
       "CODE": ""
     },
     {
@@ -97,18 +37,6 @@
       "DUE_DATE": "2026/11/01",
       "CLASS": "CR",
       "DESCRIPTION": "Cert - I.S.P.P.",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/01",
-      "CLASS": "CR",
-      "DESCRIPTION": "Cert - DOC of G.P.P.",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/01",
-      "CLASS": "CR",
-      "DESCRIPTION": "Cert - I.A.P.P.",
       "CODE": ""
     },
     {
@@ -235,6 +163,54 @@
       "DUE_DATE": "2026/11/01",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Ship Recycling Renewal Survey [EU]",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/01",
+      "CLASS": "NK",
+      "DESCRIPTION": "Cert - Class",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/01",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2026/11/01",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Boiler Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/01",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2026/11/01",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2026/11/01",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2026/11/01",
+      "CLASS": "NK",
+      "DESCRIPTION": "Cert - Inventory of Hazardous Materials",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/11/01",
+      "CLASS": "NK",
+      "DESCRIPTION": "Inventory of Hazardous Materials - Renewal Survey",
       "CODE": ""
     },
     {
@@ -1102,6 +1078,30 @@
       "CODE": ""
     },
     {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - Safety Equipment",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - DOC of Dangerous Goods",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - DOC of G.P.P.",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/26",
+      "CLASS": "CR",
+      "DESCRIPTION": "Cert - I.A.P.P.",
+      "CODE": ""
+    },
+    {
       "DUE_DATE": "2027/04/14",
       "CLASS": "CR",
       "DESCRIPTION": "Cert - Safety Management",
@@ -1139,14 +1139,14 @@
     },
     {
       "DUE_DATE": "2036/11/01",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
       "CODE": "CB06"
     },
     {
       "DUE_DATE": "2036/11/01",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]

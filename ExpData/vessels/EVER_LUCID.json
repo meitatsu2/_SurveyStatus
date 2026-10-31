@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER LUCID",
-  "last_updated": "2026-10-28",
+  "last_updated": "2026-10-31",
   "total_records": 59,
   "records": [
     {
@@ -59,24 +59,6 @@
     },
     {
       "DUE_DATE": "2026/12/12",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Boiler Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/12",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Boiler Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/12",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2026/12/12",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Bottom Survey",
       "CODE": "CB04"
@@ -92,6 +74,24 @@
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Exhaust Gas Boiler Survey",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Boiler Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Boiler Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/12",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
     },
     {
       "DUE_DATE": "2026/12/31",
@@ -203,24 +203,6 @@
     },
     {
       "DUE_DATE": "2027/04/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Intermediate Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Annual Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Annual Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/14",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Class Intermediate Survey",
       "CODE": ""
@@ -304,16 +286,22 @@
       "CODE": ""
     },
     {
-      "DUE_DATE": "2029/01/14",
+      "DUE_DATE": "2027/04/14",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
+      "DESCRIPTION": "Class - Intermediate Survey",
+      "CODE": ""
     },
     {
-      "DUE_DATE": "2029/01/14",
+      "DUE_DATE": "2027/04/14",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
     },
     {
       "DUE_DATE": "2029/01/14",
@@ -340,6 +328,18 @@
       "CODE": "CB06"
     },
     {
+      "DUE_DATE": "2029/01/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/01/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
       "DUE_DATE": "2029/01/25",
       "CLASS": "NK",
       "DESCRIPTION": "Class - Prop. Shaft Survey",
@@ -347,14 +347,14 @@
     },
     {
       "DUE_DATE": "2038/12/12",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
       "CODE": "CB06"
     },
     {
       "DUE_DATE": "2038/12/12",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]

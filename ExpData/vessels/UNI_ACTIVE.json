@@ -1,6 +1,6 @@
 {
   "vessel_name": "UNI-ACTIVE",
-  "last_updated": "2026-10-28",
+  "last_updated": "2026-10-31",
   "total_records": 94,
   "records": [
     {
@@ -407,18 +407,6 @@
     },
     {
       "DUE_DATE": "2027/04/15",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Annual Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/15",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Annual Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/15",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Class Annual Survey of Hull",
       "CODE": ""
@@ -502,10 +490,16 @@
       "CODE": ""
     },
     {
-      "DUE_DATE": "2027/11/16",
+      "DUE_DATE": "2027/04/15",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey",
-      "CODE": "CB06"
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/15",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Annual Survey",
+      "CODE": ""
     },
     {
       "DUE_DATE": "2027/11/16",
@@ -514,22 +508,10 @@
       "CODE": "CB06"
     },
     {
-      "DUE_DATE": "2028/01/15",
+      "DUE_DATE": "2027/11/16",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/01/15",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2028/01/15",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
     },
     {
       "DUE_DATE": "2028/01/15",
@@ -553,6 +535,24 @@
       "DUE_DATE": "2028/01/15",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Class Special Survey of Auto. & Rem. System",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/01/15",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/01/15",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/01/15",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
       "CODE": "CB03"
     },
     {
