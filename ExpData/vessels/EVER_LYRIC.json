@@ -35,6 +35,12 @@
     },
     {
       "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.6 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
       "CLASS": "CR",
       "DESCRIPTION": "CMS - M/E CYL. 6 CYLINDER COVER",
       "CODE": ""
@@ -88,12 +94,6 @@
       "CODE": ""
     },
     {
-      "DUE_DATE": "2027/04/30",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.6 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
-      "CODE": ""
-    },
-    {
       "DUE_DATE": "2028/05/08",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Bottom Survey",
@@ -104,6 +104,18 @@
       "CLASS": "NK",
       "DESCRIPTION": "Class - Docking Survey",
       "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2030/04/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/04/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2030/04/14",
@@ -128,18 +140,6 @@
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Condition Monitoring Special Survey",
       "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2030/04/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2030/04/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2030/06/28",
