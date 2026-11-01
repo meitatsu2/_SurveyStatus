@@ -114,6 +114,12 @@
     {
       "DUE_DATE": "2028/06/07",
       "CLASS": "NK",
+      "DESCRIPTION": "NK - The following deformed starboard side shell plate with adjacent longitudinal steel in way of G/E L.O. SETT. TK (S) IN E/R is to be permanently repaired by the Due Date below subject to ship crew's daily monitoring and inspection by the attending surveyor at every class periodical survey:\n- Deformed shell plate from Fr.27 to Fr.31 between longitudinal steel No.30 and PASSAGE WAY FLAT.\n- Deformed longitudinal steel No.31 from Fr.27 to Fr.31.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2028/06/07",
+      "CLASS": "NK",
       "DESCRIPTION": "Class - Special Survey",
       "CODE": "CB03"
     },
@@ -128,12 +134,6 @@
       "CLASS": "NK",
       "DESCRIPTION": "Class - Special Survey",
       "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/06/07",
-      "CLASS": "NK",
-      "DESCRIPTION": "NK - The following deformed starboard side shell plate with adjacent longitudinal steel in way of G/E L.O. SETT. TK (S) IN E/R is to be permanently repaired by the Due Date below subject to ship crew's daily monitoring and inspection by the attending surveyor at every class periodical survey:\n- Deformed shell plate from Fr.27 to Fr.31 between longitudinal steel No.30 and PASSAGE WAY FLAT.\n- Deformed longitudinal steel No.31 from Fr.27 to Fr.31.",
-      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2033/06/07",
