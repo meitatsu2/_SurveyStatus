@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LUCKY",
-  "last_updated": "2026-10-31",
-  "total_records": 11,
+  "last_updated": "2026-11-01",
+  "total_records": 14,
   "records": [
     {
       "DUE_DATE": "2026/12/31",
@@ -37,6 +37,24 @@
       "DUE_DATE": "2027/03/31",
       "CLASS": "NK",
       "DESCRIPTION": "CMS - BALLAST PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - BILGE & FIRE PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - BILGE & BALLAST PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 BOILER WATER FEED PUMP",
       "CODE": ""
     },
     {

@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER USEFUL",
-  "last_updated": "2026-10-31",
-  "total_records": 76,
+  "last_updated": "2026-11-01",
+  "total_records": 79,
   "records": [
     {
       "DUE_DATE": "2026/09/30",
@@ -427,6 +427,24 @@
       "DUE_DATE": "2027/03/31",
       "CLASS": "NK",
       "DESCRIPTION": "Ballast Water Management - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.7 CROSSHEAD PIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.7 CRANKPIN & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.7 MAIN JOURNAL & BEARING OF M/E",
       "CODE": ""
     },
     {

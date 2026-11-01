@@ -1,12 +1,18 @@
 {
   "vessel_name": "EVER WORLD",
-  "last_updated": "2026-10-31",
-  "total_records": 21,
+  "last_updated": "2026-11-01",
+  "total_records": 22,
   "records": [
     {
       "DUE_DATE": "2026/12/09",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 1RemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/12/11",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Cargo Ship Safety Equipment CertificateECC",
       "CODE": ""
     },
     {

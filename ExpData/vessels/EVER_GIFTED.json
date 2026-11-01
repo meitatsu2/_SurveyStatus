@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER GIFTED",
-  "last_updated": "2026-10-31",
-  "total_records": 22,
+  "last_updated": "2026-11-01",
+  "total_records": 23,
   "records": [
     {
       "DUE_DATE": "2027/01/10",
@@ -109,6 +109,12 @@
       "DUE_DATE": "2027/03/12",
       "CLASS": "NK",
       "DESCRIPTION": "Ballast Water Management - Annual Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
       "CODE": ""
     },
     {

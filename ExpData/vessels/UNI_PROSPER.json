@@ -1,7 +1,7 @@
 {
   "vessel_name": "UNI-PROSPER",
-  "last_updated": "2026-10-31",
-  "total_records": 22,
+  "last_updated": "2026-11-01",
+  "total_records": 27,
   "records": [
     {
       "DUE_DATE": "2027/03/16",
@@ -106,6 +106,12 @@
       "CODE": "CB04"
     },
     {
+      "DUE_DATE": "2029/10/16",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
       "DUE_DATE": "2031/06/26",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
@@ -130,9 +136,33 @@
       "CODE": "CB03"
     },
     {
+      "DUE_DATE": "2031/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
       "DUE_DATE": "2031/10/16",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey C (M1/M2/M3)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2031/11/24",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2041/10/16",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]
