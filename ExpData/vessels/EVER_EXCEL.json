@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER EXCEL",
-  "last_updated": "2026-11-01",
+  "last_updated": "2026-11-04",
   "total_records": 233,
   "records": [
     {
@@ -1374,7 +1374,7 @@
     {
       "DUE_DATE": "2027/06/06",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 5Remote",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 5RemoteIn Progress",
       "CODE": "CB03"
     },
     {

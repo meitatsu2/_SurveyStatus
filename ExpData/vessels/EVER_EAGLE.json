@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER EAGLE",
-  "last_updated": "2026-11-01",
+  "last_updated": "2026-11-04",
   "total_records": 186,
   "records": [
     {
@@ -684,13 +684,13 @@
     {
       "DUE_DATE": "2026/10/31",
       "CLASS": "AB",
-      "DESCRIPTION": "CMS - Release Device // MACHINERY > Emergency Shutdown System > Release Device",
+      "DESCRIPTION": "CMS - Release Device // MACHINERY > ACCU Control & Monitoring System > Release Device",
       "CODE": ""
     },
     {
       "DUE_DATE": "2026/10/31",
       "CLASS": "AB",
-      "DESCRIPTION": "CMS - Release Device // MACHINERY > ACCU Control & Monitoring System > Release Device",
+      "DESCRIPTION": "CMS - Release Device // MACHINERY > Emergency Shutdown System > Release Device",
       "CODE": ""
     },
     {

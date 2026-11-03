@@ -1,43 +1,19 @@
 {
   "vessel_name": "EVER OASIS",
-  "last_updated": "2026-11-01",
-  "total_records": 11,
+  "last_updated": "2026-11-04",
+  "total_records": 7,
   "records": [
     {
-      "DUE_DATE": "2027/01/02",
+      "DUE_DATE": "2026/12/01",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - International Ship Security Certificate (ISSC)ECC",
-      "CODE": ""
+      "DESCRIPTION": "ABS Non-Conformity : Requirement \nISM code 11.2 ; The Company should ensure that:\n11.2.1 valid documents are available at all relevant locations;\n11.2.2 changes to documents are reviewed and approved by authorized personnel; and\n11.2.3 obsolete documents are promptly removed.\nEvidence \n1. Checklist for oil transfer operation (EP-04-CK-03) from 28 Sep 2026 to 27 Dec 2025 bunkering operations were prepared using Revision 1, dated 24 Feb 2020. The current version of the checklist EP-03-04-03 (Checklist for oil transfer operation) is revision 0 dated 08 Dec 2025. \n2. Checklist for oil transfer operation (EP-04-CK-03) from 26 Feb to 27 Dec 2025 bunkering operations were prepared using Revision 1, dated 24 Feb 2020. The version valid of the checklist EP-03-04-03 (Checklist for oil transfer operation) was revision 0 dated 07 Feb 2025.\nNature\nThe revised checklist for oil transfer operation (EP-03-04-03) were not duly implemented and used onboard for 2 of the period mentioned above.",
+      "CODE": "CA19"
     },
     {
-      "DUE_DATE": "2027/01/02",
+      "DUE_DATE": "2026/12/01",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Safety Management CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/02",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Maritime Labour CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/02",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - ISM Renewal Audit 1RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/02",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - ISPS Renewal Verification 1 - Part A & BRemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/02",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - MLC Renewal Inspection 1RemoteIn Progress",
-      "CODE": ""
+      "DESCRIPTION": "ABS Non-Conformity : Requirement \nSOLAS Chapter III - Regulation 19.3.2\nEvery crew member shall participate in at least one abandon ship drill and one fire drill every month. The drills of the crew shall take place within 24 h of the ship leaving a port if more than 25% of the crew have not participated in abandon ship and fire drills on board that particular ship in the previous month.\nEvidence \n- Between 05 October to 26 October 2026; there are a total of 7 of the 24 crew onboard were changed. The last fire drill were carried out on 03 October 2026. \n- Between 31 July to 07 July 2026; there are a total of 7 of the 24 crew onboard were changed. The last fire drill were carried out on 05 July 2026. \nNo other fire drill reports were noted during the course of the audit for the above period.\nNature\n- The above newly joined crew did not participate in at least one fire drill in Month of July and October 2026 as required by SOLAS.\n- There were at least 25% crew change since the last fire drill, however no additional fire drills were carried out as required by SOLAS for the new joiners.",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2029/06/04",

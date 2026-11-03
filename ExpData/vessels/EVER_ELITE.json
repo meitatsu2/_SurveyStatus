@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER ELITE",
-  "last_updated": "2026-11-01",
+  "last_updated": "2026-11-04",
   "total_records": 138,
   "records": [
     {
@@ -156,13 +156,13 @@
     {
       "DUE_DATE": "2027/02/28",
       "CLASS": "AB",
-      "DESCRIPTION": "CMS - Cable // MACHINERY > Emergency Power Distribution System > Cable",
+      "DESCRIPTION": "CMS - Cable // MACHINERY > Main Power Distribution System > Cable",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/02/28",
       "CLASS": "AB",
-      "DESCRIPTION": "CMS - Cable // MACHINERY > Main Power Distribution System > Cable",
+      "DESCRIPTION": "CMS - Cable // MACHINERY > Emergency Power Distribution System > Cable",
       "CODE": ""
     },
     {
