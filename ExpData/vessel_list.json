@@ -10,7 +10,7 @@
     "dept": "MT3",
     "deliver": "2021/07/28",
     "smail": "master.everace@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.everace@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ACME",
@@ -23,7 +23,7 @@
     "dept": "MT3",
     "deliver": "2022/12/29",
     "smail": "master.everacme@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.EVERACME@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ACT",
@@ -36,7 +36,7 @@
     "dept": "MT3",
     "deliver": "2021/09/10",
     "smail": "master.everact@fleetmail.inmarsat.com",
-    "cemail": "ce.italway@fleetmail.inmarsat.com"
+    "cemail": "ce.everact@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER AEON",
@@ -49,7 +49,7 @@
     "dept": "MT3",
     "deliver": "2024/09/12",
     "smail": "master.everaeon@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.everaeon@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER AIM",
@@ -62,7 +62,7 @@
     "dept": "MT3",
     "deliver": "2021/10/28",
     "smail": "master.everaim@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.everaim@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ALLY",
@@ -75,7 +75,7 @@
     "dept": "MT3",
     "deliver": "2025/10/08",
     "smail": "master.everally@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERPEARL@fleetmail.inmarsat.com"
+    "cemail": "ce.everally@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ALOT",
@@ -88,7 +88,7 @@
     "dept": "MT3",
     "deliver": "2022/06/22",
     "smail": "master.everalot@fleetmail.inmarsat.com",
-    "cemail": "ce.uniprudent@fleetmail.inmarsat.com"
+    "cemail": "ce.everalot@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ALP",
@@ -101,7 +101,7 @@
     "dept": "MT3",
     "deliver": "2021/12/09",
     "smail": "master.everalp@fleetmail.inmarsat.com",
-    "cemail": "ce.UNIPREMIER@fleetmail.inmarsat.com"
+    "cemail": "ce.everalp@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER APEX",
@@ -114,7 +114,7 @@
     "dept": "MT3",
     "deliver": "2022/07/11",
     "smail": "master.everapex@fleetmail.inmarsat.com",
-    "cemail": "ce.everpride@fleetmail.inmarsat.com"
+    "cemail": "ce.everapex@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ARIA",
@@ -127,7 +127,7 @@
     "dept": "MT3",
     "deliver": "2022/09/13",
     "smail": "master.everaria@fleetmail.inmarsat.com",
-    "cemail": "ce.evervast@fleetmail.inmarsat.com"
+    "cemail": "ce.everaria@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ARM",
@@ -140,7 +140,7 @@
     "dept": "MT3",
     "deliver": "2022/03/10",
     "smail": "master.everarm@fleetmail.inmarsat.com",
-    "cemail": "ce.unipromote@fleetmail.inmarsat.com"
+    "cemail": "ce.everarm@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ART",
@@ -153,7 +153,7 @@
     "dept": "MT3",
     "deliver": "2022/05/19",
     "smail": "master.everart@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERSIGMA@fleetmail.inmarsat.com"
+    "cemail": "ce.everart@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ATOP",
@@ -166,7 +166,7 @@
     "dept": "MT3",
     "deliver": "2022/10/28",
     "smail": "master.everatop@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERSTEADY@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERATOP@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BALMY",
@@ -179,7 +179,7 @@
     "dept": "MT2",
     "deliver": "2017/10/26",
     "smail": "master.everbalmy@fleetmail.inmarsat.com",
-    "cemail": "ce.UNIACCORD@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERBALMY@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BASIS",
@@ -192,7 +192,7 @@
     "dept": "MT2",
     "deliver": "2018/03/02",
     "smail": "master.everbasis@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERUNICORN@fleetmail.inmarsat.com"
+    "cemail": "ce.everbasis@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BEADY",
@@ -205,7 +205,7 @@
     "dept": "MT2",
     "deliver": "2018/04/23",
     "smail": "master.everbeady@fleetmail.inmarsat.com",
-    "cemail": "ce.everuseful@fleetmail.inmarsat.com"
+    "cemail": "ce.everbeady@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BEAMY",
@@ -218,7 +218,7 @@
     "dept": "MT2",
     "deliver": "2018/06/08",
     "smail": "master.everbeamy@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERURBAN@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERBEAMY@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BEFIT",
@@ -231,7 +231,7 @@
     "dept": "MT2",
     "deliver": "2018/06/28",
     "smail": "master.everbefit@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERULYSSES@fleetmail.inmarsat.com"
+    "cemail": "ce.everbefit@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BEING",
@@ -244,7 +244,7 @@
     "dept": "MT2",
     "deliver": "2018/10/12",
     "smail": "master.everbeing@fleetmail.inmarsat.com",
-    "cemail": "ce.everutile@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERBEING@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BIRTH",
@@ -257,7 +257,7 @@
     "dept": "MT2",
     "deliver": "2017/12/29",
     "smail": "master.everbirth@fleetmail.inmarsat.com",
-    "cemail": "ce.UNIPOPULAR@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERBIRTH@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BLESS",
@@ -270,7 +270,7 @@
     "dept": "MT2",
     "deliver": "2019/06/21",
     "smail": "master.everbless@fleetmail.inmarsat.com",
-    "cemail": "ce.eververse@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERBLESS@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BLINK",
@@ -283,7 +283,7 @@
     "dept": "MT2",
     "deliver": "2019/09/20",
     "smail": "master.everblink@fleetmail.inmarsat.com",
-    "cemail": "ce.uniperfect@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERBLINK@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BLISS",
@@ -296,7 +296,7 @@
     "dept": "MT2",
     "deliver": "2017/09/03",
     "smail": "master.everbliss@fleetmail.inmarsat.com",
-    "cemail": "ce.evervista@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERBLISS@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BLOOM",
@@ -309,7 +309,7 @@
     "dept": "MT2",
     "deliver": "2018/07/27",
     "smail": "master.everbloom@fleetmail.inmarsat.com",
-    "cemail": "ce.UNIPROBITY@fleetmail.inmarsat.com"
+    "cemail": "ce.everbloom@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BOARD",
@@ -322,7 +322,7 @@
     "dept": "MT2",
     "deliver": "2018/12/27",
     "smail": "master.everboard@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERSAFETY@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERBOARD@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BOOMY",
@@ -335,7 +335,7 @@
     "dept": "MT2",
     "deliver": "2018/07/06",
     "smail": "master.everboomy@fleetmail.inmarsat.com",
-    "cemail": "ce.evervim@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERBOOMY@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BRACE",
@@ -348,7 +348,7 @@
     "dept": "MT2",
     "deliver": "2018/05/11",
     "smail": "master.everbrace@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERSMART@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERBRACE@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BRAVE",
@@ -361,7 +361,7 @@
     "dept": "MT2",
     "deliver": "2018/08/30",
     "smail": "master.everbrave@fleetmail.inmarsat.com",
-    "cemail": "ce.eversuperb@fleetmail.inmarsat.com"
+    "cemail": "ce.EverBrave@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BREED",
@@ -374,7 +374,7 @@
     "dept": "MT2",
     "deliver": "2018/11/28",
     "smail": "master.everbreed@fleetmail.inmarsat.com",
-    "cemail": "ce.evervibe@fleetmail.inmarsat.com"
+    "cemail": "ce.everbreed@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BUILD",
@@ -387,7 +387,7 @@
     "dept": "MT2",
     "deliver": "2019/04/24",
     "smail": "master.everbuild@fleetmail.inmarsat.com",
-    "cemail": "ce.everprima@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERBUILD@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER BURLY",
@@ -400,7 +400,7 @@
     "dept": "MT2",
     "deliver": "2019/08/23",
     "smail": "master.everburly@fleetmail.inmarsat.com",
-    "cemail": "ce.uniadroit@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERBURLY@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER CAREER",
@@ -413,7 +413,7 @@
     "dept": "MT2",
     "deliver": "2021/11/02",
     "smail": "master.evercareer@fleetmail.inmarsat.com",
-    "cemail": "ce.UNIPROSPER@fleetmail.inmarsat.com"
+    "cemail": "ce.evercareer@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER CHAMP",
@@ -426,7 +426,7 @@
     "dept": "MT2",
     "deliver": "2023/12/29",
     "smail": "master.everchamp@fleetmail.inmarsat.com",
-    "cemail": "ce.eververa@fleetmail.inmarsat.com"
+    "cemail": "ce.everchamp@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER CHART",
@@ -439,7 +439,7 @@
     "dept": "MT2",
     "deliver": "2024/03/27",
     "smail": "master.everchart@fleetmail.inmarsat.com",
-    "cemail": "ce.everviva@fleetmail.inmarsat.com"
+    "cemail": "ce.everchart@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER CONVEY",
@@ -452,7 +452,7 @@
     "dept": "MT2",
     "deliver": "2021/09/10",
     "smail": "master.everconvey@fleetmail.inmarsat.com",
-    "cemail": "ce.eververt@fleetmail.inmarsat.com"
+    "cemail": "ce.everconvey@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER COZY",
@@ -465,7 +465,7 @@
     "dept": "ITS",
     "deliver": "2021/06/28",
     "smail": "master.evercozy@fleetmail.inmarsat.com",
-    "cemail": "ce.UNIACTIVE@fleetmail.inmarsat.com"
+    "cemail": "ce.evercozy@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER CREATE",
@@ -478,7 +478,7 @@
     "dept": "MT2",
     "deliver": "2021/03/25",
     "smail": "master.evercreate@fleetmail.inmarsat.com",
-    "cemail": "ce.evervow@fleetmail.inmarsat.com"
+    "cemail": "ce.evercreate@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER EAGER",
@@ -491,7 +491,7 @@
     "dept": "",
     "deliver": "2028/02/23",
     "smail": "",
-    "cemail": "ce.evershine@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "EVER EAGLE",
@@ -504,7 +504,7 @@
     "dept": "MT2",
     "deliver": "2001/10/30",
     "smail": "master.evereagle@fleetmail.inmarsat.com",
-    "cemail": "ce.eververve@fleetmail.inmarsat.com"
+    "cemail": "ce.EVEREAGLE@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ECHO",
@@ -517,7 +517,7 @@
     "dept": "MT2",
     "deliver": "2026/02/27",
     "smail": "master.everecho@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERSMILE@fleetmail.inmarsat.com"
+    "cemail": "ce.everecho@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ECLAT",
@@ -530,7 +530,7 @@
     "dept": "MT2",
     "deliver": "2026/09/22",
     "smail": "master.evereclat@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERSTRONG@fleetmail.inmarsat.com"
+    "cemail": "ce.evereclat@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ECO",
@@ -543,7 +543,7 @@
     "dept": "MT2",
     "deliver": "2025/10/28",
     "smail": "master.evereco@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERSUMMIT@fleetmail.inmarsat.com"
+    "cemail": "ce.evereco@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER EDGE",
@@ -556,7 +556,7 @@
     "dept": "",
     "deliver": "2027/10/22",
     "smail": "",
-    "cemail": "ce.EVERELITE@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "EVER EDIFY",
@@ -569,7 +569,7 @@
     "dept": "MT2",
     "deliver": "2026/11/10",
     "smail": "master.everedify@fleetmail.inmarsat.com",
-    "cemail": "ce.EVEREAGLE@fleetmail.inmarsat.com"
+    "cemail": "ce.everedify@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER EDIT",
@@ -582,7 +582,7 @@
     "dept": "MT2",
     "deliver": "2026/05/04",
     "smail": "master.everedit@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERENVOY@fleetmail.inmarsat.com"
+    "cemail": "ce.everedit@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER EDUCE",
@@ -595,7 +595,7 @@
     "dept": "MT2",
     "deliver": "2026/10/27",
     "smail": "master.evereduce@fleetmail.inmarsat.com",
-    "cemail": "ce.EVEREXCEL@fleetmail.inmarsat.com"
+    "cemail": "ce.evereduce@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ELAN",
@@ -608,7 +608,7 @@
     "dept": "",
     "deliver": "2027/09/06",
     "smail": "",
-    "cemail": "ce.evereco@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "EVER ELATE",
@@ -621,7 +621,7 @@
     "dept": "",
     "deliver": "2027/01/13",
     "smail": "",
-    "cemail": "ce.everedit@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "EVER ELECT",
@@ -634,7 +634,7 @@
     "dept": "",
     "deliver": "2027/01/20",
     "smail": "",
-    "cemail": "ce.everbreed@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "EVER ELITE",
@@ -647,7 +647,7 @@
     "dept": "MT2",
     "deliver": "2002/10/15",
     "smail": "master.everelite@fleetmail.inmarsat.com",
-    "cemail": "ce.everwin@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERELITE@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER EMIT",
@@ -660,7 +660,7 @@
     "dept": "MT2",
     "deliver": "2026/06/16",
     "smail": "master.everemit@fleetmail.inmarsat.com",
-    "cemail": "ce.evereclat@fleetmail.inmarsat.com"
+    "cemail": "ce.everemit@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ENDOW",
@@ -673,7 +673,7 @@
     "dept": "",
     "deliver": "2027/02/19",
     "smail": "",
-    "cemail": "ce.EVERBIRTH@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "EVER ENDUE",
@@ -686,7 +686,7 @@
     "dept": "",
     "deliver": "2027/03/12",
     "smail": "",
-    "cemail": "ce.EVERBLISS@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "EVER ENTRY",
@@ -699,7 +699,7 @@
     "dept": "",
     "deliver": "",
     "smail": "",
-    "cemail": "ce.EverBrave@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "EVER ENVOY",
@@ -712,7 +712,7 @@
     "dept": "MT2",
     "deliver": "2002/03/12",
     "smail": "master.everenvoy@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERBUILD@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERENVOY@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER EON",
@@ -725,7 +725,7 @@
     "dept": "MT2",
     "deliver": "2025/12/30",
     "smail": "master.evereon@fleetmail.inmarsat.com",
-    "cemail": "ce.everwise@fleetmail.inmarsat.com"
+    "cemail": "ce.evereon@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER EPIC",
@@ -738,7 +738,7 @@
     "dept": "",
     "deliver": "2027/12/21",
     "smail": "",
-    "cemail": "ce.EVERBRACE@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "EVER EPOCH",
@@ -751,7 +751,7 @@
     "dept": "",
     "deliver": "2027/04/23",
     "smail": "",
-    "cemail": "ce.everbloom@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "EVER EQUAL",
@@ -764,7 +764,7 @@
     "dept": "",
     "deliver": "2027/05/27",
     "smail": "",
-    "cemail": "ce.EVERBLINK@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "EVER ERA",
@@ -777,7 +777,7 @@
     "dept": "",
     "deliver": "2027/06/10",
     "smail": "",
-    "cemail": "ce.evercareer@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "EVER ESSAY",
@@ -790,7 +790,7 @@
     "dept": "",
     "deliver": "",
     "smail": "",
-    "cemail": "ce.everchamp@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "EVER ETHIC",
@@ -803,7 +803,7 @@
     "dept": "MT2",
     "deliver": "2003/01/21",
     "smail": "master.everethic@fleetmail.inmarsat.com",
-    "cemail": "ce.everwish@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERETHIC@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ETHOS",
@@ -816,7 +816,7 @@
     "dept": "",
     "deliver": "2027/06/08",
     "smail": "",
-    "cemail": "ce.everweb@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "EVER EVEN",
@@ -829,7 +829,7 @@
     "dept": "MT2",
     "deliver": "2026/07/21",
     "smail": "master.evereven@fleetmail.inmarsat.com",
-    "cemail": "ce.everwaft@fleetmail.inmarsat.com"
+    "cemail": "ce.evereven@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER EVO",
@@ -842,7 +842,7 @@
     "dept": "",
     "deliver": "2027/04/29",
     "smail": "",
-    "cemail": "ce.everwarm@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "EVER EXCEL",
@@ -855,7 +855,7 @@
     "dept": "MT2",
     "deliver": "2002/06/06",
     "smail": "master.everexcel@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERETHIC@fleetmail.inmarsat.com"
+    "cemail": "ce.EVEREXCEL@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER FAITH",
@@ -868,7 +868,7 @@
     "dept": "MT3",
     "deliver": "2020/03/02",
     "smail": "master.everfaith@fleetmail.inmarsat.com",
-    "cemail": "ce.everbeady@fleetmail.inmarsat.com"
+    "cemail": "ce.everfaith@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER FOCUS",
@@ -881,7 +881,7 @@
     "dept": "MT3",
     "deliver": "2020/06/08",
     "smail": "master.everfocus@fleetmail.inmarsat.com",
-    "cemail": "ce.evercreate@fleetmail.inmarsat.com"
+    "cemail": "ce.everfocus@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER FOREVER",
@@ -894,7 +894,7 @@
     "dept": "MT3",
     "deliver": "2020/12/15",
     "smail": "master.everforever@fleetmail.inmarsat.com",
-    "cemail": "ce.everwill@fleetmail.inmarsat.com"
+    "cemail": "ce.everforever@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER FORTUNE",
@@ -907,7 +907,7 @@
     "dept": "MT3",
     "deliver": "2020/10/30",
     "smail": "master.everfortune@fleetmail.inmarsat.com",
-    "cemail": "ce.everwiz@fleetmail.inmarsat.com"
+    "cemail": "ce.everfortune@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER FORWARD",
@@ -920,7 +920,7 @@
     "dept": "MT3",
     "deliver": "2020/09/28",
     "smail": "master.everforward@fleetmail.inmarsat.com",
-    "cemail": "ce.evereon@fleetmail.inmarsat.com"
+    "cemail": "ce.everforward@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER FRANK",
@@ -933,7 +933,7 @@
     "dept": "MT3",
     "deliver": "2021/02/18",
     "smail": "master.everfrank@fleetmail.inmarsat.com",
-    "cemail": "ce.everconvey@fleetmail.inmarsat.com"
+    "cemail": "ce.everfrank@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER FRONT",
@@ -946,7 +946,7 @@
     "dept": "MT3",
     "deliver": "2020/08/10",
     "smail": "master.everfront@fleetmail.inmarsat.com",
-    "cemail": "ce.everchart@fleetmail.inmarsat.com"
+    "cemail": "ce.everfront@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER FUTURE",
@@ -959,7 +959,7 @@
     "dept": "MT3",
     "deliver": "2021/04/26",
     "smail": "master.everfuture@fleetmail.inmarsat.com",
-    "cemail": "ce.everemit@fleetmail.inmarsat.com"
+    "cemail": "ce.everfuture@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER GENIUS",
@@ -972,7 +972,7 @@
     "dept": "MT4",
     "deliver": "2018/08/02",
     "smail": "master.evergenius@fleetmail.inmarsat.com",
-    "cemail": "ce.evereduce@fleetmail.inmarsat.com"
+    "cemail": "ce.evergenius@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER GENTLE",
@@ -985,7 +985,7 @@
     "dept": "MT4",
     "deliver": "2019/03/16",
     "smail": "master.evergentle@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERBALMY@fleetmail.inmarsat.com"
+    "cemail": "ce.evergentle@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER GIFTED",
@@ -998,7 +998,7 @@
     "dept": "MT4",
     "deliver": "2018/12/13",
     "smail": "master.evergifted@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERBEAMY@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERGIFTED@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER GOVERN",
@@ -1011,7 +1011,7 @@
     "dept": "MT4",
     "deliver": "2019/07/09",
     "smail": "master.evergovern@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERBOARD@fleetmail.inmarsat.com"
+    "cemail": "ce.evergovern@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER GREET",
@@ -1024,7 +1024,7 @@
     "dept": "MT4",
     "deliver": "2019/10/15",
     "smail": "evergreet@amosconnect.com",
-    "cemail": "ce.EVERBEING@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "EVER LADEN",
@@ -1037,7 +1037,7 @@
     "dept": "MT4",
     "deliver": "2012/08/27",
     "smail": "master.everladen@fleetmail.inmarsat.com",
-    "cemail": "ce.everbefit@fleetmail.inmarsat.com"
+    "cemail": "ce.everladen@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LAMBENT",
@@ -1050,7 +1050,7 @@
     "dept": "MT4",
     "deliver": "2012/07/25",
     "smail": "master.everlambent@fleetmail.inmarsat.com",
-    "cemail": "ce.evermode@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLAMBENT@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LASTING",
@@ -1063,7 +1063,7 @@
     "dept": "MT4",
     "deliver": "2012/08/31",
     "smail": "master.everlasting@fleetmail.inmarsat.com",
-    "cemail": "ce.everarm@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLASTING@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LAUREL",
@@ -1076,7 +1076,7 @@
     "dept": "MT4",
     "deliver": "2012/09/24",
     "smail": "master.everlaurel@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERBURLY@fleetmail.inmarsat.com"
+    "cemail": "ce.everlaurel@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LAWFUL",
@@ -1089,7 +1089,7 @@
     "dept": "MT4",
     "deliver": "2012/11/20",
     "smail": "master.everlawful@fleetmail.inmarsat.com",
-    "cemail": "ce.evermast@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLAWFUL@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LEADER",
@@ -1102,7 +1102,7 @@
     "dept": "MT4",
     "deliver": "2013/01/15",
     "smail": "master.everleader@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERBLESS@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLEADER@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LEADING",
@@ -1115,7 +1115,7 @@
     "dept": "MT4",
     "deliver": "2012/09/11",
     "smail": "master.everleading@fleetmail.inmarsat.com",
-    "cemail": "ce.everworld@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLEADING@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LEARNED",
@@ -1128,7 +1128,7 @@
     "dept": "MT4",
     "deliver": "2013/06/26",
     "smail": "master.everlearned@fleetmail.inmarsat.com",
-    "cemail": "ce.evereven@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLEARNED@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LEGACY",
@@ -1141,7 +1141,7 @@
     "dept": "MT4",
     "deliver": "2013/03/08",
     "smail": "master.everlegacy@fleetmail.inmarsat.com",
-    "cemail": "ce.everace@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLEGACY@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LEGEND",
@@ -1154,7 +1154,7 @@
     "dept": "MT4",
     "deliver": "2013/06/14",
     "smail": "master.everlegend@fleetmail.inmarsat.com",
-    "cemail": "ce.evertop@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLEGEND@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LEGION",
@@ -1167,7 +1167,7 @@
     "dept": "MT4",
     "deliver": "2013/06/28",
     "smail": "master.everlegion@fleetmail.inmarsat.com",
-    "cemail": "ce.everaim@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLEGION@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LENIENT",
@@ -1180,7 +1180,7 @@
     "dept": "MT4",
     "deliver": "2014/02/17",
     "smail": "master.everlenient@fleetmail.inmarsat.com",
-    "cemail": "ce.everecho@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLENIENT@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LIBERAL",
@@ -1193,7 +1193,7 @@
     "dept": "MT4",
     "deliver": "2014/05/14",
     "smail": "master.everliberal@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERBOOMY@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLIBERAL@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LIBRA",
@@ -1206,7 +1206,7 @@
     "dept": "MT4",
     "deliver": "2012/10/22",
     "smail": "master.everlibra@fleetmail.inmarsat.com",
-    "cemail": "ce.everbasis@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLIBRA@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LIFTING",
@@ -1219,7 +1219,7 @@
     "dept": "MT4",
     "deliver": "2015/08/31",
     "smail": "master.everlifting@fleetmail.inmarsat.com",
-    "cemail": "ce.everedify@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLIFTING@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LINKING",
@@ -1232,7 +1232,7 @@
     "dept": "MT4",
     "deliver": "2013/10/30",
     "smail": "master.everlinking@fleetmail.inmarsat.com",
-    "cemail": "ce.evermild@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLINKING@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LISSOME",
@@ -1245,7 +1245,7 @@
     "dept": "MT4",
     "deliver": "2014/05/15",
     "smail": "master.everlissome@fleetmail.inmarsat.com",
-    "cemail": "ce.everaria@fleetmail.inmarsat.com"
+    "cemail": "ce.everlissome@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LIVELY",
@@ -1258,7 +1258,7 @@
     "dept": "MT4",
     "deliver": "2014/02/05",
     "smail": "master.everlively@fleetmail.inmarsat.com",
-    "cemail": "ce.evermagic@fleetmail.inmarsat.com"
+    "cemail": "ce.everlively@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LIVEN",
@@ -1271,7 +1271,7 @@
     "dept": "MT4",
     "deliver": "2013/04/30",
     "smail": "master.everliven@fleetmail.inmarsat.com",
-    "cemail": "ce.everaeon@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLIVEN@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LIVING",
@@ -1284,7 +1284,7 @@
     "dept": "MT4",
     "deliver": "2013/08/30",
     "smail": "master.everliving@fleetmail.inmarsat.com",
-    "cemail": "ce.everfortune@fleetmail.inmarsat.com"
+    "cemail": "ce.everliving@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LOADING",
@@ -1297,7 +1297,7 @@
     "dept": "MT4",
     "deliver": "2014/07/29",
     "smail": "master.everloading@fleetmail.inmarsat.com",
-    "cemail": "ce.evermost@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLOADING@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LOGIC",
@@ -1310,7 +1310,7 @@
     "dept": "MT4",
     "deliver": "2013/04/22",
     "smail": "master.everlogic@fleetmail.inmarsat.com",
-    "cemail": "ce.evermuse@fleetmail.inmarsat.com"
+    "cemail": "ce.everlogic@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LOTUS",
@@ -1323,7 +1323,7 @@
     "dept": "MT4",
     "deliver": "2013/12/11",
     "smail": "master.everlotus@fleetmail.inmarsat.com",
-    "cemail": "ce.everalot@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLOTUS@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LOVELY",
@@ -1336,7 +1336,7 @@
     "dept": "MT4",
     "deliver": "2015/06/30",
     "smail": "master.everlovely@fleetmail.inmarsat.com",
-    "cemail": "ce.evermacro@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLOVELY@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LOYAL",
@@ -1349,7 +1349,7 @@
     "dept": "MT4",
     "deliver": "2014/03/20",
     "smail": "master.everloyal@fleetmail.inmarsat.com",
-    "cemail": "ce.evermatch@fleetmail.inmarsat.com"
+    "cemail": "ce.everloyal@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LUCENT",
@@ -1362,7 +1362,7 @@
     "dept": "MT4",
     "deliver": "2014/03/11",
     "smail": "master.everlucent@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERACME@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLUCENT@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LUCID",
@@ -1375,7 +1375,7 @@
     "dept": "MT4",
     "deliver": "2014/01/15",
     "smail": "master.everlucid@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERATOP@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLUCID@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LUCKY",
@@ -1388,7 +1388,7 @@
     "dept": "MT4",
     "deliver": "2014/07/08",
     "smail": "master.everlucky@fleetmail.inmarsat.com",
-    "cemail": "ce.everfaith@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLUCKY@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LUNAR",
@@ -1401,7 +1401,7 @@
     "dept": "MT4",
     "deliver": "2015/01/09",
     "smail": "master.everlunar@fleetmail.inmarsat.com",
-    "cemail": "ce.everfocus@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLUNAR@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER LYRIC",
@@ -1414,7 +1414,7 @@
     "dept": "MT4",
     "deliver": "2015/04/15",
     "smail": "master.everlyric@fleetmail.inmarsat.com",
-    "cemail": "ce.everfuture@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERLYRIC@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MACH",
@@ -1427,7 +1427,7 @@
     "dept": "MT3",
     "deliver": "2023/09/06",
     "smail": "master.evermach@fleetmail.inmarsat.com",
-    "cemail": "ce.evermemo@fleetmail.inmarsat.com"
+    "cemail": "ce.evermach@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MACRO",
@@ -1440,7 +1440,7 @@
     "dept": "MT3",
     "deliver": "2025/02/18",
     "smail": "master.evermacro@fleetmail.inmarsat.com",
-    "cemail": "ce.evermass@fleetmail.inmarsat.com"
+    "cemail": "ce.evermacro@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MAGI",
@@ -1453,7 +1453,7 @@
     "dept": "MT3",
     "deliver": "2024/03/15",
     "smail": "master.evermagi@fleetmail.inmarsat.com",
-    "cemail": "ce.everfront@fleetmail.inmarsat.com"
+    "cemail": "ce.evermagi@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MAGIC",
@@ -1466,7 +1466,7 @@
     "dept": "MT3",
     "deliver": "2025/03/25",
     "smail": "master.evermagic@fleetmail.inmarsat.com",
-    "cemail": "ce.evermeed@fleetmail.inmarsat.com"
+    "cemail": "ce.evermagic@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MAGNA",
@@ -1479,7 +1479,7 @@
     "dept": "MT3",
     "deliver": "2025/08/01",
     "smail": "master.evermagna@fleetmail.inmarsat.com",
-    "cemail": "ce.evermega@fleetmail.inmarsat.com"
+    "cemail": "ce.evermagna@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MAGUS",
@@ -1492,7 +1492,7 @@
     "dept": "MT3",
     "deliver": "2025/05/30",
     "smail": "master.evermagus@fleetmail.inmarsat.com",
-    "cemail": "ce.evermercy@fleetmail.inmarsat.com"
+    "cemail": "ce.evermagus@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MASS",
@@ -1505,7 +1505,7 @@
     "dept": "MT3",
     "deliver": "2024/05/28",
     "smail": "master.evermass@fleetmail.inmarsat.com",
-    "cemail": "ce.everact@fleetmail.inmarsat.com"
+    "cemail": "ce.evermass@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MAST",
@@ -1518,7 +1518,7 @@
     "dept": "MT3",
     "deliver": "2024/06/03",
     "smail": "master.evermast@fleetmail.inmarsat.com",
-    "cemail": "ce.everforward@fleetmail.inmarsat.com"
+    "cemail": "ce.evermast@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MATCH",
@@ -1531,7 +1531,7 @@
     "dept": "MT3",
     "deliver": "2025/07/04",
     "smail": "master.evermatch@fleetmail.inmarsat.com",
-    "cemail": "ce.evermagna@fleetmail.inmarsat.com"
+    "cemail": "ce.evermatch@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MAX",
@@ -1544,7 +1544,7 @@
     "dept": "MT3",
     "deliver": "2023/06/26",
     "smail": "master.evermax@fleetmail.inmarsat.com",
-    "cemail": "ce.everart@fleetmail.inmarsat.com"
+    "cemail": "ce.evermax@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MEED",
@@ -1557,7 +1557,7 @@
     "dept": "MT3",
     "deliver": "2024/07/08",
     "smail": "master.evermeed@fleetmail.inmarsat.com",
-    "cemail": "ce.everapex@fleetmail.inmarsat.com"
+    "cemail": "ce.evermeed@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MEGA",
@@ -1570,7 +1570,7 @@
     "dept": "MT3",
     "deliver": "2024/07/25",
     "smail": "master.evermega@fleetmail.inmarsat.com",
-    "cemail": "ce.everalp@fleetmail.inmarsat.com"
+    "cemail": "ce.evermega@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MEMO",
@@ -1583,7 +1583,7 @@
     "dept": "MT3",
     "deliver": "2024/10/11",
     "smail": "master.evermemo@fleetmail.inmarsat.com",
-    "cemail": "ce.evermach@fleetmail.inmarsat.com"
+    "cemail": "ce.evermemo@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MERCY",
@@ -1596,7 +1596,7 @@
     "dept": "MT3",
     "deliver": "2024/11/07",
     "smail": "master.evermercy@fleetmail.inmarsat.com",
-    "cemail": "ce.everally@fleetmail.inmarsat.com"
+    "cemail": "ce.evermercy@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER META",
@@ -1609,7 +1609,7 @@
     "dept": "MT3",
     "deliver": "2025/08/14",
     "smail": "master.evermeta@fleetmail.inmarsat.com",
-    "cemail": "ce.evermagus@fleetmail.inmarsat.com"
+    "cemail": "ce.evermeta@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MILD",
@@ -1622,7 +1622,7 @@
     "dept": "MT3",
     "deliver": "2024/10/25",
     "smail": "master.evermild@fleetmail.inmarsat.com",
-    "cemail": "ce.everforever@fleetmail.inmarsat.com"
+    "cemail": "ce.evermild@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MODE",
@@ -1635,7 +1635,7 @@
     "dept": "MT3",
     "deliver": "2024/12/04",
     "smail": "master.evermode@fleetmail.inmarsat.com",
-    "cemail": "ce.everfrank@fleetmail.inmarsat.com"
+    "cemail": "ce.evermode@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MODEL",
@@ -1648,7 +1648,7 @@
     "dept": "MT3",
     "deliver": "2025/09/30",
     "smail": "master.evermodel@fleetmail.inmarsat.com",
-    "cemail": "ce.evermax@fleetmail.inmarsat.com"
+    "cemail": "ce.evermodel@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MOST",
@@ -1661,7 +1661,7 @@
     "dept": "MT3",
     "deliver": "2024/12/20",
     "smail": "master.evermost@fleetmail.inmarsat.com",
-    "cemail": "ce.evermagi@fleetmail.inmarsat.com"
+    "cemail": "ce.evermost@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER MUSE",
@@ -1674,7 +1674,7 @@
     "dept": "MT3",
     "deliver": "2025/01/10",
     "smail": "master.evermuse@fleetmail.inmarsat.com",
-    "cemail": "ce.evermeta@fleetmail.inmarsat.com"
+    "cemail": "ce.evermuse@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER OASIS",
@@ -1687,7 +1687,7 @@
     "dept": "MT4",
     "deliver": "2021/07/06",
     "smail": "master.everoasis@fleetmail.inmarsat.com",
-    "cemail": "ce.evermodel@fleetmail.inmarsat.com"
+    "cemail": "ce.everoasis@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER OCEAN",
@@ -1700,7 +1700,7 @@
     "dept": "MT4",
     "deliver": "2021/04/26",
     "smail": "master.everocean@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLAWFUL@fleetmail.inmarsat.com"
+    "cemail": "ce.everocean@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ORDER",
@@ -1713,7 +1713,7 @@
     "dept": "MT4",
     "deliver": "2021/08/26",
     "smail": "master.everorder@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLENIENT@fleetmail.inmarsat.com"
+    "cemail": "ce.everorder@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ORIENT",
@@ -1726,7 +1726,7 @@
     "dept": "MT4",
     "deliver": "2021/01/19",
     "smail": "master.everorient@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLOTUS@fleetmail.inmarsat.com"
+    "cemail": "ce.everorient@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER PEARL",
@@ -1739,7 +1739,7 @@
     "dept": "MT1",
     "deliver": "2002/03/28",
     "smail": "master.everpearl@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLIBERAL@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERPEARL@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER PRIDE",
@@ -1752,7 +1752,7 @@
     "dept": "MT1",
     "deliver": "2003/01/28",
     "smail": "master.everpride@fleetmail.inmarsat.com",
-    "cemail": "ce.everliving@fleetmail.inmarsat.com"
+    "cemail": "ce.everpride@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER PRIMA",
@@ -1765,7 +1765,7 @@
     "dept": "MT1",
     "deliver": "2003/07/25",
     "smail": "master.everprima@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLYRIC@fleetmail.inmarsat.com"
+    "cemail": "ce.everprima@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER SAFETY",
@@ -1778,7 +1778,7 @@
     "dept": "MT1",
     "deliver": "2007/10/05",
     "smail": "master.eversafety@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLAMBENT@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERSAFETY@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER SALUTE",
@@ -1791,7 +1791,7 @@
     "dept": "MT1",
     "deliver": "2008/01/11",
     "smail": "master.eversalute@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.EVERSALUTE@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER SHINE",
@@ -1804,7 +1804,7 @@
     "dept": "MT1",
     "deliver": "2005/09/27",
     "smail": "master.evershine@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLINKING@fleetmail.inmarsat.com"
+    "cemail": "ce.evershine@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER SIGMA",
@@ -1817,7 +1817,7 @@
     "dept": "MT1",
     "deliver": "2005/11/14",
     "smail": "master.eversigma@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLUCKY@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERSIGMA@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER SMART",
@@ -1830,7 +1830,7 @@
     "dept": "MT1",
     "deliver": "2006/03/02",
     "smail": "master.eversmart@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLIFTING@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERSMART@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER SMILE",
@@ -1843,7 +1843,7 @@
     "dept": "MT1",
     "deliver": "2006/06/02",
     "smail": "master.eversmile@fleetmail.inmarsat.com",
-    "cemail": "ce.everlissome@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERSMILE@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER STEADY",
@@ -1856,7 +1856,7 @@
     "dept": "MT1",
     "deliver": "2006/12/26",
     "smail": "master.eversteady@fleetmail.inmarsat.com",
-    "cemail": "ce.everladen@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERSTEADY@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER STRONG",
@@ -1869,7 +1869,7 @@
     "dept": "MT1",
     "deliver": "2007/03/27",
     "smail": "master.everstrong@fleetmail.inmarsat.com",
-    "cemail": "ce.everlaurel@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERSTRONG@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER SUMMIT",
@@ -1882,7 +1882,7 @@
     "dept": "MT1",
     "deliver": "2007/06/26",
     "smail": "master.eversummit@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLIVEN@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERSUMMIT@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER SUPERB",
@@ -1895,7 +1895,7 @@
     "dept": "MT1",
     "deliver": "2006/08/31",
     "smail": "master.eversuperb@fleetmail.inmarsat.com",
-    "cemail": "ce.everlogic@fleetmail.inmarsat.com"
+    "cemail": "ce.eversuperb@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER TOP",
@@ -1908,7 +1908,7 @@
     "dept": "MT2",
     "deliver": "2014/01/15",
     "smail": "master.evertop@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLUCID@fleetmail.inmarsat.com"
+    "cemail": "ce.evertop@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER ULYSSES",
@@ -1921,7 +1921,7 @@
     "dept": "MT1",
     "deliver": "2000/06/21",
     "smail": "master.everulysses@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLEADER@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERULYSSES@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER UNICORN",
@@ -1934,7 +1934,7 @@
     "dept": "MT1",
     "deliver": "2000/09/13",
     "smail": "master.everunicorn@fleetmail.inmarsat.com",
-    "cemail": "ce.everlively@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERUNICORN@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER URBAN",
@@ -1947,7 +1947,7 @@
     "dept": "MT1",
     "deliver": "2000/01/13",
     "smail": "master.everurban@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERGIFTED@fleetmail.inmarsat.com"
+    "cemail": "ce.EVERURBAN@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER USEFUL",
@@ -1960,7 +1960,7 @@
     "dept": "MT1",
     "deliver": "1999/12/15",
     "smail": "master.everuseful@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLASTING@fleetmail.inmarsat.com"
+    "cemail": "ce.everuseful@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER UTILE",
@@ -1973,7 +1973,7 @@
     "dept": "MT1",
     "deliver": "2000/03/30",
     "smail": "master.everutile@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLEGION@fleetmail.inmarsat.com"
+    "cemail": "ce.everutile@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER VAST",
@@ -1986,7 +1986,7 @@
     "dept": "MT1",
     "deliver": "2024/06/27",
     "smail": "master.evervast@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLOADING@fleetmail.inmarsat.com"
+    "cemail": "ce.evervast@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER VERA",
@@ -1999,7 +1999,7 @@
     "dept": "MT1",
     "deliver": "2024/08/27",
     "smail": "master.eververa@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLOVELY@fleetmail.inmarsat.com"
+    "cemail": "ce.eververa@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER VERSE",
@@ -2012,7 +2012,7 @@
     "dept": "MT1",
     "deliver": "2025/05/09",
     "smail": "master.eververse@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.eververse@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER VERT",
@@ -2025,7 +2025,7 @@
     "dept": "MT1",
     "deliver": "2024/12/19",
     "smail": "master.eververt@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.eververt@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER VERVE",
@@ -2038,7 +2038,7 @@
     "dept": "MT1",
     "deliver": "2025/06/27",
     "smail": "master.eververve@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.eververve@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER VIBE",
@@ -2051,7 +2051,7 @@
     "dept": "MT1",
     "deliver": "2025/11/18",
     "smail": "master.evervibe@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLEADING@fleetmail.inmarsat.com"
+    "cemail": "ce.evervibe@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER VIM",
@@ -2064,7 +2064,7 @@
     "dept": "MT1",
     "deliver": "2024/03/22",
     "smail": "master.evervim@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLEGACY@fleetmail.inmarsat.com"
+    "cemail": "ce.evervim@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER VISTA",
@@ -2077,7 +2077,7 @@
     "dept": "MT1",
     "deliver": "2025/09/09",
     "smail": "master.evervista@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.evervista@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER VIVA",
@@ -2090,7 +2090,7 @@
     "dept": "MT1",
     "deliver": "2024/10/29",
     "smail": "master.everviva@fleetmail.inmarsat.com",
-    "cemail": "ce.everorient@fleetmail.inmarsat.com"
+    "cemail": "ce.everviva@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER VIVE",
@@ -2103,7 +2103,7 @@
     "dept": "MT1",
     "deliver": "2025/03/06",
     "smail": "master.evervive@fleetmail.inmarsat.com",
-    "cemail": "ce.everoasis@fleetmail.inmarsat.com"
+    "cemail": "ce.evervive@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER VOW",
@@ -2116,7 +2116,7 @@
     "dept": "MT1",
     "deliver": "2024/04/26",
     "smail": "master.evervow@fleetmail.inmarsat.com",
-    "cemail": "ce.everorder@fleetmail.inmarsat.com"
+    "cemail": "ce.evervow@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER WAFT",
@@ -2129,7 +2129,7 @@
     "dept": "MT2",
     "deliver": "2025/08/20",
     "smail": "master.everwaft@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.everwaft@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER WARM",
@@ -2142,7 +2142,7 @@
     "dept": "MT2",
     "deliver": "2025/10/22",
     "smail": "master.everwarm@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.everwarm@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER WEB",
@@ -2155,7 +2155,7 @@
     "dept": "MT2",
     "deliver": "2024/09/27",
     "smail": "master.everweb@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.everweb@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER WILL",
@@ -2168,7 +2168,7 @@
     "dept": "MT2",
     "deliver": "2024/12/31",
     "smail": "master.everwill@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.everwill@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER WIN",
@@ -2181,7 +2181,7 @@
     "dept": "MT2",
     "deliver": "2024/07/31",
     "smail": "master.everwin@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.everwin@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER WISE",
@@ -2194,7 +2194,7 @@
     "dept": "MT2",
     "deliver": "2025/03/18",
     "smail": "master.everwise@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.everwise@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER WISH",
@@ -2207,7 +2207,7 @@
     "dept": "MT2",
     "deliver": "2025/05/13",
     "smail": "master.everwish@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.everwish@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER WIZ",
@@ -2220,7 +2220,7 @@
     "dept": "MT2",
     "deliver": "2024/11/21",
     "smail": "master.everwiz@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.everwiz@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "EVER WORLD",
@@ -2233,7 +2233,7 @@
     "dept": "MT2",
     "deliver": "2025/12/10",
     "smail": "master.everworld@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.everworld@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "ITAL BONNY",
@@ -2246,7 +2246,7 @@
     "dept": "ITS",
     "deliver": "2018/03/23",
     "smail": "bonn@italiamarittima.amosconnect.com",
-    "cemail": "ce.evervive@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "ITAL BONUS",
@@ -2259,7 +2259,7 @@
     "dept": "ITS",
     "deliver": "2018/05/15",
     "smail": "bons@italiamarittima.amosconnect.com",
-    "cemail": "ce.EVERSALUTE@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "ITAL UNICA",
@@ -2272,7 +2272,7 @@
     "dept": "ITS",
     "deliver": "2001/03/13",
     "smail": "unic@italiamarittima.amosconnect.com",
-    "cemail": "ce.EVERLUCENT@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "ITAL UNIVERSO",
@@ -2285,7 +2285,7 @@
     "dept": "ITS",
     "deliver": "2001/05/31",
     "smail": "univ@italiamarittima.amosconnect.com",
-    "cemail": "ce.EVERLUNAR@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "ITAL USODIMARE",
@@ -2298,7 +2298,7 @@
     "dept": "ITS",
     "deliver": "2000/11/29",
     "smail": "usod@italiamarittima.amosconnect.com",
-    "cemail": "ce.EVERLEGEND@fleetmail.inmarsat.com"
+    "cemail": ""
   },
   {
     "vessel_name": "ITAL WAY",
@@ -2311,7 +2311,7 @@
     "dept": "ITS",
     "deliver": "2024/05/15",
     "smail": "wayy@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.italway@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "ITAL WIT",
@@ -2324,7 +2324,7 @@
     "dept": "ITS",
     "deliver": "2024/06/19",
     "smail": "witt@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.italwit@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "ITAL YEARN",
@@ -2376,7 +2376,7 @@
     "dept": "MT1",
     "deliver": "1997/10/15",
     "smail": "master.uniaccord@fleetmail.inmarsat.com",
-    "cemail": "ce.evercozy@fleetmail.inmarsat.com"
+    "cemail": "ce.UNIACCORD@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "UNI-ACTIVE",
@@ -2389,7 +2389,7 @@
     "dept": "MT1",
     "deliver": "1998/01/16",
     "smail": "master.uniactive@fleetmail.inmarsat.com",
-    "cemail": "ce.italwit@fleetmail.inmarsat.com"
+    "cemail": "ce.UNIACTIVE@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "UNI-ADROIT",
@@ -2402,7 +2402,7 @@
     "dept": "MT1",
     "deliver": "1998/04/20",
     "smail": "master.uniadroit@fleetmail.inmarsat.com",
-    "cemail": ""
+    "cemail": "ce.uniadroit@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "UNI-PERFECT",
@@ -2415,7 +2415,7 @@
     "dept": "MT1",
     "deliver": "2000/04/08",
     "smail": "master.uniperfect@fleetmail.inmarsat.com",
-    "cemail": "ce.everocean@fleetmail.inmarsat.com"
+    "cemail": "ce.uniperfect@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "UNI-POPULAR",
@@ -2428,7 +2428,7 @@
     "dept": "MT1",
     "deliver": "2000/10/05",
     "smail": "master.unipopular@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLIBRA@fleetmail.inmarsat.com"
+    "cemail": "ce.UNIPOPULAR@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "UNI-PREMIER",
@@ -2441,7 +2441,7 @@
     "dept": "MT1",
     "deliver": "2001/03/26",
     "smail": "master.unipremier@fleetmail.inmarsat.com",
-    "cemail": "ce.evergenius@fleetmail.inmarsat.com"
+    "cemail": "ce.UNIPREMIER@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "UNI-PROBITY",
@@ -2454,7 +2454,7 @@
     "dept": "MT1",
     "deliver": "2001/06/22",
     "smail": "master.uniprobity@fleetmail.inmarsat.com",
-    "cemail": "ce.EVERLEARNED@fleetmail.inmarsat.com"
+    "cemail": "ce.UNIPROBITY@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "UNI-PROMOTE",
@@ -2467,7 +2467,7 @@
     "dept": "MT1",
     "deliver": "2001/01/10",
     "smail": "master.unipromote@fleetmail.inmarsat.com",
-    "cemail": "ce.evergentle@fleetmail.inmarsat.com"
+    "cemail": "ce.unipromote@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "UNI-PROSPER",
@@ -2480,7 +2480,7 @@
     "dept": "MT1",
     "deliver": "2001/09/28",
     "smail": "master.uniprosper@fleetmail.inmarsat.com",
-    "cemail": "ce.evergovern@fleetmail.inmarsat.com"
+    "cemail": "ce.UNIPROSPER@fleetmail.inmarsat.com"
   },
   {
     "vessel_name": "UNI-PRUDENT",
@@ -2493,6 +2493,6 @@
     "dept": "MT1",
     "deliver": "2000/07/11",
     "smail": "master.uniprudent@fleetmail.inmarsat.com",
-    "cemail": "ce.everloyal@fleetmail.inmarsat.com"
+    "cemail": "ce.uniprudent@fleetmail.inmarsat.com"
   }
 ]

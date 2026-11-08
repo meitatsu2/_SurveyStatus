@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER BRACE",
-  "last_updated": "2026-11-04",
-  "total_records": 9,
+  "last_updated": "2026-11-08",
+  "total_records": 27,
   "records": [
     {
       "DUE_DATE": "2027/01/05",
@@ -13,6 +13,114 @@
       "DUE_DATE": "2027/04/06",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Annual Survey - Elevator 4Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Boiler Fuel Oil Pump No.01 // MACHINERY > Boiler Fuel Oil Service Piping System > Boiler Fuel Oil Pump No.01",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Boiler Fuel Oil Pump No.02 // MACHINERY > Boiler Fuel Oil Service Piping System > Boiler Fuel Oil Pump No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Boiler Pilot Burner Pump // MACHINERY > Boiler Fuel Oil Service Piping System > Boiler Pilot Burner Pump",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Central Cooling Fresh Water Pump No.01 // MACHINERY > Fresh Water Cooling System > Central Cooling Fresh Water Pump No.01",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Central Cooling Fresh Water Pump No.02 // MACHINERY > Fresh Water Cooling System > Central Cooling Fresh Water Pump No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Control and Service Air Compressor // MACHINERY > Compressed Air System > Control and Service Air Compressor",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Exhaust Gas Piping System // MACHINERY > Exhaust Gas Piping System",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel Oil Circ. Pump No.02, GE // MACHINERY > Fuel Oil Service System > Fuel Oil Circ. Pump No.02, GE",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel Oil Circ. Pump No.02, ME // MACHINERY > Fuel Oil Service System > Fuel Oil Circ. Pump No.02, ME",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel Oil Supply Pump No.01, GE // MACHINERY > Fuel Oil Service System > Fuel Oil Supply Pump No.01, GE",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fuel Oil Supply Pump No.02, ME // MACHINERY > Fuel Oil Service System > Fuel Oil Supply Pump No.02, ME",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Lubricating Oil Pump No.02, Stern Tube // MACHINERY > Stern Tube Lubricating Oil System > Lubricating Oil Pump No.02, Stern Tube",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main Air Compressor No.02 // MACHINERY > Starting Air System > Main Air Compressor No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main Cooling Sea Water Pump No.01 // MACHINERY > Sea Water Cooling System > Main Cooling Sea Water Pump No.01",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Main Cooling Sea Water Pump No.03 // MACHINERY > Sea Water Cooling System > Main Cooling Sea Water Pump No.03",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Scavenging Blower No.01 // MACHINERY > Main Propulsion System > Main Diesel Engine > Scavenging Blower No.01",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Scavenging Blower No.02 // MACHINERY > Main Propulsion System > Main Diesel Engine > Scavenging Blower No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Sludge Pump No.02 // MACHINERY > Oily Water Handling System > Sludge Pump No.02",
       "CODE": ""
     },
     {

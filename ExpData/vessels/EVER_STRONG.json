@@ -1,8 +1,32 @@
 {
   "vessel_name": "EVER STRONG",
-  "last_updated": "2026-11-04",
+  "last_updated": "2026-11-08",
   "total_records": 82,
   "records": [
+    {
+      "DUE_DATE": "2027/03/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Safety Management CertificateECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - International Ship Security Certificate (ISSC)ECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - ISM Renewal Audit 2RemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/03/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - ISPS Renewal Verification 2 - Part A & BRemoteIn Progress",
+      "CODE": ""
+    },
     {
       "DUE_DATE": "2027/03/06",
       "CLASS": "AB",
@@ -38,30 +62,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "ABS Non-Conformity : Requirements: MLC-2006 with amendment 2022, A2.3, Each Member shall require that records of seafarers’ daily hours of work or of their daily hours of rest be maintained.\nEvidence: Steering gear failure and emergency steering drill was carried out at 1630-1700 on 02nd January 2025, but rest hour record of 2nd officer were recorded as rest hour.\nNature: MLC-2006 requirement was not compliance.",
       "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2027/03/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Safety Management CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - International Ship Security Certificate (ISSC)ECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - ISM Renewal Audit 2RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - ISPS Renewal Verification 2 - Part A & BRemoteIn Progress",
-      "CODE": ""
     },
     {
       "DUE_DATE": "2027/03/08",
@@ -360,13 +360,13 @@
     {
       "DUE_DATE": "2027/03/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Statement of Compliance for Inventory of Hazardous Materials Certificate (EU)ECC",
+      "DESCRIPTION": "Cert - Statement of Voluntary Compliance for Inventory of Hazardous MaterialsECC",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/03/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Statement of Voluntary Compliance for Inventory of Hazardous MaterialsECC",
+      "DESCRIPTION": "Cert - Statement of Compliance for Inventory of Hazardous Materials Certificate (EU)ECC",
       "CODE": ""
     },
     {
