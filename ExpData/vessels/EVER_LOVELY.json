@@ -1,8 +1,14 @@
 {
   "vessel_name": "EVER LOVELY",
-  "last_updated": "2026-11-10",
-  "total_records": 10,
+  "last_updated": "2026-11-11",
+  "total_records": 11,
   "records": [
+    {
+      "DUE_DATE": "2027/01/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Cargo Ship Safety Equipment CertificateECCIn Progress",
+      "CODE": ""
+    },
     {
       "DUE_DATE": "2027/04/14",
       "CLASS": "AB",
