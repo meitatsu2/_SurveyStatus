@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER EXCEL",
-  "last_updated": "2026-10-27",
-  "total_records": 233,
+  "last_updated": "2026-11-08",
+  "total_records": 249,
   "records": [
     {
       "DUE_DATE": "2026/03/16",
@@ -1366,6 +1366,102 @@
       "CODE": ""
     },
     {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Boiler Fuel Oil Heater No.02 // MACHINERY > Boiler fuel oil Service piping system > Boiler Fuel Oil Heater No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Boiler Fuel Oil Heater No.02 // MACHINERY > Boiler fuel oil Service piping system > Boiler Fuel Oil Heater No.02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankshaft Deflection Record // OUTFITTING > Crankshaft Deflection Record",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - M/E Fuel Oil Heater No. 01 // MACHINERY > Fuel Oil Service System > M/E Fuel Oil Heater No. 01",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - M/E Fuel Oil Heater No. 01 // MACHINERY > Fuel Oil Service System > M/E Fuel Oil Heater No. 01",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - M/E Fuel Oil Heater 01 Relief Valve // MACHINERY > Fuel Oil Service System > M/E Fuel Oil Heater No. 01 > M/E Fuel Oil Heater 01 Relief...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - M/E Fuel Oil Heater 01 Relief Valve // MACHINERY > Fuel Oil Service System > M/E Fuel Oil Heater No. 01 > M/E Fuel Oil Heater 01 Relief...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - M/E Fuel Oil Heater 02 Relief Valve // MACHINERY > Fuel Oil Service System > M/E Fuel Oil Heater No. 02 > M/E Fuel Oil Heater 02 Relief ...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - M/E Fuel Oil Heater 02 Relief Valve // MACHINERY > Fuel Oil Service System > M/E Fuel Oil Heater No. 02 > M/E Fuel Oil Heater 02 Relief ...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - M/E Fuel Oil Heater 03 Relief Valve // MACHINERY > Fuel Oil Service System > M/E Fuel Oil Heater No. 03 > M/E Fuel Oil Heater 03 Relief ...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - M/E Fuel Oil Heater 03 Relief Valve // MACHINERY > Fuel Oil Service System > M/E Fuel Oil Heater No. 03 > M/E Fuel Oil Heater 03 Relief ...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - M/E Fuel Oil Heater No. 02 // MACHINERY > Fuel Oil Service System > M/E Fuel Oil Heater No. 02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - M/E Fuel Oil Heater No. 02 // MACHINERY > Fuel Oil Service System > M/E Fuel Oil Heater No. 02",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - M/E Fuel Oil Heater No. 03 // MACHINERY > Fuel Oil Service System > M/E Fuel Oil Heater No. 03",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - M/E Fuel Oil Heater No. 03 // MACHINERY > Fuel Oil Service System > M/E Fuel Oil Heater No. 03",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Retesting Survey - Cargo Gear 2",
+      "CODE": ""
+    },
+    {
       "DUE_DATE": "2027/06/06",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Drydocking SurveyRemote",
@@ -1374,7 +1470,7 @@
     {
       "DUE_DATE": "2027/06/06",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 5Remote",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 5RemoteIn Progress",
       "CODE": "CB03"
     },
     {

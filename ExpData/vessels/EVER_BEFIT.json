@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER BEFIT",
-  "last_updated": "2026-10-27",
-  "total_records": 13,
+  "last_updated": "2026-11-08",
+  "total_records": 16,
   "records": [
     {
       "DUE_DATE": "2027/01/31",
@@ -10,9 +10,21 @@
       "CODE": ""
     },
     {
+      "DUE_DATE": "2027/02/04",
+      "CLASS": "CR",
+      "DESCRIPTION": "CR - Outstanding Recommendation Given\n\n1. The temporary welding repair for the sea water cooling piping system at the distance piece number PH011 was carried out; visual inspection was conducted, and no leakage was observed.\n2. Following the successful completion of the welding repair, an additional cement box was installed over the repair area as a preventive measure against future leakage; the cement box installed at the distance piece number PH011 was inspected and found in satisfactory condition.\n3. Upon completion of the above-mentioned examination, it is recommended that the permanent repair for the sea water cooling piping system at the distance piece number PH011 shall be carried out as soon as possible, but not later than 04 February 2027.",
+      "CODE": "CA19"
+    },
+    {
       "DUE_DATE": "2027/03/31",
       "CLASS": "NK",
       "DESCRIPTION": "CMS - F.O. HEATER FOR SHIFT LINE",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.3 MAIN GENERATOR DIESEL ENGINE",
       "CODE": ""
     },
     {
@@ -24,20 +36,8 @@
     {
       "DUE_DATE": "2028/06/27",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/06/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2028/06/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
+      "DESCRIPTION": "NK - The leaking distance piece for COOL.S.W. & CENT.C.F.W.COOLER OUT B.D. (10K-500A, 011VPH, S-Side) is to be permanently repaired at the earliest practicable opportunity, but no later than the next drydock, subject to satisfactory verification at the Class periodical survey.",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2028/06/27",
@@ -70,15 +70,33 @@
       "CODE": "CB06"
     },
     {
-      "DUE_DATE": "2033/06/27",
+      "DUE_DATE": "2028/06/27",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/06/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/06/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2033/06/27",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2033/06/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER STEADY",
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-11-08",
   "total_records": 193,
   "records": [
     {
@@ -1026,13 +1026,13 @@
     {
       "DUE_DATE": "2026/12/25",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Statement of Voluntary Compliance for Inventory of Hazardous MaterialsECC",
+      "DESCRIPTION": "Cert - Statement of Compliance for Inventory of Hazardous Materials Certificate (EU)ECC",
       "CODE": ""
     },
     {
       "DUE_DATE": "2026/12/25",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Statement of Compliance for Inventory of Hazardous Materials Certificate (EU)ECC",
+      "DESCRIPTION": "Cert - Statement of Voluntary Compliance for Inventory of Hazardous MaterialsECC",
       "CODE": ""
     },
     {

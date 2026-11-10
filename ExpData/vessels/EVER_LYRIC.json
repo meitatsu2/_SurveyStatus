@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LYRIC",
-  "last_updated": "2026-10-27",
-  "total_records": 16,
+  "last_updated": "2026-11-08",
+  "total_records": 26,
   "records": [
     {
       "DUE_DATE": "2026/12/11",
@@ -34,6 +34,66 @@
       "CODE": ""
     },
     {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - M/E CYL. 6 CYLINDER COVER",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - M/E CYL. 6 CYLINDER LINER PISTON & ROD",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - M/E L.O. PURIFIER WITH HEATER NO.1",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - M/E L.O. PURIFIER WITH HEATER NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - BILGE PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - CENTRAL F.W. COOLER NO.1",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - CENTRAL F.W. COOLER NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - HEATER FOR M/E F.O. NO.1",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - HEATER FOR M/E F.O. NO.2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.6 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
+      "CODE": ""
+    },
+    {
       "DUE_DATE": "2028/05/08",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Bottom Survey",
@@ -44,18 +104,6 @@
       "CLASS": "NK",
       "DESCRIPTION": "Class - Docking Survey",
       "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2030/04/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2030/04/14",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2030/04/14",
@@ -80,6 +128,18 @@
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Condition Monitoring Special Survey",
       "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2030/04/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/04/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2030/06/28",

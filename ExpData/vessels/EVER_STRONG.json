@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER STRONG",
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-11-08",
   "total_records": 82,
   "records": [
     {
@@ -18,13 +18,13 @@
     {
       "DUE_DATE": "2027/03/06",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - ISM Renewal Audit 2Remote",
+      "DESCRIPTION": "Surv - ISM Renewal Audit 2RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/03/06",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - ISPS Renewal Verification 2 - Part A & BRemote",
+      "DESCRIPTION": "Surv - ISPS Renewal Verification 2 - Part A & BRemoteIn Progress",
       "CODE": ""
     },
     {
@@ -72,7 +72,7 @@
     {
       "DUE_DATE": "2027/03/08",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - MLC Renewal Inspection 2Remote",
+      "DESCRIPTION": "Surv - MLC Renewal Inspection 2RemoteIn Progress",
       "CODE": ""
     },
     {
@@ -360,13 +360,13 @@
     {
       "DUE_DATE": "2027/03/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Statement of Compliance for Inventory of Hazardous Materials Certificate (EU)ECC",
+      "DESCRIPTION": "Cert - Statement of Voluntary Compliance for Inventory of Hazardous MaterialsECC",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/03/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Statement of Voluntary Compliance for Inventory of Hazardous MaterialsECC",
+      "DESCRIPTION": "Cert - Statement of Compliance for Inventory of Hazardous Materials Certificate (EU)ECC",
       "CODE": ""
     },
     {

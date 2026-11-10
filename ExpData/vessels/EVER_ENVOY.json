@@ -1,14 +1,8 @@
 {
   "vessel_name": "EVER ENVOY",
-  "last_updated": "2026-10-27",
-  "total_records": 222,
+  "last_updated": "2026-11-08",
+  "total_records": 221,
   "records": [
-    {
-      "DUE_DATE": "2026/11/05",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 5RemoteIn Progress",
-      "CODE": ""
-    },
     {
       "DUE_DATE": "2026/12/25",
       "CLASS": "AB",
@@ -1194,13 +1188,13 @@
     {
       "DUE_DATE": "2027/03/31",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Statement of Compliance for Inventory of Hazardous Materials Certificate (EU)ECC",
+      "DESCRIPTION": "Cert - Statement of Compliance for Inventory of Hazardous Materials CertificateECC",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/03/31",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Statement of Compliance for Inventory of Hazardous Materials CertificateECC",
+      "DESCRIPTION": "Cert - Statement of Compliance for Inventory of Hazardous Materials Certificate (EU)ECC",
       "CODE": ""
     },
     {

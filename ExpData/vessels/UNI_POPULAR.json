@@ -1,8 +1,62 @@
 {
   "vessel_name": "UNI-POPULAR",
-  "last_updated": "2026-10-27",
-  "total_records": 5,
+  "last_updated": "2026-11-08",
+  "total_records": 14,
   "records": [
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 CYLINDER COVER OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.4 CYLINDER COVER OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 CYLINDER LINER OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.4 CYLINDER LINER OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 PISTON OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.4 PISTON OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.9 CRANKJOURNAL & BEARING OF M/E",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 STERN TUBE L.O. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 MAIN AIR COMPRESSOR",
+      "CODE": ""
+    },
     {
       "DUE_DATE": "2028/07/24",
       "CLASS": "NK",

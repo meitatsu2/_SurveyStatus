@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER BEAMY",
-  "last_updated": "2026-10-27",
-  "total_records": 20,
+  "last_updated": "2026-11-08",
+  "total_records": 24,
   "records": [
     {
       "DUE_DATE": "2026/12/05",
@@ -46,28 +46,34 @@
       "CODE": ""
     },
     {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 HYD. OIL PUMP ATT. TO M/E (ELEC. DRIVEN)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.1 BOILER FEED WATER PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 TURBO CHARGER L.O. PUMP",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "NK",
+      "DESCRIPTION": "CMS - NO.2 STERN TUBE L.O. PUMP",
+      "CODE": ""
+    },
+    {
       "DUE_DATE": "2028/06/06",
       "CLASS": "NK",
       "DESCRIPTION": "Class - Prop. Shaft Survey",
       "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2028/06/07",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/06/07",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2028/06/07",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2028/06/07",
@@ -112,15 +118,33 @@
       "CODE": "CB06"
     },
     {
-      "DUE_DATE": "2033/06/07",
+      "DUE_DATE": "2028/06/07",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/06/07",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/06/07",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2033/06/07",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2033/06/07",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]

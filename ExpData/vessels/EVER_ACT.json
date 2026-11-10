@@ -1,8 +1,14 @@
 {
   "vessel_name": "EVER ACT",
-  "last_updated": "2026-10-27",
-  "total_records": 10,
+  "last_updated": "2026-11-08",
+  "total_records": 14,
   "records": [
+    {
+      "DUE_DATE": "2026/09/09",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - EGE1 - EXHAUST GAS ECONOMISER",
+      "CODE": ""
+    },
     {
       "DUE_DATE": "2026/09/09",
       "CLASS": "LR",
@@ -62,6 +68,24 @@
       "CLASS": "LR",
       "DESCRIPTION": "Cert - Interim International Certificate on Inventory of Hazardous Materials",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2029/10/06",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2031/09/09",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - SS - SPECIAL",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/09/09",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - TS1 - SCREWSHAFT",
+      "CODE": "CB06"
     }
   ]
 }

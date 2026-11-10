@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LIVELY",
-  "last_updated": "2026-10-27",
-  "total_records": 9,
+  "last_updated": "2026-11-08",
+  "total_records": 20,
   "records": [
     {
       "DUE_DATE": "2026/10/14",
@@ -13,6 +13,72 @@
       "DUE_DATE": "2026/11/28",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Annual Survey - Elevator 3Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/04",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Automation Survey 3Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/04",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Hull Survey 3Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/04",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Load Line Survey 3Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/04",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Machinery Survey 3Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/04",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Intermediate Ballast Water Management Survey 3",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/04",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Intermediate Carriage of Dangerous Goods Survey 3",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/04",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Intermediate IAPP Annex VI Survey 3",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/04",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Intermediate IOPP Annex I Survey 3",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/04",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Intermediate Safety Construction Survey 3",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/04",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Periodical Safety Equipment Survey 3Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/04",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Periodical Safety Radio Survey 3Remote",
       "CODE": ""
     },
     {

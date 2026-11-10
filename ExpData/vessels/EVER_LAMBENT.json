@@ -1,8 +1,182 @@
 {
   "vessel_name": "EVER LAMBENT",
-  "last_updated": "2026-10-27",
-  "total_records": 3,
+  "last_updated": "2026-11-08",
+  "total_records": 32,
   "records": [
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - VESSEL GROUP // Examine Electrical Equipment In Hazardous Areas",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - VESSEL GROUP // Examine All Hazardous/Essential Piping, Including Valves, Filters, Fittings And Controls, Excluding Bilge Or Ballast",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - VESSEL GROUP // Examine And Test Bridge Controls",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - VESSEL GROUP // Examine And Test First Start Arrangements",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - VESSEL GROUP // Examine Assembly For Port and Starboard Discharge Valves (Including Bolted Connection)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - VESSEL GROUP // Examine Assembly For Port and Starboard Sea Suction Valves (Including Bolted Connection)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - ENGINE GROUP // 17 INLINE CROSSHEAD ENGINE // Examine And Test Starting Arrangements Including Alarms, Controls And Safeguards",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - ENGINE GROUP // 17 INLINE CROSSHEAD ENGINE // Examine And Test In Operation",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - ENGINE GROUP // 17 INLINE CROSSHEAD ENGINE // Examine and Test Starting Arrangements (Starting Air Lines, Valves And Fittings as applicable, Hydraulic Test where necessary)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - ENGINE GROUP // 17 INLINE CROSSHEAD ENGINE // Examine Holding Down Bolts And Chocks",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - ENGINE GROUP // 17 INLINE CROSSHEAD ENGINE // Examine Scavenge Relief Device(s)",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - ENGINE GROUP // 17 INLINE CROSSHEAD ENGINE // Examine Externally Mounted Means Of Mechanical Drive",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - SHIP CONTROL EQUIPMENT GROUP // 943 STEERING GEAR UNIT // Examine Hydraulic Lines And Fittings",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - SHIP CONTROL EQUIPMENT GROUP // 943 STEERING GEAR UNIT // Examine And Test Under Working Conditions",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - SHIP CONTROL EQUIPMENT GROUP // 943 STEERING GEAR UNIT // Examine Electrical Parts of Steering Gear",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - SHIP CONTROL EQUIPMENT GROUP // 943 STEERING GEAR UNIT // Test Bridge Controls to Steering Flat",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - PRESSURE EQUIPMENT GROUP // 1115 STARBOARD FORWARD MAIN AIR RECEIVER AND SAFETY DEVICES // Examine And Test Including Safety Devices And Hydraulic Test Where Necessary",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - PRESSURE EQUIPMENT GROUP // 1122 STARBOARD AFT MAIN AIR RECEIVER AND SAFETY DEVICES // Examine And Test Including Safety Devices And Hydraulic Test Where Necessary",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - PRESSURE EQUIPMENT GROUP // 1139 AUXILIARY AIR RECEIVER AND SAFETY DEVICES // Examine And Test Including Safety Devices And Hydraulic Test Where Necessary",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - PRESSURE EQUIPMENT GROUP // 1146 CONTROL AND SERVICE AIR RECEIVER AND SAFETY DEVICES // Examine And Test Including Safety Devices And Hydraulic Test Where Necessary",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - SYSTEM GROUP // 2518 ACCOMMODATION ALARM SYSTEM // Examine And Test Accommodation Alarm Repeater Panels And Automatic Activation Of Engineers Alarm",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - SYSTEM GROUP // 2501 TRANSVERSE THRUST UNIT ALARMS, CONTROLS & SAFEGUARDS // Examine And Test Including Functional Test Of Control Engineering Alarms, Controls And Safeguards",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - SYSTEM GROUP // 2437 MAIN PROPULSION ALARMS, CONTROLS AND SAFEGUARDS // Examine And Functional Test Of Control Engineering Alarms, Controls And Safeguards",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - TANK GROUP // 1953 LOW TEMPERATURE COOLING FRESH WATER EXPANSION TANK // Examine Externally",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - TANK GROUP // 1960 HIGH TEMPERATURE COOLING FRESH WATER EXPANSION TANK // Examine Externally",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - TANK GROUP // 1977 L.O. PURIFIER SLUDGE TANK // Examine Externally",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - TANK GROUP // 1984 HEAVY FUEL OIL PURIFIER SLUDGE TANK // Examine Externally",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - TANK GROUP // 1991 MAIN ENGINE TURBOCHARGER L.O. DRAIN TANK // Examine Externally",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/30",
+      "CLASS": "LR",
+      "DESCRIPTION": "CMS - TANK GROUP // 2006 MAIN ENGINE STUFFING BOX DRAIN TANK // Examine Externally",
+      "CODE": ""
+    },
     {
       "DUE_DATE": "2027/07/24",
       "CLASS": "LR",

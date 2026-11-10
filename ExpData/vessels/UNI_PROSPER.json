@@ -1,6 +1,6 @@
 {
   "vessel_name": "UNI-PROSPER",
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-11-08",
   "total_records": 27,
   "records": [
     {
@@ -101,14 +101,14 @@
     },
     {
       "DUE_DATE": "2029/10/16",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Bottom Survey",
       "CODE": "CB04"
     },
     {
       "DUE_DATE": "2029/10/16",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Bottom Survey",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
       "CODE": "CB04"
     },
     {
@@ -116,18 +116,6 @@
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
       "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2031/09/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/09/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2031/09/27",
@@ -145,6 +133,18 @@
       "DUE_DATE": "2031/09/27",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Class Special Survey of Auto. & Rem. System",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/09/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
       "CODE": "CB03"
     },
     {

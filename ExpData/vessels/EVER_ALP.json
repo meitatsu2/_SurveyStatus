@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER ALP",
-  "last_updated": "2026-10-27",
-  "total_records": 98,
+  "last_updated": "2026-11-08",
+  "total_records": 61,
   "records": [
     {
       "DUE_DATE": "2026/12/08",
@@ -168,175 +168,7 @@
     {
       "DUE_DATE": "2026/12/31",
       "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.5 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.6 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.7 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.8 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.9 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.10 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.11 CYL. ASSY. (COVER/LINER/PISTON) OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.7 CROSSHEAD PIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.8 CROSSHEAD PIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.9 CROSSHEAD PIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.10 CROSSHEAD PIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.11 CROSSHEAD PIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.7 CRANKPIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.8 CRANKPIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.9 CRANKPIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.10 CRANKPIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.11 CRANKPIN & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.3 CRANKJOURNAL & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.7 CRANKJOURNAL & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.8 CRANKJOURNAL & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.9 CRANKJOURNAL & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.10 CRANKJOURNAL & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.12 CRANKJOURNAL & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.14 CRANKJOURNAL & BEARING OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
       "DESCRIPTION": "CMS - DRIVING GEAR FOR ELECT. CONT. SYSTEM OF M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.1 HYD. OIL PUMP ATT. TO M/E (ENG. DRIVEN)",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 HYD. OIL PUMP ATT. TO M/E (ENG. DRIVEN)",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.3 HYD. OIL PUMP ATT. TO M/E (ENG. DRIVEN)",
       "CODE": ""
     },
     {
@@ -432,18 +264,6 @@
     {
       "DUE_DATE": "2026/12/31",
       "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.1 FORCED DRAFT FAN",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 FORCED DRAFT FAN",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
       "DESCRIPTION": "CMS - NO.1 CENTRAL F.W. COOLER",
       "CODE": ""
     },
@@ -463,48 +283,6 @@
       "DUE_DATE": "2026/12/31",
       "CLASS": "NK",
       "DESCRIPTION": "CMS - ATMOSPHERIC CONDENSER",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 F.O. HEATER FOR M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - M.G.O. HEATER FOR PURIFIER",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.1 F.O. HEATER FOR G/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - NO.2 F.O. HEATER FOR G/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - M.G.O. COOLER FOR M/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - M.G.O. COOLER FOR G/E",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CLASS": "NK",
-      "DESCRIPTION": "CMS - M.G.O. COOLER FOR AUX BOILER",
       "CODE": ""
     },
     {

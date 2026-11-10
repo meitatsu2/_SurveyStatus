@@ -1,8 +1,14 @@
 {
   "vessel_name": "EVER EDIT",
-  "last_updated": "2026-10-27",
-  "total_records": 6,
+  "last_updated": "2026-11-08",
+  "total_records": 7,
   "records": [
+    {
+      "DUE_DATE": "2027/05/03",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 1Remote",
+      "CODE": ""
+    },
     {
       "DUE_DATE": "2029/05/03",
       "CLASS": "AB",
