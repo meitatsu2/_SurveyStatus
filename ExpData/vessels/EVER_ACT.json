@@ -1,18 +1,12 @@
 {
   "vessel_name": "EVER ACT",
-  "last_updated": "2026-11-08",
-  "total_records": 14,
+  "last_updated": "2026-11-10",
+  "total_records": 13,
   "records": [
     {
       "DUE_DATE": "2026/09/09",
       "CLASS": "LR",
       "DESCRIPTION": "Surv - EGE1 - EXHAUST GAS ECONOMISER",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/09/09",
-      "CLASS": "LR",
-      "DESCRIPTION": "Cert - International Ballast Water Management Certificate",
       "CODE": ""
     },
     {
@@ -24,13 +18,13 @@
     {
       "DUE_DATE": "2027/03/13",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Certificate of Vessel ComplianceECC",
+      "DESCRIPTION": "Cert - Safety Management CertificateECC",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/03/13",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Safety Management CertificateECC",
+      "DESCRIPTION": "Cert - Certificate of Vessel ComplianceECC",
       "CODE": ""
     },
     {

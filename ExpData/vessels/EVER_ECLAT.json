@@ -1,19 +1,19 @@
 {
   "vessel_name": "EVER ECLAT",
-  "last_updated": "2026-11-08",
+  "last_updated": "2026-11-10",
   "total_records": 11,
   "records": [
     {
       "DUE_DATE": "2027/01/03",
       "CLASS": "NK",
-      "DESCRIPTION": "NK - In accordance with MPA Shipping Circular No.10 of 2025, dispensation has been granted on behalf of the Flag Administration for the malfunctioned BWMS to be repaired not later than 03 Jan 2027.\nOpening date: 03 Nov 2026",
-      "CODE": "CA19"
+      "DESCRIPTION": "Cert - Ballast Water Management",
+      "CODE": ""
     },
     {
       "DUE_DATE": "2027/01/03",
       "CLASS": "NK",
-      "DESCRIPTION": "Cert - Ballast Water Management",
-      "CODE": ""
+      "DESCRIPTION": "NK - In accordance with MPA Shipping Circular No.10 of 2025, dispensation has been granted on behalf of the Flag Administration for the malfunctioned BWMS to be repaired not later than 03 Jan 2027.\nOpening date: 03 Nov 2026",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2027/03/21",

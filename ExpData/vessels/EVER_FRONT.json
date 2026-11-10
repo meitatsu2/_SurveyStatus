@@ -1,8 +1,14 @@
 {
   "vessel_name": "EVER FRONT",
-  "last_updated": "2026-11-08",
-  "total_records": 6,
+  "last_updated": "2026-11-10",
+  "total_records": 7,
   "records": [
+    {
+      "DUE_DATE": "2027/01/07",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : The vessel’s Ballast Water Treatment System (BWTS) was reported to be inoperative due to failure of the T1 24 VDC power supply. The owner’s representative and the vessel’s Master remotely submitted the following documentary evidence for review by the attending Surveyor:\nMaster’s statement, reporting that:\n-A BWTS alarm was activated, and subsequent inspection revealed that the local control panel had no display.\n-Circuit breaker Q4 was found tripped. Resetting the breaker did not restore the local control panel display.\n-The incoming 440 VAC power supply was checked and found normal; however, the T1 24 VDC power supply had no output.\n-No replacement power supply was available onboard. Replacement part BWMS9002013 was requested urgently.\n-Ballast operations were stopped upon occurrence of the failure.\nThe Master’s statement also addressed the following interim arrangements pending repair:\n-Ballast operations are to follow the approved Ballast Water Management Plan and the manufacturer’s procedures.\n-Untreated or non-compliant ballast water is to be retained onboard unless an alternative arrangement is accepted by the relevant port authority.\n-Any proposed ballast water exchange is to follow the approved plan and applicable requirements, with port-State acceptance as a contingency measure. Exchange is not automatically a substitute for treatment.\n-Vessel safety, stability and structural limits are to be maintained. Where exchange is considered unsafe, the reasons are to be recorded in the Ballast Water Record Book.\n-The responsible officer and crew are to be informed of the defect, operational restrictions and contingency arrangements.\n-The Flag Administration/ABS and relevant port authorities are to be notified, as applicable, and the failure and subsequent ballast operations recorded in the Ballast Water Record Book.\nRisk assessment covering the BWTS failure and associated interim arrangements.\n-Spare parts delivery note supporting the repair plan.\nThe submitted repair plan indicated that the maker would deliver the replacement power supply at the vessel’s next port, Balboa, on 10 November, followed by immediate replacement and functional testing. The stated dispensation period was 22 October to 15 November.\nBased on the satisfactory review of the documentary evidence remotely submitted by the owner’s representative and the vessel’s Master, and under the blanket authorization for remote issuance of statutory certificates and Conditions for up to two months for new findings, this finding was raised and a short-term certificate was issued with validity until 07 January 2027.",
+      "CODE": "CA19"
+    },
     {
       "DUE_DATE": "2028/08/08",
       "CLASS": "AB",

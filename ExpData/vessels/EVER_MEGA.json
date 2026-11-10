@@ -1,8 +1,14 @@
 {
   "vessel_name": "EVER MEGA",
-  "last_updated": "2026-11-08",
-  "total_records": 6,
+  "last_updated": "2026-11-10",
+  "total_records": 7,
   "records": [
+    {
+      "DUE_DATE": "2027/05/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 3Remote",
+      "CODE": ""
+    },
     {
       "DUE_DATE": "2027/07/24",
       "CLASS": "AB",

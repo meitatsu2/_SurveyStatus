@@ -1,14 +1,8 @@
 {
   "vessel_name": "EVER LEADER",
-  "last_updated": "2026-11-08",
-  "total_records": 24,
+  "last_updated": "2026-11-10",
+  "total_records": 23,
   "records": [
-    {
-      "DUE_DATE": "2026/11/10",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Cargo Ship Safety Construction CertificateECC",
-      "CODE": ""
-    },
     {
       "DUE_DATE": "2026/11/10",
       "CLASS": "AB",
