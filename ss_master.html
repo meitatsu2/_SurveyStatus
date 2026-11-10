@@ -688,7 +688,7 @@
                 
                 currentVesselData = await response.json();
 
-                detailHeaderTitle.textContent = `${currentVesselData.vessel_name} Survey Status updated ${currentVesselData.last_updated}`;
+                detailHeaderTitle.textContent = `${currentVesselData.vessel_name} updated ${currentVesselData.last_updated}`;
                 renderVesselStatusTable(currentVesselData.records);
                 calculateAndRenderMilestones(currentVesselData.records, vessel.deliver);
 
