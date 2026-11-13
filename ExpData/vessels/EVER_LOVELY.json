@@ -1,13 +1,19 @@
 {
   "vessel_name": "EVER LOVELY",
-  "last_updated": "2026-11-11",
-  "total_records": 11,
+  "last_updated": "2026-11-13",
+  "total_records": 12,
   "records": [
     {
-      "DUE_DATE": "2027/01/09",
+      "DUE_DATE": "2027/01/10",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Cargo Ship Safety Equipment CertificateECCIn Progress",
+      "DESCRIPTION": "Cert - Cargo Ship Safety Equipment CertificateECC",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/10",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : It is reported by vessel management that Anemometer is malfunctioned, the indicator is not displaying the correct relative wind direction as it gets stuck in one direction regardless of the actual wind direction indicated by the wind vane on the compass deck. As a result, the conning display displays incorrect true wind speed and direction. Currently, we are using the portable Anemometer as a backup to get the relative the wind speed and direction as required to calculate the true wind speed and direction. Continuous weather monitoring via onboard DOSCA weather software, WNI 6-hourly weather routing updates, and mobile Windy weather app. Obtain updated wind information received from coastal weather stations through Weather fax, NAVTEX, and Sat-C EGC, \nFollow items were confirmed by Master.\n1. All watch keeping personnel are made aware of the malfunctioned anemometer.\n2. Hourly recording of estimated wind speed and direction in the deck logbook, and frequency may increase as appropriate. The speed and direction of the wind will record from this moment until our anemometer defect was repaired and got the rectify approval from RO and flag state.\n3. Master / pilot information is duly carried out to reflect the defective anemometer.\n4. The relevant port authorities to be notified of the defect when the vessel calls at a port.\nAs per Singapore SHIPPING CIRCULAR NO. 10 OF 2025, the survey performed through ABS data-enabled verification platform based on information provided by the owner and Vessel master, Short term Cargo ship safety Equipment certificate valid until 10 January 2027 was issued pending repairing of malfunctioned Anemometer.\nFollow documents, photos provided by Master was reviewed and found satisfactory. \n1. Master's attestation\n2. Defective Anemometer report with photo\n3. Risk assessment.\n4. Copy of logbook for record of malfunctioned Anemometer.",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2027/04/14",
