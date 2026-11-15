@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER ELITE",
-  "last_updated": "2026-11-15",
-  "total_records": 138,
+  "last_updated": "2026-11-16",
+  "total_records": 155,
   "records": [
     {
       "DUE_DATE": "2027/01/15",
@@ -781,6 +781,108 @@
       "DUE_DATE": "2027/02/28",
       "CLASS": "AB",
       "DESCRIPTION": "CMS - Windlass starboard side // MACHINERY > Mooring System > Windlass starboard side",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Breathing Apparatus // OUTFITTING > Breathing Apparatus",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankcase Explosion Relief Valve No.01 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Crankcas...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankcase Explosion Relief Valve No.02 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Crankcas...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankcase Explosion Relief Valve No.03 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Crankcas...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankcase Explosion Relief Valve No.04 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Crankcas...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankcase Explosion Relief Valve No.05 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Crankcas...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankcase Explosion Relief Valve No.06 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Crankcas...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankcase Explosion Relief Valve No.07 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Crankcas...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankcase Explosion Relief Valve No.08 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Crankcas...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankcase Explosion Relief Valve No.09 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Crankcas...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankcase Explosion Relief Valve No.10 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Crankcas...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankcase Explosion Relief Valve No.11 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Crankcas...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Crankcase Explosion Relief Valve No.12 // MACHINERY > Main Propulsion System > Main Diesel engine (Counting from aft to forward) > Crankcas...",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fire Extinguishers // OUTFITTING > Fire Extinguishers",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Fireman's Outfit // OUTFITTING > Fireman's Outfit",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - International Shore Connection // OUTFITTING > International Shore Connection",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/15",
+      "CLASS": "AB",
+      "DESCRIPTION": "CMS - Operating Log and Maintenance Book // OUTFITTING > Operating Log and Maintenance Book",
       "CODE": ""
     },
     {
