@@ -1,0 +1,203 @@
+{
+  "scode": "GFTD",
+  "last_updated": "2026-11-17",
+  "total_records": 28,
+  "records": [
+    {
+      "Line": "MD2",
+      "Voyage": "0753-029E",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20260824/0820 (一)",
+      "ETD Date/Time": "20260825/1205"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0767-030W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20260902/1100 (三)",
+      "ETD Date/Time": "20260904/0100"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0767-030W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20260908/1000 (二)",
+      "ETD Date/Time": "20260910/0025"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0767-030W",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260911/1310 (五)",
+      "ETD Date/Time": "20260912/0908"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0767-030W",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20260915/0524 (二)",
+      "ETD Date/Time": "20260916/0820"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0767-030W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20260920/1320 (日)",
+      "ETD Date/Time": "20260921/1810"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0767-030E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261022/2310 (四)",
+      "ETD Date/Time": "20261026/0710"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0767-030E",
+      "Port Calling": "ITLSP",
+      "ETA Date/Time": "20261031/0823 (六)",
+      "ETD Date/Time": "20261102/1036"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0767-030W",
+      "Port Calling": "ITGNA",
+      "ETA Date/Time": "20261103/1200 (二)",
+      "ETD Date/Time": "20261106/1348"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0767-030E",
+      "Port Calling": "FRFOS",
+      "ETA Date/Time": "20261107/1218 (六)",
+      "ETD Date/Time": "20261109/1446"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0767-030E",
+      "Port Calling": "ESVLC",
+      "ETA Date/Time": "20261113/2320 (五)",
+      "ETD Date/Time": "20261116/1045"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0767-030E",
+      "Port Calling": "EGSUZ",
+      "ETA Date/Time": "20261120/2200 (五)",
+      "ETD Date/Time": "20261121/1500"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0767-030E",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261202/1900 (三)",
+      "ETD Date/Time": "20261203/1900"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0782-031W",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20261209/1400 (三)",
+      "ETD Date/Time": "20261210/1400"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0782-031W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20261211/1900 (五)",
+      "ETD Date/Time": "20261213/0100"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0782-031W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261213/1300 (日)",
+      "ETD Date/Time": "20261214/1300"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0782-031W",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261215/2100 (二)",
+      "ETD Date/Time": "20261216/1700"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0782-031W",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261217/1600 (四)",
+      "ETD Date/Time": "20261218/1000"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0782-031W",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20261218/1700 (五)",
+      "ETD Date/Time": "20261219/1500"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0782-031W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261223/0100 (三)",
+      "ETD Date/Time": "20261224/0100"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0782-031W",
+      "Port Calling": "EGSUZ",
+      "ETA Date/Time": "20270110/2200 (日)",
+      "ETD Date/Time": "20270111/1700"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0782-031E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270114/0500 (四)",
+      "ETD Date/Time": "20270117/1900"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0782-031E",
+      "Port Calling": "ITGNA",
+      "ETA Date/Time": "20270120/0400 (三)",
+      "ETD Date/Time": "20270122/0600"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0782-031E",
+      "Port Calling": "ITLSP",
+      "ETA Date/Time": "20270122/1700 (五)",
+      "ETD Date/Time": "20270124/0100"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0782-031E",
+      "Port Calling": "FRFOS",
+      "ETA Date/Time": "20270125/1700 (一)",
+      "ETD Date/Time": "20270127/1100"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0782-031E",
+      "Port Calling": "ESVLC",
+      "ETA Date/Time": "20270128/1300 (四)",
+      "ETD Date/Time": "20270130/0600"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0782-031E",
+      "Port Calling": "EGSUZ",
+      "ETA Date/Time": "20270204/2200 (四)",
+      "ETD Date/Time": "20270205/1700"
+    },
+    {
+      "Line": "MD2",
+      "Voyage": "0782-031E",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270228/0500 (日)",
+      "ETD Date/Time": "20270301/1300"
+    }
+  ]
+}

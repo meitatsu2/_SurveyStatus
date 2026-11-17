@@ -1,0 +1,168 @@
+{
+  "scode": "LIVY",
+  "last_updated": "2026-11-17",
+  "total_records": 23,
+  "records": [
+    {
+      "Line": "CPS",
+      "Voyage": "1228-078W",
+      "Port Calling": "CNXGA",
+      "ETA Date/Time": "20260825/1546 (二)",
+      "ETD Date/Time": "20260825/2345"
+    },
+    {
+      "Line": "NUE",
+      "Voyage": "1281-079E",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20260827/2236 (四)",
+      "ETD Date/Time": "20260828/1835"
+    },
+    {
+      "Line": "NUE",
+      "Voyage": "1281-079E",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20260902/2230 (三)",
+      "ETD Date/Time": "20260904/0500"
+    },
+    {
+      "Line": "NUE",
+      "Voyage": "1281-079E",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20260910/0200 (四)",
+      "ETD Date/Time": "20260911/0800"
+    },
+    {
+      "Line": "NUE",
+      "Voyage": "1281-079E",
+      "Port Calling": "KRPUS",
+      "ETA Date/Time": "20260913/0410 (日)",
+      "ETD Date/Time": "20260913/2142"
+    },
+    {
+      "Line": "NUE",
+      "Voyage": "1281-079E",
+      "Port Calling": "PAPAN",
+      "ETA Date/Time": "20261002/0324 (五)",
+      "ETD Date/Time": "20261002/1459"
+    },
+    {
+      "Line": "NUE",
+      "Voyage": "1281-079E",
+      "Port Calling": "PACCT",
+      "ETA Date/Time": "20261003/1208 (六)",
+      "ETD Date/Time": "20261004/1340"
+    },
+    {
+      "Line": "NUE",
+      "Voyage": "1281-079W",
+      "Port Calling": "USSVN",
+      "ETA Date/Time": "20261010/1900 (六)",
+      "ETD Date/Time": "20261012/1715"
+    },
+    {
+      "Line": "NUE",
+      "Voyage": "1281-079W",
+      "Port Calling": "USNYC",
+      "ETA Date/Time": "20261014/2054 (三)",
+      "ETD Date/Time": "20261016/0100"
+    },
+    {
+      "Line": "NUE",
+      "Voyage": "1281-079W",
+      "Port Calling": "USBOS",
+      "ETA Date/Time": "20261017/2136 (六)",
+      "ETD Date/Time": "20261019/0302"
+    },
+    {
+      "Line": "NUE",
+      "Voyage": "1281-079W",
+      "Port Calling": "USBAL",
+      "ETA Date/Time": "20261021/0348 (三)",
+      "ETD Date/Time": "20261022/0305"
+    },
+    {
+      "Line": "NUE",
+      "Voyage": "1281-079W",
+      "Port Calling": "PACCT",
+      "ETA Date/Time": "20261026/1636 (一)",
+      "ETD Date/Time": "20261027/1837"
+    },
+    {
+      "Line": "NUE",
+      "Voyage": "1281-079W",
+      "Port Calling": "PAPAN",
+      "ETA Date/Time": "20261031/0406 (六)",
+      "ETD Date/Time": "20261031/1812"
+    },
+    {
+      "Line": "CPS",
+      "Voyage": "1250-080E",
+      "Port Calling": "CNXGA",
+      "ETA Date/Time": "20261201/0700 (二)",
+      "ETD Date/Time": "20261201/2300"
+    },
+    {
+      "Line": "CPS",
+      "Voyage": "1250-080E",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20261204/0200 (五)",
+      "ETD Date/Time": "20261205/0200"
+    },
+    {
+      "Line": "CPS",
+      "Voyage": "1250-080E",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20261206/1000 (日)",
+      "ETD Date/Time": "20261207/1000"
+    },
+    {
+      "Line": "CPS",
+      "Voyage": "1250-080E",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261208/0400 (二)",
+      "ETD Date/Time": "20261209/1000"
+    },
+    {
+      "Line": "CPS",
+      "Voyage": "1250-080W",
+      "Port Calling": "USLAX",
+      "ETA Date/Time": "20261223/0600 (三)",
+      "ETD Date/Time": "20261229/0900"
+    },
+    {
+      "Line": "CPS",
+      "Voyage": "1250-080W",
+      "Port Calling": "USOKL",
+      "ETA Date/Time": "20270101/0700 (五)",
+      "ETD Date/Time": "20270102/1900"
+    },
+    {
+      "Line": "CPS",
+      "Voyage": "1250-080W",
+      "Port Calling": "CNXGA",
+      "ETA Date/Time": "20270119/1400 (二)",
+      "ETD Date/Time": "20270120/2000"
+    },
+    {
+      "Line": "CPS",
+      "Voyage": "1250-080W",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20270122/0000 (五)",
+      "ETD Date/Time": "20270123/0600"
+    },
+    {
+      "Line": "CPS",
+      "Voyage": "1250-080W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270124/0800 (日)",
+      "ETD Date/Time": "20270125/1600"
+    },
+    {
+      "Line": "CPS",
+      "Voyage": "1250-080W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270126/0200 (二)",
+      "ETD Date/Time": "20270127/1000"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "scode": "LKIN",
+  "last_updated": "2026-11-17",
+  "total_records": 33,
+  "records": [
+    {
+      "Line": "CPS",
+      "Voyage": "1235-071E",
+      "Port Calling": "CNXGA",
+      "ETA Date/Time": "20260818/0824 (二)",
+      "ETD Date/Time": "20260818/2330"
+    },
+    {
+      "Line": "CPS",
+      "Voyage": "1235-071E",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20260820/1030 (四)",
+      "ETD Date/Time": "20260821/0204"
+    },
+    {
+      "Line": "CPS",
+      "Voyage": "1235-071E",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20260826/1130 (三)",
+      "ETD Date/Time": "20260829/1830"
+    },
+    {
+      "Line": "CPS",
+      "Voyage": "1235-071E",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20260903/0300 (四)",
+      "ETD Date/Time": "20260904/0800"
+    },
+    {
+      "Line": "CPS",
+      "Voyage": "1235-071W",
+      "Port Calling": "USLAX",
+      "ETA Date/Time": "20260918/0412 (五)",
+      "ETD Date/Time": "20260922/1827"
+    },
+    {
+      "Line": "CPS",
+      "Voyage": "1235-071W",
+      "Port Calling": "USOKL",
+      "ETA Date/Time": "20260924/1654 (四)",
+      "ETD Date/Time": "20260926/0536"
+    },
+    {
+      "Line": "CPS",
+      "Voyage": "1235-071W",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20261011/2102 (日)",
+      "ETD Date/Time": "20261012/0620"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0805-072E",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261015/0625 (四)",
+      "ETD Date/Time": "20261016/0335"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0805-072E",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20261018/0200 (日)",
+      "ETD Date/Time": "20261019/0255"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0805-072E",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261020/0120 (二)",
+      "ETD Date/Time": "20261020/1650"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0805-072E",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20261022/1900 (四)",
+      "ETD Date/Time": "20261023/1630"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0805-072E",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261027/1842 (二)",
+      "ETD Date/Time": "20261028/1900"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0805-072W",
+      "Port Calling": "MXMZO",
+      "ETA Date/Time": "20261116/1100 (一)",
+      "ETD Date/Time": "20261118/2000"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0805-072W",
+      "Port Calling": "PABBA",
+      "ETA Date/Time": "20261124/0000 (二)",
+      "ETD Date/Time": "20261125/0000"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0805-072W",
+      "Port Calling": "COBVT",
+      "ETA Date/Time": "20261126/1000 (四)",
+      "ETD Date/Time": "20261127/2000"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0805-072W",
+      "Port Calling": "PECAL",
+      "ETA Date/Time": "20261201/1200 (二)",
+      "ETD Date/Time": "20261202/1800"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0805-072W",
+      "Port Calling": "CLVAL",
+      "ETA Date/Time": "20261207/0500 (一)",
+      "ETD Date/Time": "20261209/0600"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0805-072W",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20270104/1430 (一)",
+      "ETD Date/Time": "20270105/0830"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0805-072W",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20270105/1430 (二)",
+      "ETD Date/Time": "20270106/0800"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0805-072W",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270107/0400 (四)",
+      "ETD Date/Time": "20270108/0130"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0805-072W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270109/1100 (六)",
+      "ETD Date/Time": "20270110/1300"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0805-072W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270110/2200 (日)",
+      "ETD Date/Time": "20270112/0000"
+    },
+    {
+      "Line": "CIX3",
+      "Voyage": "073W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270112/0800 (二)",
+      "ETD Date/Time": "20270112/2300"
+    },
+    {
+      "Line": "CIX3",
+      "Voyage": "073W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270113/0900 (三)",
+      "ETD Date/Time": "20270114/1500"
+    },
+    {
+      "Line": "CIX3",
+      "Voyage": "073W",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20270117/1600 (日)",
+      "ETD Date/Time": "20270118/1500"
+    },
+    {
+      "Line": "CIX3",
+      "Voyage": "073W",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270124/0300 (日)",
+      "ETD Date/Time": "20270124/1900"
+    },
+    {
+      "Line": "CIX3",
+      "Voyage": "073E",
+      "Port Calling": "INNXV",
+      "ETA Date/Time": "20270201/0000 (一)",
+      "ETD Date/Time": "20270202/0300"
+    },
+    {
+      "Line": "CIX3",
+      "Voyage": "073E",
+      "Port Calling": "INHAZ",
+      "ETA Date/Time": "20270202/1700 (二)",
+      "ETD Date/Time": "20270203/1100"
+    },
+    {
+      "Line": "CIX3",
+      "Voyage": "073E",
+      "Port Calling": "INMUN",
+      "ETA Date/Time": "20270204/2200 (四)",
+      "ETD Date/Time": "20270205/2000"
+    },
+    {
+      "Line": "CIX3",
+      "Voyage": "073E",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270214/0100 (日)",
+      "ETD Date/Time": "20270214/1800"
+    },
+    {
+      "Line": "CIX3",
+      "Voyage": "073E",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270221/2100 (日)",
+      "ETD Date/Time": "20270222/2300"
+    },
+    {
+      "Line": "CIX3",
+      "Voyage": "073E",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270224/0900 (三)",
+      "ETD Date/Time": "20270225/1500"
+    },
+    {
+      "Line": "CIX3",
+      "Voyage": "073E",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20270228/1600 (日)",
+      "ETD Date/Time": "20270301/1500"
+    }
+  ]
+}

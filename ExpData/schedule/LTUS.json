@@ -1,0 +1,161 @@
+{
+  "scode": "LTUS",
+  "last_updated": "2026-11-17",
+  "total_records": 22,
+  "records": [
+    {
+      "Line": "WSA",
+      "Voyage": "0792-071W",
+      "Port Calling": "MXMZO",
+      "ETA Date/Time": "20260821/0919 (五)",
+      "ETD Date/Time": "20260823/1900"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0792-071W",
+      "Port Calling": "PECAL",
+      "ETA Date/Time": "20260902/1254 (三)",
+      "ETD Date/Time": "20260903/1445"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0792-071W",
+      "Port Calling": "CLVAL",
+      "ETA Date/Time": "20260907/1942 (一)",
+      "ETD Date/Time": "20260908/1452"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0792-071W",
+      "Port Calling": "COBVT",
+      "ETA Date/Time": "20260917/2036 (四)",
+      "ETD Date/Time": "20260919/2208"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0026-072E",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261013/2150 (二)",
+      "ETD Date/Time": "20261015/1925"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0026-072E",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261017/0210 (六)",
+      "ETD Date/Time": "20261018/0105"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0026-072E",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20261018/2226 (日)",
+      "ETD Date/Time": "20261019/1950"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0026-072E",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261026/0630 (一)",
+      "ETD Date/Time": "20261027/1030"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0026-072W",
+      "Port Calling": "USLAX",
+      "ETA Date/Time": "20261111/1524 (三)",
+      "ETD Date/Time": "20261115/1620"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0026-072W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261127/1400 (五)",
+      "ETD Date/Time": "20261128/2000"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0026-072W",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20261130/0400 (一)",
+      "ETD Date/Time": "20261201/0400"
+    },
+    {
+      "Line": "OGRD",
+      "Voyage": "0020-074W",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20270110/1000 (日)",
+      "ETD Date/Time": "20270111/0800"
+    },
+    {
+      "Line": "OGRD",
+      "Voyage": "0020-074W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270112/2300 (二)",
+      "ETD Date/Time": "20270114/0400"
+    },
+    {
+      "Line": "OGRD",
+      "Voyage": "0020-074W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270114/1800 (四)",
+      "ETD Date/Time": "20270115/2000"
+    },
+    {
+      "Line": "OGRD",
+      "Voyage": "0020-074W",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20270118/0000 (一)",
+      "ETD Date/Time": "20270118/2200"
+    },
+    {
+      "Line": "OGRD",
+      "Voyage": "0020-074W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270123/0100 (六)",
+      "ETD Date/Time": "20270123/2300"
+    },
+    {
+      "Line": "OGRD",
+      "Voyage": "0020-074W",
+      "Port Calling": "SAJED",
+      "ETA Date/Time": "20270205/0200 (五)",
+      "ETD Date/Time": "20270206/1600"
+    },
+    {
+      "Line": "OGRD",
+      "Voyage": "0020-074E",
+      "Port Calling": "EGSOK",
+      "ETA Date/Time": "20270208/1100 (一)",
+      "ETD Date/Time": "20270210/0100"
+    },
+    {
+      "Line": "OGRD",
+      "Voyage": "0020-074E",
+      "Port Calling": "JOAQB",
+      "ETA Date/Time": "20270210/2300 (三)",
+      "ETD Date/Time": "20270212/0700"
+    },
+    {
+      "Line": "OGRD",
+      "Voyage": "0020-074E",
+      "Port Calling": "SAJED",
+      "ETA Date/Time": "20270214/0000 (日)",
+      "ETD Date/Time": "20270214/2200"
+    },
+    {
+      "Line": "OGRD",
+      "Voyage": "0020-074E",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270226/0100 (五)",
+      "ETD Date/Time": "20270227/0100"
+    },
+    {
+      "Line": "OGRD",
+      "Voyage": "0020-074E",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20270307/1000 (日)",
+      "ETD Date/Time": "20270308/0800"
+    }
+  ]
+}

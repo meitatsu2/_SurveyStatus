@@ -1,0 +1,217 @@
+{
+  "scode": "ENVY",
+  "last_updated": "2026-11-17",
+  "total_records": 30,
+  "records": [
+    {
+      "Line": "CAT",
+      "Voyage": "203N",
+      "Port Calling": "AUSYD",
+      "ETA Date/Time": "20260818/1724 (二)",
+      "ETD Date/Time": "20260821/1106"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "203N",
+      "Port Calling": "AUBBN",
+      "ETA Date/Time": "20260826/1258 (三)",
+      "ETD Date/Time": "20260828/0106"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "203N",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260906/1815 (日)",
+      "ETD Date/Time": "20260907/0630"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "204S",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20260913/0230 (日)",
+      "ETD Date/Time": "20260914/0100"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "204S",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20260916/0936 (三)",
+      "ETD Date/Time": "20260917/0700"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "204S",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20260921/0818 (一)",
+      "ETD Date/Time": "20260921/2248"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "204S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260923/0025 (三)",
+      "ETD Date/Time": "20260923/1605"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "204N",
+      "Port Calling": "AUSYD",
+      "ETA Date/Time": "20261004/1112 (日)",
+      "ETD Date/Time": "20261006/0954"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "204N",
+      "Port Calling": "AUMEL",
+      "ETA Date/Time": "20261011/0312 (日)",
+      "ETD Date/Time": "20261013/1654"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "204N",
+      "Port Calling": "AUBBN",
+      "ETA Date/Time": "20261022/0218 (四)",
+      "ETD Date/Time": "20261023/1400"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "204N",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261103/2350 (二)",
+      "ETD Date/Time": "20261104/1920"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "205S",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20261112/0200 (四)",
+      "ETD Date/Time": "20261113/0000"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "205S",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261117/0100 (二)",
+      "ETD Date/Time": "20261117/1700"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "205S",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20261120/1900 (五)",
+      "ETD Date/Time": "20261121/0900"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "205S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261122/1200 (日)",
+      "ETD Date/Time": "20261123/1200"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "205N",
+      "Port Calling": "AUMEL",
+      "ETA Date/Time": "20261205/0500 (六)",
+      "ETD Date/Time": "20261206/1300"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "205N",
+      "Port Calling": "AUSYD",
+      "ETA Date/Time": "20261208/0500 (二)",
+      "ETD Date/Time": "20261209/1700"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "205N",
+      "Port Calling": "AUBBN",
+      "ETA Date/Time": "20261211/0400 (五)",
+      "ETD Date/Time": "20261212/0000"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "206S",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20261222/0400 (二)",
+      "ETD Date/Time": "20261223/0800"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "205N",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261223/1200 (三)",
+      "ETD Date/Time": "20261224/0400"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "206S",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261224/2100 (四)",
+      "ETD Date/Time": "20261225/1600"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "206S",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20261227/1800 (日)",
+      "ETD Date/Time": "20261228/1200"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "206S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261229/1300 (二)",
+      "ETD Date/Time": "20261230/0200"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "206N",
+      "Port Calling": "AUMEL",
+      "ETA Date/Time": "20270111/1800 (一)",
+      "ETD Date/Time": "20270113/0600"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "206N",
+      "Port Calling": "AUSYD",
+      "ETA Date/Time": "20270115/0200 (五)",
+      "ETD Date/Time": "20270116/1400"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "206N",
+      "Port Calling": "AUBBN",
+      "ETA Date/Time": "20270118/0400 (一)",
+      "ETD Date/Time": "20270119/0600"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "206N",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270207/1330 (日)",
+      "ETD Date/Time": "20270208/0730"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "206N",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270210/0400 (三)",
+      "ETD Date/Time": "20270211/0800"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "206N",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270211/2100 (四)",
+      "ETD Date/Time": "20270212/1600"
+    },
+    {
+      "Line": "CAT",
+      "Voyage": "206N",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20270214/1800 (日)",
+      "ETD Date/Time": "20270215/1200"
+    }
+  ]
+}

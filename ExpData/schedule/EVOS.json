@@ -1,0 +1,56 @@
+{
+  "scode": "EVOS",
+  "last_updated": "2026-11-17",
+  "total_records": 7,
+  "records": [
+    {
+      "Line": "CES",
+      "Voyage": "0863-001W",
+      "Port Calling": "JPHIR",
+      "ETA Date/Time": "20270429/0000 (四)",
+      "ETD Date/Time": "20270429/0000"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0863-001W",
+      "Port Calling": "CNXGA",
+      "ETA Date/Time": "20270430/1300 (五)",
+      "ETD Date/Time": "20270430/1500"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0863-001W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270502/0400 (日)",
+      "ETD Date/Time": "20270503/2200"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0863-001W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270504/0800 (二)",
+      "ETD Date/Time": "20270506/1000"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0863-001W",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20270507/1800 (五)",
+      "ETD Date/Time": "20270508/1600"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0863-001W",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20270509/2200 (日)",
+      "ETD Date/Time": "20270511/0400"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0863-001W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270514/1700 (五)",
+      "ETD Date/Time": "20270516/0200"
+    }
+  ]
+}
