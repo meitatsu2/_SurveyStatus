@@ -1,57 +1,8 @@
 {
   "scode": "ECLT",
   "last_updated": "2026-11-17",
-  "total_records": 26,
+  "total_records": 19,
   "records": [
-    {
-      "Line": "CES",
-      "Voyage": "0831-001W",
-      "Port Calling": "KRKJE A",
-      "ETA Date/Time": "20260922/1400 (二)",
-      "ETD Date/Time": "20260922/1400"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0831-001W",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20260926/1815 (六)",
-      "ETD Date/Time": "20260927/0645"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0831-001W",
-      "Port Calling": "CNSHG",
-      "ETA Date/Time": "20260930/1430 (三)",
-      "ETD Date/Time": "20261001/1200"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0831-001W",
-      "Port Calling": "TWTPE",
-      "ETA Date/Time": "20261003/0824 (六)",
-      "ETD Date/Time": "20261003/2200"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0831-001W",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20261009/1000 (五)",
-      "ETD Date/Time": "20261010/0117"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0831-001W",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20261014/0735 (三)",
-      "ETD Date/Time": "20261015/0430"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0831-001W",
-      "Port Calling": "LKCMB",
-      "ETA Date/Time": "20261021/0142 (三)",
-      "ETD Date/Time": "20261021/1806"
-    },
     {
       "Line": "CES",
       "Voyage": "0831-001E",

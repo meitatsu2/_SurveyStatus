@@ -1,43 +1,8 @@
 {
   "scode": "ACTS",
   "last_updated": "2026-11-17",
-  "total_records": 24,
+  "total_records": 19,
   "records": [
-    {
-      "Line": "CEM",
-      "Voyage": "1399-017E",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20260817/2255 (一)",
-      "ETD Date/Time": "20260819/0025"
-    },
-    {
-      "Line": "CEM",
-      "Voyage": "1399-017E",
-      "Port Calling": "CNQND",
-      "ETA Date/Time": "20260826/2024 (三)",
-      "ETD Date/Time": "20260828/1320"
-    },
-    {
-      "Line": "WFS",
-      "Voyage": "1277-018S",
-      "Port Calling": "CNQND",
-      "ETA Date/Time": "20260829/1200 (六)",
-      "ETD Date/Time": "20261021/1300"
-    },
-    {
-      "Line": "CEM",
-      "Voyage": "1424-019W",
-      "Port Calling": "CNQND",
-      "ETA Date/Time": "20261024/0700 (六)",
-      "ETD Date/Time": "20261025/1100"
-    },
-    {
-      "Line": "CEM",
-      "Voyage": "1424-019W",
-      "Port Calling": "CNSHG",
-      "ETA Date/Time": "20261028/0330 (三)",
-      "ETD Date/Time": "20261029/0330"
-    },
     {
       "Line": "CEM",
       "Voyage": "1424-019W",

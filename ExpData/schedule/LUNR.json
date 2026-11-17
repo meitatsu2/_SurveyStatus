@@ -1,85 +1,8 @@
 {
   "scode": "LUNR",
   "last_updated": "2026-11-17",
-  "total_records": 32,
+  "total_records": 21,
   "records": [
-    {
-      "Line": "CIX4",
-      "Voyage": "082W",
-      "Port Calling": "CNSHG",
-      "ETA Date/Time": "20260830/0200 (日)",
-      "ETD Date/Time": "20260831/1330"
-    },
-    {
-      "Line": "CIX4",
-      "Voyage": "082W",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20260906/2330 (日)",
-      "ETD Date/Time": "20260907/2200"
-    },
-    {
-      "Line": "CIX4",
-      "Voyage": "082W",
-      "Port Calling": "HKHKG",
-      "ETA Date/Time": "20260910/1100 (四)",
-      "ETD Date/Time": "20260910/1832"
-    },
-    {
-      "Line": "CIX4",
-      "Voyage": "082W",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20260916/0710 (三)",
-      "ETD Date/Time": "20260916/1731"
-    },
-    {
-      "Line": "CIX4",
-      "Voyage": "082W",
-      "Port Calling": "MYPKL",
-      "ETA Date/Time": "20260919/1635 (六)",
-      "ETD Date/Time": "20260919/2343"
-    },
-    {
-      "Line": "CIX4",
-      "Voyage": "082E",
-      "Port Calling": "INNXV",
-      "ETA Date/Time": "20260926/2348 (六)",
-      "ETD Date/Time": "20260928/0718"
-    },
-    {
-      "Line": "CIX4",
-      "Voyage": "082E",
-      "Port Calling": "INMUN",
-      "ETA Date/Time": "20261002/1545 (五)",
-      "ETD Date/Time": "20261003/2213"
-    },
-    {
-      "Line": "CIX4",
-      "Voyage": "082E",
-      "Port Calling": "PKKHI",
-      "ETA Date/Time": "20261005/1910 (一)",
-      "ETD Date/Time": "20261008/1430"
-    },
-    {
-      "Line": "CIX4",
-      "Voyage": "082E",
-      "Port Calling": "MYPKL",
-      "ETA Date/Time": "20261020/1505 (二)",
-      "ETD Date/Time": "20261021/1330"
-    },
-    {
-      "Line": "CIX4",
-      "Voyage": "082E",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20261023/1510 (五)",
-      "ETD Date/Time": "20261025/0655"
-    },
-    {
-      "Line": "CIX4",
-      "Voyage": "083W",
-      "Port Calling": "CNSHG",
-      "ETA Date/Time": "20261105/1130 (四)",
-      "ETD Date/Time": "20261106/2130"
-    },
     {
       "Line": "CIX4",
       "Voyage": "083W",

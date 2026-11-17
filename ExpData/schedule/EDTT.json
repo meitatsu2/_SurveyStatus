@@ -1,78 +1,8 @@
 {
   "scode": "EDTT",
   "last_updated": "2026-11-17",
-  "total_records": 29,
+  "total_records": 19,
   "records": [
-    {
-      "Line": "CES",
-      "Voyage": "0827-002W",
-      "Port Calling": "CNXGA",
-      "ETA Date/Time": "20260819/0930 (三)",
-      "ETD Date/Time": "20260820/1220"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0827-002W",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20260828/2350 (五)",
-      "ETD Date/Time": "20260830/0500"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0827-002W",
-      "Port Calling": "CNSHG",
-      "ETA Date/Time": "20260906/2300 (日)",
-      "ETD Date/Time": "20260908/1000"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0827-002W",
-      "Port Calling": "TWTPE",
-      "ETA Date/Time": "20260910/0142 (四)",
-      "ETD Date/Time": "20260910/1542"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0827-002W",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20260913/0600 (日)",
-      "ETD Date/Time": "20260914/0754"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0827-002W",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20260918/0335 (五)",
-      "ETD Date/Time": "20260918/2347"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0827-002E",
-      "Port Calling": "GBFLX",
-      "ETA Date/Time": "20261018/0659 (日)",
-      "ETD Date/Time": "20261020/0208"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0827-002E",
-      "Port Calling": "BEANW",
-      "ETA Date/Time": "20261020/1642 (二)",
-      "ETD Date/Time": "20261022/0820"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0827-002E",
-      "Port Calling": "DEHBG",
-      "ETA Date/Time": "20261023/1600 (五)",
-      "ETD Date/Time": "20261028/0420"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0827-002E",
-      "Port Calling": "NLRDM",
-      "ETA Date/Time": "20261031/1100 (六)",
-      "ETD Date/Time": "20261103/1109"
-    },
     {
       "Line": "CES",
       "Voyage": "0827-002E",

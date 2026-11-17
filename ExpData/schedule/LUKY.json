@@ -1,64 +1,8 @@
 {
   "scode": "LUKY",
   "last_updated": "2026-11-17",
-  "total_records": 24,
+  "total_records": 16,
   "records": [
-    {
-      "Line": "OGME",
-      "Voyage": "0012-084W",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20260820/0400 (四)",
-      "ETD Date/Time": "20260820/1740"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0012-084E",
-      "Port Calling": "AEKFK",
-      "ETA Date/Time": "20260909/0330 (三)",
-      "ETD Date/Time": "20260912/0218"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0012-084E",
-      "Port Calling": "MYPKL",
-      "ETA Date/Time": "20260922/0630 (二)",
-      "ETD Date/Time": "20260922/2105"
-    },
-    {
-      "Line": "AUG",
-      "Voyage": "085E",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20260927/0330 (日)",
-      "ETD Date/Time": "20260927/1914"
-    },
-    {
-      "Line": "AUG",
-      "Voyage": "085E",
-      "Port Calling": "VNVUU",
-      "ETA Date/Time": "20261004/0650 (日)",
-      "ETD Date/Time": "20261005/0023"
-    },
-    {
-      "Line": "AUG",
-      "Voyage": "085E",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20261008/1954 (四)",
-      "ETD Date/Time": "20261009/2115"
-    },
-    {
-      "Line": "AUG",
-      "Voyage": "085E",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20261015/0545 (四)",
-      "ETD Date/Time": "20261016/0130"
-    },
-    {
-      "Line": "AUG",
-      "Voyage": "085E",
-      "Port Calling": "KRPUS",
-      "ETA Date/Time": "20261019/2000 (一)",
-      "ETD Date/Time": "20261020/1750"
-    },
     {
       "Line": "AUG",
       "Voyage": "085E",

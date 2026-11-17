@@ -1,64 +1,8 @@
 {
   "scode": "LDER",
   "last_updated": "2026-11-17",
-  "total_records": 27,
+  "total_records": 19,
   "records": [
-    {
-      "Line": "OGES",
-      "Voyage": "0044-080W",
-      "Port Calling": "BRRIO",
-      "ETA Date/Time": "20260819/1106 (三)",
-      "ETD Date/Time": "20260820/0830"
-    },
-    {
-      "Line": "OGES",
-      "Voyage": "0044-080W",
-      "Port Calling": "BRSTO",
-      "ETA Date/Time": "20260908/1255 (二)",
-      "ETD Date/Time": "20260909/0850"
-    },
-    {
-      "Line": "OGES",
-      "Voyage": "0044-080W",
-      "Port Calling": "BRNVT",
-      "ETA Date/Time": "20260915/1848 (二)",
-      "ETD Date/Time": "20260917/0913"
-    },
-    {
-      "Line": "OGES",
-      "Voyage": "0044-080E",
-      "Port Calling": "ARBUE",
-      "ETA Date/Time": "20260922/0548 (二)",
-      "ETD Date/Time": "20260923/1636"
-    },
-    {
-      "Line": "OGES",
-      "Voyage": "0044-080E",
-      "Port Calling": "BRNVT",
-      "ETA Date/Time": "20261002/1748 (五)",
-      "ETD Date/Time": "20261003/1042"
-    },
-    {
-      "Line": "OGES",
-      "Voyage": "0044-080E",
-      "Port Calling": "BRSTO",
-      "ETA Date/Time": "20261011/0252 (日)",
-      "ETD Date/Time": "20261011/1510"
-    },
-    {
-      "Line": "OGES",
-      "Voyage": "0044-080E",
-      "Port Calling": "BRRIO",
-      "ETA Date/Time": "20261012/1106 (一)",
-      "ETD Date/Time": "20261013/1306"
-    },
-    {
-      "Line": "OGES",
-      "Voyage": "0044-080E",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20261105/1330 (四)",
-      "ETD Date/Time": "20261106/0940"
-    },
     {
       "Line": "OGES",
       "Voyage": "0044-080E",

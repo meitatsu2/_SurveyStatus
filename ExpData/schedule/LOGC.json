@@ -1,57 +1,8 @@
 {
   "scode": "LOGC",
   "last_updated": "2026-11-17",
-  "total_records": 24,
+  "total_records": 17,
   "records": [
-    {
-      "Line": "CPS",
-      "Voyage": "1231-086W",
-      "Port Calling": "USLAX",
-      "ETA Date/Time": "20260827/0518 (四)",
-      "ETD Date/Time": "20260901/0427"
-    },
-    {
-      "Line": "CPS",
-      "Voyage": "1231-086W",
-      "Port Calling": "USOKL",
-      "ETA Date/Time": "20260903/0642 (四)",
-      "ETD Date/Time": "20260904/0524"
-    },
-    {
-      "Line": "CPS",
-      "Voyage": "1239-087E",
-      "Port Calling": "CNXGA",
-      "ETA Date/Time": "20260918/0742 (五)",
-      "ETD Date/Time": "20260919/0000"
-    },
-    {
-      "Line": "CPS",
-      "Voyage": "1239-087E",
-      "Port Calling": "CNQND",
-      "ETA Date/Time": "20260921/0324 (一)",
-      "ETD Date/Time": "20260921/2208"
-    },
-    {
-      "Line": "CPS",
-      "Voyage": "1239-087E",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20260928/2044 (一)",
-      "ETD Date/Time": "20260930/1000"
-    },
-    {
-      "Line": "CPS",
-      "Voyage": "1239-087W",
-      "Port Calling": "USLAX",
-      "ETA Date/Time": "20261014/0642 (三)",
-      "ETD Date/Time": "20261020/0427"
-    },
-    {
-      "Line": "CPS",
-      "Voyage": "1239-087W",
-      "Port Calling": "USOKL",
-      "ETA Date/Time": "20261022/0636 (四)",
-      "ETD Date/Time": "20261023/0432"
-    },
     {
       "Line": "CPS",
       "Voyage": "1247-089E",

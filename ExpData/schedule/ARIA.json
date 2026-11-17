@@ -1,50 +1,8 @@
 {
   "scode": "ARIA",
   "last_updated": "2026-11-17",
-  "total_records": 28,
+  "total_records": 22,
   "records": [
-    {
-      "Line": "CEM",
-      "Voyage": "1410-015W",
-      "Port Calling": "NLRDM",
-      "ETA Date/Time": "20260910/0324 (四)",
-      "ETD Date/Time": "20260914/0120"
-    },
-    {
-      "Line": "CEM",
-      "Voyage": "1410-015E",
-      "Port Calling": "GBFLX",
-      "ETA Date/Time": "20260916/1215 (三)",
-      "ETD Date/Time": "20260918/0153"
-    },
-    {
-      "Line": "CEM",
-      "Voyage": "1410-015E",
-      "Port Calling": "NLRDM",
-      "ETA Date/Time": "20260923/1135 (三)",
-      "ETD Date/Time": "20260928/0324"
-    },
-    {
-      "Line": "CEM",
-      "Voyage": "1410-015E",
-      "Port Calling": "DEHBG",
-      "ETA Date/Time": "20260929/0835 (二)",
-      "ETD Date/Time": "20261006/0345"
-    },
-    {
-      "Line": "CEM",
-      "Voyage": "1410-015E",
-      "Port Calling": "LKCMB",
-      "ETA Date/Time": "20261102/1000 (一)",
-      "ETD Date/Time": "20261103/0735"
-    },
-    {
-      "Line": "CEM",
-      "Voyage": "1410-015E",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20261108/2300 (日)",
-      "ETD Date/Time": "20261111/1630"
-    },
     {
       "Line": "CEM",
       "Voyage": "1410-015E",

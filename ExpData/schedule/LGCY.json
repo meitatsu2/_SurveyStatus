@@ -1,64 +1,8 @@
 {
   "scode": "LGCY",
   "last_updated": "2026-11-17",
-  "total_records": 26,
+  "total_records": 18,
   "records": [
-    {
-      "Line": "CPS",
-      "Voyage": "1233-078E",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20260819/0128 (三)",
-      "ETD Date/Time": "20260820/0220"
-    },
-    {
-      "Line": "CPS",
-      "Voyage": "1233-078W",
-      "Port Calling": "USLAX",
-      "ETA Date/Time": "20260902/0524 (三)",
-      "ETD Date/Time": "20260906/0422"
-    },
-    {
-      "Line": "CPS",
-      "Voyage": "1233-078W",
-      "Port Calling": "USOKL",
-      "ETA Date/Time": "20260908/0742 (二)",
-      "ETD Date/Time": "20260909/0412"
-    },
-    {
-      "Line": "OGWC",
-      "Voyage": "0025-080E",
-      "Port Calling": "CNQND",
-      "ETA Date/Time": "20260925/1812 (五)",
-      "ETD Date/Time": "20260926/1115"
-    },
-    {
-      "Line": "OGWC",
-      "Voyage": "0025-080E",
-      "Port Calling": "CNSHG",
-      "ETA Date/Time": "20261004/0800 (日)",
-      "ETD Date/Time": "20261005/0700"
-    },
-    {
-      "Line": "OGWC",
-      "Voyage": "0025-080E",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20261008/1044 (四)",
-      "ETD Date/Time": "20261009/1300"
-    },
-    {
-      "Line": "OGWC",
-      "Voyage": "0025-080W",
-      "Port Calling": "USLAX",
-      "ETA Date/Time": "20261023/0442 (五)",
-      "ETD Date/Time": "20261027/0936"
-    },
-    {
-      "Line": "OGWC",
-      "Voyage": "0025-080W",
-      "Port Calling": "USOKL",
-      "ETA Date/Time": "20261029/0712 (四)",
-      "ETD Date/Time": "20261030/1506"
-    },
     {
       "Line": "NUE",
       "Voyage": "1293-081E",

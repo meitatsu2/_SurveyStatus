@@ -1,78 +1,8 @@
 {
   "scode": "LODG",
   "last_updated": "2026-11-17",
-  "total_records": 22,
+  "total_records": 12,
   "records": [
-    {
-      "Line": "WSA",
-      "Voyage": "0796-076E",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20260817/1300 (一)",
-      "ETD Date/Time": "20260818/0954"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0796-076E",
-      "Port Calling": "CNSHG",
-      "ETA Date/Time": "20260828/1700 (五)",
-      "ETD Date/Time": "20260830/0200"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0796-076W",
-      "Port Calling": "MXMZO",
-      "ETA Date/Time": "20260914/1738 (一)",
-      "ETD Date/Time": "20260916/2113"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0796-076W",
-      "Port Calling": "PABBA",
-      "ETA Date/Time": "20260922/0952 (二)",
-      "ETD Date/Time": "20260923/1500"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0796-076W",
-      "Port Calling": "COBVT",
-      "ETA Date/Time": "20260925/0320 (五)",
-      "ETD Date/Time": "20260927/0524"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0796-076W",
-      "Port Calling": "PECAL",
-      "ETA Date/Time": "20260930/0800 (三)",
-      "ETD Date/Time": "20261001/1344"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0796-076W",
-      "Port Calling": "CLVAL",
-      "ETA Date/Time": "20261005/1406 (一)",
-      "ETD Date/Time": "20261006/1815"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0808-077E",
-      "Port Calling": "HKHKG",
-      "ETA Date/Time": "20261103/0850 (二)",
-      "ETD Date/Time": "20261104/1335"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0808-077E",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20261104/2024 (三)",
-      "ETD Date/Time": "20261106/0211"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0808-077E",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20261107/0321 (六)",
-      "ETD Date/Time": "20261108/0420"
-    },
     {
       "Line": "WSA",
       "Voyage": "0808-077E",

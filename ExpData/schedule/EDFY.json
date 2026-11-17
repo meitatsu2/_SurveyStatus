@@ -1,15 +1,8 @@
 {
   "scode": "EDFY",
   "last_updated": "2026-11-17",
-  "total_records": 18,
+  "total_records": 17,
   "records": [
-    {
-      "Line": "CES",
-      "Voyage": "0839-001W",
-      "Port Calling": "KRKJE",
-      "ETA Date/Time": "20261110/1600 (二)",
-      "ETD Date/Time": "20261110/1600"
-    },
     {
       "Line": "CES",
       "Voyage": "0839-001W",

@@ -1,64 +1,8 @@
 {
   "scode": "FATH",
   "last_updated": "2026-11-17",
-  "total_records": 34,
+  "total_records": 26,
   "records": [
-    {
-      "Line": "ESA",
-      "Voyage": "1701-036E",
-      "Port Calling": "BRPNP",
-      "ETA Date/Time": "20260822/2124 (六)",
-      "ETD Date/Time": "20260823/1945"
-    },
-    {
-      "Line": "ESA",
-      "Voyage": "1701-036E",
-      "Port Calling": "BRSTO",
-      "ETA Date/Time": "20260903/1348 (四)",
-      "ETD Date/Time": "20260905/0142"
-    },
-    {
-      "Line": "ESA",
-      "Voyage": "1701-036E",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20260926/1255 (六)",
-      "ETD Date/Time": "20260928/0120"
-    },
-    {
-      "Line": "ESA",
-      "Voyage": "1701-036E",
-      "Port Calling": "HKHKG",
-      "ETA Date/Time": "20261001/1610 (四)",
-      "ETD Date/Time": "20261002/1410"
-    },
-    {
-      "Line": "ESA",
-      "Voyage": "1714-037W",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20261007/1400 (三)",
-      "ETD Date/Time": "20261009/1400"
-    },
-    {
-      "Line": "ESA",
-      "Voyage": "1714-037W",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20261011/1729 (日)",
-      "ETD Date/Time": "20261012/0828"
-    },
-    {
-      "Line": "ESA",
-      "Voyage": "1714-037W",
-      "Port Calling": "HKHKG",
-      "ETA Date/Time": "20261013/1510 (二)",
-      "ETD Date/Time": "20261014/1615"
-    },
-    {
-      "Line": "ESA",
-      "Voyage": "1714-037W",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20261018/2135 (日)",
-      "ETD Date/Time": "20261019/1455"
-    },
     {
       "Line": "ESA",
       "Voyage": "1714-037W",

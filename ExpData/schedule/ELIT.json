@@ -1,85 +1,8 @@
 {
   "scode": "ELIT",
   "last_updated": "2026-11-17",
-  "total_records": 33,
+  "total_records": 22,
   "records": [
-    {
-      "Line": "TPN",
-      "Voyage": "0485-185W",
-      "Port Calling": "USTCM",
-      "ETA Date/Time": "20260824/0530 (一)",
-      "ETD Date/Time": "20260825/1710"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0485-185W",
-      "Port Calling": "CAVCR",
-      "ETA Date/Time": "20260826/0718 (三)",
-      "ETD Date/Time": "20260828/1730"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0485-185W",
-      "Port Calling": "JPTYO",
-      "ETA Date/Time": "20260910/0012 (四)",
-      "ETD Date/Time": "20260911/0610"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0485-185W",
-      "Port Calling": "JPOSK",
-      "ETA Date/Time": "20260912/0830 (六)",
-      "ETD Date/Time": "20260912/1730"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0493-186E",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20260915/1130 (二)",
-      "ETD Date/Time": "20260916/1915"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0493-186E",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20260918/0724 (五)",
-      "ETD Date/Time": "20260919/0625"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0493-186E",
-      "Port Calling": "CNSHG",
-      "ETA Date/Time": "20261003/0800 (六)",
-      "ETD Date/Time": "20261003/1700"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0493-186E",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20261006/0450 (二)",
-      "ETD Date/Time": "20261006/2115"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0493-186W",
-      "Port Calling": "USTCM",
-      "ETA Date/Time": "20261020/0412 (二)",
-      "ETD Date/Time": "20261021/1956"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0493-186W",
-      "Port Calling": "CAVCR",
-      "ETA Date/Time": "20261025/0424 (日)",
-      "ETD Date/Time": "20261027/0800"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0493-186W",
-      "Port Calling": "USOKL",
-      "ETA Date/Time": "20261101/0548 (日)",
-      "ETD Date/Time": "20261101/1700"
-    },
     {
       "Line": "TPN",
       "Voyage": "0493-186W",

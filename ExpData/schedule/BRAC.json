@@ -1,57 +1,8 @@
 {
   "scode": "BRAC",
   "last_updated": "2026-11-17",
-  "total_records": 18,
+  "total_records": 11,
   "records": [
-    {
-      "Line": "AEF4",
-      "Voyage": "120E",
-      "Port Calling": "KEMWA",
-      "ETA Date/Time": "20260823/0942 (日)",
-      "ETD Date/Time": "20260824/2300"
-    },
-    {
-      "Line": "AEF4",
-      "Voyage": "120E",
-      "Port Calling": "TZDFQ",
-      "ETA Date/Time": "20260829/2130 (六)",
-      "ETD Date/Time": "20260830/2110"
-    },
-    {
-      "Line": "AEF4",
-      "Voyage": "120E",
-      "Port Calling": "MZUVC",
-      "ETA Date/Time": "20260904/0612 (五)",
-      "ETD Date/Time": "20260905/0754"
-    },
-    {
-      "Line": "AEF4",
-      "Voyage": "122W",
-      "Port Calling": "INNXV",
-      "ETA Date/Time": "20260915/1948 (二)",
-      "ETD Date/Time": "20260916/1012"
-    },
-    {
-      "Line": "AEF4",
-      "Voyage": "122W",
-      "Port Calling": "INMUN",
-      "ETA Date/Time": "20260917/1154 (四)",
-      "ETD Date/Time": "20260918/1009"
-    },
-    {
-      "Line": "AEF4",
-      "Voyage": "122E",
-      "Port Calling": "AEFJA",
-      "ETA Date/Time": "20261006/2300 (二)",
-      "ETD Date/Time": "20261009/0300"
-    },
-    {
-      "Line": "AEF4",
-      "Voyage": "123W",
-      "Port Calling": "INMUN",
-      "ETA Date/Time": "20261011/1924 (日)",
-      "ETD Date/Time": "20261012/1455"
-    },
     {
       "Line": "AEF4",
       "Voyage": "123E",

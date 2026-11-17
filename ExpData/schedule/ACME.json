@@ -1,57 +1,8 @@
 {
   "scode": "ACME",
   "last_updated": "2026-11-17",
-  "total_records": 23,
+  "total_records": 16,
   "records": [
-    {
-      "Line": "CEM",
-      "Voyage": "1408-013W",
-      "Port Calling": "NLRDM",
-      "ETA Date/Time": "20260826/1445 (三)",
-      "ETD Date/Time": "20260829/2300"
-    },
-    {
-      "Line": "CEM",
-      "Voyage": "1408-013E",
-      "Port Calling": "GBFLX",
-      "ETA Date/Time": "20260902/2203 (三)",
-      "ETD Date/Time": "20260905/0018"
-    },
-    {
-      "Line": "CEM",
-      "Voyage": "1408-013E",
-      "Port Calling": "NLRDM",
-      "ETA Date/Time": "20260905/1344 (六)",
-      "ETD Date/Time": "20260909/0430"
-    },
-    {
-      "Line": "CEM",
-      "Voyage": "1408-013E",
-      "Port Calling": "DEHBG",
-      "ETA Date/Time": "20260911/0630 (五)",
-      "ETD Date/Time": "20260917/1908"
-    },
-    {
-      "Line": "CEM",
-      "Voyage": "1408-013E",
-      "Port Calling": "LKCMB",
-      "ETA Date/Time": "20261021/2242 (三)",
-      "ETD Date/Time": "20261023/0955"
-    },
-    {
-      "Line": "CEM",
-      "Voyage": "1408-013E",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20261029/2330 (四)",
-      "ETD Date/Time": "20261102/0050"
-    },
-    {
-      "Line": "CEM",
-      "Voyage": "1427-014W",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20261106/2045 (五)",
-      "ETD Date/Time": "20261108/1720"
-    },
     {
       "Line": "CEM",
       "Voyage": "1427-014W",

@@ -1,85 +1,8 @@
 {
   "scode": "FRTN",
   "last_updated": "2026-11-17",
-  "total_records": 27,
+  "total_records": 16,
   "records": [
-    {
-      "Line": "WSA2",
-      "Voyage": "0694-028E",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20260818/0630 (二)",
-      "ETD Date/Time": "20260820/0005"
-    },
-    {
-      "Line": "WSA2",
-      "Voyage": "0694-028E",
-      "Port Calling": "CNXHK",
-      "ETA Date/Time": "20260821/1036 (五)",
-      "ETD Date/Time": "20260823/1430"
-    },
-    {
-      "Line": "WSA2",
-      "Voyage": "0694-028E",
-      "Port Calling": "HKHKG",
-      "ETA Date/Time": "20260824/1200 (一)",
-      "ETD Date/Time": "20260825/1605"
-    },
-    {
-      "Line": "WSA2",
-      "Voyage": "0694-028E",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20260906/0945 (日)",
-      "ETD Date/Time": "20260908/0415"
-    },
-    {
-      "Line": "WSA2",
-      "Voyage": "0694-028E",
-      "Port Calling": "MXMZO",
-      "ETA Date/Time": "20260925/1505 (五)",
-      "ETD Date/Time": "20260926/1607"
-    },
-    {
-      "Line": "WSA2",
-      "Voyage": "0694-028W",
-      "Port Calling": "PECAL",
-      "ETA Date/Time": "20261002/1532 (五)",
-      "ETD Date/Time": "20261003/0725"
-    },
-    {
-      "Line": "WSA2",
-      "Voyage": "0694-028W",
-      "Port Calling": "ECGYE",
-      "ETA Date/Time": "20261006/0325 (二)",
-      "ETD Date/Time": "20261008/1645"
-    },
-    {
-      "Line": "WSA2",
-      "Voyage": "0694-028W",
-      "Port Calling": "GTZNJ",
-      "ETA Date/Time": "20261013/0040 (二)",
-      "ETD Date/Time": "20261013/2310"
-    },
-    {
-      "Line": "WSA2",
-      "Voyage": "0694-028W",
-      "Port Calling": "MXLZC",
-      "ETA Date/Time": "20261020/1100 (二)",
-      "ETD Date/Time": "20261021/1920"
-    },
-    {
-      "Line": "WSA2",
-      "Voyage": "0694-028W",
-      "Port Calling": "MXMZO",
-      "ETA Date/Time": "20261023/2058 (五)",
-      "ETD Date/Time": "20261024/1922"
-    },
-    {
-      "Line": "WSA2",
-      "Voyage": "0706-029E",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20261110/0600 (二)",
-      "ETD Date/Time": "20261111/1802"
-    },
     {
       "Line": "WSA2",
       "Voyage": "0706-029E",

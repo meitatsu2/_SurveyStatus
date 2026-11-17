@@ -1,78 +1,8 @@
 {
   "scode": "FRNT",
   "last_updated": "2026-11-17",
-  "total_records": 28,
+  "total_records": 18,
   "records": [
-    {
-      "Line": "WSA",
-      "Voyage": "0790-039W",
-      "Port Calling": "PECAL",
-      "ETA Date/Time": "20260819/1205 (三)",
-      "ETD Date/Time": "20260821/0134"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0790-039W",
-      "Port Calling": "COBVT",
-      "ETA Date/Time": "20260828/0400 (五)",
-      "ETD Date/Time": "20260829/1610"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0790-039W",
-      "Port Calling": "MXMZO B",
-      "ETA Date/Time": "20260905/0615 (六)",
-      "ETD Date/Time": "20260907/0818"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0802-040E",
-      "Port Calling": "HKHKG",
-      "ETA Date/Time": "20260924/0635 (四)",
-      "ETD Date/Time": "20260925/1842"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0802-040E",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20260929/0635 (二)",
-      "ETD Date/Time": "20261001/0515"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0802-040E",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20261003/0025 (六)",
-      "ETD Date/Time": "20261003/1848"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0802-040E",
-      "Port Calling": "CNSHG",
-      "ETA Date/Time": "20261008/2100 (四)",
-      "ETD Date/Time": "20261009/1730"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0802-040E",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20261010/2048 (六)",
-      "ETD Date/Time": "20261011/1824"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0802-040W",
-      "Port Calling": "MXMZO",
-      "ETA Date/Time": "20261102/0726 (一)",
-      "ETD Date/Time": "20261104/1409"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0802-040W",
-      "Port Calling": "PABBA",
-      "ETA Date/Time": "20261110/0520 (二)",
-      "ETD Date/Time": "20261111/0757"
-    },
     {
       "Line": "WSA",
       "Voyage": "0802-040W",

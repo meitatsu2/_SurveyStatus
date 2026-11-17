@@ -1,85 +1,8 @@
 {
   "scode": "LIVN",
   "last_updated": "2026-11-17",
-  "total_records": 31,
+  "total_records": 20,
   "records": [
-    {
-      "Line": "OGME",
-      "Voyage": "0011-084E",
-      "Port Calling": "AEKFK",
-      "ETA Date/Time": "20260824/1618 (一)",
-      "ETD Date/Time": "20260827/1530"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0011-084E",
-      "Port Calling": "MYPKL",
-      "ETA Date/Time": "20260905/1100 (六)",
-      "ETD Date/Time": "20260907/0200"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0015-085W",
-      "Port Calling": "CNQND",
-      "ETA Date/Time": "20260915/0642 (二)",
-      "ETD Date/Time": "20260915/1815"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0015-085W",
-      "Port Calling": "CNSHG",
-      "ETA Date/Time": "20260919/1500 (六)",
-      "ETD Date/Time": "20260920/0600"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0015-085W",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20260921/1945 (一)",
-      "ETD Date/Time": "20260922/1230"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0015-085W",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20260924/0840 (四)",
-      "ETD Date/Time": "20260925/1312"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0015-085W",
-      "Port Calling": "CNXHK",
-      "ETA Date/Time": "20260929/1250 (二)",
-      "ETD Date/Time": "20260930/2000"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0015-085W",
-      "Port Calling": "CNXHK B",
-      "ETA Date/Time": "20260930/2200 (三)",
-      "ETD Date/Time": "20261001/0730"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0015-085W",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20261008/0250 (四)",
-      "ETD Date/Time": "20261008/1615"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0015-085E",
-      "Port Calling": "OMSOH",
-      "ETA Date/Time": "20261027/1335 (二)",
-      "ETD Date/Time": "20261029/1030"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0015-085E",
-      "Port Calling": "OMSOH B",
-      "ETA Date/Time": "20261107/0630 (六)",
-      "ETD Date/Time": "20261109/0250"
-    },
     {
       "Line": "OGME",
       "Voyage": "0015-085E",

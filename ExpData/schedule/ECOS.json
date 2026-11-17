@@ -1,71 +1,8 @@
 {
   "scode": "ECOS",
   "last_updated": "2026-11-17",
-  "total_records": 26,
+  "total_records": 17,
   "records": [
-    {
-      "Line": "CES",
-      "Voyage": "0816-003E",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20260904/1830 (五)",
-      "ETD Date/Time": "20260906/1400"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0830-004W",
-      "Port Calling": "CNXGA",
-      "ETA Date/Time": "20260913/0450 (日)",
-      "ETD Date/Time": "20260914/0818"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0830-004W",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20260919/0240 (六)",
-      "ETD Date/Time": "20260920/0600"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0830-004W",
-      "Port Calling": "CNSHG",
-      "ETA Date/Time": "20260929/1730 (二)",
-      "ETD Date/Time": "20260930/2300"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0830-004W",
-      "Port Calling": "TWTPE",
-      "ETA Date/Time": "20261002/0536 (五)",
-      "ETD Date/Time": "20261002/2148"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0830-004W",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20261007/1057 (三)",
-      "ETD Date/Time": "20261008/1010"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0830-004W",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20261012/2130 (一)",
-      "ETD Date/Time": "20261013/1225"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0830-004W",
-      "Port Calling": "LKCMB",
-      "ETA Date/Time": "20261017/1230 (六)",
-      "ETD Date/Time": "20261018/1542"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0830-004E",
-      "Port Calling": "BEANW",
-      "ETA Date/Time": "20261110/0524 (二)",
-      "ETD Date/Time": "20261111/1300"
-    },
     {
       "Line": "CES",
       "Voyage": "0830-004E",

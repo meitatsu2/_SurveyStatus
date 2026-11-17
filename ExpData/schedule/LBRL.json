@@ -1,64 +1,8 @@
 {
   "scode": "LBRL",
   "last_updated": "2026-11-17",
-  "total_records": 22,
+  "total_records": 14,
   "records": [
-    {
-      "Line": "WSA",
-      "Voyage": "0795-071E",
-      "Port Calling": "CNSHG",
-      "ETA Date/Time": "20260824/2000 (一)",
-      "ETD Date/Time": "20260825/1630"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0795-071E",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20260906/0124 (日)",
-      "ETD Date/Time": "20260906/2354"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0795-071W",
-      "Port Calling": "MXMZO",
-      "ETA Date/Time": "20260922/2052 (二)",
-      "ETD Date/Time": "20260925/0957"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0795-071W",
-      "Port Calling": "PABBA",
-      "ETA Date/Time": "20260930/0250 (三)",
-      "ETD Date/Time": "20260930/2120"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0795-071W",
-      "Port Calling": "COBVT",
-      "ETA Date/Time": "20261002/0848 (五)",
-      "ETD Date/Time": "20261004/0750"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0795-071W",
-      "Port Calling": "PECAL",
-      "ETA Date/Time": "20261007/0930 (三)",
-      "ETD Date/Time": "20261008/2125"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0795-071W",
-      "Port Calling": "CLVAL",
-      "ETA Date/Time": "20261012/0818 (一)",
-      "ETD Date/Time": "20261013/0112"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0809-072E",
-      "Port Calling": "HKHKG",
-      "ETA Date/Time": "20261110/0540 (二)",
-      "ETD Date/Time": "20261111/2230"
-    },
     {
       "Line": "WSA",
       "Voyage": "0809-072E",

@@ -1,64 +1,8 @@
 {
   "scode": "EAGL",
   "last_updated": "2026-11-17",
-  "total_records": 26,
+  "total_records": 18,
   "records": [
-    {
-      "Line": "TPN",
-      "Voyage": "0486-197E",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20260822/2245 (六)",
-      "ETD Date/Time": "20260823/1115"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0486-197W",
-      "Port Calling": "CAVCR",
-      "ETA Date/Time": "20260906/0542 (日)",
-      "ETD Date/Time": "20260910/0100"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0486-197W",
-      "Port Calling": "USTCM",
-      "ETA Date/Time": "20260910/1536 (四)",
-      "ETD Date/Time": "20260913/0215"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0486-197W",
-      "Port Calling": "JPTYO",
-      "ETA Date/Time": "20260925/1653 (五)",
-      "ETD Date/Time": "20260926/2155"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0486-197W",
-      "Port Calling": "JPOSK",
-      "ETA Date/Time": "20260927/2324 (日)",
-      "ETD Date/Time": "20260928/1610"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0486-197W",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20261002/0832 (五)",
-      "ETD Date/Time": "20261003/0743"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0486-197W",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20261005/0715 (一)",
-      "ETD Date/Time": "20261006/1045"
-    },
-    {
-      "Line": "WFS",
-      "Voyage": "1272-198S",
-      "Port Calling": "CNZOS",
-      "ETA Date/Time": "20261007/1200 (三)",
-      "ETD Date/Time": "20261119/1200"
-    },
     {
       "Line": "HKH",
       "Voyage": "0861-199S",

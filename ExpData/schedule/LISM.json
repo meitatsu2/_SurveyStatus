@@ -1,78 +1,8 @@
 {
   "scode": "LISM",
   "last_updated": "2026-11-17",
-  "total_records": 25,
+  "total_records": 15,
   "records": [
-    {
-      "Line": "WSA",
-      "Voyage": "0799-075E",
-      "Port Calling": "HKHKG",
-      "ETA Date/Time": "20260901/1215 (二)",
-      "ETD Date/Time": "20260903/1010"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0799-075E",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20260907/0518 (一)",
-      "ETD Date/Time": "20260908/2220"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0799-075E",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20260909/2250 (三)",
-      "ETD Date/Time": "20260910/2125"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0799-075E",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20260917/2130 (四)",
-      "ETD Date/Time": "20260919/0618"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0799-075E",
-      "Port Calling": "CNNBO B",
-      "ETA Date/Time": "20260922/2112 (二)",
-      "ETD Date/Time": "20260923/0806"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0799-075W",
-      "Port Calling": "MXMZO",
-      "ETA Date/Time": "20261012/2050 (一)",
-      "ETD Date/Time": "20261015/0447"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0799-075W",
-      "Port Calling": "PABBA",
-      "ETA Date/Time": "20261020/1300 (二)",
-      "ETD Date/Time": "20261021/1200"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0799-075W",
-      "Port Calling": "COBVT",
-      "ETA Date/Time": "20261023/0212 (五)",
-      "ETD Date/Time": "20261024/1400"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0799-075W",
-      "Port Calling": "PECAL",
-      "ETA Date/Time": "20261028/0413 (三)",
-      "ETD Date/Time": "20261029/0606"
-    },
-    {
-      "Line": "WSA",
-      "Voyage": "0799-075W",
-      "Port Calling": "CLVAL",
-      "ETA Date/Time": "20261102/0548 (一)",
-      "ETD Date/Time": "20261102/2340"
-    },
     {
       "Line": "WSA",
       "Voyage": "0813-076E",

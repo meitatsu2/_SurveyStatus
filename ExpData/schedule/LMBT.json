@@ -1,78 +1,8 @@
 {
   "scode": "LMBT",
   "last_updated": "2026-11-17",
-  "total_records": 33,
+  "total_records": 23,
   "records": [
-    {
-      "Line": "OGME",
-      "Voyage": "0013-076W",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20260819/1015 (三)",
-      "ETD Date/Time": "20260819/2100"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0013-076W",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20260821/1550 (五)",
-      "ETD Date/Time": "20260822/1755"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0013-076W",
-      "Port Calling": "CNXHK",
-      "ETA Date/Time": "20260824/1420 (一)",
-      "ETD Date/Time": "20260825/0755"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0013-076W",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20260830/1605 (日)",
-      "ETD Date/Time": "20260831/0000"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0013-076E",
-      "Port Calling": "AEKFK",
-      "ETA Date/Time": "20260923/2006 (三)",
-      "ETD Date/Time": "20260926/1900"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0013-076E",
-      "Port Calling": "OMSOH",
-      "ETA Date/Time": "20260930/0626 (三)",
-      "ETD Date/Time": "20261001/0830"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0013-076E",
-      "Port Calling": "MYPKL",
-      "ETA Date/Time": "20261012/0540 (一)",
-      "ETD Date/Time": "20261013/1230"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0013-076E",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20261020/0700 (二)",
-      "ETD Date/Time": "20261022/1130"
-    },
-    {
-      "Line": "NEAX",
-      "Voyage": "0077S",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20261028/0931 (三)",
-      "ETD Date/Time": "20261029/0045"
-    },
-    {
-      "Line": "OGME",
-      "Voyage": "0013-076E",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20261030/0410 (五)",
-      "ETD Date/Time": "20261031/1720"
-    },
     {
       "Line": "NEAX",
       "Voyage": "0077N",
