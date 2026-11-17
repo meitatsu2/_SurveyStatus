@@ -1,0 +1,658 @@
+{
+  "scode": "COZY",
+  "last_updated": "2026-11-17",
+  "total_records": 93,
+  "records": [
+    {
+      "Line": "GPM",
+      "Voyage": "0144-104W",
+      "Port Calling": "ROCNS",
+      "ETA Date/Time": "20260817/0710 (一)",
+      "ETD Date/Time": "20260817/2045"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0144-104W",
+      "Port Calling": "BGVKN",
+      "ETA Date/Time": "20260818/0834 (二)",
+      "ETD Date/Time": "20260818/1901"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0144-104W",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20260819/1540 (三)",
+      "ETD Date/Time": "20260819/1700"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0146-105E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20260821/0815 (五)",
+      "ETD Date/Time": "20260822/2300"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0146-105E",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20260824/1800 (一)",
+      "ETD Date/Time": "20260824/1900"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0146-105W",
+      "Port Calling": "GEPTO",
+      "ETA Date/Time": "20260830/1218 (日)",
+      "ETD Date/Time": "20260901/1320"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0146-105W",
+      "Port Calling": "ROCNS",
+      "ETA Date/Time": "20260903/1824 (四)",
+      "ETD Date/Time": "20260904/1445"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0146-105W",
+      "Port Calling": "BGVKN",
+      "ETA Date/Time": "20260905/0006 (六)",
+      "ETD Date/Time": "20260905/1600"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0146-105W",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20260906/0725 (日)",
+      "ETD Date/Time": "20260906/0840"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0148-106E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20260907/2210 (一)",
+      "ETD Date/Time": "20260909/2230"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0148-106E",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20260911/1600 (五)",
+      "ETD Date/Time": "20260911/1720"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0148-106W",
+      "Port Calling": "GEPTO",
+      "ETA Date/Time": "20260917/0448 (四)",
+      "ETD Date/Time": "20260918/0550"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0148-106W",
+      "Port Calling": "ROCNS",
+      "ETA Date/Time": "20260921/0100 (一)",
+      "ETD Date/Time": "20260922/0430"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0148-106W",
+      "Port Calling": "BGVKN",
+      "ETA Date/Time": "20260922/1336 (二)",
+      "ETD Date/Time": "20260923/0100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0148-106W",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20260923/2100 (三)",
+      "ETD Date/Time": "20260923/2200"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0150-107E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20260926/0055 (六)",
+      "ETD Date/Time": "20260927/2312"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0150-107E",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20260929/2025 (二)",
+      "ETD Date/Time": "20260930/1655"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0150-107E",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20261001/0500 (四)",
+      "ETD Date/Time": "20261001/0900"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0150-107W",
+      "Port Calling": "GEPTO",
+      "ETA Date/Time": "20261005/1748 (一)",
+      "ETD Date/Time": "20261007/0250"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0150-107W",
+      "Port Calling": "BGVKN",
+      "ETA Date/Time": "20261009/1424 (五)",
+      "ETD Date/Time": "20261010/0420"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0150-107W",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20261010/1855 (六)",
+      "ETD Date/Time": "20261010/2020"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0152-108E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261013/0835 (二)",
+      "ETD Date/Time": "20261015/1520"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0152-108E",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20261017/0225 (六)",
+      "ETD Date/Time": "20261017/0400"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0152-108W",
+      "Port Calling": "GEPTO",
+      "ETA Date/Time": "20261020/0012 (二)",
+      "ETD Date/Time": "20261021/0230"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0152-108W",
+      "Port Calling": "ROCNS",
+      "ETA Date/Time": "20261024/0148 (六)",
+      "ETD Date/Time": "20261025/0430"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0152-108W",
+      "Port Calling": "BGVKN",
+      "ETA Date/Time": "20261025/1442 (日)",
+      "ETD Date/Time": "20261026/0600"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0152-108W",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20261026/2055 (一)",
+      "ETD Date/Time": "20261026/2210"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0154-109E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261029/0910 (四)",
+      "ETD Date/Time": "20261031/2220"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0154-109E",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20261102/1510 (一)",
+      "ETD Date/Time": "20261102/1645"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0154-109W",
+      "Port Calling": "GEPTO",
+      "ETA Date/Time": "20261111/1430 (三)",
+      "ETD Date/Time": "20261112/1330"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0154-109W",
+      "Port Calling": "ROCNS",
+      "ETA Date/Time": "20261117/1800 (二)",
+      "ETD Date/Time": "20261118/1600"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0154-109W",
+      "Port Calling": "BGVKN",
+      "ETA Date/Time": "20261119/0000 (四)",
+      "ETD Date/Time": "20261119/2100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0154-109W",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20261120/1200 (五)",
+      "ETD Date/Time": "20261120/2200"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0156-110E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261122/0700 (日)",
+      "ETD Date/Time": "20261124/0800"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0156-110E",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20261125/0300 (三)",
+      "ETD Date/Time": "20261126/0100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0156-110W",
+      "Port Calling": "GEPTO",
+      "ETA Date/Time": "20261128/1800 (六)",
+      "ETD Date/Time": "20261130/2100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0156-110W",
+      "Port Calling": "ROCNS",
+      "ETA Date/Time": "20261203/1300 (四)",
+      "ETD Date/Time": "20261204/1400"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0156-110W",
+      "Port Calling": "BGVKN",
+      "ETA Date/Time": "20261205/2200 (六)",
+      "ETD Date/Time": "20261206/0600"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0156-110W",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20261207/2000 (一)",
+      "ETD Date/Time": "20261208/0500"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0158-111E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261210/0600 (四)",
+      "ETD Date/Time": "20261211/2300"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0158-111E",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20261213/0300 (日)",
+      "ETD Date/Time": "20261214/0100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0158-111W",
+      "Port Calling": "GEPTO",
+      "ETA Date/Time": "20261215/1800 (二)",
+      "ETD Date/Time": "20261217/2100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0158-111W",
+      "Port Calling": "ROCNS",
+      "ETA Date/Time": "20261220/1300 (日)",
+      "ETD Date/Time": "20261221/1400"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0158-111W",
+      "Port Calling": "BGVKN",
+      "ETA Date/Time": "20261222/2200 (二)",
+      "ETD Date/Time": "20261223/0600"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0158-111W",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20261224/2000 (四)",
+      "ETD Date/Time": "20261225/0500"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0160-112E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261226/0600 (六)",
+      "ETD Date/Time": "20261228/2300"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0160-112E",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20261229/0300 (二)",
+      "ETD Date/Time": "20261230/0100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0160-112W",
+      "Port Calling": "GEPTO",
+      "ETA Date/Time": "20270101/1800 (五)",
+      "ETD Date/Time": "20270103/2100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0160-112W",
+      "Port Calling": "ROCNS",
+      "ETA Date/Time": "20270106/1300 (三)",
+      "ETD Date/Time": "20270107/1400"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0160-112W",
+      "Port Calling": "BGVKN",
+      "ETA Date/Time": "20270108/2200 (五)",
+      "ETD Date/Time": "20270109/0600"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0160-112W",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20270109/2000 (六)",
+      "ETD Date/Time": "20270110/0500"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0162-113E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270111/0600 (一)",
+      "ETD Date/Time": "20270113/2300"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0162-113E",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20270114/0300 (四)",
+      "ETD Date/Time": "20270115/0100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0162-113W",
+      "Port Calling": "GEPTO",
+      "ETA Date/Time": "20270117/1800 (日)",
+      "ETD Date/Time": "20270119/2100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0162-113W",
+      "Port Calling": "ROCNS",
+      "ETA Date/Time": "20270122/1300 (五)",
+      "ETD Date/Time": "20270123/1400"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0162-113W",
+      "Port Calling": "BGVKN",
+      "ETA Date/Time": "20270124/2200 (日)",
+      "ETD Date/Time": "20270125/0600"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0162-113W",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20270125/2000 (一)",
+      "ETD Date/Time": "20270126/0500"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0164-114E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270127/0600 (三)",
+      "ETD Date/Time": "20270128/2300"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0164-114E",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20270130/0300 (六)",
+      "ETD Date/Time": "20270131/0100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0164-114W",
+      "Port Calling": "GEPTO",
+      "ETA Date/Time": "20270201/1800 (一)",
+      "ETD Date/Time": "20270203/2100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0164-114W",
+      "Port Calling": "ROCNS",
+      "ETA Date/Time": "20270205/1300 (五)",
+      "ETD Date/Time": "20270206/1400"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0164-114W",
+      "Port Calling": "BGVKN",
+      "ETA Date/Time": "20270206/2200 (六)",
+      "ETD Date/Time": "20270208/0600"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0164-114W",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20270208/2000 (一)",
+      "ETD Date/Time": "20270209/0500"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0166-115E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270210/0600 (三)",
+      "ETD Date/Time": "20270212/2300"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0166-115E",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20270213/0300 (六)",
+      "ETD Date/Time": "20270214/0100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0166-115W",
+      "Port Calling": "GEPTO",
+      "ETA Date/Time": "20270215/1800 (一)",
+      "ETD Date/Time": "20270217/2100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0166-115W",
+      "Port Calling": "ROCNS",
+      "ETA Date/Time": "20270219/1300 (五)",
+      "ETD Date/Time": "20270220/1400"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0166-115W",
+      "Port Calling": "BGVKN",
+      "ETA Date/Time": "20270220/2200 (六)",
+      "ETD Date/Time": "20270222/0600"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0166-115W",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20270222/2000 (一)",
+      "ETD Date/Time": "20270223/0500"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0168-116E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270224/0600 (三)",
+      "ETD Date/Time": "20270226/2300"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0168-116E",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20270227/0300 (六)",
+      "ETD Date/Time": "20270228/0100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0168-116W",
+      "Port Calling": "GEPTO",
+      "ETA Date/Time": "20270301/1800 (一)",
+      "ETD Date/Time": "20270303/2100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0168-116W",
+      "Port Calling": "ROCNS",
+      "ETA Date/Time": "20270305/1300 (五)",
+      "ETD Date/Time": "20270306/1400"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0168-116W",
+      "Port Calling": "BGVKN",
+      "ETA Date/Time": "20270306/2200 (六)",
+      "ETD Date/Time": "20270308/0600"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0168-116W",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20270308/2000 (一)",
+      "ETD Date/Time": "20270309/0500"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0170-117E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270310/0600 (三)",
+      "ETD Date/Time": "20270312/2300"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0170-117E",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20270313/0300 (六)",
+      "ETD Date/Time": "20270314/0100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0170-117W",
+      "Port Calling": "GEPTO",
+      "ETA Date/Time": "20270315/1800 (一)",
+      "ETD Date/Time": "20270317/2100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0170-117W",
+      "Port Calling": "ROCNS",
+      "ETA Date/Time": "20270319/1300 (五)",
+      "ETD Date/Time": "20270320/1400"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0170-117W",
+      "Port Calling": "BGVKN",
+      "ETA Date/Time": "20270320/2200 (六)",
+      "ETD Date/Time": "20270322/0600"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0170-117W",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20270322/2000 (一)",
+      "ETD Date/Time": "20270323/0500"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0172-118E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270324/0600 (三)",
+      "ETD Date/Time": "20270326/2300"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0172-118E",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20270327/0300 (六)",
+      "ETD Date/Time": "20270328/0100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0172-118W",
+      "Port Calling": "GEPTO",
+      "ETA Date/Time": "20270329/1800 (一)",
+      "ETD Date/Time": "20270331/2100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0172-118W",
+      "Port Calling": "ROCNS",
+      "ETA Date/Time": "20270402/1300 (五)",
+      "ETD Date/Time": "20270403/1400"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0172-118W",
+      "Port Calling": "BGVKN",
+      "ETA Date/Time": "20270403/2200 (六)",
+      "ETD Date/Time": "20270405/0600"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0172-118W",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20270405/2000 (一)",
+      "ETD Date/Time": "20270406/0500"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0174-119E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270407/0600 (三)",
+      "ETD Date/Time": "20270409/2300"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0174-119E",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20270410/0300 (六)",
+      "ETD Date/Time": "20270411/0100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0174-119W",
+      "Port Calling": "GEPTO",
+      "ETA Date/Time": "20270412/1800 (一)",
+      "ETD Date/Time": "20270414/2100"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0174-119W",
+      "Port Calling": "ROCNS",
+      "ETA Date/Time": "20270416/1300 (五)",
+      "ETD Date/Time": "20270417/1400"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0174-119W",
+      "Port Calling": "BGVKN",
+      "ETA Date/Time": "20270417/2200 (六)",
+      "ETD Date/Time": "20270419/0600"
+    },
+    {
+      "Line": "GPM",
+      "Voyage": "0174-119W",
+      "Port Calling": "TRBOP",
+      "ETA Date/Time": "20270419/2000 (一)",
+      "ETD Date/Time": "20270420/0500"
+    }
+  ]
+}

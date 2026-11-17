@@ -1,0 +1,644 @@
+{
+  "scode": "BOMY",
+  "last_updated": "2026-11-17",
+  "total_records": 91,
+  "records": [
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093A",
+      "Port Calling": "JPNGY",
+      "ETA Date/Time": "20260817/1824 (一)",
+      "ETD Date/Time": "20260818/0600"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093A",
+      "Port Calling": "JPKBE",
+      "ETA Date/Time": "20260819/0818 (三)",
+      "ETD Date/Time": "20260819/2015"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20260822/0824 (六)",
+      "ETD Date/Time": "20260822/1624"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20260822/2336 (六)",
+      "ETD Date/Time": "20260823/1042"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093A",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260824/0025 (一)",
+      "ETD Date/Time": "20260825/0322"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093A",
+      "Port Calling": "CNXTH",
+      "ETA Date/Time": "20260826/0640 (三)",
+      "ETD Date/Time": "20260826/1705"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093A",
+      "Port Calling": "IDSUB",
+      "ETA Date/Time": "20260831/1855 (一)",
+      "ETD Date/Time": "20260901/1600"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093A",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20260902/1640 (三)",
+      "ETD Date/Time": "20260903/2117"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093A",
+      "Port Calling": "MYPTP",
+      "ETA Date/Time": "20260905/1848 (六)",
+      "ETD Date/Time": "20260906/0342"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093A",
+      "Port Calling": "MYJHR",
+      "ETA Date/Time": "20260906/1045 (日)",
+      "ETD Date/Time": "20260907/0045"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260911/0910 (五)",
+      "ETD Date/Time": "20260912/1218"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093B",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20260913/1155 (日)",
+      "ETD Date/Time": "20260914/0735"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093B",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20260914/1336 (一)",
+      "ETD Date/Time": "20260915/1130"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093B",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20260920/0214 (日)",
+      "ETD Date/Time": "20260921/0059"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093B",
+      "Port Calling": "IDSRG",
+      "ETA Date/Time": "20260921/2046 (一)",
+      "ETD Date/Time": "20260922/2222"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093B",
+      "Port Calling": "IDSUB",
+      "ETA Date/Time": "20260923/1415 (三)",
+      "ETD Date/Time": "20260924/0741"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093B",
+      "Port Calling": "TWKSG B",
+      "ETA Date/Time": "20260929/0800 (二)",
+      "ETD Date/Time": "20260930/1622"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1206-093B",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261001/0630 (四)",
+      "ETD Date/Time": "20261001/1830"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094A",
+      "Port Calling": "JPYKH",
+      "ETA Date/Time": "20261004/1730 (日)",
+      "ETD Date/Time": "20261005/0440"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094A",
+      "Port Calling": "JPTYO",
+      "ETA Date/Time": "20261005/0700 (一)",
+      "ETD Date/Time": "20261006/0609"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094A",
+      "Port Calling": "JPSMZ",
+      "ETA Date/Time": "20261006/2042 (二)",
+      "ETD Date/Time": "20261007/1545"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094A",
+      "Port Calling": "JPNGY",
+      "ETA Date/Time": "20261008/0218 (四)",
+      "ETD Date/Time": "20261008/1520"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094A",
+      "Port Calling": "JPKBE",
+      "ETA Date/Time": "20261009/0736 (五)",
+      "ETD Date/Time": "20261009/2330"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261012/0836 (一)",
+      "ETD Date/Time": "20261012/1648"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261012/2306 (一)",
+      "ETD Date/Time": "20261013/1712"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094A",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261014/0235 (三)",
+      "ETD Date/Time": "20261015/0310"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094A",
+      "Port Calling": "CNXTH",
+      "ETA Date/Time": "20261016/2305 (五)",
+      "ETD Date/Time": "20261017/1045"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094A",
+      "Port Calling": "IDSUB",
+      "ETA Date/Time": "20261022/1955 (四)",
+      "ETD Date/Time": "20261023/1545"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094A",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20261025/1709 (日)",
+      "ETD Date/Time": "20261026/1757"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094A",
+      "Port Calling": "MYPTP",
+      "ETA Date/Time": "20261028/1729 (三)",
+      "ETD Date/Time": "20261029/0633"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094A",
+      "Port Calling": "MYJHR",
+      "ETA Date/Time": "20261030/1500 (五)",
+      "ETD Date/Time": "20261031/0739"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261104/1045 (三)",
+      "ETD Date/Time": "20261105/1339"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094B",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261106/2057 (五)",
+      "ETD Date/Time": "20261108/0505"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094B",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20261108/0736 (日)",
+      "ETD Date/Time": "20261109/0430"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094B",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20261115/0625 (日)",
+      "ETD Date/Time": "20261116/0538"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094B",
+      "Port Calling": "IDSRG",
+      "ETA Date/Time": "20261118/0400 (三)",
+      "ETD Date/Time": "20261119/0400"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094B",
+      "Port Calling": "IDSUB",
+      "ETA Date/Time": "20261119/1800 (四)",
+      "ETD Date/Time": "20261120/1800"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094B",
+      "Port Calling": "TWKSG B",
+      "ETA Date/Time": "20261125/1400 (三)",
+      "ETD Date/Time": "20261126/2200"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1214-094B",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261127/1200 (五)",
+      "ETD Date/Time": "20261127/2100"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095A",
+      "Port Calling": "JPTYO",
+      "ETA Date/Time": "20261130/1900 (一)",
+      "ETD Date/Time": "20261201/1500"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095A",
+      "Port Calling": "JPYKH",
+      "ETA Date/Time": "20261201/1800 (二)",
+      "ETD Date/Time": "20261202/0400"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095A",
+      "Port Calling": "JPSMZ",
+      "ETA Date/Time": "20261202/1400 (三)",
+      "ETD Date/Time": "20261203/0200"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095A",
+      "Port Calling": "JPNGY",
+      "ETA Date/Time": "20261203/1100 (四)",
+      "ETD Date/Time": "20261203/2000"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095A",
+      "Port Calling": "JPKBE",
+      "ETA Date/Time": "20261204/1600 (五)",
+      "ETD Date/Time": "20261205/1400"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261208/0000 (二)",
+      "ETD Date/Time": "20261208/0900"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261208/1600 (二)",
+      "ETD Date/Time": "20261209/0300"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095A",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261209/1400 (三)",
+      "ETD Date/Time": "20261210/2200"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095A",
+      "Port Calling": "CNXTH",
+      "ETA Date/Time": "20261211/2100 (五)",
+      "ETD Date/Time": "20261212/0800"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095A",
+      "Port Calling": "IDSUB",
+      "ETA Date/Time": "20261216/2000 (三)",
+      "ETD Date/Time": "20261217/2000"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095A",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20261218/2100 (五)",
+      "ETD Date/Time": "20261219/2300"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095A",
+      "Port Calling": "MYPTP",
+      "ETA Date/Time": "20261221/1000 (一)",
+      "ETD Date/Time": "20261222/0530"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095A",
+      "Port Calling": "MYJHR",
+      "ETA Date/Time": "20261222/1100 (二)",
+      "ETD Date/Time": "20261222/2100"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261227/2200 (日)",
+      "ETD Date/Time": "20261228/1800"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095B",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261229/1600 (二)",
+      "ETD Date/Time": "20261230/0400"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095B",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20261230/0700 (三)",
+      "ETD Date/Time": "20261230/2100"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095B",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20270105/0600 (二)",
+      "ETD Date/Time": "20270106/0000"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095B",
+      "Port Calling": "IDSRG",
+      "ETA Date/Time": "20270106/2000 (三)",
+      "ETD Date/Time": "20270107/1400"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095B",
+      "Port Calling": "IDSUB",
+      "ETA Date/Time": "20270108/0200 (五)",
+      "ETD Date/Time": "20270109/0000"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095B",
+      "Port Calling": "TWKSG B",
+      "ETA Date/Time": "20270114/1630 (四)",
+      "ETD Date/Time": "20270115/1530"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095B",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20270116/0430 (六)",
+      "ETD Date/Time": "20270116/1200"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096A",
+      "Port Calling": "JPTYO",
+      "ETA Date/Time": "20270116/1600 (六)",
+      "ETD Date/Time": "20270117/0700"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096A",
+      "Port Calling": "JPYKH",
+      "ETA Date/Time": "20270117/1030 (日)",
+      "ETD Date/Time": "20270117/1900"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096A",
+      "Port Calling": "JPSMZ",
+      "ETA Date/Time": "20270118/0900 (一)",
+      "ETD Date/Time": "20270118/1900"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096A",
+      "Port Calling": "JPNGY",
+      "ETA Date/Time": "20270119/0430 (二)",
+      "ETD Date/Time": "20270119/1600"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095B",
+      "Port Calling": "JPTYO",
+      "ETA Date/Time": "20270119/1600 (二)",
+      "ETD Date/Time": "20270120/0700"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096A",
+      "Port Calling": "JPKBE",
+      "ETA Date/Time": "20270120/0500 (三)",
+      "ETD Date/Time": "20270120/2000"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095B",
+      "Port Calling": "JPYKH",
+      "ETA Date/Time": "20270120/1030 (三)",
+      "ETD Date/Time": "20270120/1900"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095B",
+      "Port Calling": "JPSMZ",
+      "ETA Date/Time": "20270121/0900 (四)",
+      "ETD Date/Time": "20270121/1900"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095B",
+      "Port Calling": "JPNGY",
+      "ETA Date/Time": "20270122/0430 (五)",
+      "ETD Date/Time": "20270122/1600"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1222-095B",
+      "Port Calling": "JPKBE",
+      "ETA Date/Time": "20270123/0500 (六)",
+      "ETD Date/Time": "20270123/2000"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20270123/0830 (六)",
+      "ETD Date/Time": "20270123/2000"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20270124/0300 (日)",
+      "ETD Date/Time": "20270124/1900"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096A",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270125/0230 (一)",
+      "ETD Date/Time": "20270125/2230"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096A",
+      "Port Calling": "CNXTH",
+      "ETA Date/Time": "20270126/1830 (二)",
+      "ETD Date/Time": "20270127/0930"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096A",
+      "Port Calling": "IDSUB",
+      "ETA Date/Time": "20270131/2000 (日)",
+      "ETD Date/Time": "20270201/2000"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096A",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20270202/2100 (二)",
+      "ETD Date/Time": "20270203/2300"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096A",
+      "Port Calling": "MYPTP",
+      "ETA Date/Time": "20270205/1000 (五)",
+      "ETD Date/Time": "20270206/0530"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096A",
+      "Port Calling": "MYJHR",
+      "ETA Date/Time": "20270206/1100 (六)",
+      "ETD Date/Time": "20270206/2100"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270211/2200 (四)",
+      "ETD Date/Time": "20270212/1800"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096B",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20270213/1600 (六)",
+      "ETD Date/Time": "20270214/0400"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096B",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20270214/0700 (日)",
+      "ETD Date/Time": "20270214/2100"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096B",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20270220/0600 (六)",
+      "ETD Date/Time": "20270221/0000"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096B",
+      "Port Calling": "IDSRG",
+      "ETA Date/Time": "20270221/2000 (日)",
+      "ETD Date/Time": "20270222/1400"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096B",
+      "Port Calling": "IDSUB",
+      "ETA Date/Time": "20270223/0200 (二)",
+      "ETD Date/Time": "20270224/0000"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096B",
+      "Port Calling": "TWKSG B",
+      "ETA Date/Time": "20270301/1630 (一)",
+      "ETD Date/Time": "20270302/1530"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096B",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20270303/0430 (三)",
+      "ETD Date/Time": "20270303/1200"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096B",
+      "Port Calling": "JPTYO",
+      "ETA Date/Time": "20270306/1600 (六)",
+      "ETD Date/Time": "20270307/0700"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096B",
+      "Port Calling": "JPYKH",
+      "ETA Date/Time": "20270307/1030 (日)",
+      "ETD Date/Time": "20270307/1900"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096B",
+      "Port Calling": "JPSMZ",
+      "ETA Date/Time": "20270308/0900 (一)",
+      "ETD Date/Time": "20270308/1900"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096B",
+      "Port Calling": "JPNGY",
+      "ETA Date/Time": "20270309/0430 (二)",
+      "ETD Date/Time": "20270309/1600"
+    },
+    {
+      "Line": "JPI",
+      "Voyage": "1230-096B",
+      "Port Calling": "JPKBE",
+      "ETA Date/Time": "20270310/0500 (三)",
+      "ETD Date/Time": "20270310/2000"
+    }
+  ]
+}

@@ -1,0 +1,812 @@
+{
+  "scode": "CHMP",
+  "last_updated": "2026-11-17",
+  "total_records": 115,
+  "records": [
+    {
+      "Line": "ADL",
+      "Voyage": "0750-037E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20260817/0815 (一)",
+      "ETD Date/Time": "20260818/1530"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0750-037W",
+      "Port Calling": "CYLMA",
+      "ETA Date/Time": "20260820/1248 (四)",
+      "ETD Date/Time": "20260820/2300"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0750-037W",
+      "Port Calling": "LBBRU",
+      "ETA Date/Time": "20260821/1300 (五)",
+      "ETD Date/Time": "20260821/2300"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0750-037W",
+      "Port Calling": "EGAKI",
+      "ETA Date/Time": "20260823/0145 (日)",
+      "ETD Date/Time": "20260824/0900"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0750-037W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20260827/0810 (四)",
+      "ETD Date/Time": "20260828/1240"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0753-038E",
+      "Port Calling": "SIKPR",
+      "ETA Date/Time": "20260831/1306 (一)",
+      "ETD Date/Time": "20260831/2000"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0753-038E",
+      "Port Calling": "ITTRS",
+      "ETA Date/Time": "20260901/0654 (二)",
+      "ETD Date/Time": "20260901/1822"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0753-038E",
+      "Port Calling": "ITVNS",
+      "ETA Date/Time": "20260904/1148 (五)",
+      "ETD Date/Time": "20260904/2315"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0753-038E",
+      "Port Calling": "ITRVN",
+      "ETA Date/Time": "20260905/0930 (六)",
+      "ETD Date/Time": "20260905/2148"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0753-038E",
+      "Port Calling": "ITANC",
+      "ETA Date/Time": "20260906/1048 (日)",
+      "ETD Date/Time": "20260906/2000"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0753-038E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20260910/0020 (四)",
+      "ETD Date/Time": "20260911/0710"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0753-038W",
+      "Port Calling": "CYLMA",
+      "ETA Date/Time": "20260913/1706 (日)",
+      "ETD Date/Time": "20260914/0930"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0753-038W",
+      "Port Calling": "LBBRU",
+      "ETA Date/Time": "20260914/1930 (一)",
+      "ETD Date/Time": "20260915/0700"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0753-038W",
+      "Port Calling": "EGAKI",
+      "ETA Date/Time": "20260916/0935 (三)",
+      "ETD Date/Time": "20260917/1515"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0753-038W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20260919/1645 (六)",
+      "ETD Date/Time": "20260920/2205"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0756-039E",
+      "Port Calling": "SIKPR",
+      "ETA Date/Time": "20260924/0036 (四)",
+      "ETD Date/Time": "20260924/1600"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0756-039E",
+      "Port Calling": "ITTRS",
+      "ETA Date/Time": "20260925/0730 (五)",
+      "ETD Date/Time": "20260925/1320"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0756-039E",
+      "Port Calling": "ITVNS",
+      "ETA Date/Time": "20260926/0807 (六)",
+      "ETD Date/Time": "20260927/2125"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0756-039E",
+      "Port Calling": "ITRVN",
+      "ETA Date/Time": "20260928/0812 (一)",
+      "ETD Date/Time": "20260928/2330"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0756-039E",
+      "Port Calling": "ITANC",
+      "ETA Date/Time": "20260930/0648 (三)",
+      "ETD Date/Time": "20260930/1700"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0756-039E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261003/1910 (六)",
+      "ETD Date/Time": "20261004/1520"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0756-039W",
+      "Port Calling": "CYLMA",
+      "ETA Date/Time": "20261007/1300 (三)",
+      "ETD Date/Time": "20261008/0512"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0756-039W",
+      "Port Calling": "LBBRU",
+      "ETA Date/Time": "20261008/2130 (四)",
+      "ETD Date/Time": "20261009/1200"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0756-039W",
+      "Port Calling": "EGAKI",
+      "ETA Date/Time": "20261010/1400 (六)",
+      "ETD Date/Time": "20261010/2215"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0756-039W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261015/1454 (四)",
+      "ETD Date/Time": "20261016/1400"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0759-040E",
+      "Port Calling": "SIKPR",
+      "ETA Date/Time": "20261023/0830 (五)",
+      "ETD Date/Time": "20261023/1956"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0759-040E",
+      "Port Calling": "ITTRS",
+      "ETA Date/Time": "20261023/2200 (五)",
+      "ETD Date/Time": "20261024/1145"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0759-040E",
+      "Port Calling": "ITVNS",
+      "ETA Date/Time": "20261025/0800 (日)",
+      "ETD Date/Time": "20261026/1900"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0759-040E",
+      "Port Calling": "ITRVN",
+      "ETA Date/Time": "20261027/0430 (二)",
+      "ETD Date/Time": "20261027/2245"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0759-040E",
+      "Port Calling": "ITANC",
+      "ETA Date/Time": "20261029/0730 (四)",
+      "ETD Date/Time": "20261030/0045"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0759-040E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261104/1425 (三)",
+      "ETD Date/Time": "20261105/2310"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0759-040W",
+      "Port Calling": "CYLMA",
+      "ETA Date/Time": "20261107/1524 (六)",
+      "ETD Date/Time": "20261108/0536"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0759-040W",
+      "Port Calling": "LBBRU",
+      "ETA Date/Time": "20261108/1645 (日)",
+      "ETD Date/Time": "20261109/0800"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0759-040W",
+      "Port Calling": "EGAKI",
+      "ETA Date/Time": "20261110/1212 (二)",
+      "ETD Date/Time": "20261110/2359"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0759-040W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261114/1020 (六)",
+      "ETD Date/Time": "20261116/0030"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0762-041E",
+      "Port Calling": "SIKPR",
+      "ETA Date/Time": "20261119/0700 (四)",
+      "ETD Date/Time": "20261120/0200"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0762-041E",
+      "Port Calling": "ITTRS",
+      "ETA Date/Time": "20261120/0700 (五)",
+      "ETD Date/Time": "20261120/2000"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0762-041E",
+      "Port Calling": "ITVNS",
+      "ETA Date/Time": "20261121/0800 (六)",
+      "ETD Date/Time": "20261122/1000"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0762-041E",
+      "Port Calling": "ITRVN",
+      "ETA Date/Time": "20261122/2000 (日)",
+      "ETD Date/Time": "20261123/1500"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0762-041E",
+      "Port Calling": "ITANC",
+      "ETA Date/Time": "20261124/0300 (二)",
+      "ETD Date/Time": "20261124/2000"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0762-041E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261127/2000 (五)",
+      "ETD Date/Time": "20261129/0700"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0762-041W",
+      "Port Calling": "CYLMA",
+      "ETA Date/Time": "20261201/0200 (二)",
+      "ETD Date/Time": "20261201/2300"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0762-041W",
+      "Port Calling": "LBBRU",
+      "ETA Date/Time": "20261202/1100 (三)",
+      "ETD Date/Time": "20261203/1000"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0762-041W",
+      "Port Calling": "EGAKI",
+      "ETA Date/Time": "20261204/1700 (五)",
+      "ETD Date/Time": "20261205/0800"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0762-041W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261207/1200 (一)",
+      "ETD Date/Time": "20261208/2300"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0765-042E",
+      "Port Calling": "SIKPR",
+      "ETA Date/Time": "20261211/1900 (五)",
+      "ETD Date/Time": "20261212/1400"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0765-042E",
+      "Port Calling": "ITTRS",
+      "ETA Date/Time": "20261215/0400 (二)",
+      "ETD Date/Time": "20261216/0100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0765-042E",
+      "Port Calling": "ITVNS",
+      "ETA Date/Time": "20261216/0900 (三)",
+      "ETD Date/Time": "20261217/1100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0765-042E",
+      "Port Calling": "ITRVN",
+      "ETA Date/Time": "20261217/2000 (四)",
+      "ETD Date/Time": "20261218/2200"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0765-042E",
+      "Port Calling": "ITANC",
+      "ETA Date/Time": "20261219/0800 (六)",
+      "ETD Date/Time": "20261220/0300"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0765-042E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261222/0700 (二)",
+      "ETD Date/Time": "20261224/1200"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0765-042W",
+      "Port Calling": "CYLMA",
+      "ETA Date/Time": "20261226/0730 (六)",
+      "ETD Date/Time": "20261227/0430"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0765-042W",
+      "Port Calling": "LBBRU",
+      "ETA Date/Time": "20261228/1500 (一)",
+      "ETD Date/Time": "20261229/1400"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0765-042W",
+      "Port Calling": "EGAKI",
+      "ETA Date/Time": "20261230/1400 (三)",
+      "ETD Date/Time": "20261231/1400"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0765-042W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270102/1300 (六)",
+      "ETD Date/Time": "20270104/2000"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0768-043E",
+      "Port Calling": "SIKPR",
+      "ETA Date/Time": "20270107/0200 (四)",
+      "ETD Date/Time": "20270108/0100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0768-043E",
+      "Port Calling": "ITTRS",
+      "ETA Date/Time": "20270108/0400 (五)",
+      "ETD Date/Time": "20270109/0100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0768-043E",
+      "Port Calling": "ITVNS",
+      "ETA Date/Time": "20270109/0900 (六)",
+      "ETD Date/Time": "20270110/1100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0768-043E",
+      "Port Calling": "ITRVN",
+      "ETA Date/Time": "20270110/2000 (日)",
+      "ETD Date/Time": "20270111/2200"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0768-043E",
+      "Port Calling": "ITANC",
+      "ETA Date/Time": "20270112/0800 (二)",
+      "ETD Date/Time": "20270113/0300"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0768-043E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270115/0700 (五)",
+      "ETD Date/Time": "20270116/1200"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0768-043W",
+      "Port Calling": "CYLMA",
+      "ETA Date/Time": "20270118/0730 (一)",
+      "ETD Date/Time": "20270119/0430"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0768-043W",
+      "Port Calling": "LBBRU",
+      "ETA Date/Time": "20270119/1500 (二)",
+      "ETD Date/Time": "20270120/1400"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0768-043W",
+      "Port Calling": "EGAKI",
+      "ETA Date/Time": "20270121/1400 (四)",
+      "ETD Date/Time": "20270122/1400"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0768-043W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270124/1300 (日)",
+      "ETD Date/Time": "20270125/2000"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0771-044E",
+      "Port Calling": "SIKPR",
+      "ETA Date/Time": "20270128/0200 (四)",
+      "ETD Date/Time": "20270129/0100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0771-044E",
+      "Port Calling": "ITTRS",
+      "ETA Date/Time": "20270129/0400 (五)",
+      "ETD Date/Time": "20270130/0100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0771-044E",
+      "Port Calling": "ITVNS",
+      "ETA Date/Time": "20270130/0900 (六)",
+      "ETD Date/Time": "20270131/1100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0771-044E",
+      "Port Calling": "ITRVN",
+      "ETA Date/Time": "20270131/2000 (日)",
+      "ETD Date/Time": "20270201/2200"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0771-044E",
+      "Port Calling": "ITANC",
+      "ETA Date/Time": "20270202/0800 (二)",
+      "ETD Date/Time": "20270203/0300"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0771-044E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270205/0700 (五)",
+      "ETD Date/Time": "20270206/1200"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0771-044W",
+      "Port Calling": "CYLMA",
+      "ETA Date/Time": "20270208/0730 (一)",
+      "ETD Date/Time": "20270209/0430"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0771-044W",
+      "Port Calling": "LBBRU",
+      "ETA Date/Time": "20270209/1500 (二)",
+      "ETD Date/Time": "20270210/1400"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0771-044W",
+      "Port Calling": "EGAKI",
+      "ETA Date/Time": "20270211/1400 (四)",
+      "ETD Date/Time": "20270212/1400"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0771-044W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270214/1300 (日)",
+      "ETD Date/Time": "20270215/2000"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0774-045E",
+      "Port Calling": "SIKPR",
+      "ETA Date/Time": "20270218/0200 (四)",
+      "ETD Date/Time": "20270219/0100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0774-045E",
+      "Port Calling": "ITTRS",
+      "ETA Date/Time": "20270219/0400 (五)",
+      "ETD Date/Time": "20270220/0100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0774-045E",
+      "Port Calling": "ITVNS",
+      "ETA Date/Time": "20270220/0900 (六)",
+      "ETD Date/Time": "20270221/1100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0774-045E",
+      "Port Calling": "ITRVN",
+      "ETA Date/Time": "20270221/2000 (日)",
+      "ETD Date/Time": "20270222/2200"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0774-045E",
+      "Port Calling": "ITANC",
+      "ETA Date/Time": "20270223/0800 (二)",
+      "ETD Date/Time": "20270224/0300"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0774-045E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270226/0700 (五)",
+      "ETD Date/Time": "20270227/1200"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0774-045W",
+      "Port Calling": "CYLMA",
+      "ETA Date/Time": "20270301/0730 (一)",
+      "ETD Date/Time": "20270302/0430"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0774-045W",
+      "Port Calling": "LBBRU",
+      "ETA Date/Time": "20270302/1500 (二)",
+      "ETD Date/Time": "20270303/1400"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0774-045W",
+      "Port Calling": "EGAKI",
+      "ETA Date/Time": "20270304/1400 (四)",
+      "ETD Date/Time": "20270305/1400"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0774-045W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270307/1300 (日)",
+      "ETD Date/Time": "20270308/2000"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0777-046E",
+      "Port Calling": "SIKPR",
+      "ETA Date/Time": "20270311/0200 (四)",
+      "ETD Date/Time": "20270312/0100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0777-046E",
+      "Port Calling": "ITTRS",
+      "ETA Date/Time": "20270312/0400 (五)",
+      "ETD Date/Time": "20270313/0100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0777-046E",
+      "Port Calling": "ITVNS",
+      "ETA Date/Time": "20270313/0900 (六)",
+      "ETD Date/Time": "20270314/1100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0777-046E",
+      "Port Calling": "ITRVN",
+      "ETA Date/Time": "20270314/2000 (日)",
+      "ETD Date/Time": "20270315/2200"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0777-046E",
+      "Port Calling": "ITANC",
+      "ETA Date/Time": "20270316/0800 (二)",
+      "ETD Date/Time": "20270317/0300"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0777-046E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270319/0700 (五)",
+      "ETD Date/Time": "20270320/1200"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0777-046W",
+      "Port Calling": "CYLMA",
+      "ETA Date/Time": "20270322/0730 (一)",
+      "ETD Date/Time": "20270323/0430"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0777-046W",
+      "Port Calling": "LBBRU",
+      "ETA Date/Time": "20270323/1500 (二)",
+      "ETD Date/Time": "20270324/1400"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0777-046W",
+      "Port Calling": "EGAKI",
+      "ETA Date/Time": "20270325/1400 (四)",
+      "ETD Date/Time": "20270326/1400"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0777-046W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270328/1300 (日)",
+      "ETD Date/Time": "20270329/2000"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0780-047E",
+      "Port Calling": "SIKPR",
+      "ETA Date/Time": "20270401/0200 (四)",
+      "ETD Date/Time": "20270402/0100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0780-047E",
+      "Port Calling": "ITTRS",
+      "ETA Date/Time": "20270402/0400 (五)",
+      "ETD Date/Time": "20270403/0100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0780-047E",
+      "Port Calling": "ITVNS",
+      "ETA Date/Time": "20270403/0900 (六)",
+      "ETD Date/Time": "20270404/1100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0780-047E",
+      "Port Calling": "ITRVN",
+      "ETA Date/Time": "20270404/2000 (日)",
+      "ETD Date/Time": "20270405/2200"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0780-047E",
+      "Port Calling": "ITANC",
+      "ETA Date/Time": "20270406/0800 (二)",
+      "ETD Date/Time": "20270407/0300"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0780-047E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270409/0700 (五)",
+      "ETD Date/Time": "20270410/1200"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0780-047W",
+      "Port Calling": "CYLMA",
+      "ETA Date/Time": "20270412/0730 (一)",
+      "ETD Date/Time": "20270413/0430"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0780-047W",
+      "Port Calling": "LBBRU",
+      "ETA Date/Time": "20270413/1500 (二)",
+      "ETD Date/Time": "20270414/1400"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0780-047W",
+      "Port Calling": "EGAKI",
+      "ETA Date/Time": "20270415/1400 (四)",
+      "ETD Date/Time": "20270416/1400"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0780-047W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270418/1300 (日)",
+      "ETD Date/Time": "20270419/2000"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0783-048E",
+      "Port Calling": "SIKPR",
+      "ETA Date/Time": "20270422/0200 (四)",
+      "ETD Date/Time": "20270423/0100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0783-048E",
+      "Port Calling": "ITTRS",
+      "ETA Date/Time": "20270423/0400 (五)",
+      "ETD Date/Time": "20270424/0100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0783-048E",
+      "Port Calling": "ITVNS",
+      "ETA Date/Time": "20270424/0900 (六)",
+      "ETD Date/Time": "20270425/1100"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0783-048E",
+      "Port Calling": "ITRVN",
+      "ETA Date/Time": "20270425/2000 (日)",
+      "ETD Date/Time": "20270426/2200"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0783-048E",
+      "Port Calling": "ITANC",
+      "ETA Date/Time": "20270427/0800 (二)",
+      "ETD Date/Time": "20270428/0300"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0783-048E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270430/0700 (五)",
+      "ETD Date/Time": "20270501/1200"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0783-048W",
+      "Port Calling": "CYLMA",
+      "ETA Date/Time": "20270503/0730 (一)",
+      "ETD Date/Time": "20270504/0430"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0783-048W",
+      "Port Calling": "LBBRU",
+      "ETA Date/Time": "20270504/1500 (二)",
+      "ETD Date/Time": "20270505/1400"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0783-048W",
+      "Port Calling": "EGAKI",
+      "ETA Date/Time": "20270506/1400 (四)",
+      "ETD Date/Time": "20270507/1400"
+    },
+    {
+      "Line": "ADL",
+      "Voyage": "0783-048W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270509/1300 (日)",
+      "ETD Date/Time": "20270510/2000"
+    }
+  ]
+}
