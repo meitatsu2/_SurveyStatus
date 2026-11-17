@@ -162,33 +162,74 @@
             background-color: #dee2e6;
         }
 
-        /* Active Vessel Link Style (Bold & Clickable) */
+        /* VESSEL NAME EARLIEST DUE DATE STYLES (EarDue.json) */
         .vessel-link {
-            color: var(--primary-green);
-            font-weight: bold;
             text-decoration: none;
             cursor: pointer;
+            padding: 1px 5px;
+            border-radius: 3px;
+            display: inline-block;
         }
 
         .vessel-link:hover {
             text-decoration: underline;
         }
 
-        /* Active SCODE Link Style (Bold & Clickable Blue) */
-        .scode-link {
-            color: var(--schedule-blue);
+        /* 3. <= upload_date: white bold with red background */
+        .vname-red-bg {
+            background-color: #dc3545;
+            color: #ffffff;
+            font-weight: bold;
+        }
+
+        /* 4. < upload_date + 31: green bold with orange background */
+        .vname-orange-bg {
+            background-color: #fd7e14;
+            color: #006400;
+            font-weight: bold;
+        }
+
+        /* 5. < upload_date + 61: green bold with yellow background */
+        .vname-yellow-bg {
+            background-color: #f7ff07;
+            color: #006400;
+            font-weight: bold;
+        }
+
+        /* 6. < upload_date + 91: black bold with green background */
+        .vname-green-bg {
+            background-color: #28a745;
+            color: #000000;
+            font-weight: bold;
+        }
+
+        /* 7. > upload_date + 90: blue bold */
+        .vname-blue-text {
+            color: #1565c0;
+            font-weight: bold;
+        }
+
+        /* 8. Not in EarDue.json: black normal */
+        .vname-black-normal {
+            color: #000000;
+            font-weight: normal;
+        }
+
+        /* Active SMAIL Link Style (Bold & Clickable Blue) */
+        .smail-link {
+            color: #1565c0;
             font-weight: bold;
             text-decoration: none;
             cursor: pointer;
         }
 
-        .scode-link:hover {
+        .smail-link:hover {
             text-decoration: underline;
         }
 
-        /* Inactive Vessel / SCODE Style (Regular Text) */
+        /* Inactive Regular Text */
         .vessel-no-link {
-            color: #333333;
+            color: #000000;
             font-weight: normal;
         }
 
@@ -411,7 +452,7 @@
             background-color: #fafbfd;
         }
 
-        /* COLOR SCHEME */
+        /* COLOR SCHEME (SURVEY STATUS DETAIL TABLE) */
         .status-red { background-color: #dc3545 !important; color: #ffffff !important; font-weight: bold; }
         .status-orange { background-color: #fd7e14 !important; color: #000000 !important; }
         .status-yellow { background-color: #f7ff07 !important; color: #000000 !important; }
@@ -641,7 +682,7 @@
     <!-- FOOTER -->
     <footer id="appFooter">
         <div id="footerListMode" style="width: 100%; text-align: center;">
-            v1.2 | Developer: Adam M.T. Chen | Date: 2026-11-17
+            v1.3 | Developer: Adam M.T. Chen | Date: 2026-11-17
         </div>
 
         <div id="footerDetailMode" class="footer-nav hidden">
@@ -673,6 +714,9 @@
         let activeVesselIndexes = [];
         let activeScheduleIndexes = [];
         let picMappingList = [];
+        let earDueMap = {};
+        let uploadedDataDate = null;
+
         let currentSortField = "vessel_name";
         let currentSortAsc = true;
         let selectedVesselIndex = -1;
@@ -717,12 +761,34 @@
             setupEventListeners();
         });
 
+        function normalizeDateMidnight(dateObj) {
+            const d = new Date(dateObj);
+            d.setHours(0, 0, 0, 0);
+            return d;
+        }
+
+        function parseYMD(str) {
+            if (!str) return null;
+            const cleaned = String(str).trim().replace(/\//g, "-");
+            const parts = cleaned.split("-");
+            if (parts.length === 3) {
+                const y = parseInt(parts[0], 10);
+                const m = parseInt(parts[1], 10) - 1;
+                const d = parseInt(parts[2], 10);
+                const dt = new Date(y, m, d);
+                if (!isNaN(dt)) return normalizeDateMidnight(dt);
+            }
+            const fallback = new Date(str);
+            return isNaN(fallback) ? null : normalizeDateMidnight(fallback);
+        }
+
         async function initData() {
             try {
-                console.log("Fetching master indexes from ExpData...");
-                const [vesselRes, picRes] = await Promise.all([
+                console.log("Fetching master indexes and EarDue.json from ExpData...");
+                const [vesselRes, picRes, earDueRes] = await Promise.all([
                     fetch("ExpData/vessel_list.json"),
-                    fetch("ExpData/pic.json")
+                    fetch("ExpData/pic.json"),
+                    fetch("ExpData/EarDue.json").catch(() => null)
                 ]);
 
                 if (!vesselRes.ok) throw new Error(`vessel_list.json HTTP ${vesselRes.status}`);
@@ -731,7 +797,47 @@
                 masterVesselList = await vesselRes.json();
                 picMappingList = await picRes.json();
 
+                // Build EarDue lookup map & determine uploaded data reference date
+                earDueMap = {};
+                if (earDueRes && earDueRes.ok) {
+                    const lastModHeader = earDueRes.headers.get("Last-Modified");
+                    if (lastModHeader) {
+                        const parsedMod = new Date(lastModHeader);
+                        if (!isNaN(parsedMod)) {
+                            uploadedDataDate = normalizeDateMidnight(parsedMod);
+                        }
+                    }
+                    const earDueList = await earDueRes.json();
+                    if (Array.isArray(earDueList)) {
+                        earDueList.forEach(item => {
+                            const vName = (item.vessel_name || "").trim().toUpperCase();
+                            if (vName) {
+                                earDueMap[vName] = (item.due_date || "").trim();
+                            }
+                        });
+                    }
+                }
+
                 await checkVesselDataAvailability();
+
+                // Fallback uploadedDataDate if HTTP Last-Modified header was unavailable
+                if (!uploadedDataDate) {
+                    const sampleWithStatus = masterVesselList.find(v => v.has_status);
+                    if (sampleWithStatus) {
+                        try {
+                            const sampleRes = await fetch(`ExpData/vessels/${sampleWithStatus.file_name}`);
+                            if (sampleRes.ok) {
+                                const sampleJson = await sampleRes.json();
+                                if (sampleJson.last_updated) {
+                                    uploadedDataDate = parseYMD(sampleJson.last_updated);
+                                }
+                            }
+                        } catch (e) {}
+                    }
+                }
+                if (!uploadedDataDate) {
+                    uploadedDataDate = normalizeDateMidnight(new Date());
+                }
 
                 populateDeptDropdown();
                 applyFiltersAndSort();
@@ -764,6 +870,32 @@
                 v.has_schedule = hasSchedule;
             });
             await Promise.all(checks);
+        }
+
+        function getVesselNameStyleClass(vesselName) {
+            const key = (vesselName || "").trim().toUpperCase();
+            // 8. If vessel is not existing in EarDue.json -> black normal
+            if (!Object.prototype.hasOwnProperty.call(earDueMap, key) || !earDueMap[key]) {
+                return "vname-black-normal";
+            }
+
+            const dueDate = parseYMD(earDueMap[key]);
+            if (!dueDate || !uploadedDataDate) {
+                return "vname-black-normal";
+            }
+
+            const diffDays = Math.round((dueDate - uploadedDataDate) / (1000 * 60 * 60 * 24));
+
+            // 3. Same or earlier than date of uploaded data -> white bold with red background
+            if (diffDays <= 0) return "vname-red-bg";
+            // 4. Earlier than date of update + 31 -> green bold with orange background
+            if (diffDays < 31) return "vname-orange-bg";
+            // 5. Earlier than date of update + 61 -> green bold with yellow background
+            if (diffDays < 61) return "vname-yellow-bg";
+            // 6. Earlier than date of update + 91 -> black bold with green background
+            if (diffDays < 91) return "vname-green-bg";
+            // 7. Later than date of update + 90 -> blue bold
+            return "vname-blue-text";
         }
 
         function populateDeptDropdown() {
@@ -841,13 +973,20 @@
             filteredVesselList.forEach((v, idx) => {
                 const tr = document.createElement("tr");
 
+                // VESSEL NAME formatted according to EarDue.json
+                const vNameClass = getVesselNameStyleClass(v.vessel_name);
                 const nameHtml = v.has_status 
-                    ? `<span class="vessel-link" data-index="${idx}">${escapeHtml(v.vessel_name)}</span>`
-                    : `<span class="vessel-no-link">${escapeHtml(v.vessel_name)}</span>`;
+                    ? `<span class="vessel-link ${vNameClass}" data-index="${idx}">${escapeHtml(v.vessel_name)}</span>`
+                    : `<span class="${vNameClass}">${escapeHtml(v.vessel_name)}</span>`;
 
-                const scodeHtml = v.has_schedule
-                    ? `<span class="scode-link" data-index="${idx}">${escapeHtml(v.scode)}</span>`
-                    : `<span class="vessel-no-link">${escapeHtml(v.scode)}</span>`;
+                // 10. SCODE font is normal (no link)
+                const scodeHtml = `<span class="vessel-no-link">${escapeHtml(v.scode)}</span>`;
+
+                // 9 & 10. Link to schedule shifted to SMAIL; blue bold when linked
+                const smailDisplay = v.smail || (v.has_schedule ? "Schedule" : "");
+                const smailHtml = v.has_schedule
+                    ? `<span class="smail-link" data-index="${idx}">${escapeHtml(smailDisplay)}</span>`
+                    : `<span class="vessel-no-link">${escapeHtml(v.smail)}</span>`;
 
                 tr.innerHTML = `
                     <td>${nameHtml}</td>
@@ -858,7 +997,7 @@
                     <td>${scodeHtml}</td>
                     <td>${escapeHtml(v.cname)}</td>
                     <td>${escapeHtml(v.deliver)}</td>
-                    <td>${escapeHtml(v.smail)}</td>
+                    <td>${smailHtml}</td>
                     <td>${escapeHtml(v.cemail)}</td>
                 `;
                 vesselListTbody.appendChild(tr);
@@ -871,7 +1010,7 @@
                 });
             });
 
-            document.querySelectorAll(".scode-link").forEach(link => {
+            document.querySelectorAll(".smail-link").forEach(link => {
                 link.addEventListener("click", (e) => {
                     const idx = parseInt(e.target.getAttribute("data-index"), 10);
                     openScheduleDetail(idx);
