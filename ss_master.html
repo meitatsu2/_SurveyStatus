@@ -10,6 +10,8 @@
         :root {
             --primary-green: #008751;
             --primary-dark: #005a36;
+            --schedule-blue: #1565c0;
+            --schedule-blue-dark: #0d47a1;
             --bg-light: #f4f6f8;
             --border-color: #cccccc;
             --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -47,6 +49,11 @@
             box-shadow: 0 2px 4px rgba(0,0,0,0.15);
             z-index: 10;
             height: 40px;
+            transition: background-color 0.2s ease;
+        }
+
+        header.header-schedule-mode {
+            background-color: var(--schedule-blue);
         }
 
         header h1 {
@@ -70,7 +77,7 @@
         }
 
         .home-btn:hover {
-            background-color: var(--primary-dark);
+            background-color: rgba(0, 0, 0, 0.2);
         }
 
         /* DATA FRAME (MAIN CONTAINER) */
@@ -167,7 +174,19 @@
             text-decoration: underline;
         }
 
-        /* Inactive Vessel Style (Regular Text) */
+        /* Active SCODE Link Style (Bold & Clickable Blue) */
+        .scode-link {
+            color: var(--schedule-blue);
+            font-weight: bold;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .scode-link:hover {
+            text-decoration: underline;
+        }
+
+        /* Inactive Vessel / SCODE Style (Regular Text) */
         .vessel-no-link {
             color: #333333;
             font-weight: normal;
@@ -258,7 +277,7 @@
             text-overflow: ellipsis;
         }
 
-        /* UP WINDOW (80% height) */
+        /* UP WINDOW (80% height in Survey Status View) */
         .upper-window {
             flex: 4 1 0%;
             display: flex;
@@ -268,7 +287,7 @@
             overflow: hidden;
         }
 
-        /* DOWN WINDOW (20% height) */
+        /* DOWN WINDOW (20% height in Survey Status View) */
         .lower-window {
             flex: 1 1 0%;
             background: white;
@@ -303,6 +322,93 @@
             font-weight: bold;
             color: #444;
             font-size: 0.75rem;
+        }
+
+        /* =========================================================
+           VIEW C: BERTH SCHEDULE & CREW LIST STYLES
+           ========================================================= */
+        .schedule-subheader {
+            flex: 0 0 auto;
+            text-align: center;
+            font-weight: bold;
+            font-size: 0.82rem;
+            color: #0d47a1;
+            background: #e3f2fd;
+            border: 1px solid #bbdefb;
+            border-radius: 4px;
+            padding: 4px 8px;
+            margin-bottom: 6px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .schedule-upper-window {
+            flex: 55 1 0%;
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 6px;
+            min-height: 0;
+            overflow: hidden;
+        }
+
+        .crew-lower-window {
+            flex: 45 1 0%;
+            display: flex;
+            flex-direction: column;
+            min-height: 0;
+            overflow: hidden;
+        }
+
+        .section-caption {
+            flex: 0 0 auto;
+            font-size: 0.72rem;
+            font-weight: bold;
+            color: #1565c0;
+            background: #eef4fb;
+            padding: 3px 8px;
+            border: 1px solid var(--border-color);
+            border-bottom: none;
+            border-radius: 4px 4px 0 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .schedule-upper-window .table-wrapper,
+        .crew-lower-window .table-wrapper {
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
+        }
+
+        #scheduleDetailTable,
+        #crewDetailTable {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.75rem;
+            white-space: nowrap;
+        }
+
+        #scheduleDetailTable th, #scheduleDetailTable td,
+        #crewDetailTable th, #crewDetailTable td {
+            padding: 5px 8px;
+            text-align: left;
+            border-bottom: 1px solid #eeeeee;
+        }
+
+        #scheduleDetailTable th,
+        #crewDetailTable th {
+            background-color: #e3f2fd;
+            color: #0d47a1;
+            position: sticky;
+            top: 0;
+            z-index: 2;
+            user-select: none;
+        }
+
+        #scheduleDetailTable tr:nth-child(even),
+        #crewDetailTable tr:nth-child(even) {
+            background-color: #fafbfd;
         }
 
         /* COLOR SCHEME */
@@ -363,6 +469,15 @@
             background: var(--primary-dark);
         }
 
+        .return-btn.schedule-return {
+            background: var(--schedule-blue);
+            border-color: var(--schedule-blue-dark);
+        }
+
+        .return-btn.schedule-return:hover {
+            background: var(--schedule-blue-dark);
+        }
+
         .pagination-group {
             display: flex;
             width: 66.6%;
@@ -380,10 +495,10 @@
 <body>
 
     <!-- HEADER -->
-    <header>
+    <header id="appHeader">
         <button class="home-btn" id="homeBtn" title="Reset to default">🏠</button>
-        <h1>Evergreen Survey Status Master</h1>
-        <div style="width: 20px;"></div>
+        <h1 id="appHeaderTitle">Evergreen Survey Status Master</h1>
+        <div style="width: 24px;"></div>
     </header>
 
     <!-- DATA FRAME -->
@@ -458,7 +573,7 @@
 
             <!-- DOWN WINDOW (1/5 HEIGHT) -->
             <div class="lower-window">
-                <div style="font-weight: bold; margin-bottom: 2px; font-size: 0.7rem; color: #555;">Upcoming Survey Windows (> Today):</div>
+                <div style="font-weight: bold; margin-bottom: 2px; font-size: 0.7rem; color: #555;">Upcoming Survey Windows (&gt; Today):</div>
                 <div id="milestonesContainer" class="milestones-container">
                     <!-- Dynamic Badges -->
                 </div>
@@ -467,12 +582,66 @@
                 </div>
             </div>
         </div>
+
+        <!-- VIEW C: BERTH SCHEDULE AND CREW LIST -->
+        <div id="viewScheduleDetail" class="view-panel hidden">
+            <!-- CENTERED SUB-HEADER -->
+            <div class="schedule-subheader" id="scheduleSubHeader">
+                SCODE updated YYYY-MM-DD
+            </div>
+
+            <!-- UPPER WINDOW: BERTH SCHEDULE -->
+            <div class="schedule-upper-window">
+                <div class="section-caption">
+                    <span>BERTH SCHEDULE</span>
+                    <span id="scheduleCountLabel">0 port calls</span>
+                </div>
+                <div class="table-wrapper">
+                    <table id="scheduleDetailTable">
+                        <thead>
+                            <tr>
+                                <th>Line</th>
+                                <th>Voyage</th>
+                                <th>Port Calling</th>
+                                <th>ETA Date/Time</th>
+                                <th>ETD Date/Time</th>
+                            </tr>
+                        </thead>
+                        <tbody id="scheduleDetailTbody">
+                            <!-- Dynamic Schedule Rows -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- LOWER WINDOW: CREW LIST -->
+            <div class="crew-lower-window">
+                <div class="section-caption">
+                    <span>CREW LIST</span>
+                    <span id="crewCountLabel">0 crew</span>
+                </div>
+                <div class="table-wrapper">
+                    <table id="crewDetailTable">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>O/B</th>
+                                <th>Name</th>
+                            </tr>
+                        </thead>
+                        <tbody id="crewDetailTbody">
+                            <!-- Dynamic Crew Rows -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
     </main>
 
     <!-- FOOTER -->
     <footer id="appFooter">
         <div id="footerListMode" style="width: 100%; text-align: center;">
-            v1.1 | Developer: Adam M.T. Chen | Date: 2026-10-22
+            v1.2 | Developer: Adam M.T. Chen | Date: 2026-11-17
         </div>
 
         <div id="footerDetailMode" class="footer-nav hidden">
@@ -501,26 +670,41 @@
     (function() {
         let masterVesselList = [];
         let filteredVesselList = [];
-        let activeVesselIndexes = []; 
+        let activeVesselIndexes = [];
+        let activeScheduleIndexes = [];
         let picMappingList = [];
         let currentSortField = "vessel_name";
         let currentSortAsc = true;
         let selectedVesselIndex = -1;
         let currentVesselData = null;
+        let activeDetailMode = "NONE"; // "NONE" | "STATUS" | "SCHEDULE"
+
+        const appHeader = document.getElementById("appHeader");
+        const appHeaderTitle = document.getElementById("appHeaderTitle");
 
         const viewVesselList = document.getElementById("viewVesselList");
         const viewVesselDetail = document.getElementById("viewVesselDetail");
+        const viewScheduleDetail = document.getElementById("viewScheduleDetail");
+
         const vesselListTbody = document.getElementById("vesselListTbody");
         const vesselStatusTbody = document.getElementById("vesselStatusTbody");
+        const scheduleDetailTbody = document.getElementById("scheduleDetailTbody");
+        const crewDetailTbody = document.getElementById("crewDetailTbody");
+
         const filterDept = document.getElementById("filterDept");
         const filterPic = document.getElementById("filterPic");
         const homeBtn = document.getElementById("homeBtn");
         const footerListMode = document.getElementById("footerListMode");
         const footerDetailMode = document.getElementById("footerDetailMode");
+
         const detailHeaderTitle = document.getElementById("detailHeaderTitle");
         const milestonesContainer = document.getElementById("milestonesContainer");
         const ddAgeBox = document.getElementById("ddAgeBox");
         const btnExportXlsx = document.getElementById("btnExportXlsx");
+
+        const scheduleSubHeader = document.getElementById("scheduleSubHeader");
+        const scheduleCountLabel = document.getElementById("scheduleCountLabel");
+        const crewCountLabel = document.getElementById("crewCountLabel");
 
         const btnReturn = document.getElementById("btnReturn");
         const btnFirst = document.getElementById("btnFirst");
@@ -547,7 +731,7 @@
                 masterVesselList = await vesselRes.json();
                 picMappingList = await picRes.json();
 
-                await checkVesselStatusAvailability();
+                await checkVesselDataAvailability();
 
                 populateDeptDropdown();
                 applyFiltersAndSort();
@@ -557,14 +741,27 @@
             }
         }
 
-        async function checkVesselStatusAvailability() {
+        async function checkVesselDataAvailability() {
             const checks = masterVesselList.map(async (v) => {
-                try {
-                    const res = await fetch(`ExpData/vessels/${v.file_name}`, { method: 'HEAD' });
-                    v.has_status = res.ok;
-                } catch (e) {
-                    v.has_status = false;
+                // Check Survey Status JSON availability
+                const statusCheck = fetch(`ExpData/vessels/${v.file_name}`, { method: "HEAD" })
+                    .then(res => res.ok)
+                    .catch(() => false);
+
+                // Check Schedule / Crew JSON availability via SCODE
+                const cleanScode = (v.scode || "").trim().toUpperCase();
+                let schedCheck = Promise.resolve(false);
+
+                if (cleanScode) {
+                    schedCheck = Promise.all([
+                        fetch(`ExpData/schedule/${cleanScode}.json`, { method: "HEAD" }).then(r => r.ok).catch(() => false),
+                        fetch(`ExpData/crew/${cleanScode}.json`, { method: "HEAD" }).then(r => r.ok).catch(() => false)
+                    ]).then(([hasSched, hasCrew]) => hasSched || hasCrew);
                 }
+
+                const [hasStatus, hasSchedule] = await Promise.all([statusCheck, schedCheck]);
+                v.has_status = hasStatus;
+                v.has_schedule = hasSchedule;
             });
             await Promise.all(checks);
         }
@@ -624,8 +821,10 @@
             });
 
             activeVesselIndexes = [];
+            activeScheduleIndexes = [];
             filteredVesselList.forEach((v, idx) => {
                 if (v.has_status) activeVesselIndexes.push(idx);
+                if (v.has_schedule) activeScheduleIndexes.push(idx);
             });
 
             renderVesselListTable();
@@ -646,13 +845,17 @@
                     ? `<span class="vessel-link" data-index="${idx}">${escapeHtml(v.vessel_name)}</span>`
                     : `<span class="vessel-no-link">${escapeHtml(v.vessel_name)}</span>`;
 
+                const scodeHtml = v.has_schedule
+                    ? `<span class="scode-link" data-index="${idx}">${escapeHtml(v.scode)}</span>`
+                    : `<span class="vessel-no-link">${escapeHtml(v.scode)}</span>`;
+
                 tr.innerHTML = `
                     <td>${nameHtml}</td>
                     <td>${escapeHtml(v.dept)}</td>
                     <td>${escapeHtml(v.pic)}</td>
                     <td>${escapeHtml(v.class)}</td>
                     <td>${escapeHtml(v.company)}</td>
-                    <td>${escapeHtml(v.scode)}</td>
+                    <td>${scodeHtml}</td>
                     <td>${escapeHtml(v.cname)}</td>
                     <td>${escapeHtml(v.deliver)}</td>
                     <td>${escapeHtml(v.smail)}</td>
@@ -667,8 +870,30 @@
                     openVesselDetail(idx);
                 });
             });
+
+            document.querySelectorAll(".scode-link").forEach(link => {
+                link.addEventListener("click", (e) => {
+                    const idx = parseInt(e.target.getAttribute("data-index"), 10);
+                    openScheduleDetail(idx);
+                });
+            });
         }
 
+        function setHeaderTheme(mode) {
+            if (mode === "SCHEDULE") {
+                appHeader.classList.add("header-schedule-mode");
+                appHeaderTitle.textContent = "Berth Schedule and Crew List";
+                btnReturn.classList.add("schedule-return");
+            } else {
+                appHeader.classList.remove("header-schedule-mode");
+                appHeaderTitle.textContent = "Evergreen Survey Status Master";
+                btnReturn.classList.remove("schedule-return");
+            }
+        }
+
+        /* =========================================================
+           VIEW B: SURVEY STATUS DETAIL
+           ========================================================= */
         async function openVesselDetail(index) {
             if (index < 0 || index >= filteredVesselList.length) return;
             selectedVesselIndex = index;
@@ -676,8 +901,13 @@
 
             if (!vessel.has_status) return;
 
+            activeDetailMode = "STATUS";
+            setHeaderTheme("STATUS");
+
             viewVesselList.classList.add("hidden");
+            viewScheduleDetail.classList.add("hidden");
             viewVesselDetail.classList.remove("hidden");
+
             footerListMode.classList.add("hidden");
             footerDetailMode.classList.remove("hidden");
 
@@ -698,19 +928,114 @@
             }
         }
 
+        /* =========================================================
+           VIEW C: BERTH SCHEDULE AND CREW LIST
+           ========================================================= */
+        async function openScheduleDetail(index) {
+            if (index < 0 || index >= filteredVesselList.length) return;
+            selectedVesselIndex = index;
+            const vessel = filteredVesselList[selectedVesselIndex];
+
+            if (!vessel.has_schedule) return;
+
+            activeDetailMode = "SCHEDULE";
+            setHeaderTheme("SCHEDULE");
+
+            viewVesselList.classList.add("hidden");
+            viewVesselDetail.classList.add("hidden");
+            viewScheduleDetail.classList.remove("hidden");
+
+            footerListMode.classList.add("hidden");
+            footerDetailMode.classList.remove("hidden");
+
+            const cleanScode = (vessel.scode || "").trim().toUpperCase();
+            scheduleSubHeader.textContent = `${cleanScode} updated --`;
+            scheduleDetailTbody.innerHTML = `<tr><td colspan="5" style="text-align:center; padding:8px;">Loading schedule...</td></tr>`;
+            crewDetailTbody.innerHTML = `<tr><td colspan="3" style="text-align:center; padding:8px;">Loading crew list...</td></tr>`;
+
+            const [schedOutcome, crewOutcome] = await Promise.allSettled([
+                fetch(`ExpData/schedule/${cleanScode}.json`).then(r => {
+                    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+                    return r.json();
+                }),
+                fetch(`ExpData/crew/${cleanScode}.json`).then(r => {
+                    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+                    return r.json();
+                })
+            ]);
+
+            const schedData = schedOutcome.status === "fulfilled" ? schedOutcome.value : null;
+            const crewData = crewOutcome.status === "fulfilled" ? crewOutcome.value : null;
+
+            const updatedDate = (schedData && schedData.last_updated) ||
+                                (crewData && crewData.last_updated) ||
+                                "--";
+            scheduleSubHeader.textContent = `${cleanScode} updated ${updatedDate}`;
+
+            renderScheduleDetailTable(schedData ? schedData.records : []);
+            renderCrewDetailTable(crewData ? crewData.records : []);
+        }
+
+        function renderScheduleDetailTable(records) {
+            scheduleDetailTbody.innerHTML = "";
+            const list = Array.isArray(records) ? records : [];
+            scheduleCountLabel.textContent = `${list.length} port calls`;
+
+            if (list.length === 0) {
+                scheduleDetailTbody.innerHTML = `<tr><td colspan="5" style="text-align:center; padding:10px; color:#666;">No schedule records available.</td></tr>`;
+                return;
+            }
+
+            list.forEach(r => {
+                const tr = document.createElement("tr");
+                tr.innerHTML = `
+                    <td>${escapeHtml(r["Line"] || "")}</td>
+                    <td>${escapeHtml(r["Voyage"] || "")}</td>
+                    <td>${escapeHtml(r["Port Calling"] || "")}</td>
+                    <td>${escapeHtml(r["ETA Date/Time"] || "")}</td>
+                    <td>${escapeHtml(r["ETD Date/Time"] || "")}</td>
+                `;
+                scheduleDetailTbody.appendChild(tr);
+            });
+        }
+
+        function renderCrewDetailTable(records) {
+            crewDetailTbody.innerHTML = "";
+            const list = Array.isArray(records) ? records : [];
+            crewCountLabel.textContent = `${list.length} crew`;
+
+            if (list.length === 0) {
+                crewDetailTbody.innerHTML = `<tr><td colspan="3" style="text-align:center; padding:10px; color:#666;">No crew records available.</td></tr>`;
+                return;
+            }
+
+            list.forEach(r => {
+                const tr = document.createElement("tr");
+                tr.innerHTML = `
+                    <td>${escapeHtml(r["Rank"] || "")}</td>
+                    <td>${escapeHtml(r["O/B"] || "")}</td>
+                    <td>${escapeHtml(r["Name"] || "")}</td>
+                `;
+                crewDetailTbody.appendChild(tr);
+            });
+        }
+
         function navigateDetail(direction) {
-            if (activeVesselIndexes.length === 0) return;
-            let currentPos = activeVesselIndexes.indexOf(selectedVesselIndex);
+            const indexPool = (activeDetailMode === "SCHEDULE") ? activeScheduleIndexes : activeVesselIndexes;
+            const openFn = (activeDetailMode === "SCHEDULE") ? openScheduleDetail : openVesselDetail;
+
+            if (indexPool.length === 0) return;
+            let currentPos = indexPool.indexOf(selectedVesselIndex);
             
             if (direction === "first") {
-                openVesselDetail(activeVesselIndexes[0]);
+                openFn(indexPool[0]);
             } else if (direction === "last") {
-                openVesselDetail(activeVesselIndexes[activeVesselIndexes.length - 1]);
+                openFn(indexPool[indexPool.length - 1]);
             } else if (direction === "prev") {
-                if (currentPos > 0) openVesselDetail(activeVesselIndexes[currentPos - 1]);
+                if (currentPos > 0) openFn(indexPool[currentPos - 1]);
             } else if (direction === "next") {
-                if (currentPos >= 0 && currentPos < activeVesselIndexes.length - 1) {
-                    openVesselDetail(activeVesselIndexes[currentPos + 1]);
+                if (currentPos >= 0 && currentPos < indexPool.length - 1) {
+                    openFn(indexPool[currentPos + 1]);
                 }
             }
         }
@@ -829,13 +1154,12 @@
             const today = new Date();
             today.setHours(0,0,0,0);
 
-            // Construct Excel Data Matrix
             const wsData = [
                 [`VESSEL NAME: ${currentVesselData.vessel_name}`],
                 [`DATE OF UPDATE: ${currentVesselData.last_updated}`],
                 [`UPCOMING SURVEY WINDOWS: ${milestonesContainer.innerText.replace(/\n/g, ' ')} | ${ddAgeBox.innerText}`],
-                [], // Spacer Row
-                ["DUE_DATE", "CS", "DESCRIPTION"] // Table Headers
+                [],
+                ["DUE_DATE", "CS", "DESCRIPTION"]
             ];
 
             currentVesselData.records.forEach(r => {
@@ -843,11 +1167,8 @@
             });
 
             const ws = XLSX.utils.aoa_to_sheet(wsData);
-
-            // Apply formatting styles
             ws['!cols'] = [{ wch: 15 }, { wch: 8 }, { wch: 80 }];
 
-            // Style Header Info Block
             for (let row = 0; row < 3; row++) {
                 const cellRef = XLSX.utils.encode_cell({ r: row, c: 0 });
                 if (ws[cellRef]) {
@@ -857,7 +1178,6 @@
                 }
             }
 
-            // Style Table Header Row (Row index 4)
             for (let col = 0; col < 3; col++) {
                 const cellRef = XLSX.utils.encode_cell({ r: 4, c: col });
                 if (ws[cellRef]) {
@@ -869,7 +1189,6 @@
                 }
             }
 
-            // Style Data Rows
             currentVesselData.records.forEach((r, idx) => {
                 const rowIdx = 5 + idx;
                 const styleObj = getHexColorForStyle(r.DUE_DATE, today);
@@ -878,7 +1197,6 @@
                 const csCellRef = XLSX.utils.encode_cell({ r: rowIdx, c: 1 });
                 const descCellRef = XLSX.utils.encode_cell({ r: rowIdx, c: 2 });
 
-                // DUE_DATE Column with Color fill
                 if (ws[dateCellRef]) {
                     ws[dateCellRef].s = {
                         font: { name: "Arial", sz: 10, bold: styleObj.bold, color: { rgb: styleObj.font } },
@@ -887,7 +1205,6 @@
                     };
                 }
 
-                // CS Column
                 if (ws[csCellRef]) {
                     ws[csCellRef].s = {
                         font: { name: "Arial", sz: 10 },
@@ -895,7 +1212,6 @@
                     };
                 }
 
-                // DESCRIPTION Column
                 if (ws[descCellRef]) {
                     ws[descCellRef].s = {
                         font: { name: "Arial", sz: 10 },
@@ -946,8 +1262,13 @@
         }
 
         function returnToVesselList() {
+            activeDetailMode = "NONE";
+            setHeaderTheme("LIST");
+
             viewVesselDetail.classList.add("hidden");
+            viewScheduleDetail.classList.add("hidden");
             viewVesselList.classList.remove("hidden");
+
             footerDetailMode.classList.add("hidden");
             footerListMode.classList.remove("hidden");
         }
