@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER EXCEL",
-  "last_updated": "2026-11-17",
+  "last_updated": "2026-11-18",
   "total_records": 181,
   "records": [
     {
@@ -630,6 +630,12 @@
     {
       "DUE_DATE": "2027/04/08",
       "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 5Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/08",
+      "CLASS": "AB",
       "DESCRIPTION": "CMS - Emergency Generator Engine // MACHINERY > Emergency Power Distribution System > Emergency Generator Engine",
       "CODE": ""
     },
@@ -715,12 +721,6 @@
       "DUE_DATE": "2027/04/08",
       "CLASS": "AB",
       "DESCRIPTION": "CMS - Vibration Damper // MACHINERY > Main Propulsion System > Main Diesel Engine > Vibration Damper",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/08",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 5Remote",
       "CODE": ""
     },
     {
@@ -960,6 +960,12 @@
     {
       "DUE_DATE": "2027/05/06",
       "CLASS": "AB",
+      "DESCRIPTION": "Surv - Retesting Survey - Cargo Gear 2",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/06",
+      "CLASS": "AB",
       "DESCRIPTION": "CMS - Boiler Fuel Oil Heater No.02 // MACHINERY > Boiler fuel oil Service piping system > Boiler Fuel Oil Heater No.02",
       "CODE": ""
     },
@@ -1045,12 +1051,6 @@
       "DUE_DATE": "2027/05/06",
       "CLASS": "AB",
       "DESCRIPTION": "CMS - M/E Fuel Oil Heater No. 03 // MACHINERY > Fuel Oil Service System > M/E Fuel Oil Heater No. 03",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/05/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Retesting Survey - Cargo Gear 2",
       "CODE": ""
     },
     {

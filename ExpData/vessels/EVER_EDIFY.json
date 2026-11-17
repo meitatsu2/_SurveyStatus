@@ -1,8 +1,38 @@
 {
   "vessel_name": "EVER EDIFY",
-  "last_updated": "2026-11-17",
-  "total_records": 6,
+  "last_updated": "2026-11-18",
+  "total_records": 11,
   "records": [
+    {
+      "DUE_DATE": "2027/01/13",
+      "CLASS": "NK",
+      "DESCRIPTION": "Cert - Safety Radio",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/01/13",
+      "CLASS": "NK",
+      "DESCRIPTION": "NK - In accordance with MPA Shipping Circular No.10 of 2025, dispensation has been granted on behalf of the Flag Administration for the malfunctioned No.2 VHF to be repaired not later than the due date as below. \nOpening date: 14 Nov. 2026",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2027/04/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Interim Safety Management CertificateECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Interim International Ship Security Certificate (ISSC)ECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/09",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Interim Maritime Labour CertificateECC",
+      "CODE": ""
+    },
     {
       "DUE_DATE": "2029/11/09",
       "CLASS": "NK",

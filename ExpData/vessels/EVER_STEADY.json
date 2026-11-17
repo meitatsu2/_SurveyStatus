@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER STEADY",
-  "last_updated": "2026-11-17",
-  "total_records": 193,
+  "last_updated": "2026-11-18",
+  "total_records": 159,
   "records": [
     {
       "DUE_DATE": "2026/08/26",
@@ -49,12 +49,6 @@
       "DUE_DATE": "2026/08/26",
       "CLASS": "AB",
       "DESCRIPTION": "CMS - Cylinder Unit No.10 // MACHINERY > Main Propulsion System > MAIN ENGINE > Cylinder Unit No.10",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/03",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Retesting Survey - Cargo Gear 2In Progress",
       "CODE": ""
     },
     {
@@ -356,12 +350,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "CMS - Tank Vents And Overflow System // MACHINERY > Tank Vents And Overflow System",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/12",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Survey - Tail ShaftIn Progress",
-      "CODE": "CB06"
     },
     {
       "DUE_DATE": "2026/12/25",
@@ -962,198 +950,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "CMS - Emergency Diesel Engine // MACHINERY > Emergency Power Distribution System > Emergency Diesel Engine",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Cargo Ship Safety Equipment CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - International Ballast Water Management CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - International Air Pollution Prevention CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Cargo Ship Safety Radio CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Cargo Ship Safety Construction CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Document of Compliance for Ships Carrying Dangerous GoodsECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Class CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - International Load Line Certificate-78268.0000 MT-2ECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - International Oil Pollution Prevention Certificate (Annex I)-5076897-108ECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - International Sewage Pollution Prevention Certificate (Annex IV)ECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Statement of Compliance for Inventory of Hazardous Materials Certificate (EU)ECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Statement of Voluntary Compliance for Inventory of Hazardous MaterialsECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Automation Survey 5RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Hull Survey 5RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Machinery Survey 5RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Boiler Survey - Auxiliary Water Tube BoilerRemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Boiler Survey - Exhaust Gas EconomizerRemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Drydocking SurveyRemoteIn Progress",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Ballast Water Management Survey 4In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Carriage of Dangerous Goods Survey 4In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal IAPP Annex VI Survey 4RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal IOPP Annex I Survey 4In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal ISPP Annex IV Survey 4In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Load Line Survey 4In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Safety Construction Survey 4In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Safety Equipment Survey 5In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Safety Radio Survey 6RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Survey IHM 2RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 4RemoteIn Progress",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 4In Progress",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2026/12/25",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 4In Progress",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2037/01/21",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail ShaftIn Progress",
-      "CODE": "CB06"
     },
     {
       "DUE_DATE": "2099/12/31",

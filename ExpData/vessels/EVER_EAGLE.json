@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER EAGLE",
-  "last_updated": "2026-11-17",
-  "total_records": 186,
+  "last_updated": "2026-11-18",
+  "total_records": 173,
   "records": [
     {
       "DUE_DATE": "2026/06/22",
@@ -140,6 +140,120 @@
       "CLASS": "AB",
       "DESCRIPTION": "CMS - Steering Gear Unit - Relief Valve // MACHINERY > Steering Gear System > Steering Gear Unit - Relief Valve",
       "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Automation Survey 5RemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Hull Survey 5RemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Machinery Survey 5RemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Boiler Survey - Auxiliary Water Tube BoilerRemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Boiler Survey - Waste Heat BoilerRemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Drydocking SurveyRemoteIn Progress",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal Ballast Water Management Survey 2In Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal Carriage of Dangerous Goods Survey 5In Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal IAPP Annex VI Survey 5RemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal IOPP Annex I Survey 5In Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal ISPP Annex IV Survey 4In Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal Load Line Survey 5In Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal Safety Construction Survey 5In Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal Safety Equipment Survey 4In Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal Safety Radio Survey 2RemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Renewal Survey IHM 2RemoteIn Progress",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 5RemoteIn Progress",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 5In Progress",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 5In Progress",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2026/10/31",
@@ -898,213 +1012,9 @@
       "CODE": ""
     },
     {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - International Ballast Water Management CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Cargo Ship Safety Equipment CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Cargo Ship Safety Radio CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Document of Compliance for Ships Carrying Dangerous GoodsECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Class CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - International Load Line Certificate-75873.0000 MT-1ECCActive",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - International Oil Pollution Prevention Certificate (Annex I)-5621147-084ECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - International Air Pollution Prevention CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Cargo Ship Safety Construction CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Inventory of Hazardous Materials CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - International Sewage Pollution Prevention Certificate (Annex IV)ECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Statement of Compliance for Inventory of Hazardous Materials Certificate (EU)ECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Statement of Compliance for Inventory of Hazardous Materials CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Automation Survey 5RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Hull Survey 5RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Machinery Survey 5RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Boiler Survey - Auxiliary Water Tube BoilerRemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Boiler Survey - Waste Heat BoilerRemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Drydocking SurveyRemoteIn Progress",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Ballast Water Management Survey 2In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Carriage of Dangerous Goods Survey 5In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal IAPP Annex VI Survey 5RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal IOPP Annex I Survey 5In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal ISPP Annex IV Survey 4In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Load Line Survey 5In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Safety Construction Survey 5In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Safety Equipment Survey 4In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Safety Radio Survey 2RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Survey IHM 2RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 5RemoteIn Progress",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 5In Progress",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 5In Progress",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/11/30",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Non-Conformity : Requirement: \nPer SE Manual, PR-1001, Section 5.5 Routing maintenance, the C/O and 2/E need to ensure that the ship is properly maintained and operated so that it remains in conformance with all applicable international standards and requirements. \nEvidence: \nWhile walkabout inspection during this audit, the following hardware deficiencies were observed:\n1. No.1 C/H Mechanical Ventilation Trunk (STBD) in way of Fr. 260/ 2nd Deck was corroded/ holed.\n2. No.2 C/H Mechanical Ventilation Trunks (Port & STBD) in way of Fr. 228/ 2nd Deck were corroded/ holed.\n3. Cargo Hatch Cover No. 5H. CP, No. 7H. S, No. 9 H. CP, No. 12 H. C & No. 12 H. S’s side coaming lower edge were corroded/ holed.\n4. Hatch Coaming Stay Stiffener’s toe in way of FR. 248/ Upper Deck/ Port & STBD were fractured.\n5. Cable Penetration Device in way FR. 10/ 2nd Deck/ STBD was not properly sealed after modification (CCTV Installation).\nNature of NC:\nThe ship was not properly maintained and operated in compliance with the requirements.",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2028/11/30",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Non-Conformity : Requirement: \nAs per EMC Marine Circular (Ref. No. 2025-017), Attachment 1 \"Emergency Generator Test Items and Procedure Guide\", a risk assessment must be done before testing, and testing can only be carried out after ensuring safety of ship, personnel and cargo.\nEvidence: \nThere is no risk assessment record being found since the Marine Circular (Ref. No. 2025-017) was published.\nNature of NC: \nThe risk assessment was not carried out to identify such equipment and was categorized as a Nonconformity.",
-      "CODE": "CA19"
-    },
-    {
       "DUE_DATE": "2029/04/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
+      "DESCRIPTION": "Surv - Tailshaft Survey - Tail ShaftIn Progress",
       "CODE": "CB06"
     },
     {
@@ -1112,6 +1022,18 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
       "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirement: \nPer SE Manual, PR-1001, Section 5.5 Routing maintenance, the C/O and 2/E need to ensure that the ship is properly maintained and operated so that it remains in conformance with all applicable international standards and requirements. \nEvidence: \nWhile walkabout inspection during this audit, the following hardware deficiencies were observed:\n1. No.1 C/H Mechanical Ventilation Trunk (STBD) in way of Fr. 260/ 2nd Deck was corroded/ holed.\n2. No.2 C/H Mechanical Ventilation Trunks (Port & STBD) in way of Fr. 228/ 2nd Deck were corroded/ holed.\n3. Cargo Hatch Cover No. 5H. CP, No. 7H. S, No. 9 H. CP, No. 12 H. C & No. 12 H. S’s side coaming lower edge were corroded/ holed.\n4. Hatch Coaming Stay Stiffener’s toe in way of FR. 248/ Upper Deck/ Port & STBD were fractured.\n5. Cable Penetration Device in way FR. 10/ 2nd Deck/ STBD was not properly sealed after modification (CCTV Installation).\nNature of NC:\nThe ship was not properly maintained and operated in compliance with the requirements.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirement: \nAs per EMC Marine Circular (Ref. No. 2025-017), Attachment 1 \"Emergency Generator Test Items and Procedure Guide\", a risk assessment must be done before testing, and testing can only be carried out after ensuring safety of ship, personnel and cargo.\nEvidence: \nThere is no risk assessment record being found since the Marine Circular (Ref. No. 2025-017) was published.\nNature of NC: \nThe risk assessment was not carried out to identify such equipment and was categorized as a Nonconformity.",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2099/12/31",

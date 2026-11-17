@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LAWFUL",
-  "last_updated": "2026-11-17",
-  "total_records": 16,
+  "last_updated": "2026-11-18",
+  "total_records": 17,
   "records": [
     {
       "DUE_DATE": "2026/11/15",
@@ -10,10 +10,10 @@
       "CODE": ""
     },
     {
-      "DUE_DATE": "2026/12/01",
+      "DUE_DATE": "2026/12/14",
       "CLASS": "AB",
-      "DESCRIPTION": "ABS Outstanding : It was found that the bearing parts of No. 2 Sea Water Cooling Pump were damaged, and the pump was unable to build up the required pressure.",
-      "CODE": "CA19"
+      "DESCRIPTION": "Cert - Cargo Ship Safety Construction CertificateECCIn Progress",
+      "CODE": ""
     },
     {
       "DUE_DATE": "2027/02/19",
@@ -92,6 +92,12 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
       "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : It was found that the bearing parts of No. 2 Sea Water Cooling Pump were damaged, and the pump was unable to build up the required pressure.",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2099/12/31",

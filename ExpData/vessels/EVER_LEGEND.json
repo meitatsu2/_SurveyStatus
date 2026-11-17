@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER LEGEND",
-  "last_updated": "2026-11-17",
+  "last_updated": "2026-11-18",
   "total_records": 19,
   "records": [
     {
@@ -82,12 +82,6 @@
       "CODE": ""
     },
     {
-      "DUE_DATE": "2027/09/13",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Outstanding : The fractures of main engine foundation, No.3 Main Generator engine foundation and No.4 Main Generator engine foundation were repaired by welding which carried out by qualified welders in accordance with approved welding procedures and using approved welding consumables/materials. The details of welding repairs were listed in Items 512, 513, 514, 521, 522 and 523 through work order 7129219.   \nSince the repair plan provided by maker was not submitted and approved by ABS engineering office, the repaired area of engine foundations are to be monitoring by chief engineer regularly and reporting ABS if any deficiency.",
-      "CODE": "CA19"
-    },
-    {
       "DUE_DATE": "2028/06/13",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Drydocking SurveyRemote",
@@ -116,6 +110,12 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Tailshaft Survey - Tail Shaft",
       "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : The fractures of main engine foundation, No.3 Main Generator engine foundation and No.4 Main Generator engine foundation were repaired by welding which carried out by qualified welders in accordance with approved welding procedures and using approved welding consumables/materials. The details of welding repairs were listed in Items 512, 513, 514, 521, 522 and 523 through work order 7129219.   \nSince the repair plan provided by maker was not submitted and approved by ABS engineering office, the repaired area of engine foundations are to be monitoring by chief engineer regularly and reporting ABS if any deficiency.",
+      "CODE": "CA19"
     }
   ]
 }

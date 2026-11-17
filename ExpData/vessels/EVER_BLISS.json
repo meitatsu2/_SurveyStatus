@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER BLISS",
-  "last_updated": "2026-11-17",
+  "last_updated": "2026-11-18",
   "total_records": 10,
   "records": [
     {
@@ -34,16 +34,16 @@
       "CODE": "CB06"
     },
     {
-      "DUE_DATE": "2028/02/06",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Non-Conformity : Requirements:\nAccording to Panama MERCHANT MARINE CIRCULAR MMC-133 that once the SSA terminal has been configured with the main email address threat@amp.gob.pa, the company operator shall request access to platform by email to the e-mail address: info@panama-ssas.com, in order to receive an email from info@panama-ssas.com, with their access credentials and instructions for using the platform and be able to schedule the annual SSAS TEST. Only one annual SSAS TEST is mandatory and must be schedule through the following link: https://polestarglobal.force.com/SSAS/login, in a period no longer than twelve (12) calendar months.\nEvidence:\nThe last two SSAS tests through platform were conducted on 02-Sep-2025 and 12-Apr-2024 and that period was over 12 months.\nNature:\nThe PMA MMC-133 was not follow up.",
-      "CODE": "CA19"
-    },
-    {
       "DUE_DATE": "2032/09/02",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
       "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirements:\nAccording to Panama MERCHANT MARINE CIRCULAR MMC-133 that once the SSA terminal has been configured with the main email address threat@amp.gob.pa, the company operator shall request access to platform by email to the e-mail address: info@panama-ssas.com, in order to receive an email from info@panama-ssas.com, with their access credentials and instructions for using the platform and be able to schedule the annual SSAS TEST. Only one annual SSAS TEST is mandatory and must be schedule through the following link: https://polestarglobal.force.com/SSAS/login, in a period no longer than twelve (12) calendar months.\nEvidence:\nThe last two SSAS tests through platform were conducted on 02-Sep-2025 and 12-Apr-2024 and that period was over 12 months.\nNature:\nThe PMA MMC-133 was not follow up.",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2099/12/31",

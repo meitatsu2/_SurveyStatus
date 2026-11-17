@@ -1,14 +1,8 @@
 {
   "vessel_name": "EVER LUNAR",
-  "last_updated": "2026-11-17",
+  "last_updated": "2026-11-18",
   "total_records": 11,
   "records": [
-    {
-      "DUE_DATE": "2027/11/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
     {
       "DUE_DATE": "2027/11/27",
       "CLASS": "CR",
@@ -16,16 +10,10 @@
       "CODE": "CB04"
     },
     {
-      "DUE_DATE": "2030/01/08",
+      "DUE_DATE": "2027/11/27",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2030/01/08",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
     },
     {
       "DUE_DATE": "2030/01/08",
@@ -52,6 +40,18 @@
       "CODE": "CB06"
     },
     {
+      "DUE_DATE": "2030/01/08",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2030/01/08",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
       "DUE_DATE": "2030/02/27",
       "CLASS": "NK",
       "DESCRIPTION": "Class - Prop. Shaft Survey",
@@ -59,14 +59,14 @@
     },
     {
       "DUE_DATE": "2039/11/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
       "CODE": "CB06"
     },
     {
       "DUE_DATE": "2039/11/27",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]

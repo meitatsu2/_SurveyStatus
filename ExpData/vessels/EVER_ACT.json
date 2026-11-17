@@ -1,14 +1,8 @@
 {
   "vessel_name": "EVER ACT",
-  "last_updated": "2026-11-17",
-  "total_records": 13,
+  "last_updated": "2026-11-18",
+  "total_records": 12,
   "records": [
-    {
-      "DUE_DATE": "2026/09/09",
-      "CLASS": "LR",
-      "DESCRIPTION": "Surv - EGE1 - EXHAUST GAS ECONOMISER",
-      "CODE": ""
-    },
     {
       "DUE_DATE": "2027/03/13",
       "CLASS": "AB",

@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER LEADER",
-  "last_updated": "2026-11-17",
+  "last_updated": "2026-11-18",
   "total_records": 22,
   "records": [
     {
@@ -14,12 +14,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "Cert - Cargo Ship Safety Equipment CertificateECC",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/12",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Outstanding : The vessel's managing company requested a remote survey via email to report the No.1 PA/GA Control System malfunction.\nIn accordance with the Singapore MPA Shipping Circular No. 10 of 2025 and ABS survey process instructions, the survey was completed remotely based on digital data and information provided by the Owner and the vessel. The following items were verified and found satisfactory:\n- Normal operation of the No.2 PA/GA Control System.\nThe following documents were reviewed:\n- Master’s attestation\n- Risk assessment\n- Crew awareness records\n- Videos and photos demonstrating the No.2 PA/GA Control System operation and system status\n- Abandon drill record\n- Maintenance records of PA/GA system\n- Repair Plan\n- Company's confirmation of compliance with Singapore MPA Shipping Circular No. 10 of 2025\nUpon satisfactory verification of above, a Statutory Condition has been imposed in accordance with Shipping Circular No. 10 of 2025, permitting the vessel to continue operating with the defective No.1 PA/GA Control System, pending repairing at the earliest opportunity but no later than \n12 October 2026\n. A Short-Term Cargo Ship Safety Equipment Certificate valid until \n12 October 2026\n has been issued accordingly.\nThe Master has been notified of the following in accordance with Singapore MPA Shipping Circular No. 10 of 2025:\n- Taking into account of the malfunction equipment when planning and executing a voyage to a port where the repair or replace will be carried out.\n- Notifying the relevant competent authority when calling to a foreign port as per SOLAS regulation I/11(C).",
-      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2027/02/24",
@@ -124,16 +118,22 @@
       "CODE": "CB03"
     },
     {
-      "DUE_DATE": "2028/06/03",
-      "CLASS": "AB",
-      "DESCRIPTION": "ABS Non-Conformity : Requirement:\nIn accordance with MPA SHIPPING CIRCULAR NO. 2 of 2024, Singapore-registered ships (SRS) on the need for reporting of marine casualties and marine incidents. In addition to report to the MPA, ships are also required to report to the TSIB.\nEvidence:\nIn accordance with the sea protest, one(1) motor man was injured during maintenance of the M/E exhaust valve on 15 September 2025. The motor man’s two fingers of the right hand were fractured and hospitalized. The following documents were remained onboard: \n- Sea Protest signed by master dated on 15 September 2025.\n- Accident & Casualty Report was issued on 15 September 2025.\n- Accident Investigation Report was signed by the Master and Safety Officer on 15 September 2025.\n- Training and drill record to prevent a similar incident was dated on 16 September 2025.\n- Corrective and Preventative Action Report was final reviewed and closed out of the report by DP on 10 October 2025.\nHowever, there is no evidence onboard that MPA and TSIB were reported for the incident.\nNature:\nIt is the objective evidence that Singapore MPA Shipping Circular No.2 of 2024 was not complied with to the reporting requirement.",
-      "CODE": "CA19"
-    },
-    {
       "DUE_DATE": "2037/11/25",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
       "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : The vessel's managing company requested a remote survey via email to report the No.1 PA/GA Control System malfunction.\nIn accordance with the Singapore MPA Shipping Circular No. 10 of 2025 and ABS survey process instructions, the survey was completed remotely based on digital data and information provided by the Owner and the vessel. The following items were verified and found satisfactory:\n- Normal operation of the No.2 PA/GA Control System.\nThe following documents were reviewed:\n- Master’s attestation\n- Risk assessment\n- Crew awareness records\n- Videos and photos demonstrating the No.2 PA/GA Control System operation and system status\n- Abandon drill record\n- Maintenance records of PA/GA system\n- Repair Plan\n- Company's confirmation of compliance with Singapore MPA Shipping Circular No. 10 of 2025\nUpon satisfactory verification of above, a Statutory Condition has been imposed in accordance with Shipping Circular No. 10 of 2025, permitting the vessel to continue operating with the defective No.1 PA/GA Control System, pending repairing at the earliest opportunity but no later than \n12 October 2026\n. A Short-Term Cargo Ship Safety Equipment Certificate valid until \n12 October 2026\n has been issued accordingly.\nThe Master has been notified of the following in accordance with Singapore MPA Shipping Circular No. 10 of 2025:\n- Taking into account of the malfunction equipment when planning and executing a voyage to a port where the repair or replace will be carried out.\n- Notifying the relevant competent authority when calling to a foreign port as per SOLAS regulation I/11(C).",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirement:\nIn accordance with MPA SHIPPING CIRCULAR NO. 2 of 2024, Singapore-registered ships (SRS) on the need for reporting of marine casualties and marine incidents. In addition to report to the MPA, ships are also required to report to the TSIB.\nEvidence:\nIn accordance with the sea protest, one(1) motor man was injured during maintenance of the M/E exhaust valve on 15 September 2025. The motor man’s two fingers of the right hand were fractured and hospitalized. The following documents were remained onboard: \n- Sea Protest signed by master dated on 15 September 2025.\n- Accident & Casualty Report was issued on 15 September 2025.\n- Accident Investigation Report was signed by the Master and Safety Officer on 15 September 2025.\n- Training and drill record to prevent a similar incident was dated on 16 September 2025.\n- Corrective and Preventative Action Report was final reviewed and closed out of the report by DP on 10 October 2025.\nHowever, there is no evidence onboard that MPA and TSIB were reported for the incident.\nNature:\nIt is the objective evidence that Singapore MPA Shipping Circular No.2 of 2024 was not complied with to the reporting requirement.",
+      "CODE": "CA19"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "vessel_name": "UNI-ADROIT",
-  "last_updated": "2026-11-17",
+  "last_updated": "2026-11-18",
   "total_records": 22,
   "records": [
     {
       "DUE_DATE": "2026/12/14",
       "CLASS": "CR",
-      "DESCRIPTION": "CR - It is recommended that the defective MF/HF equipment be dealt with as soon as possible but not later than 14 December 2026 granted by the flag Administration.",
+      "DESCRIPTION": "CR - Occasional survey of Cargo Ship Safety Radio\nThis is to report that the undersigned to this Society did, at the request of the Owner, attend on board the\nsubject vessel, whilst she was berthed at Kaohsiung on 25/09/2026 in order to verify the special conditions as\nper the Dispensation Application DOC. NO. ES-2026-0626 which was granted by the Flag Administration on\n21/09/2026 for the defective MF/HF equipment. For details, please see the report as follows:\n\n1. All responsible crew members are made aware of this defective equipment through onboard training and the\ntraining record was reviewed by undersigned surveyor satisfactorily.\n2. The additional control measures to reduce risk as stated in Risk Assessment Report have been established\nand be followed.\n3. Both VHF radio communication systems have been confirmed to be fully operational and are to be\nmaintained available for radio communication and DSC calling.\n4. The vessel’s INMARSAT-C, FBB and dual GX satellite communication systems are to be maintained fully\noperational and available as alternative means for voice communication, distress/safety-related\ncommunications, and e-mail transmission.\nUpon the completion of above-mentioned examinations, it is recommended that the defective MF/HF\nequipment be dealt with as soon as possible but not later than 14/12/2026.",
       "CODE": "CA19"
     },
     {
@@ -65,24 +65,6 @@
     },
     {
       "DUE_DATE": "2028/04/19",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/04/19",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2028/04/19",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/04/19",
       "CLASS": "CR",
       "DESCRIPTION": "CR - It is recommended that the holed bottom plating, approximately 1 cm in diameter, between Fr. 18 and 19 in way of bilge tank be permanently repaired as soon as possible but not later than 19/04/2028, and that the temporary repair be further examined at the next coming annual survey.",
       "CODE": "CA19"
@@ -118,6 +100,24 @@
       "CODE": "CB03"
     },
     {
+      "DUE_DATE": "2028/04/19",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/04/19",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/04/19",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
       "DUE_DATE": "2031/03/04",
       "CLASS": "NK",
       "DESCRIPTION": "Class - Prop. Shaft Survey",
@@ -125,14 +125,14 @@
     },
     {
       "DUE_DATE": "2038/03/02",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
       "CODE": "CB06"
     },
     {
       "DUE_DATE": "2038/03/02",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]

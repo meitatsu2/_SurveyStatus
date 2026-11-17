@@ -1,26 +1,8 @@
 {
   "vessel_name": "EVER TOP",
-  "last_updated": "2026-11-17",
-  "total_records": 22,
+  "last_updated": "2026-11-18",
+  "total_records": 20,
   "records": [
-    {
-      "DUE_DATE": "2027/01/13",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Boiler Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/13",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2027/01/13",
-      "CLASS": "NK",
-      "DESCRIPTION": "Anti-Fouling Systems - Periodical Survey",
-      "CODE": ""
-    },
     {
       "DUE_DATE": "2027/04/14",
       "CLASS": "NK",
@@ -122,6 +104,12 @@
       "CLASS": "NK",
       "DESCRIPTION": "Class - Special Survey",
       "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/01/14",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
     },
     {
       "DUE_DATE": "2029/01/14",

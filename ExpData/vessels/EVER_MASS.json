@@ -1,14 +1,8 @@
 {
   "vessel_name": "EVER MASS",
-  "last_updated": "2026-11-17",
-  "total_records": 4,
+  "last_updated": "2026-11-18",
+  "total_records": 3,
   "records": [
-    {
-      "DUE_DATE": "2026/11/20",
-      "CLASS": "LR",
-      "DESCRIPTION": "LR - SPEED LOG",
-      "CODE": "CA19"
-    },
     {
       "DUE_DATE": "2027/05/27",
       "CLASS": "LR",

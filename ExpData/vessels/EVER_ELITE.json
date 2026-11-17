@@ -1,72 +1,72 @@
 {
   "vessel_name": "EVER ELITE",
-  "last_updated": "2026-11-17",
+  "last_updated": "2026-11-18",
   "total_records": 155,
   "records": [
     {
       "DUE_DATE": "2027/01/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Automation Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual Automation Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/01/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Ballast Water Management Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual Ballast Water Management Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/01/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Carriage of Dangerous Goods Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual Carriage of Dangerous Goods Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/01/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Hull Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual Hull Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/01/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual IAPP Annex VI Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual IAPP Annex VI Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/01/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual IOPP Annex I Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual IOPP Annex I Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/01/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Load Line Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual Load Line Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/01/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Machinery Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual Machinery Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/01/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Safety Construction Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual Safety Construction Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/01/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Safety Equipment Survey 4Remote",
+      "DESCRIPTION": "Surv - Annual Safety Equipment Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/01/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Periodical Safety Radio Survey 4Remote",
+      "DESCRIPTION": "Surv - Periodical Safety Radio Survey 4RemoteIn Progress",
       "CODE": ""
     },
     {
@@ -888,19 +888,19 @@
     {
       "DUE_DATE": "2027/10/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 5Remote",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 5RemoteIn Progress",
       "CODE": "CB03"
     },
     {
       "DUE_DATE": "2027/10/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 5",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 5In Progress",
       "CODE": "CB03"
     },
     {
       "DUE_DATE": "2027/10/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 5",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 5In Progress",
       "CODE": "CB03"
     },
     {
