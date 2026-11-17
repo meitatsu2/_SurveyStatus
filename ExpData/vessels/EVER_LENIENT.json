@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LENIENT",
-  "last_updated": "2026-11-16",
-  "total_records": 7,
+  "last_updated": "2026-11-17",
+  "total_records": 18,
   "records": [
     {
       "DUE_DATE": "2026/12/21",
@@ -32,6 +32,72 @@
       "CLASS": "LR",
       "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
       "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/05/16",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - AS - ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/16",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - ITSS - HULL INTERMEDIATE",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/16",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - EPAS - EP ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/16",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - PLI - LOAD LINE INSPECTION",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/16",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - SCI - SAFCON INTERMEDIATE",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/16",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - SEI - SAFETY EQUIPMENT PERIODICAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/16",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - RTP - RADIOTEL. PERIODICAL\n*",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/16",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - DIA - DANGEROUS GOODS REG. 19 ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/16",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - MOI - MARPOL I (OIL) INTERMEDIATE",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/16",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - MAI - MARPOL VI (AIR) INTERMEDIATE",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/16",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - BWI - BALLAST WATER INTERMEDIATE",
+      "CODE": ""
     },
     {
       "DUE_DATE": "2029/02/16",
