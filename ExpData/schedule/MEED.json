@@ -1,0 +1,140 @@
+{
+  "scode": "MEED",
+  "last_updated": "2026-11-18",
+  "total_records": 19,
+  "records": [
+    {
+      "Line": "CES",
+      "Voyage": "0823-009W",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20260824/0712 (一)",
+      "ETD Date/Time": "20260825/0115"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0823-009W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20260829/1620 (六)",
+      "ETD Date/Time": "20260830/1315"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0823-009E",
+      "Port Calling": "GBFLX",
+      "ETA Date/Time": "20260928/0139 (一)",
+      "ETD Date/Time": "20260929/1340"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0823-009E",
+      "Port Calling": "NLRDM",
+      "ETA Date/Time": "20260930/0054 (三)",
+      "ETD Date/Time": "20261002/1750"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0823-009E",
+      "Port Calling": "BEANW",
+      "ETA Date/Time": "20261005/0230 (一)",
+      "ETD Date/Time": "20261006/2000"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0823-009E",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261103/1815 (二)",
+      "ETD Date/Time": "20261106/1850"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1481-010E",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20261110/0842 (二)",
+      "ETD Date/Time": "20261111/0700"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1481-010E",
+      "Port Calling": "VNVUU",
+      "ETA Date/Time": "20261114/1952 (六)",
+      "ETD Date/Time": "20261115/2000"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1481-010E",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261118/1530 (三)",
+      "ETD Date/Time": "20261119/0530"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1481-010E",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261119/2200 (四)",
+      "ETD Date/Time": "20261121/0400"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1481-010E",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20261125/1500 (三)",
+      "ETD Date/Time": "20261127/0300"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1481-010W",
+      "Port Calling": "USLAX",
+      "ETA Date/Time": "20261208/0600 (二)",
+      "ETD Date/Time": "20261212/1800"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1481-010W",
+      "Port Calling": "USOKL",
+      "ETA Date/Time": "20261214/1400 (一)",
+      "ETD Date/Time": "20261217/0600"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1481-010W",
+      "Port Calling": "USTCM",
+      "ETA Date/Time": "20261220/1700 (日)",
+      "ETD Date/Time": "20261222/2200"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1481-010W",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270106/1300 (三)",
+      "ETD Date/Time": "20270108/1500"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1481-010W",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20270112/0800 (二)",
+      "ETD Date/Time": "20270113/1000"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1481-010W",
+      "Port Calling": "VNVUU",
+      "ETA Date/Time": "20270115/1000 (五)",
+      "ETD Date/Time": "20270116/1200"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1481-010W",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20270119/1800 (二)",
+      "ETD Date/Time": "20270120/1100"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1481-010W",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20270121/1300 (四)",
+      "ETD Date/Time": "20270123/1200"
+    }
+  ]
+}

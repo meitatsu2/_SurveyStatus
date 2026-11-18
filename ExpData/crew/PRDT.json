@@ -1,0 +1,107 @@
+{
+  "scode": "PRDT",
+  "last_updated": "2026-11-18",
+  "total_records": 20,
+  "records": [
+    {
+      "Rank": "MS",
+      "O/B": "196.0",
+      "Name": "JUDILLA,PERFECTO"
+    },
+    {
+      "Rank": "1O",
+      "O/B": "199.0",
+      "Name": "NGUYEN,SY HUNG"
+    },
+    {
+      "Rank": "2O",
+      "O/B": "55.0",
+      "Name": "LE,VAN TIEN"
+    },
+    {
+      "Rank": "3O",
+      "O/B": "98.0",
+      "Name": "NGUYEN,VAN THANH"
+    },
+    {
+      "Rank": "5O",
+      "O/B": "98.0",
+      "Name": "NGUYEN,DUC TUAN"
+    },
+    {
+      "Rank": "CE",
+      "O/B": "175.0",
+      "Name": "SASING,NIXON VILLAMOR"
+    },
+    {
+      "Rank": "2E",
+      "O/B": "149.0",
+      "Name": "NGUYEN,VAN TUYEN"
+    },
+    {
+      "Rank": "3E",
+      "O/B": "98.0",
+      "Name": "PHAM,MINH THANG"
+    },
+    {
+      "Rank": "3E",
+      "O/B": "82.0",
+      "Name": "NGUYEN,DINH THE"
+    },
+    {
+      "Rank": "4E",
+      "O/B": "82.0",
+      "Name": "NGO,VAN HIEU"
+    },
+    {
+      "Rank": "BS",
+      "O/B": "59.0",
+      "Name": "ONAYAN,BHRUTE FRANCISCO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "44.0",
+      "Name": "NUSKI, FAJAR"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "174.0",
+      "Name": "NGUYEN,LONG CHAU"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "175.0",
+      "Name": "SUTRISNO,AJI"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "48.0",
+      "Name": "BUI,XUAN LONG"
+    },
+    {
+      "Rank": "OS",
+      "O/B": "184.0",
+      "Name": "HOANG,VAN DAI"
+    },
+    {
+      "Rank": "OS",
+      "O/B": "184.0",
+      "Name": "NGUYEN,NGOC THIEN"
+    },
+    {
+      "Rank": "MM",
+      "O/B": "33.0",
+      "Name": "TRAN,DUC HIEU"
+    },
+    {
+      "Rank": "MM",
+      "O/B": "110.0",
+      "Name": "PRABOWO,HANIF  SETYO"
+    },
+    {
+      "Rank": "CA",
+      "O/B": "90.0",
+      "Name": "FABI,ALBERT  CUIZON"
+    }
+  ]
+}

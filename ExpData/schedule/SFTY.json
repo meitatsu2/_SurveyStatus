@@ -1,0 +1,196 @@
+{
+  "scode": "SFTY",
+  "last_updated": "2026-11-18",
+  "total_records": 27,
+  "records": [
+    {
+      "Line": "AUG",
+      "Voyage": "125E",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20260826/1210 (三)",
+      "ETD Date/Time": "20260826/2130"
+    },
+    {
+      "Line": "AUG",
+      "Voyage": "125E",
+      "Port Calling": "KRPUS",
+      "ETA Date/Time": "20260902/1410 (三)",
+      "ETD Date/Time": "20260903/2312"
+    },
+    {
+      "Line": "AUG",
+      "Voyage": "125E",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20260910/1000 (四)",
+      "ETD Date/Time": "20260911/0300"
+    },
+    {
+      "Line": "AUG",
+      "Voyage": "125W",
+      "Port Calling": "USHUS",
+      "ETA Date/Time": "20261015/1412 (四)",
+      "ETD Date/Time": "20261018/0154"
+    },
+    {
+      "Line": "AUG",
+      "Voyage": "125W",
+      "Port Calling": "USMBL",
+      "ETA Date/Time": "20261020/0506 (二)",
+      "ETD Date/Time": "20261020/1948"
+    },
+    {
+      "Line": "AUG",
+      "Voyage": "125W",
+      "Port Calling": "PAPAN",
+      "ETA Date/Time": "20261024/0306 (六)",
+      "ETD Date/Time": "20261024/2324"
+    },
+    {
+      "Line": "AUG",
+      "Voyage": "125W",
+      "Port Calling": "KRPUS",
+      "ETA Date/Time": "20261125/2100 (三)",
+      "ETD Date/Time": "20261126/2100"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0126S",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20261127/1400 (五)",
+      "ETD Date/Time": "20261128/0800"
+    },
+    {
+      "Line": "AUG",
+      "Voyage": "125W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20261129/2130 (日)",
+      "ETD Date/Time": "20261130/2130"
+    },
+    {
+      "Line": "AUG",
+      "Voyage": "125W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261201/1130 (二)",
+      "ETD Date/Time": "20261201/2130"
+    },
+    {
+      "Line": "AUG",
+      "Voyage": "125W",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20261207/0530 (一)",
+      "ETD Date/Time": "20261208/0530"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0126N",
+      "Port Calling": "AUSYD",
+      "ETA Date/Time": "20261221/2030 (一)",
+      "ETD Date/Time": "20261223/2030"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0126N",
+      "Port Calling": "AUMEL",
+      "ETA Date/Time": "20261226/2030 (六)",
+      "ETD Date/Time": "20261228/2030"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0126N",
+      "Port Calling": "AUBBN",
+      "ETA Date/Time": "20261230/2000 (三)",
+      "ETD Date/Time": "20270101/0000"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0127S",
+      "Port Calling": "KRPUS",
+      "ETA Date/Time": "20270113/1000 (三)",
+      "ETD Date/Time": "20270114/1300"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0127S",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20270116/0800 (六)",
+      "ETD Date/Time": "20270117/0600"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0127S",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270118/2000 (一)",
+      "ETD Date/Time": "20270120/0000"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0127S",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270121/0000 (四)",
+      "ETD Date/Time": "20270121/1400"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0127S",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20270123/2100 (六)",
+      "ETD Date/Time": "20270124/1500"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0127N",
+      "Port Calling": "AUSYD",
+      "ETA Date/Time": "20270207/2100 (日)",
+      "ETD Date/Time": "20270209/1400"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0127N",
+      "Port Calling": "AUMEL",
+      "ETA Date/Time": "20270212/0300 (五)",
+      "ETD Date/Time": "20270214/0600"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0127N",
+      "Port Calling": "AUBBN",
+      "ETA Date/Time": "20270217/1000 (三)",
+      "ETD Date/Time": "20270218/2000"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0127N",
+      "Port Calling": "KRPUS",
+      "ETA Date/Time": "20270303/1000 (三)",
+      "ETD Date/Time": "20270304/1300"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0127N",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20270306/0800 (六)",
+      "ETD Date/Time": "20270307/0600"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0127N",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270308/2000 (一)",
+      "ETD Date/Time": "20270310/0000"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0127N",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270311/0000 (四)",
+      "ETD Date/Time": "20270311/1400"
+    },
+    {
+      "Line": "NEAX",
+      "Voyage": "0127N",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20270313/2100 (六)",
+      "ETD Date/Time": "20270314/1500"
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "scode": "PRID",
+  "last_updated": "2026-11-18",
+  "total_records": 100,
+  "records": [
+    {
+      "Line": "IAS",
+      "Voyage": "0155-428W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20260818/2230 (二)",
+      "ETD Date/Time": "20260820/0350"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0155-428W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20260820/0955 (四)",
+      "ETD Date/Time": "20260820/1650"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0155-428W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20260821/1745 (五)",
+      "ETD Date/Time": "20260822/0105"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0157-429W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20260824/2130 (一)",
+      "ETD Date/Time": "20260826/2250"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0157-429W",
+      "Port Calling": "GRTKI",
+      "ETA Date/Time": "20260828/1100 (五)",
+      "ETD Date/Time": "20260829/1030"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0157-429W",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20260830/1340 (日)",
+      "ETD Date/Time": "20260831/1150"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0157-429W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20260831/1720 (一)",
+      "ETD Date/Time": "20260901/0725"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0157-429W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20260901/1325 (二)",
+      "ETD Date/Time": "20260901/2125"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0157-429W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20260902/2000 (三)",
+      "ETD Date/Time": "20260903/0230"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0159-430W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20260907/1720 (一)",
+      "ETD Date/Time": "20260909/0645"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0159-430W",
+      "Port Calling": "GRTKI",
+      "ETA Date/Time": "20260911/1155 (五)",
+      "ETD Date/Time": "20260912/2000"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0159-430W",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20260914/0050 (一)",
+      "ETD Date/Time": "20260915/0335"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0159-430W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20260916/0001 (三)",
+      "ETD Date/Time": "20260916/1245"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0159-430W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20260916/1955 (三)",
+      "ETD Date/Time": "20260917/0455"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0159-430W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20260918/0210 (五)",
+      "ETD Date/Time": "20260918/0905"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0161-431W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20260921/1515 (一)",
+      "ETD Date/Time": "20260923/1310"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0161-431W",
+      "Port Calling": "GRTKI",
+      "ETA Date/Time": "20260925/1230 (五)",
+      "ETD Date/Time": "20260926/1500"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0161-431W",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20260929/0100 (二)",
+      "ETD Date/Time": "20260930/0425"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0161-431W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20260930/1000 (三)",
+      "ETD Date/Time": "20260930/1945"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0161-431W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20261001/0220 (四)",
+      "ETD Date/Time": "20261001/1245"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0161-431W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20261002/1025 (五)",
+      "ETD Date/Time": "20261002/1730"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0163-432W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261004/1735 (日)",
+      "ETD Date/Time": "20261006/0035"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0163-432W",
+      "Port Calling": "GRTKI",
+      "ETA Date/Time": "20261009/1115 (五)",
+      "ETD Date/Time": "20261010/1400"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0163-432W",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20261011/1720 (日)",
+      "ETD Date/Time": "20261013/0410"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0163-432W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20261014/0120 (三)",
+      "ETD Date/Time": "20261014/1340"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0163-432W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20261014/2000 (三)",
+      "ETD Date/Time": "20261015/0330"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0163-432W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20261016/0230 (五)",
+      "ETD Date/Time": "20261016/0710"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0165-433W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261019/2220 (一)",
+      "ETD Date/Time": "20261021/0840"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0165-433W",
+      "Port Calling": "GRTKI",
+      "ETA Date/Time": "20261023/1630 (五)",
+      "ETD Date/Time": "20261024/2020"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0165-433W",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20261026/0625 (一)",
+      "ETD Date/Time": "20261029/0425"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0165-433W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20261029/1025 (四)",
+      "ETD Date/Time": "20261029/2045"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0165-433W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20261030/0240 (五)",
+      "ETD Date/Time": "20261030/1230"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0165-433W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20261031/1000 (六)",
+      "ETD Date/Time": "20261031/1515"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0167-434W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261102/0930 (一)",
+      "ETD Date/Time": "20261104/0640"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0167-434W",
+      "Port Calling": "GRTKI",
+      "ETA Date/Time": "20261106/0900 (五)",
+      "ETD Date/Time": "20261107/0940"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0167-434W",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20261108/1500 (日)",
+      "ETD Date/Time": "20261109/0750"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0167-434W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20261109/1720 (一)",
+      "ETD Date/Time": "20261110/1530"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0167-434W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20261110/2240 (二)",
+      "ETD Date/Time": "20261111/0700"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0167-434W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20261112/0600 (四)",
+      "ETD Date/Time": "20261112/1330"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0169-435W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261116/0015 (一)",
+      "ETD Date/Time": "20261117/1025"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0169-435W",
+      "Port Calling": "GRTKI",
+      "ETA Date/Time": "20261120/0700 (五)",
+      "ETD Date/Time": "20261121/1200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0169-435W",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20261122/1400 (日)",
+      "ETD Date/Time": "20261123/1000"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0169-435W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20261123/1500 (一)",
+      "ETD Date/Time": "20261124/0200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0169-435W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20261124/0700 (二)",
+      "ETD Date/Time": "20261124/1800"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0169-435W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20261125/1500 (三)",
+      "ETD Date/Time": "20261126/0100"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0171-436W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261130/0700 (一)",
+      "ETD Date/Time": "20261201/2300"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0171-436W",
+      "Port Calling": "GRTKI",
+      "ETA Date/Time": "20261204/0400 (五)",
+      "ETD Date/Time": "20261205/2300"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0171-436W",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20261207/0100 (一)",
+      "ETD Date/Time": "20261208/1800"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0171-436W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20261208/2300 (二)",
+      "ETD Date/Time": "20261209/2000"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0171-436W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20261210/0100 (四)",
+      "ETD Date/Time": "20261210/2200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0171-436W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20261211/2300 (五)",
+      "ETD Date/Time": "20261213/0100"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0173-437W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261214/1500 (一)",
+      "ETD Date/Time": "20261217/0200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0173-437W",
+      "Port Calling": "GRTKI",
+      "ETA Date/Time": "20261218/0400 (五)",
+      "ETD Date/Time": "20261219/2300"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0173-437W",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20261221/0100 (一)",
+      "ETD Date/Time": "20261222/1800"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0173-437W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20261222/2300 (二)",
+      "ETD Date/Time": "20261223/2000"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0173-437W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20261224/0100 (四)",
+      "ETD Date/Time": "20261224/2200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0173-437W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20261225/2300 (五)",
+      "ETD Date/Time": "20261227/0100"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0175-438W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261228/1500 (一)",
+      "ETD Date/Time": "20261231/0200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0175-438W",
+      "Port Calling": "GRTKI",
+      "ETA Date/Time": "20270101/0400 (五)",
+      "ETD Date/Time": "20270102/2300"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0175-438W",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20270104/0100 (一)",
+      "ETD Date/Time": "20270105/1800"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0175-438W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20270105/2300 (二)",
+      "ETD Date/Time": "20270106/2000"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0175-438W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20270107/0100 (四)",
+      "ETD Date/Time": "20270107/2200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0175-438W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20270108/2300 (五)",
+      "ETD Date/Time": "20270110/0100"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0177-439W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270111/1500 (一)",
+      "ETD Date/Time": "20270114/0200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0177-439W",
+      "Port Calling": "GRTKI",
+      "ETA Date/Time": "20270115/0400 (五)",
+      "ETD Date/Time": "20270116/2300"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0177-439W",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20270118/0100 (一)",
+      "ETD Date/Time": "20270119/1800"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0177-439W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20270119/2300 (二)",
+      "ETD Date/Time": "20270120/2000"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0177-439W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20270121/0100 (四)",
+      "ETD Date/Time": "20270121/2200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0177-439W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20270122/2300 (五)",
+      "ETD Date/Time": "20270124/0100"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0179-440W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270125/1500 (一)",
+      "ETD Date/Time": "20270128/0200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0179-440W",
+      "Port Calling": "GRTKI",
+      "ETA Date/Time": "20270129/0400 (五)",
+      "ETD Date/Time": "20270130/2300"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0179-440W",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20270201/0100 (一)",
+      "ETD Date/Time": "20270202/1800"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0179-440W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20270202/2300 (二)",
+      "ETD Date/Time": "20270203/2000"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0179-440W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20270204/0100 (四)",
+      "ETD Date/Time": "20270204/2200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0179-440W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20270205/2300 (五)",
+      "ETD Date/Time": "20270207/0100"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0181-441W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270208/1500 (一)",
+      "ETD Date/Time": "20270211/0200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0181-441W",
+      "Port Calling": "GRTKI",
+      "ETA Date/Time": "20270212/0400 (五)",
+      "ETD Date/Time": "20270213/2300"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0181-441W",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20270215/0100 (一)",
+      "ETD Date/Time": "20270216/1800"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0181-441W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20270216/2300 (二)",
+      "ETD Date/Time": "20270217/2000"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0181-441W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20270218/0100 (四)",
+      "ETD Date/Time": "20270218/2200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0181-441W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20270219/2300 (五)",
+      "ETD Date/Time": "20270221/0100"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0183-442W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270222/1500 (一)",
+      "ETD Date/Time": "20270225/0200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0183-442W",
+      "Port Calling": "GRTKI",
+      "ETA Date/Time": "20270226/0400 (五)",
+      "ETD Date/Time": "20270227/2300"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0183-442W",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20270301/0100 (一)",
+      "ETD Date/Time": "20270302/1800"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0183-442W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20270302/2300 (二)",
+      "ETD Date/Time": "20270303/2000"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0183-442W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20270304/0100 (四)",
+      "ETD Date/Time": "20270304/2200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0183-442W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20270305/2300 (五)",
+      "ETD Date/Time": "20270307/0100"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0185-443W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270308/1500 (一)",
+      "ETD Date/Time": "20270311/0200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0185-443W",
+      "Port Calling": "GRTKI",
+      "ETA Date/Time": "20270312/0400 (五)",
+      "ETD Date/Time": "20270313/2300"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0185-443W",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20270315/0100 (一)",
+      "ETD Date/Time": "20270316/1800"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0185-443W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20270316/2300 (二)",
+      "ETD Date/Time": "20270317/2000"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0185-443W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20270318/0100 (四)",
+      "ETD Date/Time": "20270318/2200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0185-443W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20270319/2300 (五)",
+      "ETD Date/Time": "20270321/0100"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0187-444W",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270322/1500 (一)",
+      "ETD Date/Time": "20270325/0200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0187-444W",
+      "Port Calling": "GRTKI",
+      "ETA Date/Time": "20270326/0400 (五)",
+      "ETD Date/Time": "20270327/2300"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0187-444W",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20270329/0100 (一)",
+      "ETD Date/Time": "20270330/1800"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0187-444W",
+      "Port Calling": "TRIVG",
+      "ETA Date/Time": "20270330/2300 (二)",
+      "ETD Date/Time": "20270331/2000"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0187-444W",
+      "Port Calling": "TRGMK",
+      "ETA Date/Time": "20270401/0100 (四)",
+      "ETD Date/Time": "20270401/2200"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0187-444W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20270402/2300 (五)",
+      "ETD Date/Time": "20270404/0100"
+    },
+    {
+      "Line": "IAS",
+      "Voyage": "0187-444W",
+      "Port Calling": "GRPIR B",
+      "ETA Date/Time": "20270405/1500 (一)",
+      "ETD Date/Time": "20270408/0200"
+    }
+  ]
+}

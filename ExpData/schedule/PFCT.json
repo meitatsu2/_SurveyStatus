@@ -1,0 +1,504 @@
+{
+  "scode": "PFCT",
+  "last_updated": "2026-11-18",
+  "total_records": 71,
+  "records": [
+    {
+      "Line": "CPM",
+      "Voyage": "0664-651N",
+      "Port Calling": "MYBUV",
+      "ETA Date/Time": "20260818/0506 (二)",
+      "ETD Date/Time": "20260819/2230"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0666-652S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260823/2350 (日)",
+      "ETD Date/Time": "20260825/1115"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0666-652N",
+      "Port Calling": "BNMRI",
+      "ETA Date/Time": "20260830/2120 (日)",
+      "ETD Date/Time": "20260831/1342"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0666-652N",
+      "Port Calling": "MYBUV",
+      "ETA Date/Time": "20260901/0819 (二)",
+      "ETD Date/Time": "20260902/0530"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0666-652N",
+      "Port Calling": "MYKOK",
+      "ETA Date/Time": "20260911/1930 (五)",
+      "ETD Date/Time": "20260912/2310"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0670-653S",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20260916/0255 (三)",
+      "ETD Date/Time": "20260916/1628"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0670-653S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260918/1610 (五)",
+      "ETD Date/Time": "20260919/0852"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0670-653N",
+      "Port Calling": "PHBTG",
+      "ETA Date/Time": "20260921/0936 (一)",
+      "ETD Date/Time": "20260921/2232"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0670-653N",
+      "Port Calling": "BNMRI",
+      "ETA Date/Time": "20260923/2125 (三)",
+      "ETD Date/Time": "20260924/1500"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0670-653N",
+      "Port Calling": "MYBUV",
+      "ETA Date/Time": "20260925/1120 (五)",
+      "ETD Date/Time": "20260926/1630"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0672-654S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260930/1800 (三)",
+      "ETD Date/Time": "20261002/0119"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0672-654S",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261003/1205 (六)",
+      "ETD Date/Time": "20261004/0533"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0672-654N",
+      "Port Calling": "MYKOK",
+      "ETA Date/Time": "20261007/0810 (三)",
+      "ETD Date/Time": "20261009/0930"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0672-654N",
+      "Port Calling": "BNMRI",
+      "ETA Date/Time": "20261010/1520 (六)",
+      "ETD Date/Time": "20261011/0325"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0672-654N",
+      "Port Calling": "MYBUV",
+      "ETA Date/Time": "20261011/2120 (日)",
+      "ETD Date/Time": "20261013/0200"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0674-655S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261016/1750 (五)",
+      "ETD Date/Time": "20261017/1640"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0674-655N",
+      "Port Calling": "MYKOK",
+      "ETA Date/Time": "20261021/2030 (三)",
+      "ETD Date/Time": "20261023/0220"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0674-655N",
+      "Port Calling": "BNMRI",
+      "ETA Date/Time": "20261024/0035 (六)",
+      "ETD Date/Time": "20261024/1410"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0674-655N",
+      "Port Calling": "MYBUV",
+      "ETA Date/Time": "20261026/0507 (一)",
+      "ETD Date/Time": "20261027/0930"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0676-656S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261031/1425 (六)",
+      "ETD Date/Time": "20261101/1645"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0676-656N",
+      "Port Calling": "MYKOK",
+      "ETA Date/Time": "20261104/2130 (三)",
+      "ETD Date/Time": "20261105/1035"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0676-656N",
+      "Port Calling": "BNMRI",
+      "ETA Date/Time": "20261106/2007 (五)",
+      "ETD Date/Time": "20261107/1010"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0676-656N",
+      "Port Calling": "MYBUV",
+      "ETA Date/Time": "20261108/2102 (日)",
+      "ETD Date/Time": "20261111/0330"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0678-657S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261114/2100 (六)",
+      "ETD Date/Time": "20261115/1538"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0678-657S",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261116/1735 (一)",
+      "ETD Date/Time": "20261117/0559"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0678-657N",
+      "Port Calling": "PHDVA",
+      "ETA Date/Time": "20261124/1800 (二)",
+      "ETD Date/Time": "20261125/1400"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0678-657N",
+      "Port Calling": "BNMRI",
+      "ETA Date/Time": "20261128/0730 (六)",
+      "ETD Date/Time": "20261128/2130"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0678-657N",
+      "Port Calling": "MYBUV",
+      "ETA Date/Time": "20261129/1830 (日)",
+      "ETD Date/Time": "20261201/0230"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0678-657N",
+      "Port Calling": "PHBTG",
+      "ETA Date/Time": "20261203/0500 (四)",
+      "ETD Date/Time": "20261204/0100"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0680-658S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261205/2330 (六)",
+      "ETD Date/Time": "20261206/2130"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0680-658S",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261207/2300 (一)",
+      "ETD Date/Time": "20261208/1500"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0680-658N",
+      "Port Calling": "MYKOK",
+      "ETA Date/Time": "20261211/1630 (五)",
+      "ETD Date/Time": "20261213/1830"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0680-658N",
+      "Port Calling": "BNMRI",
+      "ETA Date/Time": "20261214/0530 (一)",
+      "ETD Date/Time": "20261214/1930"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0680-658N",
+      "Port Calling": "MYBUV",
+      "ETA Date/Time": "20261215/1630 (二)",
+      "ETD Date/Time": "20261217/0030"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0682-659S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261220/1630 (日)",
+      "ETD Date/Time": "20261221/1430"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0682-659S",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261222/1600 (二)",
+      "ETD Date/Time": "20261223/0800"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0682-659N",
+      "Port Calling": "MYKOK",
+      "ETA Date/Time": "20261226/0930 (六)",
+      "ETD Date/Time": "20261228/1130"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0682-659N",
+      "Port Calling": "BNMRI",
+      "ETA Date/Time": "20261228/2230 (一)",
+      "ETD Date/Time": "20261229/1230"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0682-659N",
+      "Port Calling": "MYBUV",
+      "ETA Date/Time": "20261230/0930 (三)",
+      "ETD Date/Time": "20261231/1730"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0684-660S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270104/0930 (一)",
+      "ETD Date/Time": "20270105/0730"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0684-660S",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20270106/0900 (三)",
+      "ETD Date/Time": "20270107/0100"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0684-660N",
+      "Port Calling": "MYKOK",
+      "ETA Date/Time": "20270110/0230 (日)",
+      "ETD Date/Time": "20270112/0430"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0684-660N",
+      "Port Calling": "BNMRI",
+      "ETA Date/Time": "20270112/1530 (二)",
+      "ETD Date/Time": "20270113/0530"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0684-660N",
+      "Port Calling": "MYBUV",
+      "ETA Date/Time": "20270118/0830 (一)",
+      "ETD Date/Time": "20270118/0930"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0686-661S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270120/0000 (三)",
+      "ETD Date/Time": "20270120/1100"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0686-661S",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20270121/0930 (四)",
+      "ETD Date/Time": "20270121/2330"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0686-661N",
+      "Port Calling": "MYKOK",
+      "ETA Date/Time": "20270123/0600 (六)",
+      "ETD Date/Time": "20270124/0700"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0686-661N",
+      "Port Calling": "BNMRI",
+      "ETA Date/Time": "20270124/1600 (日)",
+      "ETD Date/Time": "20270125/1700"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0686-661N",
+      "Port Calling": "MYBUV",
+      "ETA Date/Time": "20270126/0830 (二)",
+      "ETD Date/Time": "20270128/0930"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0688-662S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270131/1900 (日)",
+      "ETD Date/Time": "20270201/1100"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0686-661N",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270131/1900 (日)",
+      "ETD Date/Time": "20270201/1100"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0688-662S",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20270202/0930 (二)",
+      "ETD Date/Time": "20270202/2330"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0686-661N",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20270202/0930 (二)",
+      "ETD Date/Time": "20270202/2330"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0688-662N",
+      "Port Calling": "MYKOK",
+      "ETA Date/Time": "20270206/0600 (六)",
+      "ETD Date/Time": "20270207/0700"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0688-662N",
+      "Port Calling": "BNMRI",
+      "ETA Date/Time": "20270207/1600 (日)",
+      "ETD Date/Time": "20270208/1700"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0688-662N",
+      "Port Calling": "MYBUV",
+      "ETA Date/Time": "20270209/0830 (二)",
+      "ETD Date/Time": "20270211/0930"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0690-663S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270215/1900 (一)",
+      "ETD Date/Time": "20270216/1100"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0690-663S",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20270217/0930 (三)",
+      "ETD Date/Time": "20270217/2330"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0690-663N",
+      "Port Calling": "MYKOK",
+      "ETA Date/Time": "20270221/0600 (日)",
+      "ETD Date/Time": "20270222/0700"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0690-663N",
+      "Port Calling": "BNMRI",
+      "ETA Date/Time": "20270222/1600 (一)",
+      "ETD Date/Time": "20270223/1700"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0690-663N",
+      "Port Calling": "MYBUV",
+      "ETA Date/Time": "20270224/0830 (三)",
+      "ETD Date/Time": "20270226/0930"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0692-664S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270303/1900 (三)",
+      "ETD Date/Time": "20270304/1100"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0692-664S",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20270305/0930 (五)",
+      "ETD Date/Time": "20270305/2330"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0692-664N",
+      "Port Calling": "MYKOK",
+      "ETA Date/Time": "20270309/0600 (二)",
+      "ETD Date/Time": "20270310/0700"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0692-664N",
+      "Port Calling": "BNMRI",
+      "ETA Date/Time": "20270310/1600 (三)",
+      "ETD Date/Time": "20270311/1700"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0692-664N",
+      "Port Calling": "MYBUV",
+      "ETA Date/Time": "20270312/0830 (五)",
+      "ETD Date/Time": "20270314/0930"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0694-665S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270317/1900 (三)",
+      "ETD Date/Time": "20270318/1100"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0694-665S",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20270319/0930 (五)",
+      "ETD Date/Time": "20270319/2330"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0694-665N",
+      "Port Calling": "MYKOK",
+      "ETA Date/Time": "20270323/0600 (二)",
+      "ETD Date/Time": "20270324/0700"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0694-665N",
+      "Port Calling": "BNMRI",
+      "ETA Date/Time": "20270324/1600 (三)",
+      "ETD Date/Time": "20270325/1700"
+    },
+    {
+      "Line": "CPM",
+      "Voyage": "0694-665N",
+      "Port Calling": "MYBUV",
+      "ETA Date/Time": "20270326/0830 (五)",
+      "ETD Date/Time": "20270328/0930"
+    }
+  ]
+}

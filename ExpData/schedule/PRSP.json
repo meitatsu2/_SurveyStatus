@@ -1,0 +1,518 @@
+{
+  "scode": "PRSP",
+  "last_updated": "2026-11-18",
+  "total_records": 73,
+  "records": [
+    {
+      "Line": "TBS",
+      "Voyage": "0742-526A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20260818/0724 (二)",
+      "ETD Date/Time": "20260818/1242"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0742-526A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20260818/2024 (二)",
+      "ETD Date/Time": "20260819/1442"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0742-526B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260820/0500 (四)",
+      "ETD Date/Time": "20260821/0957"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0742-526B",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20260821/2106 (五)",
+      "ETD Date/Time": "20260822/1054"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0743-527A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20260825/0724 (二)",
+      "ETD Date/Time": "20260825/1248"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0743-527A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20260826/0254 (三)",
+      "ETD Date/Time": "20260826/1906"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0743-527B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260827/1855 (四)",
+      "ETD Date/Time": "20260828/2205"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0743-527B",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20260829/1030 (六)",
+      "ETD Date/Time": "20260829/2300"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0744-528A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20260901/1748 (二)",
+      "ETD Date/Time": "20260902/1142"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0744-528B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260904/0310 (五)",
+      "ETD Date/Time": "20260904/1713"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0745-529A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20260905/1048 (六)",
+      "ETD Date/Time": "20260905/1542"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0745-529A",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260907/1315 (一)",
+      "ETD Date/Time": "20260908/0340"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0745-529B",
+      "Port Calling": "TWTPE A",
+      "ETA Date/Time": "20260909/1218 (三)",
+      "ETD Date/Time": "20260909/2100"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0745-529B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260910/1820 (四)",
+      "ETD Date/Time": "20260911/0542"
+    },
+    {
+      "Line": "WFS",
+      "Voyage": "1275-530S",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260912/1000 (六)",
+      "ETD Date/Time": "20261011/2200"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0750-531B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261018/2015 (日)",
+      "ETD Date/Time": "20261019/1415"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0751-532A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261020/0618 (二)",
+      "ETD Date/Time": "20261020/1036"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0751-532A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261025/1710 (日)",
+      "ETD Date/Time": "20261026/0718"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0751-532B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261026/1810 (一)",
+      "ETD Date/Time": "20261027/1718"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0751-532B",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261028/0948 (三)",
+      "ETD Date/Time": "20261029/0254"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0752-533A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261029/1224 (四)",
+      "ETD Date/Time": "20261029/2030"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0752-533A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261030/0342 (五)",
+      "ETD Date/Time": "20261030/2112"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0752-533B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261031/1310 (六)",
+      "ETD Date/Time": "20261101/1545"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0752-533B",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261102/0453 (一)",
+      "ETD Date/Time": "20261102/1554"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0753-534A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261103/0630 (二)",
+      "ETD Date/Time": "20261103/1342"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0753-534A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261103/2042 (二)",
+      "ETD Date/Time": "20261104/1218"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0753-534B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261105/0215 (四)",
+      "ETD Date/Time": "20261105/2240"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0753-534B",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261106/1055 (五)",
+      "ETD Date/Time": "20261107/0200"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0754-535A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261110/0906 (二)",
+      "ETD Date/Time": "20261110/1548"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0754-535A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261111/0030 (三)",
+      "ETD Date/Time": "20261111/1300"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0754-535B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261112/0001 (四)",
+      "ETD Date/Time": "20261113/0410"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0754-535B",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261113/1542 (五)",
+      "ETD Date/Time": "20261114/0710"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0755-536A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261117/0630 (二)",
+      "ETD Date/Time": "20261117/1218"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0755-536A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261117/1920 (二)",
+      "ETD Date/Time": "20261118/0940"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0755-536B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261118/2100 (三)",
+      "ETD Date/Time": "20261119/0300"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0755-536B",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261121/2100 (六)",
+      "ETD Date/Time": "20261122/1300"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0756-537A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261124/0600 (二)",
+      "ETD Date/Time": "20261124/1400"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0756-537A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261124/2200 (二)",
+      "ETD Date/Time": "20261125/1400"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0756-537B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261126/0000 (四)",
+      "ETD Date/Time": "20261126/2000"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0756-537B",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261128/2100 (六)",
+      "ETD Date/Time": "20261129/1300"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0757-538A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261201/0600 (二)",
+      "ETD Date/Time": "20261201/1400"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0757-538A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261201/2200 (二)",
+      "ETD Date/Time": "20261202/1400"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0757-538B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261203/0000 (四)",
+      "ETD Date/Time": "20261203/2000"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0757-538B",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261205/2100 (六)",
+      "ETD Date/Time": "20261206/1300"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0758-539A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261208/0600 (二)",
+      "ETD Date/Time": "20261208/1400"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0758-539A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261208/2200 (二)",
+      "ETD Date/Time": "20261209/1400"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0758-539B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261210/0000 (四)",
+      "ETD Date/Time": "20261210/2000"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0758-539B",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261212/2100 (六)",
+      "ETD Date/Time": "20261213/1300"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0759-540A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261215/0600 (二)",
+      "ETD Date/Time": "20261215/1400"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0759-540A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261215/2200 (二)",
+      "ETD Date/Time": "20261216/1400"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0759-540B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261217/0000 (四)",
+      "ETD Date/Time": "20261217/2000"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0759-540B",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261219/2100 (六)",
+      "ETD Date/Time": "20261220/1300"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0760-541A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261222/0100 (二)",
+      "ETD Date/Time": "20261222/2130"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0760-541A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261223/0430 (三)",
+      "ETD Date/Time": "20261224/0530"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0760-541B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261224/1600 (四)",
+      "ETD Date/Time": "20261226/0900"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0760-541B",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261227/1230 (日)",
+      "ETD Date/Time": "20261228/1330"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0761-542A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261229/0100 (二)",
+      "ETD Date/Time": "20261229/2130"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0761-542A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20261230/0430 (三)",
+      "ETD Date/Time": "20261231/0530"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0761-542B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261231/1600 (四)",
+      "ETD Date/Time": "20270102/0900"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0761-542B",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20270103/1230 (日)",
+      "ETD Date/Time": "20270104/1330"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0762-543A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20270105/0100 (二)",
+      "ETD Date/Time": "20270105/2130"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0762-543A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20270106/0430 (三)",
+      "ETD Date/Time": "20270107/0530"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0762-543B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270107/1600 (四)",
+      "ETD Date/Time": "20270109/0900"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0762-543B",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20270110/1230 (日)",
+      "ETD Date/Time": "20270111/1330"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0763-544A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20270112/0100 (二)",
+      "ETD Date/Time": "20270112/2130"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0763-544A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20270113/0430 (三)",
+      "ETD Date/Time": "20270114/0530"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0763-544B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270114/1600 (四)",
+      "ETD Date/Time": "20270116/0900"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0763-544B",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20270117/1230 (日)",
+      "ETD Date/Time": "20270118/1330"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0764-545A",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20270119/0100 (二)",
+      "ETD Date/Time": "20270119/2130"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0764-545A",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20270120/0430 (三)",
+      "ETD Date/Time": "20270121/0530"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0764-545B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270121/1600 (四)",
+      "ETD Date/Time": "20270123/0900"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0764-545B",
+      "Port Calling": "TWTCG",
+      "ETA Date/Time": "20270124/1230 (日)",
+      "ETD Date/Time": "20270125/1330"
+    },
+    {
+      "Line": "TBS",
+      "Voyage": "0764-545B",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20270126/0100 (二)",
+      "ETD Date/Time": "20270126/2130"
+    }
+  ]
+}

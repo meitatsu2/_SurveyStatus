@@ -1,0 +1,322 @@
+{
+  "scode": "MEGA",
+  "last_updated": "2026-11-18",
+  "total_records": 45,
+  "records": [
+    {
+      "Line": "TAE",
+      "Voyage": "011W",
+      "Port Calling": "GBSOU",
+      "ETA Date/Time": "20260821/1429 (五)",
+      "ETD Date/Time": "20260822/2205"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011W",
+      "Port Calling": "BEANW",
+      "ETA Date/Time": "20260823/2200 (日)",
+      "ETD Date/Time": "20260825/0514"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011W",
+      "Port Calling": "DEBHV",
+      "ETA Date/Time": "20260826/2145 (三)",
+      "ETD Date/Time": "20260828/2330"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011W",
+      "Port Calling": "NLRDM",
+      "ETA Date/Time": "20260830/0400 (日)",
+      "ETD Date/Time": "20260901/0442"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011W",
+      "Port Calling": "FRLHV",
+      "ETA Date/Time": "20260902/0818 (三)",
+      "ETD Date/Time": "20260903/0623"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011E",
+      "Port Calling": "USNYC",
+      "ETA Date/Time": "20260913/1918 (日)",
+      "ETD Date/Time": "20260916/0130"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011E",
+      "Port Calling": "USNFK",
+      "ETA Date/Time": "20260918/1643 (五)",
+      "ETD Date/Time": "20260919/1800"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011E",
+      "Port Calling": "USCHS",
+      "ETA Date/Time": "20260922/0524 (二)",
+      "ETD Date/Time": "20260922/2105"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011E",
+      "Port Calling": "USSVN",
+      "ETA Date/Time": "20260923/1715 (三)",
+      "ETD Date/Time": "20260924/1912"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011E",
+      "Port Calling": "GBSOU",
+      "ETA Date/Time": "20261010/1416 (六)",
+      "ETD Date/Time": "20261011/0330"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0828-012E",
+      "Port Calling": "BEANW",
+      "ETA Date/Time": "20261012/0212 (一)",
+      "ETD Date/Time": "20261013/0625"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011E",
+      "Port Calling": "DEBHV",
+      "ETA Date/Time": "20261015/0035 (四)",
+      "ETD Date/Time": "20261015/2110"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0828-012E",
+      "Port Calling": "DEHBG",
+      "ETA Date/Time": "20261016/2130 (五)",
+      "ETD Date/Time": "20261019/1000"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0828-012E",
+      "Port Calling": "NLRDM",
+      "ETA Date/Time": "20261020/1502 (二)",
+      "ETD Date/Time": "20261024/1536"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0828-012E",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261128/0300 (六)",
+      "ETD Date/Time": "20261129/0300"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0828-012E",
+      "Port Calling": "CNXGA",
+      "ETA Date/Time": "20261208/0700 (二)",
+      "ETD Date/Time": "20261209/0700"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "013W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20261213/1600 (日)",
+      "ETD Date/Time": "20261214/1600"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "013W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261216/0100 (三)",
+      "ETD Date/Time": "20261217/0100"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "013W",
+      "Port Calling": "CNXSM",
+      "ETA Date/Time": "20261218/1700 (五)",
+      "ETD Date/Time": "20261219/0900"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "013W",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20261220/1500 (日)",
+      "ETD Date/Time": "20261221/1100"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "013W",
+      "Port Calling": "CNXTH",
+      "ETA Date/Time": "20261222/0200 (二)",
+      "ETD Date/Time": "20261222/1800"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "013W",
+      "Port Calling": "VNVUU",
+      "ETA Date/Time": "20261226/0300 (六)",
+      "ETD Date/Time": "20261226/1700"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "013W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261228/2200 (一)",
+      "ETD Date/Time": "20261229/2200"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "013W",
+      "Port Calling": "EGSUZ",
+      "ETA Date/Time": "20270113/2200 (三)",
+      "ETD Date/Time": "20270114/2200"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "013E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270117/0900 (日)",
+      "ETD Date/Time": "20270119/1000"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "013E",
+      "Port Calling": "TRDDG",
+      "ETA Date/Time": "20270120/1500 (三)",
+      "ETD Date/Time": "20270122/1000"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "013E",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20270122/1700 (五)",
+      "ETD Date/Time": "20270123/0000"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "013E",
+      "Port Calling": "TRMIR",
+      "ETA Date/Time": "20270125/1900 (一)",
+      "ETD Date/Time": "20270127/0000"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "013E",
+      "Port Calling": "GRPIR B",
+      "ETA Date/Time": "20270130/2300 (六)",
+      "ETD Date/Time": "20270201/1200"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "013E",
+      "Port Calling": "EGSUZ",
+      "ETA Date/Time": "20270204/2200 (四)",
+      "ETD Date/Time": "20270205/1800"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "013E",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270225/0800 (四)",
+      "ETD Date/Time": "20270227/2200"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "014W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270307/1400 (日)",
+      "ETD Date/Time": "20270309/0400"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "014W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270309/2300 (二)",
+      "ETD Date/Time": "20270311/0700"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "014W",
+      "Port Calling": "CNXSM",
+      "ETA Date/Time": "20270312/1500 (五)",
+      "ETD Date/Time": "20270313/1400"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "014W",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20270314/1300 (日)",
+      "ETD Date/Time": "20270315/1600"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "014W",
+      "Port Calling": "CNXTH",
+      "ETA Date/Time": "20270316/0000 (二)",
+      "ETD Date/Time": "20270317/0000"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "014W",
+      "Port Calling": "VNVUU",
+      "ETA Date/Time": "20270320/0100 (六)",
+      "ETD Date/Time": "20270320/1700"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "014W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270322/2000 (一)",
+      "ETD Date/Time": "20270323/2200"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "014W",
+      "Port Calling": "EGSUZ",
+      "ETA Date/Time": "20270407/2200 (三)",
+      "ETD Date/Time": "20270408/1600"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "014E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270412/0900 (一)",
+      "ETD Date/Time": "20270414/1000"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "014E",
+      "Port Calling": "TRDDG",
+      "ETA Date/Time": "20270415/1500 (四)",
+      "ETD Date/Time": "20270417/0400"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "014E",
+      "Port Calling": "TRIST",
+      "ETA Date/Time": "20270417/0930 (六)",
+      "ETD Date/Time": "20270418/1800"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "014E",
+      "Port Calling": "TRMIR",
+      "ETA Date/Time": "20270420/1900 (二)",
+      "ETD Date/Time": "20270422/0000"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "014E",
+      "Port Calling": "GRPIR B",
+      "ETA Date/Time": "20270425/1200 (日)",
+      "ETD Date/Time": "20270427/0100"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "014E",
+      "Port Calling": "EGSUZ",
+      "ETA Date/Time": "20270430/2200 (五)",
+      "ETD Date/Time": "20270501/1600"
+    }
+  ]
+}
