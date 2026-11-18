@@ -1,85 +1,8 @@
 {
   "scode": "STDY",
   "last_updated": "2026-11-18",
-  "total_records": 30,
+  "total_records": 19,
   "records": [
-    {
-      "Line": "CIX8",
-      "Voyage": "128W",
-      "Port Calling": "CNQND",
-      "ETA Date/Time": "20260823/0706 (日)",
-      "ETD Date/Time": "20260824/0950"
-    },
-    {
-      "Line": "CIX8",
-      "Voyage": "128W",
-      "Port Calling": "CNXSM",
-      "ETA Date/Time": "20260827/1730 (四)",
-      "ETD Date/Time": "20260828/1400"
-    },
-    {
-      "Line": "CIX8",
-      "Voyage": "128W",
-      "Port Calling": "CNXTH",
-      "ETA Date/Time": "20260830/0240 (日)",
-      "ETD Date/Time": "20260831/0020"
-    },
-    {
-      "Line": "CIX8",
-      "Voyage": "128W",
-      "Port Calling": "CNDCB",
-      "ETA Date/Time": "20260831/1542 (一)",
-      "ETD Date/Time": "20260831/2300"
-    },
-    {
-      "Line": "CIX8",
-      "Voyage": "128W",
-      "Port Calling": "MYPKL",
-      "ETA Date/Time": "20260905/1400 (六)",
-      "ETD Date/Time": "20260906/0700"
-    },
-    {
-      "Line": "CIX8",
-      "Voyage": "128W",
-      "Port Calling": "LKCMB",
-      "ETA Date/Time": "20260911/2012 (五)",
-      "ETD Date/Time": "20260912/1000"
-    },
-    {
-      "Line": "CIX8",
-      "Voyage": "128E",
-      "Port Calling": "INNXV",
-      "ETA Date/Time": "20260915/1500 (二)",
-      "ETD Date/Time": "20260916/1236"
-    },
-    {
-      "Line": "CIX8",
-      "Voyage": "128E",
-      "Port Calling": "INMUN",
-      "ETA Date/Time": "20260917/1836 (四)",
-      "ETD Date/Time": "20260918/2137"
-    },
-    {
-      "Line": "CIX8",
-      "Voyage": "128E",
-      "Port Calling": "MYPKL",
-      "ETA Date/Time": "20260927/2000 (日)",
-      "ETD Date/Time": "20260928/1630"
-    },
-    {
-      "Line": "CIX8",
-      "Voyage": "128E",
-      "Port Calling": "CNQND",
-      "ETA Date/Time": "20261009/1130 (五)",
-      "ETD Date/Time": "20261010/2000"
-    },
-    {
-      "Line": "WFS",
-      "Voyage": "1280-129S",
-      "Port Calling": "CNZOS",
-      "ETA Date/Time": "20261011/1200 (日)",
-      "ETD Date/Time": "20261116/1200"
-    },
     {
       "Line": "TPN",
       "Voyage": "0502-130E",

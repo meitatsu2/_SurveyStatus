@@ -1,78 +1,8 @@
 {
   "scode": "MGUS",
   "last_updated": "2026-11-18",
-  "total_records": 21,
+  "total_records": 11,
   "records": [
-    {
-      "Line": "HTW",
-      "Voyage": "1467-008E",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20260820/0906 (四)",
-      "ETD Date/Time": "20260821/2130"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1467-008W",
-      "Port Calling": "USLAX",
-      "ETA Date/Time": "20260904/0612 (五)",
-      "ETD Date/Time": "20260909/1818"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1467-008W",
-      "Port Calling": "USOKL",
-      "ETA Date/Time": "20260911/1406 (五)",
-      "ETD Date/Time": "20260914/0900"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1467-008W",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20260930/0050 (三)",
-      "ETD Date/Time": "20261002/0057"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1476-009E",
-      "Port Calling": "THLCH",
-      "ETA Date/Time": "20261006/0648 (二)",
-      "ETD Date/Time": "20261007/1800"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1476-009E",
-      "Port Calling": "VNVUU",
-      "ETA Date/Time": "20261010/0840 (六)",
-      "ETD Date/Time": "20261011/0208"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1476-009E",
-      "Port Calling": "TWTPE",
-      "ETA Date/Time": "20261014/0854 (三)",
-      "ETD Date/Time": "20261014/2248"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1476-009E",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20261015/2200 (四)",
-      "ETD Date/Time": "20261017/0705"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1476-009E",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20261019/0912 (一)",
-      "ETD Date/Time": "20261021/0915"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1476-009W",
-      "Port Calling": "USLAX",
-      "ETA Date/Time": "20261107/0830 (六)",
-      "ETD Date/Time": "20261111/1930"
-    },
     {
       "Line": "HTW",
       "Voyage": "1476-009W",

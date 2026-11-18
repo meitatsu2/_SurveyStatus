@@ -1,78 +1,8 @@
 {
   "scode": "SALU",
   "last_updated": "2026-11-18",
-  "total_records": 25,
+  "total_records": 15,
   "records": [
-    {
-      "Line": "AUG",
-      "Voyage": "128W",
-      "Port Calling": "USHUS",
-      "ETA Date/Time": "20260820/0506 (四)",
-      "ETD Date/Time": "20260822/0154"
-    },
-    {
-      "Line": "AUG",
-      "Voyage": "128W",
-      "Port Calling": "USMBL",
-      "ETA Date/Time": "20260824/0554 (一)",
-      "ETD Date/Time": "20260825/0030"
-    },
-    {
-      "Line": "AUG",
-      "Voyage": "128W",
-      "Port Calling": "PAPAN",
-      "ETA Date/Time": "20260828/2035 (五)",
-      "ETD Date/Time": "20260829/2159"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0494-129E",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20260925/1455 (五)",
-      "ETD Date/Time": "20260927/0350"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0494-129E",
-      "Port Calling": "HKHKG",
-      "ETA Date/Time": "20260928/0800 (一)",
-      "ETD Date/Time": "20260928/1216"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0494-129E",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20260929/1524 (二)",
-      "ETD Date/Time": "20261001/0040"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0494-129E",
-      "Port Calling": "CNSHG",
-      "ETA Date/Time": "20261007/1700 (三)",
-      "ETD Date/Time": "20261008/0200"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0494-129E",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20261008/1945 (四)",
-      "ETD Date/Time": "20261009/0800"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0494-129W",
-      "Port Calling": "USTCM",
-      "ETA Date/Time": "20261027/0430 (二)",
-      "ETD Date/Time": "20261030/0517"
-    },
-    {
-      "Line": "TPN",
-      "Voyage": "0494-129W",
-      "Port Calling": "CAVCR",
-      "ETA Date/Time": "20261101/2136 (日)",
-      "ETD Date/Time": "20261104/0600"
-    },
     {
       "Line": "TPN",
       "Voyage": "0494-129W",

@@ -1,85 +1,8 @@
 {
   "scode": "MILD",
   "last_updated": "2026-11-18",
-  "total_records": 26,
+  "total_records": 15,
   "records": [
-    {
-      "Line": "HTW",
-      "Voyage": "1463-011W",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20260826/1750 (三)",
-      "ETD Date/Time": "20260828/1315"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1471-012E",
-      "Port Calling": "THLCH",
-      "ETA Date/Time": "20260901/2030 (二)",
-      "ETD Date/Time": "20260903/0800"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1471-012E",
-      "Port Calling": "VNVUU",
-      "ETA Date/Time": "20260905/1320 (六)",
-      "ETD Date/Time": "20260906/0756"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1471-012E",
-      "Port Calling": "TWTPE",
-      "ETA Date/Time": "20260909/0936 (三)",
-      "ETD Date/Time": "20260909/2336"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1471-012E",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20260910/2310 (四)",
-      "ETD Date/Time": "20260912/1622"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1471-012E",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20260915/1530 (二)",
-      "ETD Date/Time": "20260917/0815"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1471-012W",
-      "Port Calling": "USLAX",
-      "ETA Date/Time": "20261002/0612 (五)",
-      "ETD Date/Time": "20261008/1933"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1471-012W",
-      "Port Calling": "USOKL",
-      "ETA Date/Time": "20261011/0206 (日)",
-      "ETD Date/Time": "20261014/0200"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1471-012W",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20261028/0600 (三)",
-      "ETD Date/Time": "20261030/1210"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1480-013E",
-      "Port Calling": "THLCH",
-      "ETA Date/Time": "20261103/0548 (二)",
-      "ETD Date/Time": "20261105/1800"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1480-013E",
-      "Port Calling": "VNVUU",
-      "ETA Date/Time": "20261107/1846 (六)",
-      "ETD Date/Time": "20261108/2048"
-    },
     {
       "Line": "HTW",
       "Voyage": "1480-013E",

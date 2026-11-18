@@ -1,50 +1,8 @@
 {
   "scode": "SFTY",
   "last_updated": "2026-11-18",
-  "total_records": 27,
+  "total_records": 21,
   "records": [
-    {
-      "Line": "AUG",
-      "Voyage": "125E",
-      "Port Calling": "CNSHG",
-      "ETA Date/Time": "20260826/1210 (三)",
-      "ETD Date/Time": "20260826/2130"
-    },
-    {
-      "Line": "AUG",
-      "Voyage": "125E",
-      "Port Calling": "KRPUS",
-      "ETA Date/Time": "20260902/1410 (三)",
-      "ETD Date/Time": "20260903/2312"
-    },
-    {
-      "Line": "AUG",
-      "Voyage": "125E",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20260910/1000 (四)",
-      "ETD Date/Time": "20260911/0300"
-    },
-    {
-      "Line": "AUG",
-      "Voyage": "125W",
-      "Port Calling": "USHUS",
-      "ETA Date/Time": "20261015/1412 (四)",
-      "ETD Date/Time": "20261018/0154"
-    },
-    {
-      "Line": "AUG",
-      "Voyage": "125W",
-      "Port Calling": "USMBL",
-      "ETA Date/Time": "20261020/0506 (二)",
-      "ETD Date/Time": "20261020/1948"
-    },
-    {
-      "Line": "AUG",
-      "Voyage": "125W",
-      "Port Calling": "PAPAN",
-      "ETA Date/Time": "20261024/0306 (六)",
-      "ETD Date/Time": "20261024/2324"
-    },
     {
       "Line": "AUG",
       "Voyage": "125W",

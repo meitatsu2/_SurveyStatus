@@ -1,78 +1,8 @@
 {
   "scode": "SUPB",
   "last_updated": "2026-11-18",
-  "total_records": 22,
+  "total_records": 12,
   "records": [
-    {
-      "Line": "NEAX",
-      "Voyage": "0115N",
-      "Port Calling": "AUMEL",
-      "ETA Date/Time": "20260820/0518 (四)",
-      "ETD Date/Time": "20260822/0654"
-    },
-    {
-      "Line": "NEAX",
-      "Voyage": "0115N",
-      "Port Calling": "AUBBN",
-      "ETA Date/Time": "20260825/0454 (二)",
-      "ETD Date/Time": "20260827/1356"
-    },
-    {
-      "Line": "NEAX",
-      "Voyage": "0116S",
-      "Port Calling": "KRPUS",
-      "ETA Date/Time": "20260909/0200 (三)",
-      "ETD Date/Time": "20260910/1156"
-    },
-    {
-      "Line": "NEAX",
-      "Voyage": "0116S",
-      "Port Calling": "CNSHG",
-      "ETA Date/Time": "20260924/1124 (四)",
-      "ETD Date/Time": "20260925/1045"
-    },
-    {
-      "Line": "NEAX",
-      "Voyage": "0116S",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20260928/1430 (一)",
-      "ETD Date/Time": "20260929/1430"
-    },
-    {
-      "Line": "NEAX",
-      "Voyage": "0116S",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20261001/1936 (四)",
-      "ETD Date/Time": "20261002/2335"
-    },
-    {
-      "Line": "NEAX",
-      "Voyage": "0116S",
-      "Port Calling": "HKHKG",
-      "ETA Date/Time": "20261003/0600 (六)",
-      "ETD Date/Time": "20261003/1617"
-    },
-    {
-      "Line": "NEAX",
-      "Voyage": "0116N",
-      "Port Calling": "AUSYD",
-      "ETA Date/Time": "20261018/1000 (日)",
-      "ETD Date/Time": "20261020/1918"
-    },
-    {
-      "Line": "NEAX",
-      "Voyage": "0116N",
-      "Port Calling": "AUMEL",
-      "ETA Date/Time": "20261024/0030 (六)",
-      "ETD Date/Time": "20261026/0648"
-    },
-    {
-      "Line": "NEAX",
-      "Voyage": "0116N",
-      "Port Calling": "AUBBN",
-      "ETA Date/Time": "20261029/0536 (四)",
-      "ETD Date/Time": "20261030/1200"
-    },
     {
       "Line": "NEAX",
       "Voyage": "0116N",

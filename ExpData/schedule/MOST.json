@@ -1,85 +1,8 @@
 {
   "scode": "MOST",
   "last_updated": "2026-11-18",
-  "total_records": 33,
+  "total_records": 22,
   "records": [
-    {
-      "Line": "HTW",
-      "Voyage": "1466-010W",
-      "Port Calling": "USLAX",
-      "ETA Date/Time": "20260829/1612 (六)",
-      "ETD Date/Time": "20260902/1816"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1466-010W",
-      "Port Calling": "USOKL",
-      "ETA Date/Time": "20260904/1412 (五)",
-      "ETD Date/Time": "20260907/1015"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1466-010W",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20260920/1520 (日)",
-      "ETD Date/Time": "20260922/0847"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1474-011E",
-      "Port Calling": "THLCH",
-      "ETA Date/Time": "20260927/0318 (日)",
-      "ETD Date/Time": "20260930/1100"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1474-011E",
-      "Port Calling": "VNVUU",
-      "ETA Date/Time": "20261002/2015 (五)",
-      "ETD Date/Time": "20261003/1340"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1474-011E",
-      "Port Calling": "TWTPE",
-      "ETA Date/Time": "20261006/1042 (二)",
-      "ETD Date/Time": "20261007/0218"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1474-011E",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20261008/0140 (四)",
-      "ETD Date/Time": "20261009/2030"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1474-011E",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20261011/1348 (日)",
-      "ETD Date/Time": "20261012/2310"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1474-011W",
-      "Port Calling": "USLAX",
-      "ETA Date/Time": "20261026/1612 (一)",
-      "ETD Date/Time": "20261031/1900"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1474-011W",
-      "Port Calling": "USOKL",
-      "ETA Date/Time": "20261102/1800 (一)",
-      "ETD Date/Time": "20261104/0800"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1474-011W",
-      "Port Calling": "USTCM",
-      "ETA Date/Time": "20261106/1736 (五)",
-      "ETD Date/Time": "20261108/0618"
-    },
     {
       "Line": "HTW",
       "Voyage": "1474-011W",

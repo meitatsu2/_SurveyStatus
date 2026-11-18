@@ -1,57 +1,8 @@
 {
   "scode": "MEED",
   "last_updated": "2026-11-18",
-  "total_records": 19,
+  "total_records": 12,
   "records": [
-    {
-      "Line": "CES",
-      "Voyage": "0823-009W",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20260824/0712 (一)",
-      "ETD Date/Time": "20260825/0115"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0823-009W",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20260829/1620 (六)",
-      "ETD Date/Time": "20260830/1315"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0823-009E",
-      "Port Calling": "GBFLX",
-      "ETA Date/Time": "20260928/0139 (一)",
-      "ETD Date/Time": "20260929/1340"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0823-009E",
-      "Port Calling": "NLRDM",
-      "ETA Date/Time": "20260930/0054 (三)",
-      "ETD Date/Time": "20261002/1750"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0823-009E",
-      "Port Calling": "BEANW",
-      "ETA Date/Time": "20261005/0230 (一)",
-      "ETD Date/Time": "20261006/2000"
-    },
-    {
-      "Line": "CES",
-      "Voyage": "0823-009E",
-      "Port Calling": "SGSGP",
-      "ETA Date/Time": "20261103/1815 (二)",
-      "ETD Date/Time": "20261106/1850"
-    },
-    {
-      "Line": "HTW",
-      "Voyage": "1481-010E",
-      "Port Calling": "THLCH",
-      "ETA Date/Time": "20261110/0842 (二)",
-      "ETD Date/Time": "20261111/0700"
-    },
     {
       "Line": "HTW",
       "Voyage": "1481-010E",

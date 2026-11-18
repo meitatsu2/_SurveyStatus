@@ -1,85 +1,8 @@
 {
   "scode": "MTAA",
   "last_updated": "2026-11-18",
-  "total_records": 22,
+  "total_records": 11,
   "records": [
-    {
-      "Line": "AUE",
-      "Voyage": "1375-005E",
-      "Port Calling": "MYPKL",
-      "ETA Date/Time": "20260827/0250 (四)",
-      "ETD Date/Time": "20260828/0915"
-    },
-    {
-      "Line": "AUE",
-      "Voyage": "1375-005E",
-      "Port Calling": "VNVUU",
-      "ETA Date/Time": "20260831/0934 (一)",
-      "ETD Date/Time": "20260901/1130"
-    },
-    {
-      "Line": "AUE",
-      "Voyage": "1375-005E",
-      "Port Calling": "VNHPG",
-      "ETA Date/Time": "20260903/1233 (四)",
-      "ETD Date/Time": "20260904/1238"
-    },
-    {
-      "Line": "AUE",
-      "Voyage": "1375-005E",
-      "Port Calling": "HKHKG",
-      "ETA Date/Time": "20260906/0310 (日)",
-      "ETD Date/Time": "20260907/0145"
-    },
-    {
-      "Line": "AUE",
-      "Voyage": "1375-005E",
-      "Port Calling": "TWKSG",
-      "ETA Date/Time": "20260907/2300 (一)",
-      "ETD Date/Time": "20260909/1052"
-    },
-    {
-      "Line": "AUE",
-      "Voyage": "1375-005E",
-      "Port Calling": "CNYYT",
-      "ETA Date/Time": "20260911/1141 (五)",
-      "ETD Date/Time": "20260913/0430"
-    },
-    {
-      "Line": "AUE",
-      "Voyage": "1375-005E",
-      "Port Calling": "PAPAN",
-      "ETA Date/Time": "20261006/0155 (二)",
-      "ETD Date/Time": "20261006/1503"
-    },
-    {
-      "Line": "AUE",
-      "Voyage": "1375-005E",
-      "Port Calling": "PACCT",
-      "ETA Date/Time": "20261006/1838 (二)",
-      "ETD Date/Time": "20261007/2148"
-    },
-    {
-      "Line": "AUE",
-      "Voyage": "1375-005W",
-      "Port Calling": "USSVN",
-      "ETA Date/Time": "20261014/1045 (三)",
-      "ETD Date/Time": "20261016/0045"
-    },
-    {
-      "Line": "AUE",
-      "Voyage": "1375-005W",
-      "Port Calling": "USNYC",
-      "ETA Date/Time": "20261018/0318 (日)",
-      "ETD Date/Time": "20261020/0842"
-    },
-    {
-      "Line": "AUE",
-      "Voyage": "1375-005W",
-      "Port Calling": "USNFK",
-      "ETA Date/Time": "20261023/0336 (五)",
-      "ETD Date/Time": "20261024/0800"
-    },
     {
       "Line": "AUE",
       "Voyage": "1388-006E",
