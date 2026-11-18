@@ -12,6 +12,8 @@
             --primary-dark: #005a36;
             --schedule-blue: #1565c0;
             --schedule-blue-dark: #0d47a1;
+            --hubcert-yellow: #f7ff07;
+            --hubcert-blue: #0d47a1;
             --bg-light: #f4f6f8;
             --border-color: #cccccc;
             --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -49,16 +51,23 @@
             box-shadow: 0 2px 4px rgba(0,0,0,0.15);
             z-index: 10;
             height: 40px;
-            transition: background-color 0.2s ease;
+            transition: background-color 0.2s ease, color 0.2s ease;
         }
 
         header.header-schedule-mode {
             background-color: var(--schedule-blue);
+            color: #ffffff;
+        }
+
+        header.header-hubcert-mode {
+            background-color: var(--hubcert-yellow);
+            color: var(--hubcert-blue);
+            border-bottom: 1px solid #d4d800;
         }
 
         header h1 {
             font-size: 0.95rem;
-            font-weight: 600;
+            font-weight: 700;
             text-align: center;
             flex-grow: 1;
             white-space: nowrap;
@@ -66,10 +75,14 @@
             text-overflow: ellipsis;
         }
 
+        header.header-hubcert-mode h1 {
+            color: var(--hubcert-blue);
+        }
+
         .home-btn {
             background: none;
             border: none;
-            color: white;
+            color: inherit;
             font-size: 1.2rem;
             cursor: pointer;
             padding: 2px 6px;
@@ -77,7 +90,7 @@
         }
 
         .home-btn:hover {
-            background-color: rgba(0, 0, 0, 0.2);
+            background-color: rgba(0, 0, 0, 0.15);
         }
 
         /* DATA FRAME (MAIN CONTAINER) */
@@ -162,57 +175,65 @@
             background-color: #dee2e6;
         }
 
-        /* VESSEL NAME EARLIEST DUE DATE STYLES (EarDue.json) */
-        .vessel-link {
-            text-decoration: none;
-            cursor: pointer;
-            padding: 1px 5px;
-            border-radius: 3px;
-            display: inline-block;
+        /* +20% ENLARGED FONT FOR VESSEL NAME & SCODE CELLS (0.75rem * 1.2 = 0.9rem) */
+        td.cell-enlarged {
+            font-size: 0.9rem;
         }
 
-        .vessel-link:hover {
+        .vessel-link,
+        .scode-link {
+            color: inherit;
+            font-weight: inherit;
+            text-decoration: none;
+            cursor: pointer;
+            display: block;
+            width: 100%;
+        }
+
+        .vessel-link:hover,
+        .scode-link:hover {
             text-decoration: underline;
         }
 
+        /* FULL-CELL BACKGROUND & FONT RULES (EarDue.json & EarDueHub.json) */
         /* 3. <= upload_date: white bold with red background */
-        .vname-red-bg {
-            background-color: #dc3545;
-            color: #ffffff;
-            font-weight: bold;
+        td.cell-red-bg {
+            background-color: #dc3545 !important;
+            color: #ffffff !important;
+            font-weight: bold !important;
         }
 
         /* 4. < upload_date + 31: green bold with orange background */
-        .vname-orange-bg {
-            background-color: #fd7e14;
-            color: #006400;
-            font-weight: bold;
+        td.cell-orange-bg {
+            background-color: #fd7e14 !important;
+            color: #006400 !important;
+            font-weight: bold !important;
         }
 
         /* 5. < upload_date + 61: green bold with yellow background */
-        .vname-yellow-bg {
-            background-color: #f7ff07;
-            color: #006400;
-            font-weight: bold;
+        td.cell-yellow-bg {
+            background-color: #f7ff07 !important;
+            color: #006400 !important;
+            font-weight: bold !important;
         }
 
         /* 6. < upload_date + 91: black bold with green background */
-        .vname-green-bg {
-            background-color: #28a745;
-            color: #000000;
-            font-weight: bold;
+        td.cell-green-bg {
+            background-color: #28a745 !important;
+            color: #000000 !important;
+            font-weight: bold !important;
         }
 
         /* 7. > upload_date + 90: blue bold */
-        .vname-blue-text {
-            color: #1565c0;
-            font-weight: bold;
+        td.cell-blue-text {
+            color: #1565c0 !important;
+            font-weight: bold !important;
         }
 
-        /* 8. Not in EarDue.json: black normal */
-        .vname-black-normal {
-            color: #000000;
-            font-weight: normal;
+        /* 8. Not in EarDue/EarDueHub: black normal */
+        td.cell-black-normal {
+            color: #000000 !important;
+            font-weight: normal !important;
         }
 
         /* Active SMAIL Link Style (Bold & Clickable Blue) */
@@ -316,6 +337,12 @@
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
+        }
+
+        .hubcert-header-title {
+            background: #fffde7;
+            border-left: 3px solid #0d47a1;
+            color: #0d47a1;
         }
 
         /* UP WINDOW (80% height in Survey Status View) */
@@ -452,7 +479,70 @@
             background-color: #fafbfd;
         }
 
-        /* COLOR SCHEME (SURVEY STATUS DETAIL TABLE) */
+        /* =========================================================
+           VIEW D: HUBCERT TABLE STYLES (FULL VERTICAL HEIGHT)
+           ========================================================= */
+        .hubcert-full-window {
+            flex: 1 1 0%;
+            display: flex;
+            flex-direction: column;
+            min-height: 0;
+            overflow: hidden;
+        }
+
+        #hubCertTable {
+            width: 140vw;
+            border-collapse: collapse;
+            font-size: 0.75rem;
+            table-layout: fixed;
+        }
+
+        #hubCertTable th, #hubCertTable td {
+            padding: 5px 6px;
+            text-align: left;
+            border-bottom: 1px solid #eeeeee;
+            vertical-align: top;
+        }
+
+        #hubCertTable th {
+            background-color: #e9ecef;
+            position: sticky;
+            top: 0;
+            z-index: 2;
+            user-select: none;
+        }
+
+        .hc-col-due {
+            width: 85px;
+            text-align: center !important;
+        }
+
+        .hc-col-code {
+            width: 60px;
+        }
+
+        .hc-col-name {
+            width: 22%;
+            white-space: normal !important;
+            word-break: break-word;
+        }
+
+        .hc-col-sched {
+            width: 92px;
+            text-align: center !important;
+        }
+
+        .hc-col-port {
+            width: 78px;
+        }
+
+        .hc-col-remark {
+            width: auto;
+            white-space: normal !important;
+            word-break: break-word;
+        }
+
+        /* COLOR SCHEME (DETAIL TABLES: SURVEY STATUS & HUBCERT) */
         .status-red { background-color: #dc3545 !important; color: #ffffff !important; font-weight: bold; }
         .status-orange { background-color: #fd7e14 !important; color: #000000 !important; }
         .status-yellow { background-color: #f7ff07 !important; color: #000000 !important; }
@@ -517,6 +607,15 @@
 
         .return-btn.schedule-return:hover {
             background: var(--schedule-blue-dark);
+        }
+
+        .return-btn.hubcert-return {
+            background: var(--hubcert-blue);
+            border-color: #082d6b;
+        }
+
+        .return-btn.hubcert-return:hover {
+            background: #082d6b;
         }
 
         .pagination-group {
@@ -590,7 +689,7 @@
             <!-- UP WINDOW (4/5 HEIGHT) -->
             <div class="upper-window">
                 <div class="detail-header-bar">
-                    <button class="export-btn" id="btnExportXlsx" title="Export to XLSX">💾</button>
+                    <button class="export-btn" id="btnExportXlsx" title="Export Survey Status to XLSX">💾</button>
                     <div class="detail-header-title" id="detailHeaderTitle">
                         VESSEL Survey Status updated YYYY-MM-DD
                     </div>
@@ -677,12 +776,41 @@
                 </div>
             </div>
         </div>
+
+        <!-- VIEW D: HUBCERT DETAIL (MVI1D201-Certificate MTD/SHIP) -->
+        <div id="viewHubCertDetail" class="view-panel hidden">
+            <div class="hubcert-full-window">
+                <div class="detail-header-bar">
+                    <button class="export-btn" id="btnExportHubCertXlsx" title="Export HubCert to XLSX">💾</button>
+                    <div class="detail-header-title hubcert-header-title" id="hubCertHeaderTitle">
+                        VESSEL (SCODE) updated YYYY-MM-DD
+                    </div>
+                </div>
+                <div class="table-wrapper">
+                    <table id="hubCertTable">
+                        <thead>
+                            <tr>
+                                <th class="hc-col-due">DUE_DATE</th>
+                                <th class="hc-col-code">CODE</th>
+                                <th class="hc-col-name">NAME</th>
+                                <th class="hc-col-sched">SCHEDULE_DATE</th>
+                                <th class="hc-col-port">PLANNED_PORT</th>
+                                <th class="hc-col-remark">REMARK</th>
+                            </tr>
+                        </thead>
+                        <tbody id="hubCertTbody">
+                            <!-- Dynamic HubCert Rows -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
     </main>
 
     <!-- FOOTER -->
     <footer id="appFooter">
         <div id="footerListMode" style="width: 100%; text-align: center;">
-            v1.3 | Developer: Adam M.T. Chen | Date: 2026-11-17
+            v1.4 | Developer: Adam M.T. Chen | Date: 2026-11-18
         </div>
 
         <div id="footerDetailMode" class="footer-nav hidden">
@@ -713,15 +841,20 @@
         let filteredVesselList = [];
         let activeVesselIndexes = [];
         let activeScheduleIndexes = [];
+        let activeHubCertIndexes = [];
         let picMappingList = [];
+
         let earDueMap = {};
-        let uploadedDataDate = null;
+        let earDueHubMap = {};
+        let uploadedStatusDate = null;
+        let uploadedHubDate = null;
 
         let currentSortField = "vessel_name";
         let currentSortAsc = true;
         let selectedVesselIndex = -1;
         let currentVesselData = null;
-        let activeDetailMode = "NONE"; // "NONE" | "STATUS" | "SCHEDULE"
+        let currentHubCertData = null;
+        let activeDetailMode = "NONE"; // "NONE" | "STATUS" | "SCHEDULE" | "HUBCERT"
 
         const appHeader = document.getElementById("appHeader");
         const appHeaderTitle = document.getElementById("appHeaderTitle");
@@ -729,11 +862,13 @@
         const viewVesselList = document.getElementById("viewVesselList");
         const viewVesselDetail = document.getElementById("viewVesselDetail");
         const viewScheduleDetail = document.getElementById("viewScheduleDetail");
+        const viewHubCertDetail = document.getElementById("viewHubCertDetail");
 
         const vesselListTbody = document.getElementById("vesselListTbody");
         const vesselStatusTbody = document.getElementById("vesselStatusTbody");
         const scheduleDetailTbody = document.getElementById("scheduleDetailTbody");
         const crewDetailTbody = document.getElementById("crewDetailTbody");
+        const hubCertTbody = document.getElementById("hubCertTbody");
 
         const filterDept = document.getElementById("filterDept");
         const filterPic = document.getElementById("filterPic");
@@ -749,6 +884,9 @@
         const scheduleSubHeader = document.getElementById("scheduleSubHeader");
         const scheduleCountLabel = document.getElementById("scheduleCountLabel");
         const crewCountLabel = document.getElementById("crewCountLabel");
+
+        const hubCertHeaderTitle = document.getElementById("hubCertHeaderTitle");
+        const btnExportHubCertXlsx = document.getElementById("btnExportHubCertXlsx");
 
         const btnReturn = document.getElementById("btnReturn");
         const btnFirst = document.getElementById("btnFirst");
@@ -784,11 +922,12 @@
 
         async function initData() {
             try {
-                console.log("Fetching master indexes and EarDue.json from ExpData...");
-                const [vesselRes, picRes, earDueRes] = await Promise.all([
+                console.log("Fetching master indexes, EarDue.json, and EarDueHub.json from ExpData...");
+                const [vesselRes, picRes, earDueRes, earDueHubRes] = await Promise.all([
                     fetch("ExpData/vessel_list.json"),
                     fetch("ExpData/pic.json"),
-                    fetch("ExpData/EarDue.json").catch(() => null)
+                    fetch("ExpData/EarDue.json").catch(() => null),
+                    fetch("ExpData/EarDueHub.json").catch(() => null)
                 ]);
 
                 if (!vesselRes.ok) throw new Error(`vessel_list.json HTTP ${vesselRes.status}`);
@@ -797,47 +936,72 @@
                 masterVesselList = await vesselRes.json();
                 picMappingList = await picRes.json();
 
-                // Build EarDue lookup map & determine uploaded data reference date
+                // Build EarDue lookup map & determine uploaded status date
                 earDueMap = {};
                 if (earDueRes && earDueRes.ok) {
                     const lastModHeader = earDueRes.headers.get("Last-Modified");
                     if (lastModHeader) {
                         const parsedMod = new Date(lastModHeader);
-                        if (!isNaN(parsedMod)) {
-                            uploadedDataDate = normalizeDateMidnight(parsedMod);
-                        }
+                        if (!isNaN(parsedMod)) uploadedStatusDate = normalizeDateMidnight(parsedMod);
                     }
                     const earDueList = await earDueRes.json();
                     if (Array.isArray(earDueList)) {
                         earDueList.forEach(item => {
                             const vName = (item.vessel_name || "").trim().toUpperCase();
-                            if (vName) {
-                                earDueMap[vName] = (item.due_date || "").trim();
-                            }
+                            if (vName) earDueMap[vName] = (item.due_date || "").trim();
+                        });
+                    }
+                }
+
+                // Build EarDueHub lookup map & determine uploaded HubCert date
+                earDueHubMap = {};
+                if (earDueHubRes && earDueHubRes.ok) {
+                    const lastModHubHeader = earDueHubRes.headers.get("Last-Modified");
+                    if (lastModHubHeader) {
+                        const parsedHubMod = new Date(lastModHubHeader);
+                        if (!isNaN(parsedHubMod)) uploadedHubDate = normalizeDateMidnight(parsedHubMod);
+                    }
+                    const earDueHubList = await earDueHubRes.json();
+                    if (Array.isArray(earDueHubList)) {
+                        earDueHubList.forEach(item => {
+                            const vName = (item.vessel_name || "").trim().toUpperCase();
+                            if (vName) earDueHubMap[vName] = (item.due_date || "").trim();
                         });
                     }
                 }
 
                 await checkVesselDataAvailability();
 
-                // Fallback uploadedDataDate if HTTP Last-Modified header was unavailable
-                if (!uploadedDataDate) {
+                // Fallback uploadedStatusDate from sample status JSON if needed
+                if (!uploadedStatusDate) {
                     const sampleWithStatus = masterVesselList.find(v => v.has_status);
                     if (sampleWithStatus) {
                         try {
                             const sampleRes = await fetch(`ExpData/vessels/${sampleWithStatus.file_name}`);
                             if (sampleRes.ok) {
                                 const sampleJson = await sampleRes.json();
-                                if (sampleJson.last_updated) {
-                                    uploadedDataDate = parseYMD(sampleJson.last_updated);
-                                }
+                                if (sampleJson.last_updated) uploadedStatusDate = parseYMD(sampleJson.last_updated);
                             }
                         } catch (e) {}
                     }
                 }
-                if (!uploadedDataDate) {
-                    uploadedDataDate = normalizeDateMidnight(new Date());
+                if (!uploadedStatusDate) uploadedStatusDate = normalizeDateMidnight(new Date());
+
+                // Fallback uploadedHubDate from sample hubcert JSON if needed
+                if (!uploadedHubDate) {
+                    const sampleWithHub = masterVesselList.find(v => v.has_hubcert && v.scode);
+                    if (sampleWithHub) {
+                        try {
+                            const cleanScode = sampleWithHub.scode.trim().toUpperCase();
+                            const sampleHubRes = await fetch(`ExpData/hubcert/${cleanScode}.json`);
+                            if (sampleHubRes.ok) {
+                                const sampleHubJson = await sampleHubRes.json();
+                                if (sampleHubJson.last_updated) uploadedHubDate = parseYMD(sampleHubJson.last_updated);
+                            }
+                        } catch (e) {}
+                    }
                 }
+                if (!uploadedHubDate) uploadedHubDate = normalizeDateMidnight(new Date());
 
                 populateDeptDropdown();
                 applyFiltersAndSort();
@@ -849,53 +1013,59 @@
 
         async function checkVesselDataAvailability() {
             const checks = masterVesselList.map(async (v) => {
-                // Check Survey Status JSON availability
+                // 1. Check Survey Status JSON availability
                 const statusCheck = fetch(`ExpData/vessels/${v.file_name}`, { method: "HEAD" })
                     .then(res => res.ok)
                     .catch(() => false);
 
-                // Check Schedule / Crew JSON availability via SCODE
+                // 2. Check Schedule / Crew & HubCert JSON availability via SCODE
                 const cleanScode = (v.scode || "").trim().toUpperCase();
                 let schedCheck = Promise.resolve(false);
+                let hubCertCheck = Promise.resolve(false);
 
                 if (cleanScode) {
                     schedCheck = Promise.all([
                         fetch(`ExpData/schedule/${cleanScode}.json`, { method: "HEAD" }).then(r => r.ok).catch(() => false),
                         fetch(`ExpData/crew/${cleanScode}.json`, { method: "HEAD" }).then(r => r.ok).catch(() => false)
                     ]).then(([hasSched, hasCrew]) => hasSched || hasCrew);
+
+                    hubCertCheck = fetch(`ExpData/hubcert/${cleanScode}.json`, { method: "HEAD" })
+                        .then(r => r.ok)
+                        .catch(() => false);
                 }
 
-                const [hasStatus, hasSchedule] = await Promise.all([statusCheck, schedCheck]);
+                const [hasStatus, hasSchedule, hasHubCert] = await Promise.all([statusCheck, schedCheck, hubCertCheck]);
                 v.has_status = hasStatus;
                 v.has_schedule = hasSchedule;
+                v.has_hubcert = hasHubCert;
             });
             await Promise.all(checks);
         }
 
-        function getVesselNameStyleClass(vesselName) {
+        function getCellEarDueStyleClass(vesselName, lookupMap, referenceUploadDate) {
             const key = (vesselName || "").trim().toUpperCase();
-            // 8. If vessel is not existing in EarDue.json -> black normal
-            if (!Object.prototype.hasOwnProperty.call(earDueMap, key) || !earDueMap[key]) {
-                return "vname-black-normal";
+            // 8. Not existing in EarDue / EarDueHub -> black normal
+            if (!Object.prototype.hasOwnProperty.call(lookupMap, key) || !lookupMap[key]) {
+                return "cell-black-normal";
             }
 
-            const dueDate = parseYMD(earDueMap[key]);
-            if (!dueDate || !uploadedDataDate) {
-                return "vname-black-normal";
+            const dueDate = parseYMD(lookupMap[key]);
+            if (!dueDate || !referenceUploadDate) {
+                return "cell-black-normal";
             }
 
-            const diffDays = Math.round((dueDate - uploadedDataDate) / (1000 * 60 * 60 * 24));
+            const diffDays = Math.round((dueDate - referenceUploadDate) / (1000 * 60 * 60 * 24));
 
-            // 3. Same or earlier than date of uploaded data -> white bold with red background
-            if (diffDays <= 0) return "vname-red-bg";
-            // 4. Earlier than date of update + 31 -> green bold with orange background
-            if (diffDays < 31) return "vname-orange-bg";
-            // 5. Earlier than date of update + 61 -> green bold with yellow background
-            if (diffDays < 61) return "vname-yellow-bg";
-            // 6. Earlier than date of update + 91 -> black bold with green background
-            if (diffDays < 91) return "vname-green-bg";
-            // 7. Later than date of update + 90 -> blue bold
-            return "vname-blue-text";
+            // 3. Same or earlier than upload date -> white bold with red background
+            if (diffDays <= 0) return "cell-red-bg";
+            // 4. Earlier than upload date + 31 -> green bold with orange background
+            if (diffDays < 31) return "cell-orange-bg";
+            // 5. Earlier than upload date + 61 -> green bold with yellow background
+            if (diffDays < 61) return "cell-yellow-bg";
+            // 6. Earlier than upload date + 91 -> black bold with green background
+            if (diffDays < 91) return "cell-green-bg";
+            // 7. Later than upload date + 90 -> blue bold
+            return "cell-blue-text";
         }
 
         function populateDeptDropdown() {
@@ -954,9 +1124,11 @@
 
             activeVesselIndexes = [];
             activeScheduleIndexes = [];
+            activeHubCertIndexes = [];
             filteredVesselList.forEach((v, idx) => {
                 if (v.has_status) activeVesselIndexes.push(idx);
                 if (v.has_schedule) activeScheduleIndexes.push(idx);
+                if (v.has_hubcert) activeHubCertIndexes.push(idx);
             });
 
             renderVesselListTable();
@@ -973,28 +1145,31 @@
             filteredVesselList.forEach((v, idx) => {
                 const tr = document.createElement("tr");
 
-                // VESSEL NAME formatted according to EarDue.json
-                const vNameClass = getVesselNameStyleClass(v.vessel_name);
-                const nameHtml = v.has_status 
-                    ? `<span class="vessel-link ${vNameClass}" data-index="${idx}">${escapeHtml(v.vessel_name)}</span>`
-                    : `<span class="${vNameClass}">${escapeHtml(v.vessel_name)}</span>`;
+                // VESSEL NAME: full-cell color from EarDue.json + 20% enlarged font
+                const vNameCellClass = getCellEarDueStyleClass(v.vessel_name, earDueMap, uploadedStatusDate);
+                const nameInnerHtml = v.has_status 
+                    ? `<span class="vessel-link" data-index="${idx}">${escapeHtml(v.vessel_name)}</span>`
+                    : `<span>${escapeHtml(v.vessel_name)}</span>`;
 
-                // 10. SCODE font is normal (no link)
-                const scodeHtml = `<span class="vessel-no-link">${escapeHtml(v.scode)}</span>`;
+                // SCODE: full-cell color from EarDueHub.json + 20% enlarged font + link to ExpData/hubcert/
+                const scodeCellClass = getCellEarDueStyleClass(v.vessel_name, earDueHubMap, uploadedHubDate);
+                const scodeInnerHtml = v.has_hubcert
+                    ? `<span class="scode-link" data-index="${idx}">${escapeHtml(v.scode)}</span>`
+                    : `<span>${escapeHtml(v.scode)}</span>`;
 
-                // 9 & 10. Link to schedule shifted to SMAIL; blue bold when linked
+                // SMAIL: link to ExpData/schedule & ExpData/crew
                 const smailDisplay = v.smail || (v.has_schedule ? "Schedule" : "");
                 const smailHtml = v.has_schedule
                     ? `<span class="smail-link" data-index="${idx}">${escapeHtml(smailDisplay)}</span>`
                     : `<span class="vessel-no-link">${escapeHtml(v.smail)}</span>`;
 
                 tr.innerHTML = `
-                    <td>${nameHtml}</td>
+                    <td class="cell-enlarged ${vNameCellClass}">${nameInnerHtml}</td>
                     <td>${escapeHtml(v.dept)}</td>
                     <td>${escapeHtml(v.pic)}</td>
                     <td>${escapeHtml(v.class)}</td>
                     <td>${escapeHtml(v.company)}</td>
-                    <td>${scodeHtml}</td>
+                    <td class="cell-enlarged ${scodeCellClass}">${scodeInnerHtml}</td>
                     <td>${escapeHtml(v.cname)}</td>
                     <td>${escapeHtml(v.deliver)}</td>
                     <td>${smailHtml}</td>
@@ -1010,6 +1185,13 @@
                 });
             });
 
+            document.querySelectorAll(".scode-link").forEach(link => {
+                link.addEventListener("click", (e) => {
+                    const idx = parseInt(e.target.getAttribute("data-index"), 10);
+                    openHubCertDetail(idx);
+                });
+            });
+
             document.querySelectorAll(".smail-link").forEach(link => {
                 link.addEventListener("click", (e) => {
                     const idx = parseInt(e.target.getAttribute("data-index"), 10);
@@ -1019,19 +1201,31 @@
         }
 
         function setHeaderTheme(mode) {
+            appHeader.classList.remove("header-schedule-mode", "header-hubcert-mode");
+            btnReturn.classList.remove("schedule-return", "hubcert-return");
+
             if (mode === "SCHEDULE") {
                 appHeader.classList.add("header-schedule-mode");
                 appHeaderTitle.textContent = "Berth Schedule and Crew List";
                 btnReturn.classList.add("schedule-return");
+            } else if (mode === "HUBCERT") {
+                appHeader.classList.add("header-hubcert-mode");
+                appHeaderTitle.textContent = "MVI1D201-Certificate MTD/SHIP";
+                btnReturn.classList.add("hubcert-return");
             } else {
-                appHeader.classList.remove("header-schedule-mode");
                 appHeaderTitle.textContent = "Evergreen Survey Status Master";
-                btnReturn.classList.remove("schedule-return");
             }
         }
 
+        function hideAllViews() {
+            viewVesselList.classList.add("hidden");
+            viewVesselDetail.classList.add("hidden");
+            viewScheduleDetail.classList.add("hidden");
+            viewHubCertDetail.classList.add("hidden");
+        }
+
         /* =========================================================
-           VIEW B: SURVEY STATUS DETAIL
+           VIEW B: SURVEY STATUS DETAIL (ExpData/vessels)
            ========================================================= */
         async function openVesselDetail(index) {
             if (index < 0 || index >= filteredVesselList.length) return;
@@ -1043,8 +1237,7 @@
             activeDetailMode = "STATUS";
             setHeaderTheme("STATUS");
 
-            viewVesselList.classList.add("hidden");
-            viewScheduleDetail.classList.add("hidden");
+            hideAllViews();
             viewVesselDetail.classList.remove("hidden");
 
             footerListMode.classList.add("hidden");
@@ -1068,7 +1261,7 @@
         }
 
         /* =========================================================
-           VIEW C: BERTH SCHEDULE AND CREW LIST
+           VIEW C: BERTH SCHEDULE AND CREW LIST (ExpData/schedule & crew)
            ========================================================= */
         async function openScheduleDetail(index) {
             if (index < 0 || index >= filteredVesselList.length) return;
@@ -1080,8 +1273,7 @@
             activeDetailMode = "SCHEDULE";
             setHeaderTheme("SCHEDULE");
 
-            viewVesselList.classList.add("hidden");
-            viewVesselDetail.classList.add("hidden");
+            hideAllViews();
             viewScheduleDetail.classList.remove("hidden");
 
             footerListMode.classList.add("hidden");
@@ -1159,9 +1351,95 @@
             });
         }
 
+        /* =========================================================
+           VIEW D: HUBCERT DETAIL (ExpData/hubcert)
+           ========================================================= */
+        async function openHubCertDetail(index) {
+            if (index < 0 || index >= filteredVesselList.length) return;
+            selectedVesselIndex = index;
+            const vessel = filteredVesselList[selectedVesselIndex];
+
+            if (!vessel.has_hubcert) return;
+
+            activeDetailMode = "HUBCERT";
+            setHeaderTheme("HUBCERT");
+
+            hideAllViews();
+            viewHubCertDetail.classList.remove("hidden");
+
+            footerListMode.classList.add("hidden");
+            footerDetailMode.classList.remove("hidden");
+
+            const cleanScode = (vessel.scode || "").trim().toUpperCase();
+            hubCertHeaderTitle.textContent = `${vessel.vessel_name} (${cleanScode}) updated --`;
+            hubCertTbody.innerHTML = `<tr><td colspan="6" style="text-align:center; padding:8px;">Loading HubCert records...</td></tr>`;
+
+            try {
+                const fetchPath = `ExpData/hubcert/${cleanScode}.json`;
+                const response = await fetch(fetchPath);
+                if (!response.ok) throw new Error(`HTTP ${response.status} loading ${fetchPath}`);
+
+                currentHubCertData = await response.json();
+                const displayVessel = currentHubCertData.VESSEL || vessel.vessel_name;
+                const displayCode = currentHubCertData.VSL_CODE || cleanScode;
+                const displayUpdated = currentHubCertData.last_updated || "--";
+
+                hubCertHeaderTitle.textContent = `${displayVessel} (${displayCode}) updated ${displayUpdated}`;
+                renderHubCertTable(currentHubCertData.records || [], displayUpdated);
+
+            } catch (err) {
+                console.error("Error loading HubCert json:", err);
+                hubCertTbody.innerHTML = `<tr><td colspan="6" style="color:red; text-align:center;">Failed to load HubCert data: ${err.message}</td></tr>`;
+            }
+        }
+
+        function renderHubCertTable(records, lastUpdatedStr) {
+            hubCertTbody.innerHTML = "";
+            if (!Array.isArray(records) || records.length === 0) {
+                hubCertTbody.innerHTML = `<tr><td colspan="6" style="text-align:center; padding:10px; color:#666;">No HubCert records available.</td></tr>`;
+                return;
+            }
+
+            const refDate = parseYMD(lastUpdatedStr) || normalizeDateMidnight(new Date());
+
+            records.forEach(r => {
+                const tr = document.createElement("tr");
+
+                const dueStr = r["DUE_DATE"] || "";
+                const schedStr = r["SCHEDULE_DATE"] || "";
+
+                const dueClass = getDueDateColorClass(dueStr, refDate);
+                const schedClass = schedStr ? getDueDateColorClass(schedStr, refDate) : "status-white";
+
+                // Rule 10: REMARK reflects same font & background color as DUE_DATE
+                // if SCHEDULE_DATE is blank OR earlier than date of update, else normal
+                const schedDateObj = parseYMD(schedStr);
+                const isUnscheduledOrPast = (!schedStr || !schedDateObj || schedDateObj < refDate);
+                const remarkClass = isUnscheduledOrPast ? dueClass : "status-white";
+
+                tr.innerHTML = `
+                    <td class="hc-col-due ${dueClass}">${escapeHtml(dueStr)}</td>
+                    <td class="hc-col-code">${escapeHtml(r["CODE"] || "")}</td>
+                    <td class="hc-col-name">${escapeHtml(r["NAME"] || "")}</td>
+                    <td class="hc-col-sched ${schedClass}">${escapeHtml(schedStr)}</td>
+                    <td class="hc-col-port">${escapeHtml(r["PLANNED_PORT"] || "")}</td>
+                    <td class="hc-col-remark ${remarkClass}">${escapeHtml(r["REMARK"] || "")}</td>
+                `;
+                hubCertTbody.appendChild(tr);
+            });
+        }
+
         function navigateDetail(direction) {
-            const indexPool = (activeDetailMode === "SCHEDULE") ? activeScheduleIndexes : activeVesselIndexes;
-            const openFn = (activeDetailMode === "SCHEDULE") ? openScheduleDetail : openVesselDetail;
+            let indexPool = activeVesselIndexes;
+            let openFn = openVesselDetail;
+
+            if (activeDetailMode === "SCHEDULE") {
+                indexPool = activeScheduleIndexes;
+                openFn = openScheduleDetail;
+            } else if (activeDetailMode === "HUBCERT") {
+                indexPool = activeHubCertIndexes;
+                openFn = openHubCertDetail;
+            }
 
             if (indexPool.length === 0) return;
             let currentPos = indexPool.indexOf(selectedVesselIndex);
@@ -1259,12 +1537,12 @@
             }
         }
 
-        function getDueDateColorClass(dueDateStr, today) {
+        function getDueDateColorClass(dueDateStr, refDate) {
             if (!dueDateStr) return "status-white";
-            const due = new Date(dueDateStr);
-            if (isNaN(due)) return "status-white";
+            const due = parseYMD(dueDateStr);
+            if (!due || isNaN(due)) return "status-white";
 
-            const diffDays = Math.ceil((due - today) / (1000 * 60 * 60 * 24));
+            const diffDays = Math.ceil((due - refDate) / (1000 * 60 * 60 * 24));
 
             if (diffDays <= 0) return "status-red";
             if (diffDays < 30) return "status-orange";
@@ -1273,8 +1551,8 @@
             return "status-white";
         }
 
-        function getHexColorForStyle(dueDateStr, today) {
-            const colorClass = getDueDateColorClass(dueDateStr, today);
+        function getHexColorForStyle(dueDateStr, refDate) {
+            const colorClass = getDueDateColorClass(dueDateStr, refDate);
             switch (colorClass) {
                 case "status-red": return { fill: "DC3545", font: "FFFFFF", bold: true };
                 case "status-orange": return { fill: "FD7E14", font: "000000", bold: false };
@@ -1367,6 +1645,126 @@
             XLSX.writeFile(wb, `${safeVesselName}_Survey_Status_${datePrefix}.xlsx`);
         }
 
+        function exportHubCertToXlsx() {
+            if (!currentHubCertData || !currentHubCertData.records) {
+                alert("No HubCert data available to export.");
+                return;
+            }
+
+            const refDate = parseYMD(currentHubCertData.last_updated) || normalizeDateMidnight(new Date());
+
+            const wsData = [
+                [`MVI1D201-Certificate MTD/SHIP`],
+                [`VESSEL: ${currentHubCertData.VESSEL || ""} (${currentHubCertData.VSL_CODE || ""})`],
+                [`DATE OF UPDATE: ${currentHubCertData.last_updated || ""}`],
+                [],
+                ["DUE_DATE", "CODE", "NAME", "SCHEDULE_DATE", "PLANNED_PORT", "REMARK"]
+            ];
+
+            currentHubCertData.records.forEach(r => {
+                wsData.push([
+                    r["DUE_DATE"] || "",
+                    r["CODE"] || "",
+                    r["NAME"] || "",
+                    r["SCHEDULE_DATE"] || "",
+                    r["PLANNED_PORT"] || "",
+                    r["REMARK"] || ""
+                ]);
+            });
+
+            const ws = XLSX.utils.aoa_to_sheet(wsData);
+            ws['!cols'] = [
+                { wch: 14 },
+                { wch: 10 },
+                { wch: 32 },
+                { wch: 15 },
+                { wch: 15 },
+                { wch: 55 }
+            ];
+
+            for (let row = 0; row < 3; row++) {
+                const cellRef = XLSX.utils.encode_cell({ r: row, c: 0 });
+                if (ws[cellRef]) {
+                    ws[cellRef].s = {
+                        font: { name: "Arial", sz: 10, bold: true, color: { rgb: "0D47A1" } }
+                    };
+                }
+            }
+
+            for (let col = 0; col < 6; col++) {
+                const cellRef = XLSX.utils.encode_cell({ r: 4, c: col });
+                if (ws[cellRef]) {
+                    ws[cellRef].s = {
+                        font: { name: "Arial", sz: 10, bold: true, color: { rgb: "FFFFFF" } },
+                        fill: { fgColor: { rgb: "343A40" } },
+                        alignment: { horizontal: (col === 0 || col === 3) ? "center" : "left" }
+                    };
+                }
+            }
+
+            currentHubCertData.records.forEach((r, idx) => {
+                const rowIdx = 5 + idx;
+                const dueStr = r["DUE_DATE"] || "";
+                const schedStr = r["SCHEDULE_DATE"] || "";
+
+                const dueStyle = getHexColorForStyle(dueStr, refDate);
+                const schedStyle = schedStr
+                    ? getHexColorForStyle(schedStr, refDate)
+                    : { fill: "FFFFFF", font: "000000", bold: false };
+
+                const schedDateObj = parseYMD(schedStr);
+                const isUnscheduledOrPast = (!schedStr || !schedDateObj || schedDateObj < refDate);
+                const remarkStyle = isUnscheduledOrPast
+                    ? dueStyle
+                    : { fill: "FFFFFF", font: "000000", bold: false };
+
+                const c0 = XLSX.utils.encode_cell({ r: rowIdx, c: 0 });
+                const c1 = XLSX.utils.encode_cell({ r: rowIdx, c: 1 });
+                const c2 = XLSX.utils.encode_cell({ r: rowIdx, c: 2 });
+                const c3 = XLSX.utils.encode_cell({ r: rowIdx, c: 3 });
+                const c4 = XLSX.utils.encode_cell({ r: rowIdx, c: 4 });
+                const c5 = XLSX.utils.encode_cell({ r: rowIdx, c: 5 });
+
+                if (ws[c0]) {
+                    ws[c0].s = {
+                        font: { name: "Arial", sz: 10, bold: dueStyle.bold, color: { rgb: dueStyle.font } },
+                        fill: { fgColor: { rgb: dueStyle.fill } },
+                        alignment: { horizontal: "center" }
+                    };
+                }
+                if (ws[c1]) {
+                    ws[c1].s = { font: { name: "Arial", sz: 10 }, alignment: { horizontal: "left" } };
+                }
+                if (ws[c2]) {
+                    ws[c2].s = { font: { name: "Arial", sz: 10 }, alignment: { wrapText: true } };
+                }
+                if (ws[c3]) {
+                    ws[c3].s = {
+                        font: { name: "Arial", sz: 10, bold: schedStyle.bold, color: { rgb: schedStyle.font } },
+                        fill: { fgColor: { rgb: schedStyle.fill } },
+                        alignment: { horizontal: "center" }
+                    };
+                }
+                if (ws[c4]) {
+                    ws[c4].s = { font: { name: "Arial", sz: 10 }, alignment: { horizontal: "left" } };
+                }
+                if (ws[c5]) {
+                    ws[c5].s = {
+                        font: { name: "Arial", sz: 10, bold: remarkStyle.bold, color: { rgb: remarkStyle.font } },
+                        fill: { fgColor: { rgb: remarkStyle.fill } },
+                        alignment: { wrapText: true }
+                    };
+                }
+            });
+
+            const wb = XLSX.utils.book_new();
+            XLSX.utils.book_append_sheet(wb, ws, "HubCert_Status");
+
+            const safeCode = (currentHubCertData.VSL_CODE || currentHubCertData.VESSEL || "Vessel").replace(/[^a-zA-Z0-9_-]/g, "_");
+            const datePrefix = new Date().toISOString().slice(0,10).replace(/-/g, "");
+            XLSX.writeFile(wb, `${safeCode}_HubCert_${datePrefix}.xlsx`);
+        }
+
         function setupEventListeners() {
             filterDept.addEventListener("change", () => {
                 updatePicDropdown();
@@ -1393,6 +1791,7 @@
             homeBtn.addEventListener("click", resetToDefaultHome);
             btnReturn.addEventListener("click", returnToVesselList);
             btnExportXlsx.addEventListener("click", exportToXlsx);
+            btnExportHubCertXlsx.addEventListener("click", exportHubCertToXlsx);
 
             btnFirst.addEventListener("click", () => navigateDetail("first"));
             btnPrev.addEventListener("click", () => navigateDetail("prev"));
@@ -1404,8 +1803,7 @@
             activeDetailMode = "NONE";
             setHeaderTheme("LIST");
 
-            viewVesselDetail.classList.add("hidden");
-            viewScheduleDetail.classList.add("hidden");
+            hideAllViews();
             viewVesselList.classList.remove("hidden");
 
             footerDetailMode.classList.add("hidden");
