@@ -1,0 +1,16 @@
+{
+  "VESSEL": "EVER BALMY",
+  "VSL_CODE": "BLMY",
+  "last_updated": "2026-11-18",
+  "total_records": 1,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/25",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "2026/11/18",
+      "PLANNED_PORT": "PHMNL",
+      "REMARK": ""
+    }
+  ]
+}

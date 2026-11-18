@@ -1,0 +1,40 @@
+{
+  "VESSEL": "UNI-PRUDENT",
+  "VSL_CODE": "PRDT",
+  "last_updated": "2026-11-18",
+  "total_records": 4,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/05",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "2026/11/17",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// PRDT26S07801R1 安排廠商登輪檢驗"
+    },
+    {
+      "DUE_DATE": "2027/02/03",
+      "CODE": "CE13",
+      "NAME": "LRIT ANNUAL CONFORMANCE TEST (FOR PANAMA FLAG ONLY)",
+      "SCHEDULE_DATE": "2025/06/06",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計出物後安排廠商檢查"
+    },
+    {
+      "DUE_DATE": "2027/02/14",
+      "CODE": "CC01",
+      "NAME": "COR (CERT. OF REGISTER)",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/14",
+      "CODE": "CC11",
+      "NAME": "CREW ACCOMMODATE CERT.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

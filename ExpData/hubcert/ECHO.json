@@ -1,0 +1,72 @@
+{
+  "VESSEL": "EVER ECHO",
+  "VSL_CODE": "ECHO",
+  "last_updated": "2026-11-18",
+  "total_records": 8,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/31",
+      "CODE": "CF01",
+      "NAME": "LIFERAFSHIPT CERT.",
+      "SCHEDULE_DATE": "2026/11/19",
+      "PLANNED_PORT": "NLRDM",
+      "REMARK": "預計安排更換之港口及日期。"
+    },
+    {
+      "DUE_DATE": "2027/01/25",
+      "CODE": "CF03",
+      "NAME": "LIFEJACKET ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/01/25",
+      "CODE": "CF12",
+      "NAME": "SCBA ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/01",
+      "CODE": "CF10",
+      "NAME": "EEBD ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/01",
+      "CODE": "CF14",
+      "NAME": "P.F.E. CO2 ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/01",
+      "CODE": "CF16",
+      "NAME": "P.F.E. FOAM ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/01",
+      "CODE": "CF18",
+      "NAME": "P.F.E. DP ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/11",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

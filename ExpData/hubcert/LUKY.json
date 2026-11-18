@@ -1,0 +1,32 @@
+{
+  "VESSEL": "EVER LUCKY",
+  "VSL_CODE": "LUKY",
+  "last_updated": "2026-11-18",
+  "total_records": 3,
+  "records": [
+    {
+      "DUE_DATE": "2026/11/24",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "2025/11/22",
+      "PLANNED_PORT": "CNSHG",
+      "REMARK": "Please Update Record / Rearrange Work//"
+    },
+    {
+      "DUE_DATE": "2026/12/04",
+      "CODE": "CA19",
+      "NAME": "CLASS OUTSTANDING ITEMS",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CODE": "CB07",
+      "NAME": "C.M.S.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    }
+  ]
+}

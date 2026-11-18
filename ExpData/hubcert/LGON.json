@@ -1,0 +1,24 @@
+{
+  "VESSEL": "EVER LEGION",
+  "VSL_CODE": "LGON",
+  "last_updated": "2026-11-18",
+  "total_records": 2,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/25",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "返航中國碼頭，由船上向港口代理提出申請。"
+    },
+    {
+      "DUE_DATE": "2027/02/01",
+      "CODE": "CE11",
+      "NAME": "SART BATTERY",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

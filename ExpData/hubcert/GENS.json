@@ -1,0 +1,16 @@
+{
+  "VESSEL": "EVER GENIUS",
+  "VSL_CODE": "GENS",
+  "last_updated": "2026-11-18",
+  "total_records": 1,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/27",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

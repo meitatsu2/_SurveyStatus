@@ -1,0 +1,80 @@
+{
+  "VESSEL": "EVER PRIMA",
+  "VSL_CODE": "PRIM",
+  "last_updated": "2026-11-18",
+  "total_records": 9,
+  "records": [
+    {
+      "DUE_DATE": "2026/11/24",
+      "CODE": "CF03",
+      "NAME": "LIFEJACKET ANNUAL",
+      "SCHEDULE_DATE": "2024/12/06",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// 預計到期前安排KSG換證"
+    },
+    {
+      "DUE_DATE": "2026/11/24",
+      "CODE": "CF10",
+      "NAME": "EEBD ANNUAL",
+      "SCHEDULE_DATE": "2024/12/06",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// 預計到期前安排KSG換證"
+    },
+    {
+      "DUE_DATE": "2026/11/24",
+      "CODE": "CF14",
+      "NAME": "P.F.E. CO2 ANNUAL",
+      "SCHEDULE_DATE": "2024/12/06",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// 預計到期前安排KSG換證"
+    },
+    {
+      "DUE_DATE": "2026/11/24",
+      "CODE": "CF16",
+      "NAME": "P.F.E. FOAM ANNUAL",
+      "SCHEDULE_DATE": "2024/12/06",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// 預計到期前安排KSG換證"
+    },
+    {
+      "DUE_DATE": "2026/11/24",
+      "CODE": "CF18",
+      "NAME": "P.F.E. DP ANNUAL",
+      "SCHEDULE_DATE": "2024/12/06",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// 預計到期前安排KSG換證"
+    },
+    {
+      "DUE_DATE": "2026/12/01",
+      "CODE": "CE12",
+      "NAME": "VHF BATTERY",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/01/06",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "2025/03/29",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Arrange Work// 安排廠商換新"
+    },
+    {
+      "DUE_DATE": "2027/01/14",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/01/22",
+      "CODE": "CF11",
+      "NAME": "EEBD CYL. HYD. TEST",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "VESSEL": "EVER LYRIC",
+  "VSL_CODE": "LRIC",
+  "last_updated": "2026-11-18",
+  "total_records": 11,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/10",
+      "CODE": "CF01",
+      "NAME": "LIFERAFSHIPT CERT.",
+      "SCHEDULE_DATE": "2025/01/17",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// LRIC24S14501"
+    },
+    {
+      "DUE_DATE": "2026/12/10",
+      "CODE": "CF06",
+      "NAME": "FIXED CO2 ANNUAL",
+      "SCHEDULE_DATE": "2025/01/17",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// LRIC24S14401"
+    },
+    {
+      "DUE_DATE": "2026/12/10",
+      "CODE": "CF10",
+      "NAME": "EEBD ANNUAL",
+      "SCHEDULE_DATE": "2025/01/17",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// LRIC24S14401"
+    },
+    {
+      "DUE_DATE": "2026/12/10",
+      "CODE": "CF12",
+      "NAME": "SCBA ANNUAL",
+      "SCHEDULE_DATE": "2025/01/17",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// LRIC24S14401"
+    },
+    {
+      "DUE_DATE": "2026/12/10",
+      "CODE": "CF14",
+      "NAME": "P.F.E. CO2 ANNUAL",
+      "SCHEDULE_DATE": "2025/01/17",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// LRIC24S14401"
+    },
+    {
+      "DUE_DATE": "2026/12/10",
+      "CODE": "CF16",
+      "NAME": "P.F.E. FOAM ANNUAL",
+      "SCHEDULE_DATE": "2025/01/17",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// LRIC24S14401"
+    },
+    {
+      "DUE_DATE": "2026/12/10",
+      "CODE": "CF18",
+      "NAME": "P.F.E. DP ANNUAL",
+      "SCHEDULE_DATE": "2025/01/17",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// LRIC24S14401"
+    },
+    {
+      "DUE_DATE": "2026/12/11",
+      "CODE": "CA19",
+      "NAME": "CLASS OUTSTANDING ITEMS",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work// 安排於2027年底塢修時作永久性修復。"
+    },
+    {
+      "DUE_DATE": "2027/01/01",
+      "CODE": "CE07",
+      "NAME": "VDR FLOAT-FREE HRU",
+      "SCHEDULE_DATE": "2025/01/17",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Arrange Work// LRIC24S14201"
+    },
+    {
+      "DUE_DATE": "2027/01/23",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CODE": "CB07",
+      "NAME": "C.M.S.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "VESSEL": "EVER MILD",
+  "VSL_CODE": "MILD",
+  "last_updated": "2026-11-18",
+  "total_records": 1,
+  "records": [
+    {
+      "DUE_DATE": "2027/02/01",
+      "CODE": "CF04",
+      "NAME": "IMMERSION SUIT INSP (<10Y)",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "VESSEL": "EVER FOREVER",
+  "VSL_CODE": "FRVR",
+  "last_updated": "2026-11-18",
+  "total_records": 10,
+  "records": [
+    {
+      "DUE_DATE": "2026/11/20",
+      "CODE": "CA19",
+      "NAME": "CLASS OUTSTANDING ITEMS",
+      "SCHEDULE_DATE": "2026/11/21",
+      "PLANNED_PORT": "KRPUS",
+      "REMARK": "已申請展延，並預計安排隨船至釜山20261123"
+    },
+    {
+      "DUE_DATE": "2026/12/21",
+      "CODE": "CF03",
+      "NAME": "LIFEJACKET ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2026/12/21",
+      "CODE": "CF06",
+      "NAME": "FIXED CO2 ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2026/12/21",
+      "CODE": "CF10",
+      "NAME": "EEBD ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2026/12/21",
+      "CODE": "CF12",
+      "NAME": "SCBA ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2026/12/21",
+      "CODE": "CF14",
+      "NAME": "P.F.E. CO2 ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2026/12/21",
+      "CODE": "CF16",
+      "NAME": "P.F.E. FOAM ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2026/12/21",
+      "CODE": "CF18",
+      "NAME": "P.F.E. DP ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/01/01",
+      "CODE": "CE10",
+      "NAME": "EPIRB HRU",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/01/06",
+      "CODE": "CB18",
+      "NAME": "CARGO GEAR A/S",
+      "SCHEDULE_DATE": "2026/11/15",
+      "PLANNED_PORT": "CNSHG",
+      "REMARK": "Please Update Record / Arrange Work// 預計亞洲安排施工"
+    }
+  ]
+}

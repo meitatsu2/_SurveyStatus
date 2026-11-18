@@ -1,0 +1,16 @@
+{
+  "VESSEL": "ITAL BONNY",
+  "VSL_CODE": "BONN",
+  "last_updated": "2026-11-18",
+  "total_records": 1,
+  "records": [
+    {
+      "DUE_DATE": "2027/02/05",
+      "CODE": "B31",
+      "NAME": "VDR/SVDR",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

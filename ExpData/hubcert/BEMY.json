@@ -1,0 +1,96 @@
+{
+  "VESSEL": "EVER BEAMY",
+  "VSL_CODE": "BEMY",
+  "last_updated": "2026-11-18",
+  "total_records": 11,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/05",
+      "CODE": "CA19",
+      "NAME": "CLASS OUTSTANDING ITEMS",
+      "SCHEDULE_DATE": "2026/12/03",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "豁免到期日展延至12/05，網頁尚未更新，目前備品交期預計為10/19後續備品送船更換恢復後申請檢驗結案。"
+    },
+    {
+      "DUE_DATE": "2026/12/06",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "2026/11/16",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// 預計安排2026/11/16 高雄校正"
+    },
+    {
+      "DUE_DATE": "2027/01/30",
+      "CODE": "CF01",
+      "NAME": "LIFERAFSHIPT CERT.",
+      "SCHEDULE_DATE": "2026/12/25",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排年檢之港口及日期"
+    },
+    {
+      "DUE_DATE": "2027/02/03",
+      "CODE": "CB18",
+      "NAME": "CARGO GEAR A/S",
+      "SCHEDULE_DATE": "2027/01/28",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排20270128 KSG施作"
+    },
+    {
+      "DUE_DATE": "2027/02/04",
+      "CODE": "CF03",
+      "NAME": "LIFEJACKET ANNUAL",
+      "SCHEDULE_DATE": "2027/01/11",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排20270111 KSG施作"
+    },
+    {
+      "DUE_DATE": "2027/02/04",
+      "CODE": "CF06",
+      "NAME": "FIXED CO2 ANNUAL",
+      "SCHEDULE_DATE": "2027/01/11",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排20270111 KSG施作"
+    },
+    {
+      "DUE_DATE": "2027/02/04",
+      "CODE": "CF10",
+      "NAME": "EEBD ANNUAL",
+      "SCHEDULE_DATE": "2027/01/11",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排20270111 KSG施作"
+    },
+    {
+      "DUE_DATE": "2027/02/04",
+      "CODE": "CF12",
+      "NAME": "SCBA ANNUAL",
+      "SCHEDULE_DATE": "2027/01/11",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排20270111 KSG施作"
+    },
+    {
+      "DUE_DATE": "2027/02/04",
+      "CODE": "CF14",
+      "NAME": "P.F.E. CO2 ANNUAL",
+      "SCHEDULE_DATE": "2027/01/11",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排20270111 KSG施作"
+    },
+    {
+      "DUE_DATE": "2027/02/04",
+      "CODE": "CF16",
+      "NAME": "P.F.E. FOAM ANNUAL",
+      "SCHEDULE_DATE": "2027/01/11",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排20270111 KSG施作"
+    },
+    {
+      "DUE_DATE": "2027/02/04",
+      "CODE": "CF18",
+      "NAME": "P.F.E. DP ANNUAL",
+      "SCHEDULE_DATE": "2027/01/11",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排20270111 KSG施作"
+    }
+  ]
+}

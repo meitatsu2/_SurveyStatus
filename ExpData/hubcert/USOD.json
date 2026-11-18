@@ -1,0 +1,16 @@
+{
+  "VESSEL": "ITAL USODIMARE",
+  "VSL_CODE": "USOD",
+  "last_updated": "2026-11-18",
+  "total_records": 1,
+  "records": [
+    {
+      "DUE_DATE": "2026/11/07",
+      "CODE": "B7",
+      "NAME": "ISS INTERMEDIATE",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Update Record / Rearrange Work// CNSHG 20270303"
+    }
+  ]
+}

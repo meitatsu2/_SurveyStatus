@@ -1,0 +1,48 @@
+{
+  "VESSEL": "EVER STRONG",
+  "VSL_CODE": "STRO",
+  "last_updated": "2026-11-18",
+  "total_records": 5,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/19",
+      "CODE": "CF06",
+      "NAME": "FIXED CO2 ANNUAL",
+      "SCHEDULE_DATE": "2026/12/01",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計12/4高雄港檢驗"
+    },
+    {
+      "DUE_DATE": "2026/12/21",
+      "CODE": "CF07",
+      "NAME": "FIXED CO2 2Y WEIGHTING",
+      "SCHEDULE_DATE": "2026/12/01",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計12/4高雄港檢驗"
+    },
+    {
+      "DUE_DATE": "2027/01/19",
+      "CODE": "CF11",
+      "NAME": "EEBD CYL. HYD. TEST",
+      "SCHEDULE_DATE": "2026/12/01",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排12/1高雄港"
+    },
+    {
+      "DUE_DATE": "2027/01/20",
+      "CODE": "CF22",
+      "NAME": "LIFEBOAT 5Y LOAD TEST",
+      "SCHEDULE_DATE": "2026/12/01",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排12/1高雄港"
+    },
+    {
+      "DUE_DATE": "2027/01/20",
+      "CODE": "CF24",
+      "NAME": "LIFEBOAT DAVIT & WINCH 5Y LOAD TEST",
+      "SCHEDULE_DATE": "2026/12/01",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排12/1高雄港"
+    }
+  ]
+}

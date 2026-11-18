@@ -1,0 +1,24 @@
+{
+  "VESSEL": "EVER ACME",
+  "VSL_CODE": "ACME",
+  "last_updated": "2026-11-18",
+  "total_records": 2,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/16",
+      "CODE": "CA19",
+      "NAME": "CLASS OUTSTANDING ITEMS",
+      "SCHEDULE_DATE": "2026/11/26",
+      "PLANNED_PORT": "SGSGP",
+      "REMARK": "安排遠東碼頭20261216"
+    },
+    {
+      "DUE_DATE": "2027/02/02",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "2026/07/16",
+      "PLANNED_PORT": "SGSGP",
+      "REMARK": "SGP 換新"
+    }
+  ]
+}

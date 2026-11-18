@@ -1,0 +1,72 @@
+{
+  "VESSEL": "EVER ARM",
+  "VSL_CODE": "ARMS",
+  "last_updated": "2026-11-18",
+  "total_records": 8,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/03",
+      "CODE": "CF06",
+      "NAME": "FIXED CO2 ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2026/12/31",
+      "CODE": "CF07",
+      "NAME": "FIXED CO2 2Y WEIGHTING",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/01/20",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "2026/08/13",
+      "PLANNED_PORT": "SGSGP",
+      "REMARK": "46247.0"
+    },
+    {
+      "DUE_DATE": "2027/01/21",
+      "CODE": "CC03",
+      "NAME": "RADIO STATION",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/01",
+      "CODE": "CE11",
+      "NAME": "SART BATTERY",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/01",
+      "CODE": "CE12",
+      "NAME": "VHF BATTERY",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/14",
+      "CODE": "CF22",
+      "NAME": "LIFEBOAT 5Y LOAD TEST",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/14",
+      "CODE": "CF24",
+      "NAME": "LIFEBOAT DAVIT & WINCH 5Y LOAD TEST",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

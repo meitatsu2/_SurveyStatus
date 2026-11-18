@@ -1,0 +1,40 @@
+{
+  "VESSEL": "EVER SMART",
+  "VSL_CODE": "SMRT",
+  "last_updated": "2026-11-18",
+  "total_records": 4,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/01",
+      "CODE": "CE04",
+      "NAME": "VDR BEACON BATTERY",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/01/01",
+      "CODE": "CE10",
+      "NAME": "EPIRB HRU",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/02/10",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/15",
+      "CODE": "CB18",
+      "NAME": "CARGO GEAR A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

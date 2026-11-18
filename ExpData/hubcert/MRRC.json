@@ -1,0 +1,16 @@
+{
+  "VESSEL": "EVER MERCY",
+  "VSL_CODE": "MRRC",
+  "last_updated": "2026-11-18",
+  "total_records": 1,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/02",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "2027/01/02",
+      "PLANNED_PORT": "HKHKG",
+      "REMARK": "預計明年一月申請"
+    }
+  ]
+}

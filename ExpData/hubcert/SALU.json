@@ -1,0 +1,32 @@
+{
+  "VESSEL": "EVER SALUTE",
+  "VSL_CODE": "SALU",
+  "last_updated": "2026-11-18",
+  "total_records": 3,
+  "records": [
+    {
+      "DUE_DATE": "2026/11/28",
+      "CODE": "CB07",
+      "NAME": "C.M.S.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/01/05",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/02/14",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

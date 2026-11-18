@@ -1,0 +1,40 @@
+{
+  "VESSEL": "EVER LASTING",
+  "VSL_CODE": "LSTN",
+  "last_updated": "2026-11-18",
+  "total_records": 4,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/14",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "2026/12/06",
+      "PLANNED_PORT": "CNSHG",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2026/12/15",
+      "CODE": "CA19",
+      "NAME": "CLASS OUTSTANDING ITEMS",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work// 抵達國內第一港CNXSM，技師登輪維修及驗船師驗收"
+    },
+    {
+      "DUE_DATE": "2026/12/24",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work// 預計12月初抵達寧波港進行檢驗換證。"
+    },
+    {
+      "DUE_DATE": "2027/02/11",
+      "CODE": "CF12",
+      "NAME": "SCBA ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

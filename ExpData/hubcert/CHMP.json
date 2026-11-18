@@ -1,0 +1,56 @@
+{
+  "VESSEL": "EVER CHAMP",
+  "VSL_CODE": "CHMP",
+  "last_updated": "2026-11-18",
+  "total_records": 6,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/02",
+      "CODE": "CB18",
+      "NAME": "CARGO GEAR A/S",
+      "SCHEDULE_DATE": "2026/12/14",
+      "PLANNED_PORT": "GRPIR",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2026/12/13",
+      "CODE": "CA08",
+      "NAME": "IOPP CERT.",
+      "SCHEDULE_DATE": "2026/12/14",
+      "PLANNED_PORT": "GRPIR",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2026/12/13",
+      "CODE": "CA10",
+      "NAME": "IAPP CERT.",
+      "SCHEDULE_DATE": "2026/12/14",
+      "PLANNED_PORT": "GRPIR",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2026/12/28",
+      "CODE": "CA11",
+      "NAME": "IAFS CERT.",
+      "SCHEDULE_DATE": "2026/12/08",
+      "PLANNED_PORT": "GRPIR",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2026/12/28",
+      "CODE": "CB04",
+      "NAME": "D/S",
+      "SCHEDULE_DATE": "2026/12/14",
+      "PLANNED_PORT": "GRPIR",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2026/12/28",
+      "CODE": "CB05",
+      "NAME": "B/S",
+      "SCHEDULE_DATE": "2026/12/14",
+      "PLANNED_PORT": "GRPIR",
+      "REMARK": ""
+    }
+  ]
+}

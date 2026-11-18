@@ -1,0 +1,40 @@
+{
+  "VESSEL": "EVER BEADY",
+  "VSL_CODE": "BEDY",
+  "last_updated": "2026-11-18",
+  "total_records": 4,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/04",
+      "CODE": "CF19",
+      "NAME": "P.F.E. DP CHARGE",
+      "SCHEDULE_DATE": "2026/10/08",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// 20261008 TWKSG"
+    },
+    {
+      "DUE_DATE": "2026/12/12",
+      "CODE": "CA19",
+      "NAME": "CLASS OUTSTANDING ITEMS",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/01/18",
+      "CODE": "CB18",
+      "NAME": "CARGO GEAR A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "船期DELAY，將安排於20260120台北港實施."
+    },
+    {
+      "DUE_DATE": "2027/01/18",
+      "CODE": "CF13",
+      "NAME": "SCBA CYL HYD. TEST",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

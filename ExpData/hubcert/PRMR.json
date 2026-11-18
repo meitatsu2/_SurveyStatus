@@ -1,0 +1,40 @@
+{
+  "VESSEL": "UNI-PREMIER",
+  "VSL_CODE": "PRMR",
+  "last_updated": "2026-11-18",
+  "total_records": 4,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/03",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "2026/11/22",
+      "PLANNED_PORT": "VNHCM",
+      "REMARK": "預計安排越南VNHCM更換"
+    },
+    {
+      "DUE_DATE": "2026/12/25",
+      "CODE": "CF19",
+      "NAME": "P.F.E. DP CHARGE",
+      "SCHEDULE_DATE": "2026/12/09",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排廠商登輪更換檢查"
+    },
+    {
+      "DUE_DATE": "2027/01/28",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "2027/01/10",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排高雄檢查換證"
+    },
+    {
+      "DUE_DATE": "2027/02/07",
+      "CODE": "CC01",
+      "NAME": "COR (CERT. OF REGISTER)",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

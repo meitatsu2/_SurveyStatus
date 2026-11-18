@@ -1,0 +1,72 @@
+{
+  "VESSEL": "EVER UTILE",
+  "VSL_CODE": "UTLE",
+  "last_updated": "2026-11-18",
+  "total_records": 8,
+  "records": [
+    {
+      "DUE_DATE": "2027/02/03",
+      "CODE": "CB18",
+      "NAME": "CARGO GEAR A/S",
+      "SCHEDULE_DATE": "2027/01/18",
+      "PLANNED_PORT": "CNSHG",
+      "REMARK": "預計安排檢驗(已發信提醒船端)。"
+    },
+    {
+      "DUE_DATE": "2027/02/03",
+      "CODE": "CF03",
+      "NAME": "LIFEJACKET ANNUAL",
+      "SCHEDULE_DATE": "2026/01/24",
+      "PLANNED_PORT": "CNSHG",
+      "REMARK": "預計安排檢驗(已發信提醒船端)。"
+    },
+    {
+      "DUE_DATE": "2027/02/03",
+      "CODE": "CF05",
+      "NAME": "IMMERSION SUIT INSP (>10Y) (UK & PANAMA FLAG 1 YEAR, OTHER FLAG 2 YEAR)",
+      "SCHEDULE_DATE": "2026/01/24",
+      "PLANNED_PORT": "CNSHG",
+      "REMARK": "預計安排檢驗(已發信提醒船端)。"
+    },
+    {
+      "DUE_DATE": "2027/02/03",
+      "CODE": "CF06",
+      "NAME": "FIXED CO2 ANNUAL",
+      "SCHEDULE_DATE": "2026/01/24",
+      "PLANNED_PORT": "CNSHG",
+      "REMARK": "預計安排檢驗(已發信提醒船端)。"
+    },
+    {
+      "DUE_DATE": "2027/02/03",
+      "CODE": "CF12",
+      "NAME": "SCBA ANNUAL",
+      "SCHEDULE_DATE": "2026/01/24",
+      "PLANNED_PORT": "CNSHG",
+      "REMARK": "預計安排檢驗(已發信提醒船端)。"
+    },
+    {
+      "DUE_DATE": "2027/02/03",
+      "CODE": "CF14",
+      "NAME": "P.F.E. CO2 ANNUAL",
+      "SCHEDULE_DATE": "2026/01/24",
+      "PLANNED_PORT": "CNSHG",
+      "REMARK": "預計安排檢驗(已發信提醒船端)。"
+    },
+    {
+      "DUE_DATE": "2027/02/03",
+      "CODE": "CF16",
+      "NAME": "P.F.E. FOAM ANNUAL",
+      "SCHEDULE_DATE": "2026/01/24",
+      "PLANNED_PORT": "CNSHG",
+      "REMARK": "預計安排檢驗(已發信提醒船端)。"
+    },
+    {
+      "DUE_DATE": "2027/02/03",
+      "CODE": "CF18",
+      "NAME": "P.F.E. DP ANNUAL",
+      "SCHEDULE_DATE": "2026/01/24",
+      "PLANNED_PORT": "CNSHG",
+      "REMARK": "預計安排檢驗(已發信提醒船端)。"
+    }
+  ]
+}

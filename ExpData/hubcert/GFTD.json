@@ -1,0 +1,120 @@
+{
+  "VESSEL": "EVER GIFTED",
+  "VSL_CODE": "GFTD",
+  "last_updated": "2026-11-18",
+  "total_records": 14,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/01",
+      "CODE": "CE10",
+      "NAME": "EPIRB HRU",
+      "SCHEDULE_DATE": "2026/12/09",
+      "PLANNED_PORT": "CNSHG",
+      "REMARK": "航儀安排上海與年檢一起執行"
+    },
+    {
+      "DUE_DATE": "2027/01/07",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "2026/12/22",
+      "PLANNED_PORT": "SGSGP",
+      "REMARK": "計畫SGP"
+    },
+    {
+      "DUE_DATE": "2027/01/10",
+      "CODE": "CA11",
+      "NAME": "IAFS CERT.",
+      "SCHEDULE_DATE": "2026/12/17",
+      "PLANNED_PORT": "CNYYT",
+      "REMARK": "計畫鹽田"
+    },
+    {
+      "DUE_DATE": "2027/01/10",
+      "CODE": "CB04",
+      "NAME": "D/S",
+      "SCHEDULE_DATE": "2026/12/17",
+      "PLANNED_PORT": "CNYYT",
+      "REMARK": "計畫鹽田"
+    },
+    {
+      "DUE_DATE": "2027/01/10",
+      "CODE": "CB05",
+      "NAME": "B/S",
+      "SCHEDULE_DATE": "2026/12/17",
+      "PLANNED_PORT": "CNYYT",
+      "REMARK": "計畫鹽田"
+    },
+    {
+      "DUE_DATE": "2027/01/15",
+      "CODE": "CF01",
+      "NAME": "LIFERAFSHIPT CERT.",
+      "SCHEDULE_DATE": "2026/12/22",
+      "PLANNED_PORT": "SGSGP",
+      "REMARK": "消防檢驗計畫12/22 SGP"
+    },
+    {
+      "DUE_DATE": "2027/01/16",
+      "CODE": "CF14",
+      "NAME": "P.F.E. CO2 ANNUAL",
+      "SCHEDULE_DATE": "2026/12/22",
+      "PLANNED_PORT": "SGSGP",
+      "REMARK": "消防求生設備檢驗計畫12/22 SGP"
+    },
+    {
+      "DUE_DATE": "2027/01/16",
+      "CODE": "CF16",
+      "NAME": "P.F.E. FOAM ANNUAL",
+      "SCHEDULE_DATE": "2026/12/22",
+      "PLANNED_PORT": "SGSGP",
+      "REMARK": "消防求生設備檢驗計畫12/22 SGP"
+    },
+    {
+      "DUE_DATE": "2027/01/16",
+      "CODE": "CF18",
+      "NAME": "P.F.E. DP ANNUAL",
+      "SCHEDULE_DATE": "2026/12/22",
+      "PLANNED_PORT": "SGSGP",
+      "REMARK": "消防求生設備檢驗計畫12/22 SGP"
+    },
+    {
+      "DUE_DATE": "2027/01/17",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "2026/12/09",
+      "PLANNED_PORT": "CNSHG",
+      "REMARK": "航儀安排上海與年檢一起執行"
+    },
+    {
+      "DUE_DATE": "2027/01/17",
+      "CODE": "CF03",
+      "NAME": "LIFEJACKET ANNUAL",
+      "SCHEDULE_DATE": "2026/12/22",
+      "PLANNED_PORT": "SGSGP",
+      "REMARK": "消防求生設備檢驗計畫12/22 SGP"
+    },
+    {
+      "DUE_DATE": "2027/01/17",
+      "CODE": "CF04",
+      "NAME": "IMMERSION SUIT INSP (<10Y)",
+      "SCHEDULE_DATE": "2026/12/22",
+      "PLANNED_PORT": "SGSGP",
+      "REMARK": "消防求生設備檢驗計畫12/22 SGP"
+    },
+    {
+      "DUE_DATE": "2027/01/17",
+      "CODE": "CF10",
+      "NAME": "EEBD ANNUAL",
+      "SCHEDULE_DATE": "2026/12/22",
+      "PLANNED_PORT": "SGSGP",
+      "REMARK": "消防求生設備檢驗計畫12/22 SGP"
+    },
+    {
+      "DUE_DATE": "2027/01/17",
+      "CODE": "CF12",
+      "NAME": "SCBA ANNUAL",
+      "SCHEDULE_DATE": "2026/12/22",
+      "PLANNED_PORT": "SGSGP",
+      "REMARK": "消防求生設備檢驗計畫12/22 SGP"
+    }
+  ]
+}

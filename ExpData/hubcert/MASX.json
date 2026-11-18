@@ -1,0 +1,32 @@
+{
+  "VESSEL": "EVER MASS",
+  "VSL_CODE": "MASX",
+  "last_updated": "2026-11-18",
+  "total_records": 3,
+  "records": [
+    {
+      "DUE_DATE": "2027/02/01",
+      "CODE": "CF04",
+      "NAME": "IMMERSION SUIT INSP (<10Y)",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/07",
+      "CODE": "CG01",
+      "NAME": "CALIBRATION CHECK CERTIFICATE FOR BWS",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/07",
+      "CODE": "CG02",
+      "NAME": "CALIBRATION CHECK CERTIFICATE FOR CD TANK",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

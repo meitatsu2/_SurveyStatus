@@ -1,0 +1,32 @@
+{
+  "VESSEL": "EVER ACT",
+  "VSL_CODE": "ACTS",
+  "last_updated": "2026-11-18",
+  "total_records": 3,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/04",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "2025/12/20",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Arrange Work// 2025/10/13 check無誤"
+    },
+    {
+      "DUE_DATE": "2027/01/13",
+      "CODE": "CC03",
+      "NAME": "RADIO STATION",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/01/16",
+      "CODE": "CC01",
+      "NAME": "COR (CERT. OF REGISTER)",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    }
+  ]
+}

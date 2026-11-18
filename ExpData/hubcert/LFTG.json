@@ -1,0 +1,16 @@
+{
+  "VESSEL": "EVER LIFTING",
+  "VSL_CODE": "LFTG",
+  "last_updated": "2026-11-18",
+  "total_records": 1,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/24",
+      "CODE": "CF03",
+      "NAME": "LIFEJACKET ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "10/01 SGSGP已安排。"
+    }
+  ]
+}

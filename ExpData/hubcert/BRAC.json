@@ -1,0 +1,96 @@
+{
+  "VESSEL": "EVER BRACE",
+  "VSL_CODE": "BRAC",
+  "last_updated": "2026-11-18",
+  "total_records": 11,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/05",
+      "CODE": "CB18",
+      "NAME": "CARGO GEAR A/S",
+      "SCHEDULE_DATE": "2026/12/19",
+      "PLANNED_PORT": "INMUN",
+      "REMARK": "預計安排INMUN檢驗施作。"
+    },
+    {
+      "DUE_DATE": "2027/01/11",
+      "CODE": "CG02",
+      "NAME": "CALIBRATION CHECK CERTIFICATE FOR CD TANK",
+      "SCHEDULE_DATE": "2027/01/03",
+      "PLANNED_PORT": "KEMWA",
+      "REMARK": "備品已送船(BRAC26S03201S1)，待換新後更新到期日。"
+    },
+    {
+      "DUE_DATE": "2027/02/01",
+      "CODE": "CE04",
+      "NAME": "VDR BEACON BATTERY",
+      "SCHEDULE_DATE": "2027/01/20",
+      "PLANNED_PORT": "INNXV",
+      "REMARK": "預計202701施工"
+    },
+    {
+      "DUE_DATE": "2027/02/07",
+      "CODE": "CF03",
+      "NAME": "LIFEJACKET ANNUAL",
+      "SCHEDULE_DATE": "2027/01/20",
+      "PLANNED_PORT": "INNXV",
+      "REMARK": "預計202701施工"
+    },
+    {
+      "DUE_DATE": "2027/02/07",
+      "CODE": "CF06",
+      "NAME": "FIXED CO2 ANNUAL",
+      "SCHEDULE_DATE": "2027/01/20",
+      "PLANNED_PORT": "INNXV",
+      "REMARK": "預計202701施工"
+    },
+    {
+      "DUE_DATE": "2027/02/07",
+      "CODE": "CF10",
+      "NAME": "EEBD ANNUAL",
+      "SCHEDULE_DATE": "2027/01/20",
+      "PLANNED_PORT": "INNXV",
+      "REMARK": "預計202701施工"
+    },
+    {
+      "DUE_DATE": "2027/02/07",
+      "CODE": "CF12",
+      "NAME": "SCBA ANNUAL",
+      "SCHEDULE_DATE": "2027/01/20",
+      "PLANNED_PORT": "INNXV",
+      "REMARK": "預計202701施工"
+    },
+    {
+      "DUE_DATE": "2027/02/07",
+      "CODE": "CF14",
+      "NAME": "P.F.E. CO2 ANNUAL",
+      "SCHEDULE_DATE": "2027/01/20",
+      "PLANNED_PORT": "INNXV",
+      "REMARK": "預計202701施工"
+    },
+    {
+      "DUE_DATE": "2027/02/07",
+      "CODE": "CF16",
+      "NAME": "P.F.E. FOAM ANNUAL",
+      "SCHEDULE_DATE": "2027/01/20",
+      "PLANNED_PORT": "INNXV",
+      "REMARK": "預計202701施工"
+    },
+    {
+      "DUE_DATE": "2027/02/07",
+      "CODE": "CF18",
+      "NAME": "P.F.E. DP ANNUAL",
+      "SCHEDULE_DATE": "2027/01/20",
+      "PLANNED_PORT": "INNXV",
+      "REMARK": "預計202701施工"
+    },
+    {
+      "DUE_DATE": "2027/02/08",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "2027/01/23",
+      "PLANNED_PORT": "INMUN",
+      "REMARK": ""
+    }
+  ]
+}

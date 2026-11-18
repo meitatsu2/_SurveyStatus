@@ -1,0 +1,56 @@
+{
+  "VESSEL": "EVER ETHIC",
+  "VSL_CODE": "ETIC",
+  "last_updated": "2026-11-18",
+  "total_records": 6,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/01",
+      "CODE": "CE10",
+      "NAME": "EPIRB HRU",
+      "SCHEDULE_DATE": "2026/11/21",
+      "PLANNED_PORT": "MYPKL",
+      "REMARK": "計畫安排MYPKL"
+    },
+    {
+      "DUE_DATE": "2027/01/11",
+      "CODE": "CB18",
+      "NAME": "CARGO GEAR A/S",
+      "SCHEDULE_DATE": "2026/12/01",
+      "PLANNED_PORT": "SGSGP",
+      "REMARK": "計畫新加坡安排"
+    },
+    {
+      "DUE_DATE": "2027/01/15",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CODE": "CB08",
+      "NAME": "CARGO GEAR 5Y LOAD TEST",
+      "SCHEDULE_DATE": "2026/12/01",
+      "PLANNED_PORT": "SGSGP",
+      "REMARK": "計畫新加坡安排"
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CODE": "CF22",
+      "NAME": "LIFEBOAT 5Y LOAD TEST",
+      "SCHEDULE_DATE": "2026/12/01",
+      "PLANNED_PORT": "SGSGP",
+      "REMARK": "計畫新加坡安排"
+    },
+    {
+      "DUE_DATE": "2027/02/06",
+      "CODE": "CF24",
+      "NAME": "LIFEBOAT DAVIT & WINCH 5Y LOAD TEST",
+      "SCHEDULE_DATE": "2026/12/01",
+      "PLANNED_PORT": "SGSGP",
+      "REMARK": "計畫新加坡安排"
+    }
+  ]
+}

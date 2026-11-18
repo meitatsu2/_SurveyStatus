@@ -1,0 +1,32 @@
+{
+  "VESSEL": "UNI-PROSPER",
+  "VSL_CODE": "PRSP",
+  "last_updated": "2026-11-18",
+  "total_records": 3,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/24",
+      "CODE": "CF01",
+      "NAME": "LIFERAFSHIPT CERT.",
+      "SCHEDULE_DATE": "2025/01/02",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Arrange Work// 年底前安排完成檢驗"
+    },
+    {
+      "DUE_DATE": "2027/01/24",
+      "CODE": "CF02",
+      "NAME": "LIFERAFT HRU",
+      "SCHEDULE_DATE": "2026/10/16",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "計畫9/14-10/19塢修特檢安排檢驗"
+    },
+    {
+      "DUE_DATE": "2027/02/13",
+      "CODE": "CF05",
+      "NAME": "IMMERSION SUIT INSP (>10Y) (UK & PANAMA FLAG 1 YEAR, OTHER FLAG 2 YEAR)",
+      "SCHEDULE_DATE": "2025/02/12",
+      "PLANNED_PORT": "TWTCG",
+      "REMARK": "計畫2025FEB15前安排施作"
+    }
+  ]
+}

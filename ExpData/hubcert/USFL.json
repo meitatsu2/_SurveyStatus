@@ -1,0 +1,40 @@
+{
+  "VESSEL": "EVER USEFUL",
+  "VSL_CODE": "USFL",
+  "last_updated": "2026-11-18",
+  "total_records": 4,
+  "records": [
+    {
+      "DUE_DATE": "2026/09/30",
+      "CODE": "CB07",
+      "NAME": "C.M.S.",
+      "SCHEDULE_DATE": "2026/12/23",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Keep Watching!// 安排年檢一併施作"
+    },
+    {
+      "DUE_DATE": "2026/12/21",
+      "CODE": "CB18",
+      "NAME": "CARGO GEAR A/S",
+      "SCHEDULE_DATE": "2026/10/21",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Arrange Work// 安排高雄施作"
+    },
+    {
+      "DUE_DATE": "2027/01/16",
+      "CODE": "CC01",
+      "NAME": "COR (CERT. OF REGISTER)",
+      "SCHEDULE_DATE": "2027/01/10",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "已寫信向巴拿馬辦事處申請更換"
+    },
+    {
+      "DUE_DATE": "2027/01/22",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "2025/04/23",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "將於2025/4月初發信通知船端提出申請"
+    }
+  ]
+}

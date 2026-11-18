@@ -1,0 +1,48 @@
+{
+  "VESSEL": "EVER LOVELY",
+  "VSL_CODE": "LOVY",
+  "last_updated": "2026-11-18",
+  "total_records": 5,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/03",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2026/12/08",
+      "CODE": "CG01",
+      "NAME": "CALIBRATION CHECK CERTIFICATE FOR BWS",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work// 已採購備品"
+    },
+    {
+      "DUE_DATE": "2027/01/10",
+      "CODE": "CA19",
+      "NAME": "CLASS OUTSTANDING ITEMS",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work// 預計2027年一月初返回亞洲進行改裝及驗船師驗收結案。"
+    },
+    {
+      "DUE_DATE": "2027/02/03",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/03",
+      "CODE": "CF06",
+      "NAME": "FIXED CO2 ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "VESSEL": "EVER ART",
+  "VSL_CODE": "ARTX",
+  "last_updated": "2026-11-18",
+  "total_records": 1,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/29",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "2026/12/16",
+      "PLANNED_PORT": "NLRDM",
+      "REMARK": "安排20261216 NLRDM"
+    }
+  ]
+}

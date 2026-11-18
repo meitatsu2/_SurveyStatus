@@ -1,0 +1,24 @@
+{
+  "VESSEL": "EVER BLESS",
+  "VSL_CODE": "BLES",
+  "last_updated": "2026-11-18",
+  "total_records": 2,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/12",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "2025/02/17",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Arrange Work// 預計安排2月6日高雄，待船端提出申請"
+    },
+    {
+      "DUE_DATE": "2027/02/01",
+      "CODE": "CF15",
+      "NAME": "P.F.E. CO2 HYD. TEST",
+      "SCHEDULE_DATE": "2027/01/13",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排1/13高雄港施作。"
+    }
+  ]
+}

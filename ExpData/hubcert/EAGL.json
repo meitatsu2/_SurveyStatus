@@ -1,0 +1,264 @@
+{
+  "VESSEL": "EVER EAGLE",
+  "VSL_CODE": "EAGL",
+  "last_updated": "2026-11-18",
+  "total_records": 32,
+  "records": [
+    {
+      "DUE_DATE": "2026/06/23",
+      "CODE": "CB08",
+      "NAME": "CARGO GEAR 5Y LOAD TEST",
+      "SCHEDULE_DATE": "2026/10/08",
+      "PLANNED_PORT": "CNNBO",
+      "REMARK": "Please Update Record / Rearrange Work//"
+    },
+    {
+      "DUE_DATE": "2026/10/01",
+      "CODE": "CB18",
+      "NAME": "CARGO GEAR A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Update Record / Rearrange Work// 該證書已到特檢換證(強制性lifting gear)，需安排施作Loading test,經與ABS釐清缺任在此期限皆為自願性並非強制性，故該證書過期沒有異常，ABS也表明該證書無法展延日期，目前尚待9月進塢測試換證。"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CA01",
+      "NAME": "CLASS CERT.",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "Please Update Record / Rearrange Work// 20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CA02",
+      "NAME": "L/L CERT.",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "Please Update Record / Rearrange Work// 20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CA04",
+      "NAME": "S/C CERT.",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "Please Update Record / Rearrange Work// 20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CA05",
+      "NAME": "S/E CERT.",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "Please Update Record / Rearrange Work// 20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CA06",
+      "NAME": "S/R CERT.",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "Please Update Record / Rearrange Work// 20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CA07",
+      "NAME": "DG CERT.",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "Please Update Record / Rearrange Work// 20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CA08",
+      "NAME": "IOPP CERT.",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "Please Update Record / Rearrange Work// 20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CA09",
+      "NAME": "ISPP CERT.",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "Please Update Record / Rearrange Work// 20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CA10",
+      "NAME": "IAPP CERT.",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "Please Update Record / Rearrange Work// 20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CA11",
+      "NAME": "IAFS CERT.",
+      "SCHEDULE_DATE": "2026/10/03",
+      "PLANNED_PORT": "CNYYT",
+      "REMARK": "Please Update Record / Rearrange Work// 20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CA12",
+      "NAME": "BWMS CERT",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "Please Update Record / Rearrange Work// 20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CB01",
+      "NAME": "CLASS A/S",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "Please Update Record / Rearrange Work// 20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CB03",
+      "NAME": "S/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Update Record / Rearrange Work// 安排10月舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CB04",
+      "NAME": "D/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Update Record / Rearrange Work// 安排10月舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CB05",
+      "NAME": "B/S",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "Please Update Record / Rearrange Work// 20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CB07",
+      "NAME": "C.M.S.",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "Please Update Record / Rearrange Work// 20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CB14",
+      "NAME": "IOPP A/S",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "Please Update Record / Rearrange Work// 20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/10/31",
+      "CODE": "CB17",
+      "NAME": "BWMS A/S",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "Please Update Record / Rearrange Work// 20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2026/12/30",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CODE": "CB10",
+      "NAME": "L/L A/S",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CODE": "CB11",
+      "NAME": "S/C A/S",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CODE": "CB12",
+      "NAME": "S/E A/S",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CODE": "CB13",
+      "NAME": "S/R A/S",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CODE": "CB15",
+      "NAME": "IAPP A/S",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CODE": "CB16",
+      "NAME": "DG A/S",
+      "SCHEDULE_DATE": "2026/09/25",
+      "PLANNED_PORT": "CNZOS",
+      "REMARK": "20261005-1113 舟山華豐進塢"
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CODE": "CE03",
+      "NAME": "VDR ANNUAL INSP.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CODE": "CE08",
+      "NAME": "EPIRB ANNUAL INSP.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CODE": "CF21",
+      "NAME": "LIFEBOAT A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CODE": "CF23",
+      "NAME": "LIFEBOAT DAVIT & WINCH A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/12",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

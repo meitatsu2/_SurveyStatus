@@ -1,0 +1,16 @@
+{
+  "VESSEL": "EVER LADEN",
+  "VSL_CODE": "LDEN",
+  "last_updated": "2026-11-18",
+  "total_records": 1,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/30",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "2025/01/02",
+      "PLANNED_PORT": "CNNBO",
+      "REMARK": "Please Update Record / Arrange Work//"
+    }
+  ]
+}

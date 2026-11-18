@@ -1,0 +1,24 @@
+{
+  "VESSEL": "EVER LAUREL",
+  "VSL_CODE": "LAUL",
+  "last_updated": "2026-11-18",
+  "total_records": 2,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/26",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work// 更換窗口20261126~20261226"
+    },
+    {
+      "DUE_DATE": "2027/01/21",
+      "CODE": "CF06",
+      "NAME": "FIXED CO2 ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

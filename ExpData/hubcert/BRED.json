@@ -1,0 +1,16 @@
+{
+  "VESSEL": "EVER BREED",
+  "VSL_CODE": "BRED",
+  "last_updated": "2026-11-18",
+  "total_records": 1,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/31",
+      "CODE": "CE05",
+      "NAME": "VDR RESERVE BATTERY",
+      "SCHEDULE_DATE": "2026/12/20",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": ""
+    }
+  ]
+}

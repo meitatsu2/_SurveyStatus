@@ -1,0 +1,24 @@
+{
+  "VESSEL": "EVER SMILE",
+  "VSL_CODE": "SMLE",
+  "last_updated": "2026-11-18",
+  "total_records": 2,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/08",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work// 到港前1個月安排"
+    },
+    {
+      "DUE_DATE": "2027/01/01",
+      "CODE": "CE04",
+      "NAME": "VDR BEACON BATTERY",
+      "SCHEDULE_DATE": "2026/12/01",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "安排高雄港12/1"
+    }
+  ]
+}

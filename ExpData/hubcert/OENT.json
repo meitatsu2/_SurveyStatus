@@ -1,0 +1,48 @@
+{
+  "VESSEL": "EVER ORIENT",
+  "VSL_CODE": "OENT",
+  "last_updated": "2026-11-18",
+  "total_records": 5,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/04",
+      "CODE": "CF19",
+      "NAME": "P.F.E. DP CHARGE",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/01/10",
+      "CODE": "CF06",
+      "NAME": "FIXED CO2 ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/01/15",
+      "CODE": "CB14",
+      "NAME": "IOPP A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/01/15",
+      "CODE": "CB17",
+      "NAME": "BWMS A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/01/18",
+      "CODE": "CB18",
+      "NAME": "CARGO GEAR A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

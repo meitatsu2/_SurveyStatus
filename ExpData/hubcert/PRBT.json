@@ -1,0 +1,88 @@
+{
+  "VESSEL": "UNI-PROBITY",
+  "VSL_CODE": "PRBT",
+  "last_updated": "2026-11-18",
+  "total_records": 10,
+  "records": [
+    {
+      "DUE_DATE": "2026/12/07",
+      "CODE": "CF03",
+      "NAME": "LIFEJACKET ANNUAL",
+      "SCHEDULE_DATE": "2026/11/13",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// 10月底前通知船上申請。"
+    },
+    {
+      "DUE_DATE": "2026/12/07",
+      "CODE": "CF10",
+      "NAME": "EEBD ANNUAL",
+      "SCHEDULE_DATE": "2026/11/13",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// 10月底前通知船上申請。"
+    },
+    {
+      "DUE_DATE": "2026/12/07",
+      "CODE": "CF14",
+      "NAME": "P.F.E. CO2 ANNUAL",
+      "SCHEDULE_DATE": "2026/11/13",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// 10月底前通知船上申請。"
+    },
+    {
+      "DUE_DATE": "2026/12/07",
+      "CODE": "CF16",
+      "NAME": "P.F.E. FOAM ANNUAL",
+      "SCHEDULE_DATE": "2026/11/13",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// 10月底前通知船上申請。"
+    },
+    {
+      "DUE_DATE": "2026/12/07",
+      "CODE": "CF18",
+      "NAME": "P.F.E. DP ANNUAL",
+      "SCHEDULE_DATE": "2026/11/13",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "Please Update Record / Rearrange Work// 10月底前通知船上申請。"
+    },
+    {
+      "DUE_DATE": "2027/01/05",
+      "CODE": "CF11",
+      "NAME": "EEBD CYL. HYD. TEST",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/01/10",
+      "CODE": "CA19",
+      "NAME": "CLASS OUTSTANDING ITEMS",
+      "SCHEDULE_DATE": "2027/01/02",
+      "PLANNED_PORT": "TWTPE",
+      "REMARK": "到期前安排滑油化驗及展延"
+    },
+    {
+      "DUE_DATE": "2027/01/14",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "2026/12/25",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "到期前通知船上聯繫代理申請"
+    },
+    {
+      "DUE_DATE": "2027/01/22",
+      "CODE": "CF08",
+      "NAME": "FIXED CO2 5Y VALVE CHECK",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/01/31",
+      "CODE": "CE10",
+      "NAME": "EPIRB HRU",
+      "SCHEDULE_DATE": "2025/01/13",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排"
+    }
+  ]
+}

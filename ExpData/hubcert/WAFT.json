@@ -1,0 +1,16 @@
+{
+  "VESSEL": "EVER WAFT",
+  "VSL_CODE": "WAFT",
+  "last_updated": "2026-11-18",
+  "total_records": 1,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/26",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "2026/02/03",
+      "PLANNED_PORT": "VNHCM",
+      "REMARK": "安排2026/ 2/8 VNHCM"
+    }
+  ]
+}

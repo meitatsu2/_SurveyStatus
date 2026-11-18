@@ -1,0 +1,24 @@
+{
+  "VESSEL": "EVER FRONT",
+  "VSL_CODE": "FRNT",
+  "last_updated": "2026-11-18",
+  "total_records": 2,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/01",
+      "CODE": "CE12",
+      "NAME": "VHF BATTERY",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/01/21",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "2025/04/11",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "請船端於到期前提出申請"
+    }
+  ]
+}
