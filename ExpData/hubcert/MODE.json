@@ -2,23 +2,15 @@
   "VESSEL": "EVER MODE",
   "VSL_CODE": "MODE",
   "last_updated": "2026-11-18",
-  "total_records": 10,
+  "total_records": 9,
   "records": [
-    {
-      "DUE_DATE": "2026/11/19",
-      "CODE": "CE02",
-      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Arrange Work//"
-    },
     {
       "DUE_DATE": "2026/11/20",
       "CODE": "CD01",
       "NAME": "SSCEC",
       "SCHEDULE_DATE": "2026/11/18",
       "PLANNED_PORT": "TWKSG",
-      "REMARK": "依船期應在高雄港進行換證"
+      "REMARK": "Please Update Record / Rearrange Work// 依船期應在高雄港進行換證"
     },
     {
       "DUE_DATE": "2026/11/21",
@@ -26,7 +18,7 @@
       "NAME": "CARGO GEAR A/S",
       "SCHEDULE_DATE": "2026/11/18",
       "PLANNED_PORT": "TWKSG",
-      "REMARK": "預計高雄安排檢驗"
+      "REMARK": "Please Update Record / Rearrange Work// 預計高雄安排檢驗"
     },
     {
       "DUE_DATE": "2027/01/20",

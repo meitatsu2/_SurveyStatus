@@ -8,7 +8,7 @@
       "DUE_DATE": "2026/11/12",
       "CODE": "CF22",
       "NAME": "LIFEBOAT 5Y LOAD TEST",
-      "SCHEDULE_DATE": "2026/11/18",
+      "SCHEDULE_DATE": "2026/12/02",
       "PLANNED_PORT": "CNFZU",
       "REMARK": "Keep Watching!// 安排進廠由船廠施工。"
     },
@@ -16,7 +16,7 @@
       "DUE_DATE": "2026/11/12",
       "CODE": "CF24",
       "NAME": "LIFEBOAT DAVIT & WINCH 5Y LOAD TEST",
-      "SCHEDULE_DATE": "2026/11/18",
+      "SCHEDULE_DATE": "2026/12/02",
       "PLANNED_PORT": "CNFZU",
       "REMARK": "Keep Watching!// 安排進廠由船廠施工。"
     },
@@ -24,199 +24,199 @@
       "DUE_DATE": "2026/11/30",
       "CODE": "CB07",
       "NAME": "C.M.S.",
-      "SCHEDULE_DATE": "2026/11/15",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "Please Update Record / Rearrange Work// 20261118 塢修進廠"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261118 塢修進廠"
     },
     {
       "DUE_DATE": "2026/12/09",
       "CODE": "CB06",
       "NAME": "T/S",
-      "SCHEDULE_DATE": "2026/11/15",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "Please Update Record / Rearrange Work// 20261118 塢修進廠"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261118 塢修進廠"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CA01",
       "NAME": "CLASS CERT.",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CA02",
       "NAME": "L/L CERT.",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CA04",
       "NAME": "S/C CERT.",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CA05",
       "NAME": "S/E CERT.",
-      "SCHEDULE_DATE": "2026/11/18",
+      "SCHEDULE_DATE": "2026/12/02",
       "PLANNED_PORT": "CNFZU",
-      "REMARK": "物修進廠 更新換證"
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CA06",
       "NAME": "S/R CERT.",
-      "SCHEDULE_DATE": "2026/11/18",
+      "SCHEDULE_DATE": "2026/12/02",
       "PLANNED_PORT": "CNFZU",
-      "REMARK": "物修進廠 更新換證"
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CA07",
       "NAME": "DG CERT.",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CA08",
       "NAME": "IOPP CERT.",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CA09",
       "NAME": "ISPP CERT.",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CA10",
       "NAME": "IAPP CERT.",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CA11",
       "NAME": "IAFS CERT.",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CA12",
       "NAME": "BWMS CERT",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CB01",
       "NAME": "CLASS A/S",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CB03",
       "NAME": "S/S",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CB04",
       "NAME": "D/S",
-      "SCHEDULE_DATE": "2026/11/29",
+      "SCHEDULE_DATE": "2027/01/07",
       "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CB05",
       "NAME": "B/S",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CB10",
       "NAME": "L/L A/S",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CB11",
       "NAME": "S/C A/S",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CB12",
       "NAME": "S/E A/S",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CB13",
       "NAME": "S/R A/S",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CB14",
       "NAME": "IOPP A/S",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CB15",
       "NAME": "IAPP A/S",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CB17",
       "NAME": "BWMS A/S",
-      "SCHEDULE_DATE": "2026/11/29",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "20261118進廠特檢"
+      "SCHEDULE_DATE": "2026/12/02",
+      "PLANNED_PORT": "CNFZU",
+      "REMARK": "20261202進廠特檢"
     },
     {
       "DUE_DATE": "2026/12/22",
       "CODE": "CE03",
       "NAME": "VDR ANNUAL INSP.",
-      "SCHEDULE_DATE": "2026/11/18",
+      "SCHEDULE_DATE": "2026/12/02",
       "PLANNED_PORT": "CNFZU",
       "REMARK": "安排進廠特檢一併檢查。"
     },
@@ -224,7 +224,7 @@
       "DUE_DATE": "2026/12/22",
       "CODE": "CE08",
       "NAME": "EPIRB ANNUAL INSP.",
-      "SCHEDULE_DATE": "2026/11/18",
+      "SCHEDULE_DATE": "2026/12/02",
       "PLANNED_PORT": "CNFZU",
       "REMARK": "安排進廠特檢一併檢查。"
     },
@@ -232,7 +232,7 @@
       "DUE_DATE": "2026/12/22",
       "CODE": "CF21",
       "NAME": "LIFEBOAT A/S",
-      "SCHEDULE_DATE": "2026/11/18",
+      "SCHEDULE_DATE": "2026/12/02",
       "PLANNED_PORT": "CNFZU",
       "REMARK": "安排進廠特檢一併檢查。"
     },
@@ -240,7 +240,7 @@
       "DUE_DATE": "2026/12/22",
       "CODE": "CF23",
       "NAME": "LIFEBOAT DAVIT & WINCH A/S",
-      "SCHEDULE_DATE": "2026/11/18",
+      "SCHEDULE_DATE": "2026/12/02",
       "PLANNED_PORT": "CNFZU",
       "REMARK": "安排進廠特檢一併檢查。"
     },
@@ -248,7 +248,7 @@
       "DUE_DATE": "2026/12/31",
       "CODE": "CF01",
       "NAME": "LIFERAFSHIPT CERT.",
-      "SCHEDULE_DATE": "2026/11/18",
+      "SCHEDULE_DATE": "2026/12/02",
       "PLANNED_PORT": "CNFZU",
       "REMARK": "安排進廠特檢一併檢查。"
     },

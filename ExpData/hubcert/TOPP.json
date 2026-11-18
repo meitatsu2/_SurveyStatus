@@ -2,15 +2,15 @@
   "VESSEL": "EVER TOP",
   "VSL_CODE": "TOPP",
   "last_updated": "2026-11-18",
-  "total_records": 7,
+  "total_records": 6,
   "records": [
     {
       "DUE_DATE": "2026/11/16",
       "CODE": "CF07",
       "NAME": "FIXED CO2 2Y WEIGHTING",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Update Record / Rearrange Work//"
+      "SCHEDULE_DATE": "2026/11/21",
+      "PLANNED_PORT": "CNNBO",
+      "REMARK": "Keep Watching!// 20261121CNNBO，TOPP26S13101R1"
     },
     {
       "DUE_DATE": "2026/12/12",
@@ -40,14 +40,6 @@
       "DUE_DATE": "2027/01/13",
       "CODE": "CA11",
       "NAME": "IAFS CERT.",
-      "SCHEDULE_DATE": "2026/11/23",
-      "PLANNED_PORT": "CNSHG",
-      "REMARK": "已安排 2026/11/23 HRDD 入塢"
-    },
-    {
-      "DUE_DATE": "2027/01/13",
-      "CODE": "CB04",
-      "NAME": "D/S",
       "SCHEDULE_DATE": "2026/11/23",
       "PLANNED_PORT": "CNSHG",
       "REMARK": "已安排 2026/11/23 HRDD 入塢"
