@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER LAWFUL",
-  "last_updated": "2026-11-18",
-  "total_records": 17,
+  "last_updated": "2026-11-19",
+  "total_records": 18,
   "records": [
     {
       "DUE_DATE": "2026/11/15",
@@ -12,7 +12,7 @@
     {
       "DUE_DATE": "2026/12/14",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Cargo Ship Safety Construction CertificateECCIn Progress",
+      "DESCRIPTION": "Cert - Cargo Ship Safety Construction CertificateECC",
       "CODE": ""
     },
     {
@@ -97,6 +97,12 @@
       "DUE_DATE": "2099/12/31",
       "CLASS": "AB",
       "DESCRIPTION": "ABS Outstanding : It was found that the bearing parts of No. 2 Sea Water Cooling Pump were damaged, and the pump was unable to build up the required pressure.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : A Damage-Stat survey was carried out at the request of the owner’s representative in order to verify and report damaged electrical motor for 2nd Deck Passageway STBD FWD Ventilation fan via ABS Data Enabled Verification (DEV) Platform.\nThe Master reported 2nd Deck Passageway STBD FWD Ventilation fan was not functional due to an in-operational motor unit.\nThree ventilation fans were installed on the 2nd deck passageway each side (Port side and Starboard) (FWD, MID and AFT).\nThe STBD FWD fan’s motor was damaged, remaining fans works properly. \nRisk assessment was carried out, and control measures were implemented on board.\nThe master confirmed that Oxygen content in the affected area was 20.9% when control measures were implemented on board.\nSpare part was not available on board, but new spare part was order and will be delivered on board when vessel returns Asia port.\nThe defect was recorded in ship’s logbook.\nAll crews were briefed and made aware of the defective ventilation fan.\nSingapore Flag Administration was approached and authorized via email dated 14 November 2026, the survey was carried out remotely and Singapore Flag Administration had no objection for the vessel to continue operating with the abovementioned defective ventilation fan until 14 December 2026, and for Class ABS to issue a Short-Term Cargo Ship Safety Construction Certificate and an associated Statutory Condition, valid till 14 December 2026, subject to but not limited to the following conditions:\na. Appropriate risk control measures are to be implemented onboard; \nb. Entry of the defective ventilators is to be recorded in ship’s logbook; \nc. All shipboard personnel are to be briefed and made aware of the defective ventilation fan;\nd. Master is to ensure that all other power ventilators are to be regularly inspected and operationally tested in good working order; \ne. All natural ventilators in the 2nd deck starboard passageway are to be remained in open position subjected to weather conditions as deemed necessary by the Master; \nf. The defective ventilation fan to be safely isolated from use;\ng. Entry of the affected areas is to be restricted and only permitted upon Master’s order and proper ventilation carried out prior to entry; \nh. Master to ensure that all crew are properly trained and familiar with the use of portable oxygen/gas analysers; \ni. Portable ventilation fans if available, may be used as deemed necessary by the Master;  \nj. Master is to ensure that sufficient walkie-talkies are available on board as means of communication; and\nk. The competent Port State authorities are to be notified of the defective ventilation fan when the vessel calls at a port.\nThe Survey was carried out by reviewing the submitted document/photos as follows:\n1. Master and Chief Engineer attestation\n2. Master and Chief Engineer license\n3. Risk assessment\n4. Crew awareness training for this damage \n5. Photographs and video\n6. Logbook record\n7. Damage report\n8. Flag authorization for the requested survey via email dated 14 November 2026.\nUpon satisfactorily reviewing the above documents, in accordance with the flag’s authorization, a statutory condition was raised, and a short-term Cargo Ship Safety Construction Certificate valid to 14 December 2026 was issued.",
       "CODE": "CA19"
     },
     {

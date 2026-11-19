@@ -1,8 +1,26 @@
 {
   "vessel_name": "EVER EDUCE",
-  "last_updated": "2026-11-18",
-  "total_records": 6,
+  "last_updated": "2026-11-19",
+  "total_records": 9,
   "records": [
+    {
+      "DUE_DATE": "2027/04/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Interim Safety Management CertificateECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Interim International Ship Security Certificate (ISSC)ECC",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/26",
+      "CLASS": "AB",
+      "DESCRIPTION": "Cert - Interim Maritime Labour CertificateECC",
+      "CODE": ""
+    },
     {
       "DUE_DATE": "2029/10/26",
       "CLASS": "NK",

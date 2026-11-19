@@ -1,24 +1,24 @@
 {
   "vessel_name": "EVER BRAVE",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-19",
   "total_records": 9,
   "records": [
     {
       "DUE_DATE": "2027/01/13",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - ISM Intermediate Audit 2Remote",
+      "DESCRIPTION": "Surv - ISM Intermediate Audit 2RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/01/13",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - ISPS Intermediate Verification 2 - Part A & BRemote",
+      "DESCRIPTION": "Surv - ISPS Intermediate Verification 2 - Part A & BRemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/01/13",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - MLC Intermediate Inspection 2Remote",
+      "DESCRIPTION": "Surv - MLC Intermediate Inspection 2RemoteIn Progress",
       "CODE": ""
     },
     {

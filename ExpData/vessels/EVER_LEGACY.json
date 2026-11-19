@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER LEGACY",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-19",
   "total_records": 57,
   "records": [
     {
@@ -306,19 +306,19 @@
     {
       "DUE_DATE": "2027/11/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 3Remote",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 3RemoteIn Progress",
       "CODE": "CB03"
     },
     {
       "DUE_DATE": "2027/11/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 3",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 3In Progress",
       "CODE": "CB03"
     },
     {
       "DUE_DATE": "2027/11/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 3",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 3In Progress",
       "CODE": "CB03"
     },
     {

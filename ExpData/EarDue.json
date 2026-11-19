@@ -105,7 +105,7 @@
   },
   {
     "vessel_name": "EVER BRACE",
-    "due_date": "2027/01/05"
+    "due_date": "2026/09/05"
   },
   {
     "vessel_name": "EVER BRAVE",
@@ -169,7 +169,7 @@
   },
   {
     "vessel_name": "EVER EDUCE",
-    "due_date": "2029/10/26"
+    "due_date": "2027/04/26"
   },
   {
     "vessel_name": "EVER ELITE",
@@ -274,10 +274,6 @@
   {
     "vessel_name": "EVER LEADING",
     "due_date": "2027/09/10"
-  },
-  {
-    "vessel_name": "EVER LEARNED",
-    "due_date": "2027/04/09"
   },
   {
     "vessel_name": "EVER LEGACY",
@@ -416,10 +412,6 @@
     "due_date": "2027/05/09"
   },
   {
-    "vessel_name": "EVER MEMO",
-    "due_date": "2027/10/10"
-  },
-  {
     "vessel_name": "EVER MERCY",
     "due_date": "2027/11/06"
   },
@@ -501,7 +493,7 @@
   },
   {
     "vessel_name": "EVER STEADY",
-    "due_date": "2026/08/26"
+    "due_date": "2029/11/15"
   },
   {
     "vessel_name": "EVER STRONG",

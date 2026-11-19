@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER STRONG",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-19",
   "total_records": 82,
   "records": [
     {
@@ -108,13 +108,13 @@
     {
       "DUE_DATE": "2027/03/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Statement of Compliance for Inventory of Hazardous Materials Certificate (EU)ECC",
+      "DESCRIPTION": "Cert - Statement of Voluntary Compliance for Inventory of Hazardous MaterialsECC",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/03/26",
       "CLASS": "AB",
-      "DESCRIPTION": "Cert - Statement of Voluntary Compliance for Inventory of Hazardous MaterialsECC",
+      "DESCRIPTION": "Cert - Statement of Compliance for Inventory of Hazardous Materials Certificate (EU)ECC",
       "CODE": ""
     },
     {

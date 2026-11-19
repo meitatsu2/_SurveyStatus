@@ -1,12 +1,18 @@
 {
   "vessel_name": "EVER FAITH",
-  "last_updated": "2026-11-18",
-  "total_records": 8,
+  "last_updated": "2026-11-19",
+  "total_records": 9,
   "records": [
     {
       "DUE_DATE": "2027/02/18",
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 2Remote",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/18",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - Annual Survey - Elevator 2Remote",
       "CODE": ""
     },
     {

@@ -1,8 +1,14 @@
 {
   "vessel_name": "EVER BRACE",
-  "last_updated": "2026-11-18",
-  "total_records": 27,
+  "last_updated": "2026-11-19",
+  "total_records": 28,
   "records": [
+    {
+      "DUE_DATE": "2026/09/05",
+      "CLASS": "AB",
+      "DESCRIPTION": "Surv - ISPS Intermediate Verification 2 - Part A & BRemote",
+      "CODE": ""
+    },
     {
       "DUE_DATE": "2027/01/05",
       "CLASS": "AB",
