@@ -1,0 +1,161 @@
+{
+  "scode": "USOD",
+  "last_updated": "2026-11-19",
+  "total_records": 22,
+  "records": [
+    {
+      "Line": "AEF",
+      "Voyage": "192W",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20261123/0700 (一)",
+      "ETD Date/Time": "20261124/0300"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "192W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20261125/2300 (三)",
+      "ETD Date/Time": "20261126/1900"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "192W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261127/1500 (五)",
+      "ETD Date/Time": "20261128/1300"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "192W",
+      "Port Calling": "CNXTH",
+      "ETA Date/Time": "20261130/2300 (一)",
+      "ETD Date/Time": "20261201/1100"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "192W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261206/0100 (日)",
+      "ETD Date/Time": "20261206/1300"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "192E",
+      "Port Calling": "KEMWA",
+      "ETA Date/Time": "20261221/2000 (一)",
+      "ETD Date/Time": "20261224/2000"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "193W",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20270111/1100 (一)",
+      "ETD Date/Time": "20270112/1100"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "193W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270113/2300 (三)",
+      "ETD Date/Time": "20270114/2300"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "193W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270115/1300 (五)",
+      "ETD Date/Time": "20270116/1300"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "193W",
+      "Port Calling": "CNXTH",
+      "ETA Date/Time": "20270118/2100 (一)",
+      "ETD Date/Time": "20270119/1100"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "193W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270123/2300 (六)",
+      "ETD Date/Time": "20270124/1300"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "193E",
+      "Port Calling": "KEMWA",
+      "ETA Date/Time": "20270208/2000 (一)",
+      "ETD Date/Time": "20270211/2300"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "194W",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20270301/1100 (一)",
+      "ETD Date/Time": "20270302/1100"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "194W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270303/2300 (三)",
+      "ETD Date/Time": "20270304/2300"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "194W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270305/1300 (五)",
+      "ETD Date/Time": "20270306/1300"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "194W",
+      "Port Calling": "CNXTH",
+      "ETA Date/Time": "20270308/2100 (一)",
+      "ETD Date/Time": "20270309/1100"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "194W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270313/2300 (六)",
+      "ETD Date/Time": "20270314/1300"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "194E",
+      "Port Calling": "KEMWA",
+      "ETA Date/Time": "20270329/2000 (一)",
+      "ETD Date/Time": "20270401/2300"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "194E",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20270419/1100 (一)",
+      "ETD Date/Time": "20270420/1100"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "194E",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270421/2300 (三)",
+      "ETD Date/Time": "20270422/2300"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "194E",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270423/1300 (五)",
+      "ETD Date/Time": "20270424/1300"
+    },
+    {
+      "Line": "AEF",
+      "Voyage": "194E",
+      "Port Calling": "CNXTH",
+      "ETA Date/Time": "20270426/2100 (一)",
+      "ETD Date/Time": "20270427/1100"
+    }
+  ]
+}

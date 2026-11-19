@@ -1,0 +1,56 @@
+{
+  "scode": "UNCN",
+  "last_updated": "2026-11-19",
+  "total_records": 7,
+  "records": [
+    {
+      "Line": "SAF",
+      "Voyage": "183E",
+      "Port Calling": "ZADRB",
+      "ETA Date/Time": "20261112/1208 (四)",
+      "ETD Date/Time": "20261118/2142"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "183E",
+      "Port Calling": "ZACAP",
+      "ETA Date/Time": "20261126/1300 (四)",
+      "ETD Date/Time": "20261128/1500"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "183E",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261212/2300 (六)",
+      "ETD Date/Time": "20261213/2130"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "183E",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20261219/1500 (六)",
+      "ETD Date/Time": "20261220/1700"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "183E",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261221/0300 (一)",
+      "ETD Date/Time": "20261222/2000"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "183E",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261224/0200 (四)",
+      "ETD Date/Time": "20261225/1400"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "183E",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20261226/1200 (六)",
+      "ETD Date/Time": "20261227/0200"
+    }
+  ]
+}

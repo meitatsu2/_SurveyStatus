@@ -1,0 +1,308 @@
+{
+  "scode": "VSTA",
+  "last_updated": "2026-11-19",
+  "total_records": 43,
+  "records": [
+    {
+      "Line": "NCS",
+      "Voyage": "0304-017N",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261112/0835 (四)",
+      "ETD Date/Time": "20261112/2138"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0309-018S",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20261116/1140 (一)",
+      "ETD Date/Time": "20261117/0013"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0309-018S",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261120/2100 (五)",
+      "ETD Date/Time": "20261121/1800"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0309-018S",
+      "Port Calling": "CNFQJ",
+      "ETA Date/Time": "20261122/1800 (日)",
+      "ETD Date/Time": "20261123/0200"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0309-018S",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261124/0300 (二)",
+      "ETD Date/Time": "20261124/1600"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0309-018S",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20261124/2200 (二)",
+      "ETD Date/Time": "20261125/1100"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0309-018N",
+      "Port Calling": "MYJHR",
+      "ETA Date/Time": "20261128/2000 (六)",
+      "ETD Date/Time": "20261129/1500"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0309-018N",
+      "Port Calling": "MYLPK",
+      "ETA Date/Time": "20261130/0630 (一)",
+      "ETD Date/Time": "20261130/1730"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0309-018N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20261130/2100 (一)",
+      "ETD Date/Time": "20261201/1600"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0309-018N",
+      "Port Calling": "MYPEN",
+      "ETA Date/Time": "20261202/0630 (三)",
+      "ETD Date/Time": "20261203/1230"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0309-018N",
+      "Port Calling": "MYQAM",
+      "ETA Date/Time": "20261205/0230 (六)",
+      "ETD Date/Time": "20261205/2130"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0309-018N",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261209/0230 (三)",
+      "ETD Date/Time": "20261209/1530"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0309-018N",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261210/1530 (四)",
+      "ETD Date/Time": "20261211/1230"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0316-019S",
+      "Port Calling": "KRICH",
+      "ETA Date/Time": "20261215/1930 (二)",
+      "ETD Date/Time": "20261216/1230"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0316-019S",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20261217/1000 (四)",
+      "ETD Date/Time": "20261218/0100"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0316-019S",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261219/1200 (六)",
+      "ETD Date/Time": "20261220/0400"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0316-019S",
+      "Port Calling": "CNFQJ",
+      "ETA Date/Time": "20261221/1700 (一)",
+      "ETD Date/Time": "20261222/0200"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0316-019S",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261223/0300 (三)",
+      "ETD Date/Time": "20261223/1700"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0316-019S",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20261223/2330 (三)",
+      "ETD Date/Time": "20261224/1730"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0316-019N",
+      "Port Calling": "MYJHR",
+      "ETA Date/Time": "20261228/1800 (一)",
+      "ETD Date/Time": "20261229/1300"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0316-019N",
+      "Port Calling": "MYLPK",
+      "ETA Date/Time": "20261230/0430 (三)",
+      "ETD Date/Time": "20261230/1530"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0316-019N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20261230/2000 (三)",
+      "ETD Date/Time": "20261231/1500"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0316-019N",
+      "Port Calling": "MYPEN",
+      "ETA Date/Time": "20270101/0630 (五)",
+      "ETD Date/Time": "20270102/1230"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0316-019N",
+      "Port Calling": "MYQAM",
+      "ETA Date/Time": "20270104/0230 (一)",
+      "ETD Date/Time": "20270104/2130"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0316-019N",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20270105/0530 (二)",
+      "ETD Date/Time": "20270105/1930"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0316-019N",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270106/1830 (三)",
+      "ETD Date/Time": "20270107/1130"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020S",
+      "Port Calling": "KRICH",
+      "ETA Date/Time": "20270110/0230 (日)",
+      "ETD Date/Time": "20270110/1930"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020S",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20270111/1700 (一)",
+      "ETD Date/Time": "20270112/1000"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020S",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270113/1700 (三)",
+      "ETD Date/Time": "20270114/0700"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020S",
+      "Port Calling": "CNFQJ",
+      "ETA Date/Time": "20270116/0700 (六)",
+      "ETD Date/Time": "20270116/2100"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020S",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20270118/0130 (一)",
+      "ETD Date/Time": "20270118/1530"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020S",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20270118/2030 (一)",
+      "ETD Date/Time": "20270119/0730"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020N",
+      "Port Calling": "MYJHR",
+      "ETA Date/Time": "20270123/0100 (六)",
+      "ETD Date/Time": "20270123/1500"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020N",
+      "Port Calling": "MYLPK",
+      "ETA Date/Time": "20270124/0500 (日)",
+      "ETD Date/Time": "20270124/2200"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270125/0100 (一)",
+      "ETD Date/Time": "20270125/0900"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020N",
+      "Port Calling": "MYPEN",
+      "ETA Date/Time": "20270126/0330 (二)",
+      "ETD Date/Time": "20270127/0130"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020N",
+      "Port Calling": "MYQAM",
+      "ETA Date/Time": "20270128/1130 (四)",
+      "ETD Date/Time": "20270129/2030"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020N",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20270202/0530 (二)",
+      "ETD Date/Time": "20270202/1930"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020N",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270203/1830 (三)",
+      "ETD Date/Time": "20270204/1130"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020N",
+      "Port Calling": "KRICH",
+      "ETA Date/Time": "20270207/0230 (日)",
+      "ETD Date/Time": "20270207/1930"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020N",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20270208/1700 (一)",
+      "ETD Date/Time": "20270209/1000"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020N",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270210/1700 (三)",
+      "ETD Date/Time": "20270211/0700"
+    },
+    {
+      "Line": "NCS",
+      "Voyage": "0320-020N",
+      "Port Calling": "CNFQJ",
+      "ETA Date/Time": "20270213/0700 (六)",
+      "ETD Date/Time": "20270213/2100"
+    }
+  ]
+}

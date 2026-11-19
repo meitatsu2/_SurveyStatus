@@ -1,0 +1,98 @@
+{
+  "scode": "ULYS",
+  "last_updated": "2026-11-19",
+  "total_records": 13,
+  "records": [
+    {
+      "Line": "SAF",
+      "Voyage": "175E",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261126/1800 (四)",
+      "ETD Date/Time": "20261127/1400"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "176W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20261202/1300 (三)",
+      "ETD Date/Time": "20261203/0900"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "176W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261204/0300 (五)",
+      "ETD Date/Time": "20261204/2000"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "176W",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261206/0600 (日)",
+      "ETD Date/Time": "20261206/1800"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "176W",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20261208/1700 (二)",
+      "ETD Date/Time": "20261209/1300"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "176W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261213/0900 (日)",
+      "ETD Date/Time": "20261214/0500"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "176E",
+      "Port Calling": "ZADRB",
+      "ETA Date/Time": "20261227/1800 (日)",
+      "ETD Date/Time": "20261230/0600"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "176E",
+      "Port Calling": "ZACAP",
+      "ETA Date/Time": "20270104/0200 (一)",
+      "ETD Date/Time": "20270107/0400"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "176E",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270121/1000 (四)",
+      "ETD Date/Time": "20270122/2300"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "176E",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270128/1500 (四)",
+      "ETD Date/Time": "20270129/1700"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "176E",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270130/0300 (六)",
+      "ETD Date/Time": "20270131/2000"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "176E",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270202/0200 (二)",
+      "ETD Date/Time": "20270203/1400"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "176E",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20270204/1200 (四)",
+      "ETD Date/Time": "20270205/0200"
+    }
+  ]
+}

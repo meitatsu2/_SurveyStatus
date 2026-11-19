@@ -1,0 +1,378 @@
+{
+  "scode": "WISE",
+  "last_updated": "2026-11-19",
+  "total_records": 53,
+  "records": [
+    {
+      "Line": "CVM",
+      "Voyage": "0497-042N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20261112/0900 (四)",
+      "ETD Date/Time": "20261113/1200"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0499-043S",
+      "Port Calling": "VNHPG",
+      "ETA Date/Time": "20261117/0730 (二)",
+      "ETD Date/Time": "20261118/1430"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0499-043S",
+      "Port Calling": "VNDNG",
+      "ETA Date/Time": "20261119/1330 (四)",
+      "ETD Date/Time": "20261119/1800"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0499-043S",
+      "Port Calling": "MYQAM",
+      "ETA Date/Time": "20261122/0000 (日)",
+      "ETD Date/Time": "20261122/1500"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0499-043N",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261123/1000 (一)",
+      "ETD Date/Time": "20261124/0700"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0499-043N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20261124/2100 (二)",
+      "ETD Date/Time": "20261125/1900"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0501-044S",
+      "Port Calling": "VNHPG",
+      "ETA Date/Time": "20261129/1200 (日)",
+      "ETD Date/Time": "20261130/1000"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0501-044S",
+      "Port Calling": "VNDNG",
+      "ETA Date/Time": "20261201/0900 (二)",
+      "ETD Date/Time": "20261201/1300"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0501-044S",
+      "Port Calling": "MYQAM",
+      "ETA Date/Time": "20261203/2000 (四)",
+      "ETD Date/Time": "20261204/1100"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0501-044N",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261205/0500 (六)",
+      "ETD Date/Time": "20261206/0200"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0501-044N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20261206/1500 (日)",
+      "ETD Date/Time": "20261207/1300"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0503-045S",
+      "Port Calling": "VNHPG",
+      "ETA Date/Time": "20261211/0600 (五)",
+      "ETD Date/Time": "20261212/0400"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0503-045S",
+      "Port Calling": "VNDNG",
+      "ETA Date/Time": "20261213/1500 (日)",
+      "ETD Date/Time": "20261213/1900"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0503-045S",
+      "Port Calling": "MYQAM",
+      "ETA Date/Time": "20261218/1400 (五)",
+      "ETD Date/Time": "20261219/1600"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0503-045N",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261220/0900 (日)",
+      "ETD Date/Time": "20261221/1100"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0503-045N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20261222/0200 (二)",
+      "ETD Date/Time": "20261222/1600"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0505-046S",
+      "Port Calling": "VNHPG",
+      "ETA Date/Time": "20261225/1300 (五)",
+      "ETD Date/Time": "20261226/1500"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0505-046S",
+      "Port Calling": "VNDNG",
+      "ETA Date/Time": "20261227/1330 (日)",
+      "ETD Date/Time": "20261228/0130"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0505-046S",
+      "Port Calling": "MYQAM",
+      "ETA Date/Time": "20261230/1400 (三)",
+      "ETD Date/Time": "20261231/1600"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0505-046N",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270101/0900 (五)",
+      "ETD Date/Time": "20270102/1100"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0505-046N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270103/0200 (日)",
+      "ETD Date/Time": "20270103/1600"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0507-047S",
+      "Port Calling": "VNHPG",
+      "ETA Date/Time": "20270108/1300 (五)",
+      "ETD Date/Time": "20270109/1500"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0507-047S",
+      "Port Calling": "VNDNG",
+      "ETA Date/Time": "20270110/1330 (日)",
+      "ETD Date/Time": "20270111/0130"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0507-047S",
+      "Port Calling": "MYQAM",
+      "ETA Date/Time": "20270113/1400 (三)",
+      "ETD Date/Time": "20270114/1600"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0507-047N",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270115/0900 (五)",
+      "ETD Date/Time": "20270116/1100"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0507-047N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270117/0200 (日)",
+      "ETD Date/Time": "20270117/1600"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0509-048S",
+      "Port Calling": "VNHPG",
+      "ETA Date/Time": "20270122/1300 (五)",
+      "ETD Date/Time": "20270123/1500"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0509-048S",
+      "Port Calling": "VNDNG",
+      "ETA Date/Time": "20270124/1330 (日)",
+      "ETD Date/Time": "20270125/0130"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0509-048S",
+      "Port Calling": "MYQAM",
+      "ETA Date/Time": "20270127/1400 (三)",
+      "ETD Date/Time": "20270128/1600"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0509-048N",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270129/0900 (五)",
+      "ETD Date/Time": "20270130/1100"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0509-048N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270131/0200 (日)",
+      "ETD Date/Time": "20270131/1600"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0511-049S",
+      "Port Calling": "VNHPG",
+      "ETA Date/Time": "20270205/1300 (五)",
+      "ETD Date/Time": "20270206/1500"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0511-049S",
+      "Port Calling": "VNDNG",
+      "ETA Date/Time": "20270207/1330 (日)",
+      "ETD Date/Time": "20270208/0130"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0511-049S",
+      "Port Calling": "MYQAM",
+      "ETA Date/Time": "20270210/1400 (三)",
+      "ETD Date/Time": "20270211/1600"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0511-049N",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270212/0900 (五)",
+      "ETD Date/Time": "20270213/1100"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0511-049N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270214/0200 (日)",
+      "ETD Date/Time": "20270214/1600"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0513-050S",
+      "Port Calling": "VNHPG",
+      "ETA Date/Time": "20270219/1300 (五)",
+      "ETD Date/Time": "20270220/1500"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0513-050S",
+      "Port Calling": "VNDNG",
+      "ETA Date/Time": "20270221/1330 (日)",
+      "ETD Date/Time": "20270222/0130"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0513-050S",
+      "Port Calling": "MYQAM",
+      "ETA Date/Time": "20270224/1400 (三)",
+      "ETD Date/Time": "20270225/1600"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0513-050N",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270226/0900 (五)",
+      "ETD Date/Time": "20270227/1100"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0513-050N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270228/0200 (日)",
+      "ETD Date/Time": "20270228/1600"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0515-051S",
+      "Port Calling": "VNHPG",
+      "ETA Date/Time": "20270305/1300 (五)",
+      "ETD Date/Time": "20270306/1500"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0515-051S",
+      "Port Calling": "VNDNG",
+      "ETA Date/Time": "20270307/1330 (日)",
+      "ETD Date/Time": "20270308/0130"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0515-051S",
+      "Port Calling": "MYQAM",
+      "ETA Date/Time": "20270310/1400 (三)",
+      "ETD Date/Time": "20270311/1600"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0515-051N",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270312/0900 (五)",
+      "ETD Date/Time": "20270313/1100"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0515-051N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270314/0200 (日)",
+      "ETD Date/Time": "20270314/1600"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0517-052S",
+      "Port Calling": "VNHPG",
+      "ETA Date/Time": "20270319/1300 (五)",
+      "ETD Date/Time": "20270320/1500"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0517-052S",
+      "Port Calling": "VNDNG",
+      "ETA Date/Time": "20270321/1330 (日)",
+      "ETD Date/Time": "20270322/0130"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0517-052S",
+      "Port Calling": "MYQAM",
+      "ETA Date/Time": "20270324/1400 (三)",
+      "ETD Date/Time": "20270325/1600"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0517-052N",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270326/0900 (五)",
+      "ETD Date/Time": "20270327/1100"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0517-052N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270328/0200 (日)",
+      "ETD Date/Time": "20270328/1600"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0517-052N",
+      "Port Calling": "VNHPG",
+      "ETA Date/Time": "20270402/1300 (五)",
+      "ETD Date/Time": "20270403/1500"
+    },
+    {
+      "Line": "CVM",
+      "Voyage": "0517-052N",
+      "Port Calling": "VNDNG",
+      "ETA Date/Time": "20270404/1330 (日)",
+      "ETD Date/Time": "20270405/0130"
+    }
+  ]
+}

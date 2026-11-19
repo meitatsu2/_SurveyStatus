@@ -1,0 +1,238 @@
+{
+  "scode": "WINN",
+  "last_updated": "2026-11-19",
+  "total_records": 33,
+  "records": [
+    {
+      "Line": "CTX",
+      "Voyage": "0374-030B",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20261116/0750 (一)",
+      "ETD Date/Time": "20261117/1800"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0379-031A",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20261123/2130 (一)",
+      "ETD Date/Time": "20261124/1630"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0379-031A",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261125/0800 (三)",
+      "ETD Date/Time": "20261125/2300"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0379-031A",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261127/2030 (五)",
+      "ETD Date/Time": "20261128/0730"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0379-031A",
+      "Port Calling": "KHSIH",
+      "ETA Date/Time": "20261201/1100 (二)",
+      "ETD Date/Time": "20261202/0400"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0379-031A",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20261202/2000 (三)",
+      "ETD Date/Time": "20261203/2100"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0379-031B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261207/2200 (一)",
+      "ETD Date/Time": "20261209/0200"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0379-031B",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20261210/0300 (四)",
+      "ETD Date/Time": "20261210/1900"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0379-031B",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20261214/1100 (一)",
+      "ETD Date/Time": "20261215/1600"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0384-032A",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20261221/0800 (一)",
+      "ETD Date/Time": "20261222/0300"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0384-032A",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261222/1800 (二)",
+      "ETD Date/Time": "20261223/0900"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0384-032A",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261225/0700 (五)",
+      "ETD Date/Time": "20261225/1800"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0384-032A",
+      "Port Calling": "KHSIH",
+      "ETA Date/Time": "20261228/2100 (一)",
+      "ETD Date/Time": "20261229/1400"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0384-032A",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20261230/0600 (三)",
+      "ETD Date/Time": "20261231/1100"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0384-032B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270102/2000 (六)",
+      "ETD Date/Time": "20270103/2200"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0384-032B",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20270104/2100 (一)",
+      "ETD Date/Time": "20270105/0900"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0384-032B",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20270109/1300 (六)",
+      "ETD Date/Time": "20270110/1400"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0388-033A",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270116/0100 (六)",
+      "ETD Date/Time": "20270116/2100"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0388-033A",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270117/0930 (日)",
+      "ETD Date/Time": "20270118/0030"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0388-033A",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20270119/2230 (二)",
+      "ETD Date/Time": "20270120/0830"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0388-033A",
+      "Port Calling": "KHSIH",
+      "ETA Date/Time": "20270123/1400 (六)",
+      "ETD Date/Time": "20270124/0800"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0388-033A",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20270125/0100 (一)",
+      "ETD Date/Time": "20270126/0300"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0388-033B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270130/2000 (六)",
+      "ETD Date/Time": "20270131/2200"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0388-033B",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20270201/2100 (一)",
+      "ETD Date/Time": "20270202/0900"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0388-033B",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20270206/1300 (六)",
+      "ETD Date/Time": "20270207/1400"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0392-034A",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270213/0100 (六)",
+      "ETD Date/Time": "20270213/2100"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0392-034A",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270214/0930 (日)",
+      "ETD Date/Time": "20270215/0030"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0392-034A",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20270216/2230 (二)",
+      "ETD Date/Time": "20270217/0830"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0392-034A",
+      "Port Calling": "KHSIH",
+      "ETA Date/Time": "20270220/1400 (六)",
+      "ETD Date/Time": "20270221/0800"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0392-034A",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20270222/0100 (一)",
+      "ETD Date/Time": "20270223/0300"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0392-034B",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270227/2000 (六)",
+      "ETD Date/Time": "20270228/2200"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0392-034B",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20270301/2100 (一)",
+      "ETD Date/Time": "20270302/0900"
+    },
+    {
+      "Line": "CTX",
+      "Voyage": "0392-034B",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20270306/1300 (六)",
+      "ETD Date/Time": "20270307/1400"
+    }
+  ]
+}

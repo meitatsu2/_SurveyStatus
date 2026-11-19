@@ -1,0 +1,378 @@
+{
+  "scode": "WITT",
+  "last_updated": "2026-11-19",
+  "total_records": 53,
+  "records": [
+    {
+      "Line": "LEV",
+      "Voyage": "0715-047W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20261112/1550 (四)",
+      "ETD Date/Time": "20261113/0100"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0715-047W",
+      "Port Calling": "TRISK",
+      "ETA Date/Time": "20261115/0535 (日)",
+      "ETD Date/Time": "20261115/1840"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0715-047W",
+      "Port Calling": "TRMIR",
+      "ETA Date/Time": "20261116/0440 (一)",
+      "ETD Date/Time": "20261117/0310"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0715-047W",
+      "Port Calling": "ILHFA",
+      "ETA Date/Time": "20261118/0500 (三)",
+      "ETD Date/Time": "20261118/2120"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0715-047W",
+      "Port Calling": "ILASH",
+      "ETA Date/Time": "20261119/0600 (四)",
+      "ETD Date/Time": "20261120/0700"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0717-048E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261122/0800 (日)",
+      "ETD Date/Time": "20261124/0700"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0717-048W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20261124/2300 (二)",
+      "ETD Date/Time": "20261125/0800"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0717-048W",
+      "Port Calling": "TRISK",
+      "ETA Date/Time": "20261127/0800 (五)",
+      "ETD Date/Time": "20261127/1600"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0717-048W",
+      "Port Calling": "TRMIR",
+      "ETA Date/Time": "20261128/2300 (六)",
+      "ETD Date/Time": "20261129/2300"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0717-048W",
+      "Port Calling": "ILASH",
+      "ETA Date/Time": "20261130/2200 (一)",
+      "ETD Date/Time": "20261201/2300"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0717-048W",
+      "Port Calling": "ILHFA",
+      "ETA Date/Time": "20261202/0700 (三)",
+      "ETD Date/Time": "20261203/0600"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0719-049E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261205/2300 (六)",
+      "ETD Date/Time": "20261207/2200"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0719-049W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20261208/1600 (二)",
+      "ETD Date/Time": "20261209/0700"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0719-049W",
+      "Port Calling": "TRISK",
+      "ETA Date/Time": "20261211/0800 (五)",
+      "ETD Date/Time": "20261211/1900"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0719-049W",
+      "Port Calling": "TRMIR",
+      "ETA Date/Time": "20261212/0800 (六)",
+      "ETD Date/Time": "20261213/1500"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0719-049W",
+      "Port Calling": "ILASH",
+      "ETA Date/Time": "20261214/1500 (一)",
+      "ETD Date/Time": "20261215/1500"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0719-049W",
+      "Port Calling": "ILHFA",
+      "ETA Date/Time": "20261216/0600 (三)",
+      "ETD Date/Time": "20261217/0600"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0721-050E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20261220/1500 (日)",
+      "ETD Date/Time": "20261222/1900"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0721-050W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20261223/1100 (三)",
+      "ETD Date/Time": "20261224/0200"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0721-050W",
+      "Port Calling": "TRISK",
+      "ETA Date/Time": "20261226/0600 (六)",
+      "ETD Date/Time": "20261226/1600"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0721-050W",
+      "Port Calling": "TRMIR",
+      "ETA Date/Time": "20261227/2200 (日)",
+      "ETD Date/Time": "20261228/1400"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0721-050W",
+      "Port Calling": "ILASH",
+      "ETA Date/Time": "20261229/1400 (二)",
+      "ETD Date/Time": "20261230/2200"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0721-050W",
+      "Port Calling": "ILHFA",
+      "ETA Date/Time": "20261231/0500 (四)",
+      "ETD Date/Time": "20270101/0600"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0723-051E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270103/1500 (日)",
+      "ETD Date/Time": "20270105/1900"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0723-051W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20270106/1100 (三)",
+      "ETD Date/Time": "20270107/0200"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0723-051W",
+      "Port Calling": "TRISK",
+      "ETA Date/Time": "20270109/0600 (六)",
+      "ETD Date/Time": "20270109/1600"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0723-051W",
+      "Port Calling": "TRMIR",
+      "ETA Date/Time": "20270110/2200 (日)",
+      "ETD Date/Time": "20270111/1400"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0723-051W",
+      "Port Calling": "ILASH",
+      "ETA Date/Time": "20270112/1400 (二)",
+      "ETD Date/Time": "20270113/2200"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0723-051W",
+      "Port Calling": "ILHFA",
+      "ETA Date/Time": "20270114/0500 (四)",
+      "ETD Date/Time": "20270115/0600"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0725-052E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270117/1500 (日)",
+      "ETD Date/Time": "20270119/1900"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0725-052W",
+      "Port Calling": "ILASH",
+      "ETA Date/Time": "20270121/1400 (四)",
+      "ETD Date/Time": "20270122/1400"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0725-052W",
+      "Port Calling": "ILHFA",
+      "ETA Date/Time": "20270123/0600 (六)",
+      "ETD Date/Time": "20270124/0700"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0725-052W",
+      "Port Calling": "TRISK",
+      "ETA Date/Time": "20270125/0600 (一)",
+      "ETD Date/Time": "20270126/0100"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0725-052W",
+      "Port Calling": "TRMIR",
+      "ETA Date/Time": "20270126/2200 (二)",
+      "ETD Date/Time": "20270127/1700"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0725-052W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20270129/2100 (五)",
+      "ETD Date/Time": "20270130/1600"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0727-053E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270131/0600 (日)",
+      "ETD Date/Time": "20270201/2100"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0727-053W",
+      "Port Calling": "ILASH",
+      "ETA Date/Time": "20270204/1400 (四)",
+      "ETD Date/Time": "20270205/1400"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0727-053W",
+      "Port Calling": "ILHFA",
+      "ETA Date/Time": "20270206/0600 (六)",
+      "ETD Date/Time": "20270207/0700"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0727-053W",
+      "Port Calling": "TRISK",
+      "ETA Date/Time": "20270208/0600 (一)",
+      "ETD Date/Time": "20270209/0100"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0727-053W",
+      "Port Calling": "TRMIR",
+      "ETA Date/Time": "20270209/2200 (二)",
+      "ETD Date/Time": "20270210/1700"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0727-053W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20270212/2100 (五)",
+      "ETD Date/Time": "20270213/1600"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0729-054E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270214/0600 (日)",
+      "ETD Date/Time": "20270215/2100"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0729-054W",
+      "Port Calling": "ILASH",
+      "ETA Date/Time": "20270218/1400 (四)",
+      "ETD Date/Time": "20270219/1400"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0729-054W",
+      "Port Calling": "ILHFA",
+      "ETA Date/Time": "20270220/0600 (六)",
+      "ETD Date/Time": "20270221/0700"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0729-054W",
+      "Port Calling": "TRISK",
+      "ETA Date/Time": "20270222/0600 (一)",
+      "ETD Date/Time": "20270223/0100"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0729-054W",
+      "Port Calling": "TRMIR",
+      "ETA Date/Time": "20270223/2200 (二)",
+      "ETD Date/Time": "20270224/1700"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0729-054W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20270226/2100 (五)",
+      "ETD Date/Time": "20270227/1600"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0731-055E",
+      "Port Calling": "GRPIR",
+      "ETA Date/Time": "20270228/0600 (日)",
+      "ETD Date/Time": "20270301/2100"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0731-055W",
+      "Port Calling": "ILASH",
+      "ETA Date/Time": "20270304/1400 (四)",
+      "ETD Date/Time": "20270305/1400"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0731-055W",
+      "Port Calling": "ILHFA",
+      "ETA Date/Time": "20270306/0600 (六)",
+      "ETD Date/Time": "20270307/0700"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0731-055W",
+      "Port Calling": "TRISK",
+      "ETA Date/Time": "20270308/0600 (一)",
+      "ETD Date/Time": "20270309/0100"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0731-055W",
+      "Port Calling": "TRMIR",
+      "ETA Date/Time": "20270309/2200 (二)",
+      "ETD Date/Time": "20270310/1700"
+    },
+    {
+      "Line": "LEV",
+      "Voyage": "0731-055W",
+      "Port Calling": "TRALI",
+      "ETA Date/Time": "20270312/2100 (五)",
+      "ETD Date/Time": "20270313/1600"
+    }
+  ]
+}

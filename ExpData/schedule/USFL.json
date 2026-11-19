@@ -1,0 +1,140 @@
+{
+  "scode": "USFL",
+  "last_updated": "2026-11-19",
+  "total_records": 19,
+  "records": [
+    {
+      "Line": "SAF",
+      "Voyage": "194W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20261114/0409 (六)",
+      "ETD Date/Time": "20261115/0130"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "194W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261116/1845 (一)",
+      "ETD Date/Time": "20261117/1345"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "194W",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261119/1100 (四)",
+      "ETD Date/Time": "20261120/1100"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "194W",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20261121/1300 (六)",
+      "ETD Date/Time": "20261122/0500"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "194E",
+      "Port Calling": "ZADRB",
+      "ETA Date/Time": "20261207/0300 (一)",
+      "ETD Date/Time": "20261209/1000"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "194E",
+      "Port Calling": "ZACAP",
+      "ETA Date/Time": "20261211/2300 (五)",
+      "ETD Date/Time": "20261214/0100"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "194E",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261229/1000 (二)",
+      "ETD Date/Time": "20261230/2300"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "195W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270108/1500 (五)",
+      "ETD Date/Time": "20270109/1700"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "195W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270110/0300 (日)",
+      "ETD Date/Time": "20270111/2000"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "195W",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270113/0200 (三)",
+      "ETD Date/Time": "20270114/1400"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "195W",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20270115/1200 (五)",
+      "ETD Date/Time": "20270116/0200"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "195W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270120/2100 (三)",
+      "ETD Date/Time": "20270121/0600"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "195E",
+      "Port Calling": "ZADRB",
+      "ETA Date/Time": "20270202/1800 (二)",
+      "ETD Date/Time": "20270207/0100"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "195E",
+      "Port Calling": "ZACAP",
+      "ETA Date/Time": "20270209/0200 (二)",
+      "ETD Date/Time": "20270213/0400"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "195E",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270227/1000 (六)",
+      "ETD Date/Time": "20270227/2300"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "195E",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270305/1500 (五)",
+      "ETD Date/Time": "20270306/1700"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "195E",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270307/0300 (日)",
+      "ETD Date/Time": "20270307/2000"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "195E",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20270310/0200 (三)",
+      "ETD Date/Time": "20270310/1400"
+    },
+    {
+      "Line": "SAF",
+      "Voyage": "195E",
+      "Port Calling": "CNXHK",
+      "ETA Date/Time": "20270312/1200 (五)",
+      "ETD Date/Time": "20270313/0200"
+    }
+  ]
+}
