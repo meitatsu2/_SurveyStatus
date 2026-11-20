@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER WORLD",
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-20",
   "total_records": 6,
   "records": [
     {
@@ -12,7 +12,7 @@
     {
       "DUE_DATE": "2030/12/09",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 1RemoteIn Progress",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 1Remote",
       "CODE": "CB03"
     },
     {

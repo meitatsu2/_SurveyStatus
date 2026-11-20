@@ -32,10 +32,6 @@
     "due_date": "2026/12/08"
   },
   {
-    "vessel_name": "EVER APEX",
-    "due_date": "2027/07/10"
-  },
-  {
     "vessel_name": "EVER ARIA",
     "due_date": "2027/09/12"
   },
@@ -161,7 +157,7 @@
   },
   {
     "vessel_name": "EVER EDIFY",
-    "due_date": "2027/01/13"
+    "due_date": "2027/04/09"
   },
   {
     "vessel_name": "EVER EDIT",
@@ -274,6 +270,10 @@
   {
     "vessel_name": "EVER LEADING",
     "due_date": "2027/09/10"
+  },
+  {
+    "vessel_name": "EVER LEARNED",
+    "due_date": "2027/04/09"
   },
   {
     "vessel_name": "EVER LEGACY",
@@ -412,6 +412,10 @@
     "due_date": "2027/05/09"
   },
   {
+    "vessel_name": "EVER MEMO",
+    "due_date": "2027/10/10"
+  },
+  {
     "vessel_name": "EVER MERCY",
     "due_date": "2027/11/06"
   },
@@ -449,7 +453,7 @@
   },
   {
     "vessel_name": "EVER ORDER",
-    "due_date": "2027/02/12"
+    "due_date": "2021/08/26"
   },
   {
     "vessel_name": "EVER ORIENT",
