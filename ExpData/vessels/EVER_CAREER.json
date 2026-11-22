@@ -1,8 +1,14 @@
 {
   "vessel_name": "EVER CAREER",
   "last_updated": "2026-11-22",
-  "total_records": 30,
+  "total_records": 31,
   "records": [
+    {
+      "DUE_DATE": "2026/11/29",
+      "CLASS": "NK",
+      "DESCRIPTION": "NK - Physical survey to ascertain the extent of the hull damage sustained as a consequence of grounding and to verify the rectification of steering gear system failure is to be carried out at next port of call at Panama but not than the due date below.",
+      "CODE": "CA19"
+    },
     {
       "DUE_DATE": "2027/03/26",
       "CLASS": "CR",
@@ -119,14 +125,14 @@
     },
     {
       "DUE_DATE": "2029/10/26",
-      "CLASS": "CR",
-      "DESCRIPTION": "Surv - Bottom Survey",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
       "CODE": "CB04"
     },
     {
       "DUE_DATE": "2029/10/26",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
+      "CLASS": "CR",
+      "DESCRIPTION": "Surv - Bottom Survey",
       "CODE": "CB04"
     },
     {
@@ -134,6 +140,18 @@
       "CLASS": "NK",
       "DESCRIPTION": "Class - Prop. Shaft Survey",
       "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2031/11/01",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/11/01",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2031/11/01",
@@ -160,27 +178,15 @@
       "CODE": "CB06"
     },
     {
-      "DUE_DATE": "2031/11/01",
+      "DUE_DATE": "2036/11/01",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2031/11/01",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
     },
     {
       "DUE_DATE": "2036/11/01",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2036/11/01",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]

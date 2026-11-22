@@ -53,6 +53,18 @@
     },
     {
       "DUE_DATE": "2027/04/23",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Boiler Survey",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/04/23",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/04/23",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Bottom Survey",
       "CODE": "CB04"
@@ -68,18 +80,6 @@
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Exhaust Gas Boiler Survey",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/23",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Boiler Survey",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/23",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
     },
     {
       "DUE_DATE": "2027/04/30",
@@ -149,6 +149,18 @@
     },
     {
       "DUE_DATE": "2029/06/20",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/06/20",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2029/06/20",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Class Special Survey of Hull (No.2)",
       "CODE": "CB03"
@@ -172,27 +184,15 @@
       "CODE": "CB06"
     },
     {
-      "DUE_DATE": "2029/06/20",
+      "DUE_DATE": "2034/06/20",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2029/06/20",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
     },
     {
       "DUE_DATE": "2034/06/20",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2034/06/20",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]
