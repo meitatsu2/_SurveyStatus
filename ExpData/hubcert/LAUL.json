@@ -1,7 +1,7 @@
 {
   "VESSEL": "EVER LAUREL",
   "VSL_CODE": "LAUL",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-22",
   "total_records": 2,
   "records": [
     {
@@ -18,7 +18,7 @@
       "NAME": "FIXED CO2 ANNUAL",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
-      "REMARK": ""
+      "REMARK": "Please Schedule / Arrange Work//"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER LEGEND",
   "VSL_CODE": "LEGN",
-  "last_updated": "2026-11-18",
-  "total_records": 7,
+  "last_updated": "2026-11-22",
+  "total_records": 8,
   "records": [
     {
       "DUE_DATE": "2027/01/15",
@@ -50,12 +50,20 @@
       "NAME": "C.M.S.",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
-      "REMARK": "返航中國碼頭進行安排檢驗。"
+      "REMARK": "Please Schedule / Arrange Work// 返航中國碼頭進行安排檢驗。"
     },
     {
       "DUE_DATE": "2027/01/27",
       "CODE": "CF01",
       "NAME": "LIFERAFSHIPT CERT.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/19",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
       "REMARK": ""

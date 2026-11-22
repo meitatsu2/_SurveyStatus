@@ -1,13 +1,21 @@
 {
   "VESSEL": "EVER BASIS",
   "VSL_CODE": "BASS",
-  "last_updated": "2026-11-18",
-  "total_records": 1,
+  "last_updated": "2026-11-22",
+  "total_records": 2,
   "records": [
     {
       "DUE_DATE": "2026/12/21",
       "CODE": "CB18",
       "NAME": "CARGO GEAR A/S",
+      "SCHEDULE_DATE": "2026/12/16",
+      "PLANNED_PORT": "TWKSG",
+      "REMARK": "預計安排12/16高雄港施作。"
+    },
+    {
+      "DUE_DATE": "2027/01/02",
+      "CODE": "CF08",
+      "NAME": "FIXED CO2 5Y VALVE CHECK",
       "SCHEDULE_DATE": "2026/12/16",
       "PLANNED_PORT": "TWKSG",
       "REMARK": "預計安排12/16高雄港施作。"

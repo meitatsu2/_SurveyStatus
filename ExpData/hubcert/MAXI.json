@@ -1,16 +1,16 @@
 {
   "VESSEL": "EVER MAX",
   "VSL_CODE": "MAXI",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-22",
   "total_records": 1,
   "records": [
     {
-      "DUE_DATE": "2026/11/20",
-      "CODE": "CD01",
-      "NAME": "SSCEC",
-      "SCHEDULE_DATE": "2026/11/28",
-      "PLANNED_PORT": "HKHKG",
-      "REMARK": "已於20251121香港完成檢驗，等待香港回信發證"
+      "DUE_DATE": "2027/02/18",
+      "CODE": "CE02",
+      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
     }
   ]
 }

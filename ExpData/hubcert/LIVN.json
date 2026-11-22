@@ -1,24 +1,16 @@
 {
   "VESSEL": "EVER LIVEN",
   "VSL_CODE": "LIVN",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-22",
   "total_records": 11,
   "records": [
-    {
-      "DUE_DATE": "2026/11/19",
-      "CODE": "CD01",
-      "NAME": "SSCEC",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Arrange Work// 更換窗口20261019~20261119"
-    },
     {
       "DUE_DATE": "2026/12/20",
       "CODE": "CE02",
       "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
       "SCHEDULE_DATE": "2024/12/19",
       "PLANNED_PORT": "TWKSG",
-      "REMARK": "Please Update Record / Arrange Work//"
+      "REMARK": "Please Update Record / Rearrange Work//"
     },
     {
       "DUE_DATE": "2026/12/20",
@@ -26,7 +18,7 @@
       "NAME": "IMMERSION SUIT INSP (>10Y) (UK & PANAMA FLAG 1 YEAR, OTHER FLAG 2 YEAR)",
       "SCHEDULE_DATE": "2025/03/06",
       "PLANNED_PORT": "TWKSG",
-      "REMARK": "Please Update Record / Arrange Work//"
+      "REMARK": "Please Update Record / Rearrange Work//"
     },
     {
       "DUE_DATE": "2027/02/10",
@@ -91,6 +83,14 @@
       "SCHEDULE_DATE": "2025/03/06",
       "PLANNED_PORT": "TWKSG",
       "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/20",
+      "CODE": "CB07",
+      "NAME": "C.M.S.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "最近到期日為20270220,已通知船端修正"
     }
   ]
 }

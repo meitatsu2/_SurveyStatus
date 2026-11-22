@@ -1,7 +1,7 @@
 {
   "VESSEL": "EVER ENVOY",
   "VSL_CODE": "ENVY",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-22",
   "total_records": 4,
   "records": [
     {
@@ -16,9 +16,9 @@
       "DUE_DATE": "2027/01/02",
       "CODE": "CB08",
       "NAME": "CARGO GEAR 5Y LOAD TEST",
-      "SCHEDULE_DATE": "2026/12/16",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": ""
+      "SCHEDULE_DATE": "2027/02/11",
+      "PLANNED_PORT": "CNNBO",
+      "REMARK": "該證書已到特檢換證(強制性lifting gear)，需安排施作Loading test,經與ABS釐清缺任在此期限皆為自願性並非強制性，故該證書過期沒有異常，ABS也表明該證書無法展延日期，目前尚待2月進塢測試換證。"
     },
     {
       "DUE_DATE": "2027/02/01",

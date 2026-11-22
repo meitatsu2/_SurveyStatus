@@ -1,17 +1,9 @@
 {
   "VESSEL": "EVER FRANK",
   "VSL_CODE": "FRNK",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-22",
   "total_records": 7,
   "records": [
-    {
-      "DUE_DATE": "2026/11/07",
-      "CODE": "CA19",
-      "NAME": "CLASS OUTSTANDING ITEMS",
-      "SCHEDULE_DATE": "2026/12/29",
-      "PLANNED_PORT": "CNNBO",
-      "REMARK": "Keep Watching!// 備品已到貨，已安排修工(CNNBO 20261105)"
-    },
     {
       "DUE_DATE": "2027/01/08",
       "CODE": "CD01",
@@ -59,6 +51,14 @@
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
       "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/18",
+      "CODE": "CB18",
+      "NAME": "CARGO GEAR A/S",
+      "SCHEDULE_DATE": "2026/11/03",
+      "PLANNED_PORT": "CNNBO",
+      "REMARK": "預計安排11月時進行申請"
     }
   ]
 }

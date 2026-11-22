@@ -1,7 +1,7 @@
 {
   "VESSEL": "EVER TOP",
   "VSL_CODE": "TOPP",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-22",
   "total_records": 6,
   "records": [
     {
@@ -10,7 +10,7 @@
       "NAME": "FIXED CO2 2Y WEIGHTING",
       "SCHEDULE_DATE": "2026/11/21",
       "PLANNED_PORT": "CNNBO",
-      "REMARK": "Keep Watching!// 20261121CNNBO，TOPP26S13101R1"
+      "REMARK": "Please Update Record / Rearrange Work// 20261121CNNBO，TOPP26S13101R1"
     },
     {
       "DUE_DATE": "2026/12/12",
@@ -34,7 +34,7 @@
       "NAME": "IMMERSION SUIT INSP (<10Y)",
       "SCHEDULE_DATE": "2026/11/10",
       "PLANNED_PORT": "SGSGP",
-      "REMARK": "Please Update Record / Arrange Work//"
+      "REMARK": "Please Update Record / Rearrange Work//"
     },
     {
       "DUE_DATE": "2027/01/13",

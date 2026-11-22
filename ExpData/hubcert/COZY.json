@@ -1,0 +1,16 @@
+{
+  "VESSEL": "EVER COZY",
+  "VSL_CODE": "COZY",
+  "last_updated": "2026-11-22",
+  "total_records": 1,
+  "records": [
+    {
+      "DUE_DATE": "2027/02/18",
+      "CODE": "B34",
+      "NAME": "AIS ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    }
+  ]
+}

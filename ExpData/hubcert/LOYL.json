@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER LOYAL",
   "VSL_CODE": "LOYL",
-  "last_updated": "2026-11-18",
-  "total_records": 11,
+  "last_updated": "2026-11-22",
+  "total_records": 10,
   "records": [
     {
       "DUE_DATE": "2027/01/07",
@@ -48,14 +48,6 @@
       "DUE_DATE": "2027/01/08",
       "CODE": "CF12",
       "NAME": "SCBA ANNUAL",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Arrange Work//"
-    },
-    {
-      "DUE_DATE": "2027/01/08",
-      "CODE": "CF14",
-      "NAME": "P.F.E. CO2 ANNUAL",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
       "REMARK": "Please Schedule / Arrange Work//"

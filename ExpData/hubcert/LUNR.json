@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER LUNAR",
   "VSL_CODE": "LUNR",
-  "last_updated": "2026-11-18",
-  "total_records": 5,
+  "last_updated": "2026-11-22",
+  "total_records": 4,
   "records": [
     {
       "DUE_DATE": "2026/11/30",
@@ -11,14 +11,6 @@
       "SCHEDULE_DATE": "2026/10/30",
       "PLANNED_PORT": "CNNBO",
       "REMARK": "Please Update Record / Rearrange Work// 返航亞洲，與年檢一併安排"
-    },
-    {
-      "DUE_DATE": "2026/11/30",
-      "CODE": "CE05",
-      "NAME": "VDR RESERVE BATTERY",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Arrange Work//"
     },
     {
       "DUE_DATE": "2026/11/30",
@@ -42,7 +34,7 @@
       "NAME": "CARGO GEAR A/S",
       "SCHEDULE_DATE": "2026/10/30",
       "PLANNED_PORT": "CNNBO",
-      "REMARK": "Please Update Record / Arrange Work// 返航亞洲，與年檢一併安排。"
+      "REMARK": "Please Update Record / Rearrange Work// 返航亞洲，與年檢一併安排。"
     }
   ]
 }

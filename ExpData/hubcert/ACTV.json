@@ -1,17 +1,9 @@
 {
   "VESSEL": "UNI-ACTIVE",
   "VSL_CODE": "ACTV",
-  "last_updated": "2026-11-18",
-  "total_records": 6,
+  "last_updated": "2026-11-22",
+  "total_records": 5,
   "records": [
-    {
-      "DUE_DATE": "2026/12/17",
-      "CODE": "CE02",
-      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Arrange Work//"
-    },
     {
       "DUE_DATE": "2027/01/31",
       "CODE": "CB07",

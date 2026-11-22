@@ -1,7 +1,7 @@
 {
   "VESSEL": "EVER BEAMY",
   "VSL_CODE": "BEMY",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-22",
   "total_records": 11,
   "records": [
     {
@@ -10,7 +10,7 @@
       "NAME": "CLASS OUTSTANDING ITEMS",
       "SCHEDULE_DATE": "2026/12/03",
       "PLANNED_PORT": "TWKSG",
-      "REMARK": "豁免到期日展延至12/05，網頁尚未更新，目前備品交期預計為10/19後續備品送船更換恢復後申請檢驗結案。"
+      "REMARK": "豁免到期日展延至12/05，目前備品交期較長，將持續追蹤，修復後將立即安排檢驗並結案。"
     },
     {
       "DUE_DATE": "2026/12/06",

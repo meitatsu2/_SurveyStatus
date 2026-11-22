@@ -1,7 +1,7 @@
 {
   "VESSEL": "EVER BLINK",
   "VSL_CODE": "BLNK",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-22",
   "total_records": 3,
   "records": [
     {
@@ -16,9 +16,9 @@
       "DUE_DATE": "2026/12/19",
       "CODE": "CB01",
       "NAME": "CLASS A/S",
-      "SCHEDULE_DATE": "2026/11/30",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "預計安排11/30高雄港施作。"
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work// 20260922 TWKSG 已完成檢驗"
     },
     {
       "DUE_DATE": "2027/01/28",

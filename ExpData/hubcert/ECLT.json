@@ -1,0 +1,16 @@
+{
+  "VESSEL": "EVER ECLAT",
+  "VSL_CODE": "ECLT",
+  "last_updated": "2026-11-22",
+  "total_records": 1,
+  "records": [
+    {
+      "DUE_DATE": "2027/01/03",
+      "CODE": "CA19",
+      "NAME": "CLASS OUTSTANDING ITEMS",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    }
+  ]
+}

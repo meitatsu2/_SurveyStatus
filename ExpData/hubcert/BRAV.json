@@ -1,15 +1,15 @@
 {
   "VESSEL": "EVER BRAVE",
   "VSL_CODE": "BRAV",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-22",
   "total_records": 1,
   "records": [
     {
       "DUE_DATE": "2027/02/15",
       "CODE": "CF01",
       "NAME": "LIFERAFSHIPT CERT.",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
+      "SCHEDULE_DATE": "2027/01/09",
+      "PLANNED_PORT": "VNHCM",
       "REMARK": "預計安排年檢之港口及日期"
     }
   ]

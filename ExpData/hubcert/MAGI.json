@@ -1,16 +1,16 @@
 {
   "VESSEL": "EVER MAGI",
   "VSL_CODE": "MAGI",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-22",
   "total_records": 6,
   "records": [
     {
       "DUE_DATE": "2026/11/11",
       "CODE": "CD01",
       "NAME": "SSCEC",
-      "SCHEDULE_DATE": "2026/10/11",
-      "PLANNED_PORT": "VNVUU",
-      "REMARK": "Please Update Record / Rearrange Work// 預計靠泊越南更換"
+      "SCHEDULE_DATE": "2027/02/09",
+      "PLANNED_PORT": "PACCT",
+      "REMARK": "Keep Watching!// 預計靠泊PACCT更換(20261121)"
     },
     {
       "DUE_DATE": "2027/01/04",
@@ -42,7 +42,7 @@
       "NAME": "CALIBRATION CHECK CERTIFICATE FOR BWS",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
-      "REMARK": ""
+      "REMARK": "Please Schedule / Arrange Work//"
     },
     {
       "DUE_DATE": "2027/01/18",
@@ -50,7 +50,7 @@
       "NAME": "CALIBRATION CHECK CERTIFICATE FOR CD TANK",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
-      "REMARK": ""
+      "REMARK": "Please Schedule / Arrange Work//"
     }
   ]
 }

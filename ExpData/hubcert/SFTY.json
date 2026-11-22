@@ -1,7 +1,7 @@
 {
   "VESSEL": "EVER SAFETY",
   "VSL_CODE": "SFTY",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-22",
   "total_records": 5,
   "records": [
     {
@@ -18,7 +18,7 @@
       "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
-      "REMARK": ""
+      "REMARK": "Please Schedule / Arrange Work//"
     },
     {
       "DUE_DATE": "2027/01/31",

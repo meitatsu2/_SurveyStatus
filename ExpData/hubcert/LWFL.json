@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER LAWFUL",
   "VSL_CODE": "LWFL",
-  "last_updated": "2026-11-18",
-  "total_records": 5,
+  "last_updated": "2026-11-22",
+  "total_records": 18,
   "records": [
     {
       "DUE_DATE": "2026/11/16",
@@ -10,7 +10,7 @@
       "NAME": "CARGO GEAR A/S",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Update Record / Rearrange Work//"
+      "REMARK": "Please Schedule / Update Record / Rearrange Work// 20231127-KSG 安排船檢登輪"
     },
     {
       "DUE_DATE": "2026/12/01",
@@ -43,6 +43,110 @@
       "SCHEDULE_DATE": "2025/01/25",
       "PLANNED_PORT": "CNSHG",
       "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/19",
+      "CODE": "CB01",
+      "NAME": "CLASS A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/19",
+      "CODE": "CB10",
+      "NAME": "L/L A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/19",
+      "CODE": "CB11",
+      "NAME": "S/C A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/19",
+      "CODE": "CB12",
+      "NAME": "S/E A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/19",
+      "CODE": "CB13",
+      "NAME": "S/R A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/19",
+      "CODE": "CB14",
+      "NAME": "IOPP A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/19",
+      "CODE": "CB15",
+      "NAME": "IAPP A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/19",
+      "CODE": "CB16",
+      "NAME": "DG A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/19",
+      "CODE": "CB17",
+      "NAME": "BWMS A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/19",
+      "CODE": "CE03",
+      "NAME": "VDR ANNUAL INSP.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "船上尚未提出申請，請船上要提出申請。"
+    },
+    {
+      "DUE_DATE": "2027/02/19",
+      "CODE": "CE08",
+      "NAME": "EPIRB ANNUAL INSP.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "船上尚未提出申請，請船上要提出申請。"
+    },
+    {
+      "DUE_DATE": "2027/02/19",
+      "CODE": "CF21",
+      "NAME": "LIFEBOAT A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "船上尚未提出申請，請船上要提出申請。"
+    },
+    {
+      "DUE_DATE": "2027/02/19",
+      "CODE": "CF23",
+      "NAME": "LIFEBOAT DAVIT & WINCH A/S",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "船上尚未提出申請，請船上要提出申請。"
     }
   ]
 }

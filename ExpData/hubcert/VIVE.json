@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER VIVE",
   "VSL_CODE": "VIVE",
-  "last_updated": "2026-11-18",
-  "total_records": 9,
+  "last_updated": "2026-11-22",
+  "total_records": 11,
   "records": [
     {
       "DUE_DATE": "2027/01/31",
@@ -75,6 +75,22 @@
       "SCHEDULE_DATE": "2027/01/18",
       "PLANNED_PORT": "MYPKL",
       "REMARK": "到期前通知船上申請"
+    },
+    {
+      "DUE_DATE": "2027/02/18",
+      "CODE": "CF06",
+      "NAME": "FIXED CO2 ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/18",
+      "CODE": "CF07",
+      "NAME": "FIXED CO2 2Y WEIGHTING",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
     }
   ]
 }

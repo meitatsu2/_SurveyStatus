@@ -1,7 +1,7 @@
 {
   "VESSEL": "EVER FRONT",
   "VSL_CODE": "FRNT",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-22",
   "total_records": 2,
   "records": [
     {
@@ -18,7 +18,7 @@
       "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
       "SCHEDULE_DATE": "2025/04/11",
       "PLANNED_PORT": "TWKSG",
-      "REMARK": "請船端於到期前提出申請"
+      "REMARK": "Please Update Record / Arrange Work// 請船端於到期前提出申請"
     }
   ]
 }

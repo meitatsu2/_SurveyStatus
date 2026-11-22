@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER VAST",
   "VSL_CODE": "VAST",
-  "last_updated": "2026-11-18",
-  "total_records": 2,
+  "last_updated": "2026-11-22",
+  "total_records": 1,
   "records": [
     {
       "DUE_DATE": "2026/12/01",
@@ -11,14 +11,6 @@
       "SCHEDULE_DATE": "2026/11/18",
       "PLANNED_PORT": "TWKSG",
       "REMARK": "Please Update Record / Rearrange Work// VAST26S06601R1 預計安排廠商登輪更換檢查"
-    },
-    {
-      "DUE_DATE": "2027/02/10",
-      "CODE": "CF03",
-      "NAME": "LIFEJACKET ANNUAL",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": "20260108 Notice MS to apply requisition."
     }
   ]
 }

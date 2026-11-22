@@ -1,7 +1,7 @@
 {
   "VESSEL": "EVER LEGACY",
   "VSL_CODE": "LGCY",
-  "last_updated": "2026-11-18",
+  "last_updated": "2026-11-22",
   "total_records": 2,
   "records": [
     {
@@ -10,7 +10,7 @@
       "NAME": "CARGO GEAR A/S",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Arrange Work// 20261115 SHG A/S"
+      "REMARK": "Please Schedule / Update Record / Rearrange Work// 20261115 SHG A/S"
     },
     {
       "DUE_DATE": "2026/11/30",

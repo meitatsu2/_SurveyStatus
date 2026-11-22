@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER ARM",
   "VSL_CODE": "ARMS",
-  "last_updated": "2026-11-18",
-  "total_records": 8,
+  "last_updated": "2026-11-22",
+  "total_records": 9,
   "records": [
     {
       "DUE_DATE": "2026/12/03",
@@ -26,7 +26,7 @@
       "NAME": "SSCEC",
       "SCHEDULE_DATE": "2026/08/13",
       "PLANNED_PORT": "SGSGP",
-      "REMARK": "46247.0"
+      "REMARK": "Please Update Record / Arrange Work// 46247"
     },
     {
       "DUE_DATE": "2027/01/21",
@@ -34,7 +34,7 @@
       "NAME": "RADIO STATION",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
-      "REMARK": ""
+      "REMARK": "Please Schedule / Arrange Work//"
     },
     {
       "DUE_DATE": "2027/02/01",
@@ -64,6 +64,14 @@
       "DUE_DATE": "2027/02/14",
       "CODE": "CF24",
       "NAME": "LIFEBOAT DAVIT & WINCH 5Y LOAD TEST",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/20",
+      "CODE": "CE06",
+      "NAME": "VDR FLOAT-FREE BATTERY",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
       "REMARK": ""

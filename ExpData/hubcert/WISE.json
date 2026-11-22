@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER WISE",
   "VSL_CODE": "WISE",
-  "last_updated": "2026-11-18",
-  "total_records": 4,
+  "last_updated": "2026-11-22",
+  "total_records": 9,
   "records": [
     {
       "DUE_DATE": "2027/01/20",
@@ -10,7 +10,7 @@
       "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
-      "REMARK": ""
+      "REMARK": "Please Schedule / Arrange Work//"
     },
     {
       "DUE_DATE": "2027/01/21",
@@ -18,7 +18,7 @@
       "NAME": "LIFEJACKET ANNUAL",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
-      "REMARK": ""
+      "REMARK": "Please Schedule / Arrange Work//"
     },
     {
       "DUE_DATE": "2027/02/01",
@@ -32,6 +32,46 @@
       "DUE_DATE": "2027/02/01",
       "CODE": "CE10",
       "NAME": "EPIRB HRU",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/17",
+      "CODE": "CF06",
+      "NAME": "FIXED CO2 ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/17",
+      "CODE": "CF10",
+      "NAME": "EEBD ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/17",
+      "CODE": "CF12",
+      "NAME": "SCBA ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/17",
+      "CODE": "CF14",
+      "NAME": "P.F.E. CO2 ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/17",
+      "CODE": "CF18",
+      "NAME": "P.F.E. DP ANNUAL",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
       "REMARK": ""

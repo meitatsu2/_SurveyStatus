@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER APEX",
   "VSL_CODE": "APXE",
-  "last_updated": "2026-11-18",
-  "total_records": 9,
+  "last_updated": "2026-11-22",
+  "total_records": 10,
   "records": [
     {
       "DUE_DATE": "2027/01/04",
@@ -66,7 +66,7 @@
       "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
-      "REMARK": ""
+      "REMARK": "Please Schedule / Arrange Work//"
     },
     {
       "DUE_DATE": "2027/01/31",
@@ -75,6 +75,14 @@
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
       "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/18",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
+      "SCHEDULE_DATE": "2026/08/10",
+      "PLANNED_PORT": "LKCMB",
+      "REMARK": "安排20260810 LKCMB"
     }
   ]
 }
