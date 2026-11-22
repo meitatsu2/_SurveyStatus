@@ -1,14 +1,8 @@
 {
   "vessel_name": "EVER EAGLE",
-  "last_updated": "2026-11-20",
-  "total_records": 173,
+  "last_updated": "2026-11-22",
+  "total_records": 152,
   "records": [
-    {
-      "DUE_DATE": "2026/06/22",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Retesting Survey - Cargo Gear 2In Progress",
-      "CODE": ""
-    },
     {
       "DUE_DATE": "2026/06/23",
       "CLASS": "AB",
@@ -140,120 +134,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "CMS - Steering Gear Unit - Relief Valve // MACHINERY > Steering Gear System > Steering Gear Unit - Relief Valve",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Automation Survey 5RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Hull Survey 5RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Machinery Survey 5RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Boiler Survey - Auxiliary Water Tube BoilerRemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Boiler Survey - Waste Heat BoilerRemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Drydocking SurveyRemoteIn Progress",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Ballast Water Management Survey 2In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Carriage of Dangerous Goods Survey 5In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal IAPP Annex VI Survey 5RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal IOPP Annex I Survey 5In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal ISPP Annex IV Survey 4In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Load Line Survey 5In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Safety Construction Survey 5In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Safety Equipment Survey 4In Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Safety Radio Survey 2RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Renewal Survey IHM 2RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 5RemoteIn Progress",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 5In Progress",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2026/10/31",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 5In Progress",
-      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2026/10/31",
@@ -1010,12 +890,6 @@
       "CLASS": "AB",
       "DESCRIPTION": "CMS - Ballast Water Management System // MACHINERY > Ballast Water Management System",
       "CODE": ""
-    },
-    {
-      "DUE_DATE": "2029/04/15",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Tailshaft Survey - Tail ShaftIn Progress",
-      "CODE": "CB06"
     },
     {
       "DUE_DATE": "2034/04/16",

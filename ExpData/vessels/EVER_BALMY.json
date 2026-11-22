@@ -1,8 +1,14 @@
 {
   "vessel_name": "EVER BALMY",
-  "last_updated": "2026-11-20",
-  "total_records": 11,
+  "last_updated": "2026-11-22",
+  "total_records": 12,
   "records": [
+    {
+      "DUE_DATE": "2025/08/31",
+      "CLASS": "CR",
+      "DESCRIPTION": "CMS - SEA WATER SERVICE PUMP",
+      "CODE": ""
+    },
     {
       "DUE_DATE": "2027/10/24",
       "CLASS": "NK",

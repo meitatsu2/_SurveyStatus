@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER ELITE",
-  "last_updated": "2026-11-20",
+  "last_updated": "2026-11-22",
   "total_records": 155,
   "records": [
     {
@@ -894,13 +894,13 @@
     {
       "DUE_DATE": "2027/10/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 5In Progress",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Automation 5",
       "CODE": "CB03"
     },
     {
       "DUE_DATE": "2027/10/15",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 5In Progress",
+      "DESCRIPTION": "Surv - Special Periodical Survey - Hull 5",
       "CODE": "CB03"
     },
     {

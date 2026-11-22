@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER BEFIT",
-  "last_updated": "2026-11-20",
+  "last_updated": "2026-11-22",
   "total_records": 16,
   "records": [
     {
@@ -32,6 +32,12 @@
       "CLASS": "NK",
       "DESCRIPTION": "Class - Prop. Shaft Survey",
       "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2028/06/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "NK - The leaking distance piece for COOL.S.W. & CENT.C.F.W.COOLER OUT B.D. (10K-500A, 011VPH, S-Side) is to be permanently repaired at the earliest practicable opportunity, but no later than the next drydock, subject to satisfactory verification at the Class periodical survey.",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2028/06/27",
@@ -80,12 +86,6 @@
       "CLASS": "NK",
       "DESCRIPTION": "Class - Special Survey",
       "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/06/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "NK - The leaking distance piece for COOL.S.W. & CENT.C.F.W.COOLER OUT B.D. (10K-500A, 011VPH, S-Side) is to be permanently repaired at the earliest practicable opportunity, but no later than the next drydock, subject to satisfactory verification at the Class periodical survey.",
-      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2033/06/27",
