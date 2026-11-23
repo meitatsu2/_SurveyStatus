@@ -1,7 +1,7 @@
 {
   "vessel_name": "EVER BRAVE",
-  "last_updated": "2026-11-22",
-  "total_records": 9,
+  "last_updated": "2026-11-23",
+  "total_records": 10,
   "records": [
     {
       "DUE_DATE": "2027/01/13",
@@ -56,6 +56,12 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
       "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Outstanding : The Gray water overboard valve was found with temporary repairs (Cement box), at engine room 3rd deck, starboard side, frame 20. \nClose up examine of the temporary repair found that it remains intact and tight, without sign of water leakage.",
+      "CODE": "CA19"
     }
   ]
 }

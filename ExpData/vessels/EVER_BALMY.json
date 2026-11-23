@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER BALMY",
-  "last_updated": "2026-11-22",
+  "last_updated": "2026-11-23",
   "total_records": 12,
   "records": [
     {
@@ -14,24 +14,6 @@
       "CLASS": "NK",
       "DESCRIPTION": "Class - Prop. Shaft Survey",
       "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2027/10/25",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2027/10/25",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2027/10/25",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2027/10/25",
@@ -64,15 +46,33 @@
       "CODE": "CB06"
     },
     {
-      "DUE_DATE": "2032/10/25",
+      "DUE_DATE": "2027/10/25",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
-      "CODE": "CB06"
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2027/10/25",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2027/10/25",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
     },
     {
       "DUE_DATE": "2032/10/25",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
+      "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2032/10/25",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]

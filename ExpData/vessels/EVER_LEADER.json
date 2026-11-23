@@ -1,90 +1,48 @@
 {
   "vessel_name": "EVER LEADER",
-  "last_updated": "2026-11-22",
-  "total_records": 22,
+  "last_updated": "2026-11-23",
+  "total_records": 15,
   "records": [
     {
-      "DUE_DATE": "2026/12/01",
+      "DUE_DATE": "2027/04/14",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 4RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/12/12",
-      "CLASS": "AB",
-      "DESCRIPTION": "Cert - Cargo Ship Safety Equipment CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/02/24",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Survey - Elevator 4RemoteIn Progress",
+      "DESCRIPTION": "Surv - Annual Ballast Water Management Survey 4Remote",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/04/14",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Automation Survey 4RemoteIn Progress",
+      "DESCRIPTION": "Surv - Annual Carriage of Dangerous Goods Survey 4Remote",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/04/14",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Ballast Water Management Survey 4RemoteIn Progress",
+      "DESCRIPTION": "Surv - Annual Hull Survey 4Remote",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/04/14",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Carriage of Dangerous Goods Survey 4RemoteIn Progress",
+      "DESCRIPTION": "Surv - Annual IOPP Annex I Survey 4Remote",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/04/14",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Hull Survey 4RemoteIn Progress",
+      "DESCRIPTION": "Surv - Annual Load Line Survey 4Remote",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/04/14",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual IAPP Annex VI Survey 4RemoteIn Progress",
+      "DESCRIPTION": "Surv - Annual Machinery Survey 4Remote",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/04/14",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual IOPP Annex I Survey 4RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Load Line Survey 4RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Machinery Survey 4RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Safety Construction Survey 4RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Safety Equipment Survey 4RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Periodical Safety Radio Survey 4RemoteIn Progress",
+      "DESCRIPTION": "Surv - Annual Safety Construction Survey 4Remote",
       "CODE": ""
     },
     {
@@ -126,7 +84,7 @@
     {
       "DUE_DATE": "2099/12/31",
       "CLASS": "AB",
-      "DESCRIPTION": "ABS Outstanding : The vessel's managing company requested a remote survey via email to report the No.1 PA/GA Control System malfunction.\nIn accordance with the Singapore MPA Shipping Circular No. 10 of 2025 and ABS survey process instructions, the survey was completed remotely based on digital data and information provided by the Owner and the vessel. The following items were verified and found satisfactory:\n- Normal operation of the No.2 PA/GA Control System.\nThe following documents were reviewed:\n- Master’s attestation\n- Risk assessment\n- Crew awareness records\n- Videos and photos demonstrating the No.2 PA/GA Control System operation and system status\n- Abandon drill record\n- Maintenance records of PA/GA system\n- Repair Plan\n- Company's confirmation of compliance with Singapore MPA Shipping Circular No. 10 of 2025\nUpon satisfactory verification of above, a Statutory Condition has been imposed in accordance with Shipping Circular No. 10 of 2025, permitting the vessel to continue operating with the defective No.1 PA/GA Control System, pending repairing at the earliest opportunity but no later than \n12 October 2026\n. A Short-Term Cargo Ship Safety Equipment Certificate valid until \n12 October 2026\n has been issued accordingly.\nThe Master has been notified of the following in accordance with Singapore MPA Shipping Circular No. 10 of 2025:\n- Taking into account of the malfunction equipment when planning and executing a voyage to a port where the repair or replace will be carried out.\n- Notifying the relevant competent authority when calling to a foreign port as per SOLAS regulation I/11(C).",
+      "DESCRIPTION": "ABS Outstanding : The main engine No.1 top bracing end connection with ship structure was found fractured in way of welding seams with approx. 30mm of length.",
       "CODE": "CA19"
     },
     {

@@ -1,26 +1,8 @@
 {
   "vessel_name": "EVER VOW",
-  "last_updated": "2026-11-22",
-  "total_records": 12,
+  "last_updated": "2026-11-23",
+  "total_records": 9,
   "records": [
-    {
-      "DUE_DATE": "2026/11/24",
-      "CLASS": "NK",
-      "DESCRIPTION": "Cert - Safety Construction",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2026/11/24",
-      "CLASS": "NK",
-      "DESCRIPTION": "NK - In accordance with Flag Administration Email (dated 23 September 2026) and SVD Instruction (TZ #645394-1), the damaged Stbd Accommodation Ladder is to be repaired not later than the due date below, subject to the Conditions as imposed in SC Conditional Certificate.",
-      "CODE": "CA19"
-    },
-    {
-      "DUE_DATE": "2026/11/24",
-      "CLASS": "NK",
-      "DESCRIPTION": "NK - In accordance with Flag Administration Email (dated 23 September 2026) and SVD Instruction (TZ #645394-1), the damaged Stbd Accommodation Ladder is to be repaired not later than the due date below, subject to the Conditions as imposed in SC Conditional Certificate.",
-      "CODE": "CA19"
-    },
     {
       "DUE_DATE": "2027/04/25",
       "CLASS": "NK",
