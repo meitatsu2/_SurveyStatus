@@ -1,121 +1,126 @@
 {
   "scode": "BONN",
-  "last_updated": "2026-11-19",
-  "total_records": 23,
+  "last_updated": "2026-11-23",
+  "total_records": 24,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "89.0",
+      "O/B": "95.0",
       "Name": "CICERO SANTALENA,GIORGIO"
     },
     {
       "Rank": "1O",
-      "O/B": "109.0",
+      "O/B": "115.0",
       "Name": "CARINO,RAYMAR RED"
     },
     {
       "Rank": "2O",
-      "O/B": "212.0",
+      "O/B": "218.0",
       "Name": "DAAMO,JEFFREY BELZA"
     },
     {
       "Rank": "3O",
-      "O/B": "60.0",
-      "Name": "吳維偉"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "121.0",
+      "O/B": "127.0",
       "Name": "鄭萬明"
     },
     {
-      "Rank": "DC",
-      "O/B": "37.0",
-      "Name": "PIGNATELLI, NIKOLAS"
+      "Rank": "3O",
+      "O/B": "66.0",
+      "Name": "吳維偉"
     },
     {
       "Rank": "DC",
-      "O/B": "37.0",
+      "O/B": "43.0",
       "Name": "ZIVANOVIC, MARKO"
     },
     {
       "Rank": "DC",
-      "O/B": "144.0",
+      "O/B": "150.0",
       "Name": "CERALDI,GENNARO GINO"
     },
     {
+      "Rank": "DC",
+      "O/B": "43.0",
+      "Name": "PIGNATELLI, NIKOLAS"
+    },
+    {
       "Rank": "CE",
-      "O/B": "91.0",
+      "O/B": "97.0",
       "Name": "委　剛"
     },
     {
       "Rank": "2E",
-      "O/B": "91.0",
+      "O/B": "97.0",
       "Name": "王西偉"
     },
     {
       "Rank": "3E",
-      "O/B": "134.0",
+      "O/B": "140.0",
       "Name": "TREVISAN,SALVATORE"
     },
     {
       "Rank": "4E",
-      "O/B": "24.0",
+      "O/B": "30.0",
       "Name": "LAGATUZ,EL-JOWIL BAUTISTA"
     },
     {
       "Rank": "EE",
-      "O/B": "285.0",
+      "O/B": "291.0",
       "Name": "RICASIO,JOSEPHUS DEL MUNDO"
     },
     {
+      "Rank": "EE",
+      "O/B": "4.0",
+      "Name": "XU,LICHAN"
+    },
+    {
       "Rank": "BS",
-      "O/B": "121.0",
+      "O/B": "127.0",
       "Name": "陸　聖"
     },
     {
       "Rank": "AB",
-      "O/B": "159.0",
-      "Name": "曾竹龍"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "159.0",
+      "O/B": "165.0",
       "Name": "趙軍興"
     },
     {
       "Rank": "AB",
-      "O/B": "253.0",
-      "Name": "PERSIGAS,KENT SERENIO"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "253.0",
+      "O/B": "259.0",
       "Name": "JASPE,GLENN JUAREZ"
     },
     {
       "Rank": "AB",
-      "O/B": "19.0",
+      "O/B": "165.0",
+      "Name": "曾竹龍"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "259.0",
+      "Name": "PERSIGAS,KENT SERENIO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "25.0",
       "Name": "HAN,TAO"
     },
     {
       "Rank": "FT",
-      "O/B": "212.0",
-      "Name": "MALAN,JESUS GALLETO"
-    },
-    {
-      "Rank": "FT",
-      "O/B": "109.0",
+      "O/B": "115.0",
       "Name": "ALAJAS,ANDRES JR. POBLETE"
     },
     {
+      "Rank": "FT",
+      "O/B": "4.0",
+      "Name": "VENTABAL,ALBERT DELA CRUZ"
+    },
+    {
       "Rank": "CC",
-      "O/B": "178.0",
-      "Name": "LANDERO,JETHRO ESMERALDA"
+      "O/B": "4.0",
+      "Name": "MONSALE,RAYMOND BALGOS"
     },
     {
       "Rank": "MB",
-      "O/B": "19.0",
+      "O/B": "25.0",
       "Name": "MAO,XIANJIN"
     }
   ]

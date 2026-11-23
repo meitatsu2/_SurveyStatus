@@ -1,111 +1,111 @@
 {
   "scode": "BRAC",
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-23",
   "total_records": 21,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "170.0",
+      "O/B": "176.0",
       "Name": "KAWULUSAN,RAHMAT HAIRUDDIN"
     },
     {
       "Rank": "1O",
-      "O/B": "170.0",
+      "O/B": "176.0",
       "Name": "TALAMAYAN,KRISTOFERSON TUBIANO"
     },
     {
       "Rank": "2O",
-      "O/B": "220.0",
+      "O/B": "226.0",
       "Name": "KATUUK,ANGELO REINALDY"
     },
     {
       "Rank": "3O",
-      "O/B": "221.0",
+      "O/B": "227.0",
       "Name": "LABARO,ZEN DACULLO"
     },
     {
       "Rank": "3O",
-      "O/B": "170.0",
+      "O/B": "176.0",
       "Name": "FRANCISCO,RONALD KEILH MARTINEZ"
     },
     {
       "Rank": "CE",
-      "O/B": "112.0",
+      "O/B": "118.0",
       "Name": "SORIANO,LEO CAASI"
     },
     {
       "Rank": "2E",
-      "O/B": "170.0",
+      "O/B": "176.0",
       "Name": "MOLINO,LIMMUEL VILLANUEVA"
     },
     {
       "Rank": "3E",
-      "O/B": "89.0",
+      "O/B": "95.0",
       "Name": "POETRA,YOGI  PRATAMA"
     },
     {
       "Rank": "4E",
-      "O/B": "112.0",
+      "O/B": "118.0",
       "Name": "JAYADI,ANRI"
     },
     {
       "Rank": "EC",
-      "O/B": "112.0",
+      "O/B": "118.0",
       "Name": "RIZA,FACHRIKA ADYA"
     },
     {
       "Rank": "BS",
-      "O/B": "221.0",
+      "O/B": "227.0",
       "Name": "SAMAC,JAIME PRUNA"
     },
     {
       "Rank": "AB",
-      "O/B": "89.0",
-      "Name": "SOLIHIN,AHMADUS"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "89.0",
+      "O/B": "95.0",
       "Name": "ROHIM,AZIZ"
     },
     {
       "Rank": "AB",
-      "O/B": "220.0",
+      "O/B": "95.0",
+      "Name": "SOLIHIN,AHMADUS"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "226.0",
       "Name": "SIDAURUK,JEFRINALDI"
     },
     {
       "Rank": "AB",
-      "O/B": "112.0",
+      "O/B": "118.0",
       "Name": "SOLEH,BADRUS"
     },
     {
       "Rank": "OS",
-      "O/B": "112.0",
+      "O/B": "118.0",
       "Name": "ROSIDIN,NASIR"
     },
     {
       "Rank": "OS",
-      "O/B": "111.0",
+      "O/B": "117.0",
       "Name": "JIMAN,MUHAMMAD ARIADIN"
     },
     {
       "Rank": "FT",
-      "O/B": "89.0",
+      "O/B": "95.0",
       "Name": "DARDA,MUHAMMAD  AD"
     },
     {
       "Rank": "MM",
-      "O/B": "170.0",
+      "O/B": "176.0",
       "Name": "RUDIYANTO,MAHMUD"
     },
     {
       "Rank": "MM",
-      "O/B": "170.0",
+      "O/B": "176.0",
       "Name": "RIZKI,ACHMAD"
     },
     {
       "Rank": "CA",
-      "O/B": "89.0",
+      "O/B": "95.0",
       "Name": "HAJAR,IBNU"
     }
   ]

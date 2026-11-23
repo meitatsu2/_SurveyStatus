@@ -1,141 +1,131 @@
 {
   "scode": "AIMS",
-  "last_updated": "2026-11-19",
-  "total_records": 27,
+  "last_updated": "2026-11-23",
+  "total_records": 25,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "15.0",
+      "O/B": "21.0",
       "Name": "SOLA, ROGER CASUMPANG"
     },
     {
       "Rank": "1O",
-      "O/B": "58.0",
+      "O/B": "64.0",
       "Name": "林群翔"
     },
     {
       "Rank": "2O",
-      "O/B": "58.0",
+      "O/B": "64.0",
       "Name": "郭榆浩"
     },
     {
       "Rank": "3O",
-      "O/B": "186.0",
-      "Name": "李宗晏"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "15.0",
+      "O/B": "21.0",
       "Name": "陳義雄"
     },
     {
-      "Rank": "DC",
-      "O/B": "176.0",
-      "Name": "鄧天雄"
+      "Rank": "3O",
+      "O/B": "192.0",
+      "Name": "李宗晏"
     },
     {
       "Rank": "DC",
-      "O/B": "176.0",
+      "O/B": "182.0",
       "Name": "程奕晨"
     },
     {
+      "Rank": "DC",
+      "O/B": "182.0",
+      "Name": "鄧天雄"
+    },
+    {
       "Rank": "CE",
-      "O/B": "19.0",
+      "O/B": "25.0",
       "Name": "吳德珂"
     },
     {
       "Rank": "2E",
-      "O/B": "164.0",
+      "O/B": "170.0",
       "Name": "賀鑫鋼"
     },
     {
       "Rank": "3E",
-      "O/B": "107.0",
+      "O/B": "113.0",
       "Name": "孫朝陽"
     },
     {
       "Rank": "4E",
-      "O/B": "191.0",
-      "Name": "梁宏毅"
-    },
-    {
-      "Rank": "4E",
-      "O/B": "15.0",
-      "Name": "鄭仕敏"
-    },
-    {
-      "Rank": "4E",
-      "O/B": "50.0",
+      "O/B": "56.0",
       "Name": "韓偉龍"
     },
     {
+      "Rank": "4E",
+      "O/B": "21.0",
+      "Name": "鄭仕敏"
+    },
+    {
       "Rank": "BS",
-      "O/B": "180.0",
+      "O/B": "186.0",
       "Name": "陶　浩"
     },
     {
       "Rank": "AB",
-      "O/B": "50.0",
-      "Name": "門光杰"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "164.0",
-      "Name": "HICAP,SONNY ANGANA"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "58.0",
-      "Name": "REYES,JAY MATIAS"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "180.0",
-      "Name": "陳加陽"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "58.0",
+      "O/B": "64.0",
       "Name": "DAAN,DEMETRIO JR. ANOBLING"
     },
     {
       "Rank": "AB",
-      "O/B": "180.0",
+      "O/B": "186.0",
+      "Name": "陳加陽"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "64.0",
+      "Name": "REYES,JAY MATIAS"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "170.0",
+      "Name": "HICAP,SONNY ANGANA"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "56.0",
+      "Name": "門光杰"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "186.0",
       "Name": "許彥吉"
     },
     {
       "Rank": "OS",
-      "O/B": "50.0",
+      "O/B": "56.0",
       "Name": "姜恩澤"
     },
     {
       "Rank": "FT",
-      "O/B": "186.0",
-      "Name": "張高允"
-    },
-    {
-      "Rank": "FT",
-      "O/B": "15.0",
+      "O/B": "21.0",
       "Name": "廖宏銘"
     },
     {
       "Rank": "MM",
-      "O/B": "65.0",
-      "Name": "李鵬龍"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "58.0",
+      "O/B": "64.0",
       "Name": "徐維強"
     },
     {
       "Rank": "MM",
-      "O/B": "58.0",
+      "O/B": "71.0",
+      "Name": "李鵬龍"
+    },
+    {
+      "Rank": "MM",
+      "O/B": "64.0",
       "Name": "吳正豪"
     },
     {
       "Rank": "CA",
-      "O/B": "72.0",
+      "O/B": "78.0",
       "Name": "BELO,CEZAR RYAN PAMOSO"
     }
   ]

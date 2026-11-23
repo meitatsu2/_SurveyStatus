@@ -1,111 +1,141 @@
 {
   "scode": "ACRD",
-  "last_updated": "2026-11-19",
-  "total_records": 21,
+  "last_updated": "2026-11-23",
+  "total_records": 27,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "179.0",
+      "O/B": "185.0",
       "Name": "APLACADOR,RENANTE ARAULA"
     },
     {
       "Rank": "1O",
-      "O/B": "91.0",
+      "O/B": "97.0",
       "Name": "DINALO,ARNEL JAGMOC"
     },
     {
       "Rank": "2O",
-      "O/B": "179.0",
+      "O/B": "185.0",
       "Name": "MARTINEZ,ELLAN"
     },
     {
       "Rank": "3O",
-      "O/B": "179.0",
+      "O/B": "185.0",
       "Name": "VILLA,MIKE LIRAZAN"
     },
     {
       "Rank": "J3O",
-      "O/B": "137.0",
+      "O/B": "143.0",
       "Name": "OMALIN,REINHIER ABAD"
     },
     {
       "Rank": "CE",
-      "O/B": "179.0",
+      "O/B": "185.0",
       "Name": "BERNAL,RAY JAY LUCAS"
     },
     {
       "Rank": "2E",
-      "O/B": "91.0",
+      "O/B": "97.0",
       "Name": "AYING,ROBERTO-JR. TONGCO"
     },
     {
       "Rank": "3E",
-      "O/B": "179.0",
+      "O/B": "1.0",
+      "Name": "NURZAIN,ANDI  SADDAN"
+    },
+    {
+      "Rank": "3E",
+      "O/B": "185.0",
       "Name": "RIJAL,MOHAMAD SAMSUR"
     },
     {
       "Rank": "4E",
-      "O/B": "19.0",
-      "Name": "LAMANG, LA UDA"
-    },
-    {
-      "Rank": "4E",
-      "O/B": "195.0",
+      "O/B": "201.0",
       "Name": "MUSTAN,AHMAD SALMAN"
     },
     {
       "Rank": "4E",
-      "O/B": "44.0",
-      "Name": "PANJAITAN, RICHIE ANGGA"
+      "O/B": "51.0",
+      "Name": "PANJAITAN,RICHIE ANGGA"
+    },
+    {
+      "Rank": "4E",
+      "O/B": "25.0",
+      "Name": "LAMANG, LA UDA"
+    },
+    {
+      "Rank": "EC",
+      "O/B": "1.0",
+      "Name": "SAMUDRA SUPRAPTO,TRENDA DESTIRA ARGA"
     },
     {
       "Rank": "BS",
-      "O/B": "162.0",
+      "O/B": "168.0",
       "Name": "HARIRI"
     },
     {
       "Rank": "AB",
-      "O/B": "179.0",
-      "Name": "ATUGAN,JAYSON LUMUGDANG"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "179.0",
+      "O/B": "185.0",
       "Name": "CIPRES,RODGEN JOSHUA CATALAN"
     },
     {
       "Rank": "AB",
-      "O/B": "179.0",
+      "O/B": "1.0",
+      "Name": "ENRIQUEZ,MARK NINO ROBILLA"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "1.0",
+      "Name": "CASTRO,JOHN KENNETH MARANGGA"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "185.0",
       "Name": "FIRMANSYAH,DIKI"
     },
     {
       "Rank": "AB",
-      "O/B": "162.0",
-      "Name": "NOVRIANTO,YOHANIS TANGAGULING"
+      "O/B": "185.0",
+      "Name": "ATUGAN,JAYSON LUMUGDANG"
     },
     {
       "Rank": "AB",
-      "O/B": "162.0",
+      "O/B": "168.0",
       "Name": "SYAIFULLOH,AHMAD"
     },
     {
+      "Rank": "AB",
+      "O/B": "1.0",
+      "Name": "SANCHEZ,BOY ERIC ZAPANTA"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "168.0",
+      "Name": "NOVRIANTO,YOHANIS TANGAGULING"
+    },
+    {
       "Rank": "FT",
-      "O/B": "137.0",
+      "O/B": "143.0",
       "Name": "DOLOERAS,AUGUSTO JR. ESTOYA"
     },
     {
       "Rank": "MM",
-      "O/B": "162.0",
+      "O/B": "1.0",
+      "Name": "GARYOSO,KESROH"
+    },
+    {
+      "Rank": "MM",
+      "O/B": "168.0",
       "Name": "NABALAN,WILRICH FADRILLAN"
     },
     {
       "Rank": "JMM",
-      "O/B": "195.0",
+      "O/B": "201.0",
       "Name": "CASIONAN,REX PODES"
     },
     {
       "Rank": "CA",
-      "O/B": "91.0",
+      "O/B": "97.0",
       "Name": "AYUCO,JOENCE YAPJOCO"
     }
   ]

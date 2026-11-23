@@ -1,116 +1,116 @@
 {
   "scode": "BEDY",
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-23",
   "total_records": 22,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "51.0",
+      "O/B": "57.0",
       "Name": "方信堂"
     },
     {
       "Rank": "1O",
-      "O/B": "165.0",
+      "O/B": "171.0",
       "Name": "黃俊嘉"
     },
     {
       "Rank": "2O",
-      "O/B": "38.0",
+      "O/B": "44.0",
       "Name": "駱文斌"
     },
     {
       "Rank": "3O",
-      "O/B": "137.0",
-      "Name": "呂俊頡"
-    },
-    {
-      "Rank": "5O",
-      "O/B": "73.0",
+      "O/B": "79.0",
       "Name": "錢　鋒"
     },
     {
+      "Rank": "3O",
+      "O/B": "143.0",
+      "Name": "呂俊頡"
+    },
+    {
       "Rank": "5O(T5O)",
-      "O/B": "119.0",
+      "O/B": "125.0",
       "Name": "蘇以成"
     },
     {
       "Rank": "CE",
-      "O/B": "38.0",
+      "O/B": "44.0",
       "Name": "陳丕運"
     },
     {
       "Rank": "2E",
-      "O/B": "137.0",
+      "O/B": "143.0",
       "Name": "吳重謙"
     },
     {
       "Rank": "3E",
-      "O/B": "6.0",
+      "O/B": "12.0",
       "Name": "林本恩"
     },
     {
       "Rank": "4E",
-      "O/B": "10.0",
+      "O/B": "16.0",
       "Name": "葉昭昕"
     },
     {
-      "Rank": "T5E",
-      "O/B": "137.0",
-      "Name": "劉孟德"
-    },
-    {
       "Rank": "5E(T5E)",
-      "O/B": "119.0",
+      "O/B": "125.0",
       "Name": "陳昱瑋"
     },
     {
+      "Rank": "T5E",
+      "O/B": "143.0",
+      "Name": "劉孟德"
+    },
+    {
       "Rank": "BS",
-      "O/B": "137.0",
+      "O/B": "143.0",
       "Name": "王達清"
     },
     {
       "Rank": "AB",
-      "O/B": "6.0",
+      "O/B": "12.0",
       "Name": "陳廷甫"
     },
     {
       "Rank": "AB",
-      "O/B": "137.0",
-      "Name": "劉子豪"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "35.0",
-      "Name": "HONTUCAN,LIEF CAPRICHO"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "70.0",
-      "Name": "YSULAN,KENNETH ELEFANE"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "38.0",
+      "O/B": "44.0",
       "Name": "洪萌振"
     },
     {
       "Rank": "AB",
-      "O/B": "35.0",
+      "O/B": "41.0",
       "Name": "CORDA,MARK ANTHONY SILVA"
     },
     {
+      "Rank": "AB",
+      "O/B": "143.0",
+      "Name": "劉子豪"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "41.0",
+      "Name": "HONTUCAN,LIEF CAPRICHO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "76.0",
+      "Name": "YSULAN,KENNETH ELEFANE"
+    },
+    {
       "Rank": "FT",
-      "O/B": "184.0",
+      "O/B": "190.0",
       "Name": "謝運佳"
     },
     {
       "Rank": "MM",
-      "O/B": "22.0",
+      "O/B": "28.0",
       "Name": "林明寬"
     },
     {
       "Rank": "CA",
-      "O/B": "38.0",
+      "O/B": "44.0",
       "Name": "蔣子龍"
     }
   ]

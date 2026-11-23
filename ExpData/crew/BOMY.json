@@ -1,131 +1,131 @@
 {
   "scode": "BOMY",
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-23",
   "total_records": 25,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "66.0",
+      "O/B": "72.0",
       "Name": "孟召標"
     },
     {
       "Rank": "1O",
-      "O/B": "120.0",
+      "O/B": "126.0",
       "Name": "陳發聰"
     },
     {
       "Rank": "2O",
-      "O/B": "196.0",
+      "O/B": "202.0",
       "Name": "ADI,IRWANTO HIERONIMUS MARIA WAHYU"
     },
     {
       "Rank": "3O",
-      "O/B": "67.0",
+      "O/B": "73.0",
       "Name": "AKBAR,CHAERUL"
     },
     {
       "Rank": "5O",
-      "O/B": "148.0",
+      "O/B": "154.0",
       "Name": "徐仕文"
     },
     {
       "Rank": "DC",
-      "O/B": "84.0",
-      "Name": "蔣澤龍"
-    },
-    {
-      "Rank": "DC",
-      "O/B": "84.0",
+      "O/B": "90.0",
       "Name": "余社聖"
     },
     {
-      "Rank": "CE",
-      "O/B": "213.0",
-      "Name": "靳　杰"
+      "Rank": "DC",
+      "O/B": "90.0",
+      "Name": "蔣澤龍"
     },
     {
       "Rank": "CE",
-      "O/B": "12.0",
+      "O/B": "18.0",
       "Name": "張春耀"
     },
     {
+      "Rank": "CE",
+      "O/B": "219.0",
+      "Name": "靳　杰"
+    },
+    {
       "Rank": "2E",
-      "O/B": "84.0",
+      "O/B": "90.0",
       "Name": "李大偉"
     },
     {
       "Rank": "3E",
-      "O/B": "114.0",
+      "O/B": "120.0",
       "Name": "DARUSSALAM,AP  ANDIRIO"
     },
     {
       "Rank": "4E",
-      "O/B": "59.0",
-      "Name": "HUSODO,YUSUF SETYO"
-    },
-    {
-      "Rank": "4E",
-      "O/B": "76.0",
+      "O/B": "82.0",
       "Name": "RAKASIWI,ANRI"
     },
     {
+      "Rank": "4E",
+      "O/B": "65.0",
+      "Name": "HUSODO,YUSUF SETYO"
+    },
+    {
       "Rank": "EC",
-      "O/B": "254.0",
+      "O/B": "260.0",
       "Name": "FEBRIAN,ANDIKA"
     },
     {
       "Rank": "EC",
-      "O/B": "254.0",
+      "O/B": "260.0",
       "Name": "BAHARI,DIFA"
     },
     {
       "Rank": "BS",
-      "O/B": "12.0",
+      "O/B": "18.0",
       "Name": "MAHMUDI"
     },
     {
       "Rank": "AB",
-      "O/B": "24.0",
+      "O/B": "30.0",
       "Name": "TARIGAN,SANTOSA"
     },
     {
       "Rank": "AB",
-      "O/B": "3.0",
-      "Name": "AZEMI,MUHAMMAD  SAHRI"
+      "O/B": "30.0",
+      "Name": "LIMBONG,FANCA F DAULAT"
     },
     {
       "Rank": "AB",
-      "O/B": "114.0",
+      "O/B": "120.0",
       "Name": "RUSDI,MUHAMMAD"
     },
     {
       "Rank": "AB",
-      "O/B": "3.0",
-      "Name": "LESMANA,INDRA"
+      "O/B": "9.0",
+      "Name": "AZEMI,MUHAMMAD  SAHRI"
     },
     {
       "Rank": "AB",
-      "O/B": "24.0",
-      "Name": "LIMBONG,FANCA F DAULAT"
+      "O/B": "9.0",
+      "Name": "LESMANA,INDRA"
     },
     {
       "Rank": "OS",
-      "O/B": "24.0",
+      "O/B": "30.0",
       "Name": "KELVINATA,YOSAFAT"
     },
     {
       "Rank": "FT",
-      "O/B": "84.0",
+      "O/B": "90.0",
       "Name": "辛　勇"
     },
     {
       "Rank": "MM",
-      "O/B": "114.0",
+      "O/B": "120.0",
       "Name": "AZIZ,MUHAIMINUL"
     },
     {
       "Rank": "CA",
-      "O/B": "68.0",
+      "O/B": "74.0",
       "Name": "林長財"
     }
   ]

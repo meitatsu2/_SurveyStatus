@@ -1,8 +1,36 @@
 {
   "scode": "ARMS",
-  "last_updated": "2026-11-19",
-  "total_records": 16,
+  "last_updated": "2026-11-23",
+  "total_records": 20,
   "records": [
+    {
+      "Line": "CEM",
+      "Voyage": "1412-016W",
+      "Port Calling": "NLRDM",
+      "ETA Date/Time": "20260918/2306 (五)",
+      "ETD Date/Time": "20260923/1130"
+    },
+    {
+      "Line": "CEM",
+      "Voyage": "1412-016E",
+      "Port Calling": "GBFLX",
+      "ETA Date/Time": "20260923/2251 (三)",
+      "ETD Date/Time": "20260926/1016"
+    },
+    {
+      "Line": "CEM",
+      "Voyage": "1412-016E",
+      "Port Calling": "NLRDM",
+      "ETA Date/Time": "20261002/1130 (五)",
+      "ETD Date/Time": "20261007/1113"
+    },
+    {
+      "Line": "CEM",
+      "Voyage": "1412-016E",
+      "Port Calling": "LKCMB",
+      "ETA Date/Time": "20261108/2135 (日)",
+      "ETD Date/Time": "20261110/0035"
+    },
     {
       "Line": "CEM",
       "Voyage": "1412-016E",

@@ -1,8 +1,78 @@
 {
   "scode": "ACES",
-  "last_updated": "2026-11-19",
-  "total_records": 18,
+  "last_updated": "2026-11-23",
+  "total_records": 28,
   "records": [
+    {
+      "Line": "CEM",
+      "Voyage": "1406-019E",
+      "Port Calling": "NLRDM",
+      "ETA Date/Time": "20260823/1142 (日)",
+      "ETD Date/Time": "20260826/0430"
+    },
+    {
+      "Line": "CEM",
+      "Voyage": "1406-019E",
+      "Port Calling": "DEHBG",
+      "ETA Date/Time": "20260828/1854 (五)",
+      "ETD Date/Time": "20260902/0725"
+    },
+    {
+      "Line": "CEM",
+      "Voyage": "1406-019E",
+      "Port Calling": "LKCMB",
+      "ETA Date/Time": "20260928/0636 (一)",
+      "ETD Date/Time": "20260929/2210"
+    },
+    {
+      "Line": "CEM",
+      "Voyage": "1406-019E",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261004/2000 (日)",
+      "ETD Date/Time": "20261006/2025"
+    },
+    {
+      "Line": "CEM",
+      "Voyage": "1423-020W",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261010/1110 (六)",
+      "ETD Date/Time": "20261012/0936"
+    },
+    {
+      "Line": "CEM",
+      "Voyage": "1423-020W",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20261015/0218 (四)",
+      "ETD Date/Time": "20261016/2010"
+    },
+    {
+      "Line": "CEM",
+      "Voyage": "1423-020W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20261018/2200 (日)",
+      "ETD Date/Time": "20261020/0700"
+    },
+    {
+      "Line": "CEM",
+      "Voyage": "1423-020W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261022/0950 (四)",
+      "ETD Date/Time": "20261024/0300"
+    },
+    {
+      "Line": "CEM",
+      "Voyage": "1423-020W",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20261029/0210 (四)",
+      "ETD Date/Time": "20261031/0025"
+    },
+    {
+      "Line": "CEM",
+      "Voyage": "1423-020W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261104/1225 (三)",
+      "ETD Date/Time": "20261105/1905"
+    },
     {
       "Line": "CEM",
       "Voyage": "1423-020W",

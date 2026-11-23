@@ -1,116 +1,116 @@
 {
   "scode": "BLNK",
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-23",
   "total_records": 22,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "159.0",
+      "O/B": "165.0",
       "Name": "謝旻勳"
     },
     {
       "Rank": "1O",
-      "O/B": "95.0",
+      "O/B": "101.0",
       "Name": "廖耿毓"
     },
     {
       "Rank": "2O",
-      "O/B": "159.0",
+      "O/B": "165.0",
       "Name": "許博勝"
     },
     {
       "Rank": "3O",
-      "O/B": "20.0",
-      "Name": "呂孟修"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "159.0",
+      "O/B": "165.0",
       "Name": "秦詡洋"
     },
     {
+      "Rank": "3O",
+      "O/B": "26.0",
+      "Name": "呂孟修"
+    },
+    {
       "Rank": "5O(T5O)",
-      "O/B": "178.0",
+      "O/B": "184.0",
       "Name": "林語軒"
     },
     {
       "Rank": "T5O",
-      "O/B": "37.0",
+      "O/B": "43.0",
       "Name": "陳家民"
     },
     {
       "Rank": "CE",
-      "O/B": "121.0",
+      "O/B": "127.0",
       "Name": "邱俊文"
     },
     {
       "Rank": "2E",
-      "O/B": "20.0",
+      "O/B": "26.0",
       "Name": "李劭誠"
     },
     {
       "Rank": "3E",
-      "O/B": "95.0",
+      "O/B": "101.0",
       "Name": "林東奇"
     },
     {
       "Rank": "4E",
-      "O/B": "95.0",
+      "O/B": "101.0",
       "Name": "洪嵩祥"
     },
     {
       "Rank": "5E(T5E)",
-      "O/B": "121.0",
+      "O/B": "127.0",
       "Name": "陳宏祥"
     },
     {
       "Rank": "BS",
-      "O/B": "37.0",
+      "O/B": "43.0",
       "Name": "吳智敏"
     },
     {
       "Rank": "AB",
-      "O/B": "158.0",
-      "Name": "MURILLO,JUNELL JUDE ALFARO"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "159.0",
-      "Name": "林明桐"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "20.0",
-      "Name": "陳文祥"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "158.0",
+      "O/B": "164.0",
       "Name": "DELA CRUZ,ALLAN AGUIRRE"
     },
     {
       "Rank": "AB",
-      "O/B": "159.0",
-      "Name": "鄭博宇"
+      "O/B": "164.0",
+      "Name": "MURILLO,JUNELL JUDE ALFARO"
     },
     {
       "Rank": "AB",
-      "O/B": "158.0",
+      "O/B": "164.0",
       "Name": "TAMPOS,THYRONE JAY ALBOFERA"
     },
     {
+      "Rank": "AB",
+      "O/B": "165.0",
+      "Name": "林明桐"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "26.0",
+      "Name": "陳文祥"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "165.0",
+      "Name": "鄭博宇"
+    },
+    {
       "Rank": "FT",
-      "O/B": "57.0",
+      "O/B": "63.0",
       "Name": "洪柏宇"
     },
     {
       "Rank": "MM",
-      "O/B": "79.0",
+      "O/B": "85.0",
       "Name": "方麒鈞"
     },
     {
       "Rank": "CA",
-      "O/B": "20.0",
+      "O/B": "26.0",
       "Name": "胡孝安"
     }
   ]

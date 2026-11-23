@@ -1,141 +1,141 @@
 {
   "scode": "ACME",
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-23",
   "total_records": 27,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "11.0",
+      "O/B": "17.0",
       "Name": "葉篤志"
     },
     {
       "Rank": "1O",
-      "O/B": "11.0",
+      "O/B": "17.0",
       "Name": "王　偉"
     },
     {
       "Rank": "2O",
-      "O/B": "150.0",
+      "O/B": "156.0",
       "Name": "林柏丞"
     },
     {
       "Rank": "2O",
-      "O/B": "150.0",
-      "Name": "王靖元"
-    },
-    {
-      "Rank": "2O",
-      "O/B": "114.0",
+      "O/B": "120.0",
       "Name": "羅元煌"
     },
     {
-      "Rank": "DC",
-      "O/B": "2.0",
-      "Name": "張　嘯"
+      "Rank": "2O",
+      "O/B": "156.0",
+      "Name": "王靖元"
     },
     {
       "Rank": "DC",
-      "O/B": "2.0",
+      "O/B": "8.0",
       "Name": "李永軒"
     },
     {
+      "Rank": "DC",
+      "O/B": "8.0",
+      "Name": "張　嘯"
+    },
+    {
       "Rank": "CE",
-      "O/B": "68.0",
+      "O/B": "74.0",
       "Name": "吳根旺"
     },
     {
       "Rank": "2E",
-      "O/B": "19.0",
+      "O/B": "25.0",
       "Name": "朱國富"
     },
     {
       "Rank": "3E",
-      "O/B": "128.0",
+      "O/B": "134.0",
       "Name": "呂政益"
     },
     {
       "Rank": "4E",
-      "O/B": "19.0",
+      "O/B": "25.0",
       "Name": "金寶帥"
     },
     {
       "Rank": "4E",
-      "O/B": "19.0",
+      "O/B": "25.0",
       "Name": "周　穎"
     },
     {
       "Rank": "EC",
-      "O/B": "127.0",
+      "O/B": "133.0",
       "Name": "郝博垚"
     },
     {
       "Rank": "BS",
-      "O/B": "139.0",
+      "O/B": "145.0",
       "Name": "張明濱"
     },
     {
       "Rank": "AB",
-      "O/B": "127.0",
-      "Name": "劉彥軍"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "139.0",
-      "Name": "劉雨康"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "114.0",
-      "Name": "NONESCO,JOHN PAUL SARABIA"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "127.0",
+      "O/B": "133.0",
       "Name": "崔　偉"
     },
     {
       "Rank": "AB",
-      "O/B": "114.0",
+      "O/B": "145.0",
+      "Name": "劉雨康"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "120.0",
+      "Name": "NONESCO,JOHN PAUL SARABIA"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "133.0",
+      "Name": "劉彥軍"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "120.0",
       "Name": "FRANCISCO,JOSHUA RICARDO HONRUBIA"
     },
     {
       "Rank": "AB",
-      "O/B": "150.0",
+      "O/B": "156.0",
       "Name": "CANSANCIO,JUBIE NOMO"
     },
     {
       "Rank": "OS",
-      "O/B": "150.0",
+      "O/B": "156.0",
       "Name": "RENTORIA,MARK JOSEPH SERRA"
     },
     {
       "Rank": "FT",
-      "O/B": "19.0",
+      "O/B": "25.0",
       "Name": "鄭開洋"
     },
     {
       "Rank": "MM",
-      "O/B": "143.0",
-      "Name": "林思篁"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "143.0",
-      "Name": "黃富貴"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "11.0",
+      "O/B": "17.0",
       "Name": "劉主平"
     },
     {
       "Rank": "MM",
-      "O/B": "150.0",
+      "O/B": "156.0",
       "Name": "CANO,MARCK PHIL FLANDEZ"
     },
     {
+      "Rank": "MM",
+      "O/B": "149.0",
+      "Name": "黃富貴"
+    },
+    {
+      "Rank": "MM",
+      "O/B": "149.0",
+      "Name": "林思篁"
+    },
+    {
       "Rank": "CA",
-      "O/B": "11.0",
+      "O/B": "17.0",
       "Name": "蔡保全"
     }
   ]

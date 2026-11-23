@@ -1,116 +1,116 @@
 {
   "scode": "BRTH",
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-23",
   "total_records": 22,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "123.0",
+      "O/B": "129.0",
       "Name": "RIANTO,ANTONY"
     },
     {
       "Rank": "1O",
-      "O/B": "127.0",
+      "O/B": "133.0",
       "Name": "LIKUMAHWA,NOVERIO"
     },
     {
       "Rank": "2O",
-      "O/B": "30.0",
+      "O/B": "36.0",
       "Name": "ANUGRAH,NURHADI"
     },
     {
       "Rank": "3O",
-      "O/B": "195.0",
+      "O/B": "201.0",
       "Name": "趙新饒"
     },
     {
       "Rank": "3O",
-      "O/B": "147.0",
+      "O/B": "153.0",
       "Name": "JAYA,ANDIKA KUSUMA"
     },
     {
       "Rank": "CE",
-      "O/B": "59.0",
+      "O/B": "65.0",
       "Name": "RIVERA,BRANDON BANARES"
     },
     {
       "Rank": "2E",
-      "O/B": "207.0",
+      "O/B": "213.0",
       "Name": "PURNOMO,SETYO ADI"
     },
     {
       "Rank": "3E",
-      "O/B": "30.0",
+      "O/B": "36.0",
       "Name": "HANAFIAH,MUHAMMAD  YUSUF"
     },
     {
       "Rank": "3E",
-      "O/B": "188.0",
+      "O/B": "194.0",
       "Name": "SIMANJUNTAK,YANTONI"
     },
     {
       "Rank": "4E",
-      "O/B": "188.0",
+      "O/B": "194.0",
       "Name": "LAKSONO,ADHY RIZKY AGUS SRI"
     },
     {
       "Rank": "EC",
-      "O/B": "249.0",
+      "O/B": "255.0",
       "Name": "WILAR,GRANDLY TIMOTHY"
     },
     {
       "Rank": "BS",
-      "O/B": "17.0",
+      "O/B": "23.0",
       "Name": "BASKARA,DANNY"
     },
     {
       "Rank": "AB",
-      "O/B": "127.0",
+      "O/B": "153.0",
+      "Name": "IING,ISMAIL CACO SAMARI"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "133.0",
       "Name": "PHAM,VAN DUY"
     },
     {
       "Rank": "AB",
-      "O/B": "127.0",
-      "Name": "NGUYEN,NGOC THINH"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "147.0",
+      "O/B": "153.0",
       "Name": "PURWANTO,ANGGA"
     },
     {
       "Rank": "AB",
-      "O/B": "147.0",
-      "Name": "IING,ISMAIL CACO SAMARI"
+      "O/B": "133.0",
+      "Name": "NGUYEN,NGOC THINH"
     },
     {
       "Rank": "OS",
-      "O/B": "127.0",
+      "O/B": "133.0",
       "Name": "TA,DANG NHAT DUONG"
     },
     {
       "Rank": "OS",
-      "O/B": "147.0",
+      "O/B": "153.0",
       "Name": "FIKRI,FAIZUL"
     },
     {
       "Rank": "FT",
-      "O/B": "114.0",
+      "O/B": "120.0",
       "Name": "SINGURAN,DECEVEN PABIANIA"
     },
     {
       "Rank": "MM",
-      "O/B": "135.0",
+      "O/B": "141.0",
       "Name": "PACIENTE,NORMAN BILBAR"
     },
     {
       "Rank": "JMM",
-      "O/B": "135.0",
+      "O/B": "141.0",
       "Name": "PRINSEPE,JAMES MATHEW"
     },
     {
       "Rank": "CA",
-      "O/B": "135.0",
+      "O/B": "141.0",
       "Name": "ALINDUGAN,MARK ANTHONY MENDOZA"
     }
   ]

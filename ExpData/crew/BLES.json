@@ -1,106 +1,106 @@
 {
   "scode": "BLES",
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-23",
   "total_records": 20,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "167.0",
+      "O/B": "173.0",
       "Name": "廖健凱"
     },
     {
       "Rank": "1O",
-      "O/B": "69.0",
+      "O/B": "75.0",
       "Name": "詹智仁"
     },
     {
       "Rank": "2O",
-      "O/B": "119.0",
+      "O/B": "125.0",
       "Name": "古偉寧"
     },
     {
       "Rank": "3O",
-      "O/B": "49.0",
-      "Name": "楊智凱"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "202.0",
+      "O/B": "208.0",
       "Name": "陳俊儒"
     },
     {
+      "Rank": "3O",
+      "O/B": "55.0",
+      "Name": "楊智凱"
+    },
+    {
       "Rank": "DC",
-      "O/B": "87.0",
+      "O/B": "93.0",
       "Name": "王翊安"
     },
     {
       "Rank": "CE",
-      "O/B": "84.0",
+      "O/B": "90.0",
       "Name": "許文賓"
     },
     {
       "Rank": "2E",
-      "O/B": "69.0",
+      "O/B": "75.0",
       "Name": "廖軒琦"
     },
     {
       "Rank": "3E",
-      "O/B": "71.0",
+      "O/B": "77.0",
       "Name": "林建凱"
     },
     {
       "Rank": "4E",
-      "O/B": "119.0",
+      "O/B": "125.0",
       "Name": "傅威智"
     },
     {
       "Rank": "BS",
-      "O/B": "49.0",
+      "O/B": "55.0",
       "Name": "吳勇輝"
     },
     {
       "Rank": "AB",
-      "O/B": "171.0",
-      "Name": "陳冠瑜"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "88.0",
-      "Name": "SINDAY,VINCENT PETER BEBELONI"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "88.0",
-      "Name": "CHUA,EDWIN TIBON"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "49.0",
+      "O/B": "55.0",
       "Name": "黃柏翔"
     },
     {
       "Rank": "AB",
-      "O/B": "119.0",
+      "O/B": "125.0",
       "Name": "林瑾煜"
     },
     {
       "Rank": "AB",
-      "O/B": "88.0",
+      "O/B": "177.0",
+      "Name": "陳冠瑜"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "94.0",
       "Name": "TOLENTINO,CHRISTIAN JUNE MOSQUITO"
     },
     {
+      "Rank": "AB",
+      "O/B": "94.0",
+      "Name": "SINDAY,VINCENT PETER BEBELONI"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "94.0",
+      "Name": "CHUA,EDWIN TIBON"
+    },
+    {
       "Rank": "FT",
-      "O/B": "15.0",
-      "Name": "陳進良"
+      "O/B": "6.0",
+      "Name": "陳彥宇"
     },
     {
       "Rank": "MM",
-      "O/B": "184.0",
+      "O/B": "190.0",
       "Name": "蕭宏源"
     },
     {
       "Rank": "CA",
-      "O/B": "105.0",
+      "O/B": "111.0",
       "Name": "林佳輝"
     }
   ]

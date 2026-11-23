@@ -1,121 +1,121 @@
 {
   "scode": "BEFT",
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-23",
   "total_records": 23,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "34.0",
+      "O/B": "40.0",
       "Name": "陳聖助"
     },
     {
       "Rank": "1O",
-      "O/B": "93.0",
+      "O/B": "99.0",
       "Name": "陳顥予"
     },
     {
       "Rank": "2O",
-      "O/B": "13.0",
+      "O/B": "19.0",
       "Name": "黃煜超"
     },
     {
       "Rank": "3O",
-      "O/B": "207.0",
-      "Name": "劉紀銓"
+      "O/B": "2.0",
+      "Name": "謝宗軒"
     },
     {
       "Rank": "3O",
-      "O/B": "93.0",
+      "O/B": "99.0",
       "Name": "陳方岳"
     },
     {
       "Rank": "T5O",
-      "O/B": "34.0",
+      "O/B": "40.0",
       "Name": "林峻鋒"
     },
     {
       "Rank": "5O(T5O)",
-      "O/B": "128.0",
+      "O/B": "134.0",
       "Name": "詹子賢"
     },
     {
       "Rank": "CE",
-      "O/B": "207.0",
-      "Name": "尤偉成"
+      "O/B": "2.0",
+      "Name": "李偲豪"
     },
     {
       "Rank": "2E",
-      "O/B": "114.0",
+      "O/B": "120.0",
       "Name": "林子欽"
     },
     {
       "Rank": "3E",
-      "O/B": "128.0",
+      "O/B": "134.0",
       "Name": "陳傳材"
     },
     {
       "Rank": "4E",
-      "O/B": "73.0",
+      "O/B": "79.0",
       "Name": "趙榮晧"
     },
     {
       "Rank": "T5E",
-      "O/B": "171.0",
+      "O/B": "177.0",
       "Name": "陳英振"
     },
     {
       "Rank": "5E(T5E)",
-      "O/B": "171.0",
+      "O/B": "177.0",
       "Name": "李政賢"
     },
     {
       "Rank": "BS",
-      "O/B": "34.0",
+      "O/B": "40.0",
       "Name": "羅耕甫"
     },
     {
       "Rank": "AB",
-      "O/B": "56.0",
-      "Name": "盧少勤"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "34.0",
+      "O/B": "40.0",
       "Name": "BARNES, KIRBY BRYAN JARDIN"
     },
     {
       "Rank": "AB",
-      "O/B": "13.0",
-      "Name": "CARAMELO,EDWARD DUCAY"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "34.0",
+      "O/B": "40.0",
       "Name": "趙宸右"
     },
     {
       "Rank": "AB",
-      "O/B": "34.0",
-      "Name": "FRONDA, ZAIREL FLORES"
+      "O/B": "19.0",
+      "Name": "CARAMELO,EDWARD DUCAY"
     },
     {
       "Rank": "AB",
-      "O/B": "13.0",
+      "O/B": "62.0",
+      "Name": "盧少勤"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "19.0",
       "Name": "陳銘豪"
     },
     {
+      "Rank": "AB",
+      "O/B": "40.0",
+      "Name": "FRONDA, ZAIREL FLORES"
+    },
+    {
       "Rank": "FT",
-      "O/B": "185.0",
-      "Name": "顏光孝"
+      "O/B": "2.0",
+      "Name": "王達成"
     },
     {
       "Rank": "MM",
-      "O/B": "13.0",
+      "O/B": "19.0",
       "Name": "陳子靜"
     },
     {
       "Rank": "CA",
-      "O/B": "56.0",
+      "O/B": "62.0",
       "Name": "林昱成"
     }
   ]

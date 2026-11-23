@@ -1,8 +1,99 @@
 {
   "scode": "ACRD",
-  "last_updated": "2026-11-19",
-  "total_records": 11,
+  "last_updated": "2026-11-23",
+  "total_records": 29,
   "records": [
+    {
+      "Line": "SYS",
+      "Voyage": "0407S",
+      "Port Calling": "MMYQT",
+      "ETA Date/Time": "20260828/0645 (五)",
+      "ETD Date/Time": "20260830/1135"
+    },
+    {
+      "Line": "SYS",
+      "Voyage": "0407S",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20260903/0854 (四)",
+      "ETD Date/Time": "20260904/0518"
+    },
+    {
+      "Line": "SYS",
+      "Voyage": "0407E",
+      "Port Calling": "MMYQT",
+      "ETA Date/Time": "20260907/0800 (一)",
+      "ETD Date/Time": "20260909/0915"
+    },
+    {
+      "Line": "SYS",
+      "Voyage": "0410N",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20260913/1925 (日)",
+      "ETD Date/Time": "20260914/1640"
+    },
+    {
+      "Line": "SYS",
+      "Voyage": "0410S",
+      "Port Calling": "MMYQT",
+      "ETA Date/Time": "20260918/2245 (五)",
+      "ETD Date/Time": "20260920/1705"
+    },
+    {
+      "Line": "SYS",
+      "Voyage": "0410S",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20260924/0000 (四)",
+      "ETD Date/Time": "20260925/0305"
+    },
+    {
+      "Line": "SYS",
+      "Voyage": "0410E",
+      "Port Calling": "MMYQT",
+      "ETA Date/Time": "20260928/1250 (一)",
+      "ETD Date/Time": "20260930/1300"
+    },
+    {
+      "Line": "SYS",
+      "Voyage": "0413N",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261005/0655 (一)",
+      "ETD Date/Time": "20261006/0900"
+    },
+    {
+      "Line": "SYS",
+      "Voyage": "0413S",
+      "Port Calling": "MMYQT",
+      "ETA Date/Time": "20261010/0630 (六)",
+      "ETD Date/Time": "20261011/2235"
+    },
+    {
+      "Line": "SYS",
+      "Voyage": "0413S",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20261018/0710 (日)",
+      "ETD Date/Time": "20261018/2245"
+    },
+    {
+      "Line": "SYS",
+      "Voyage": "0413E",
+      "Port Calling": "MMYQT",
+      "ETA Date/Time": "20261021/1520 (三)",
+      "ETD Date/Time": "20261023/0740"
+    },
+    {
+      "Line": "SYS",
+      "Voyage": "0416N",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261029/2350 (四)",
+      "ETD Date/Time": "20261030/1930"
+    },
+    {
+      "Line": "SYS",
+      "Voyage": "0416S",
+      "Port Calling": "MMYQT",
+      "ETA Date/Time": "20261104/0245 (三)",
+      "ETD Date/Time": "20261106/0805"
+    },
     {
       "Line": "SYS",
       "Voyage": "0416S",
@@ -14,22 +105,22 @@
       "Line": "SYS",
       "Voyage": "0416E",
       "Port Calling": "MMYQT",
-      "ETA Date/Time": "20261117/1500 (二)",
-      "ETD Date/Time": "20261119/1630"
+      "ETA Date/Time": "20261117/1605 (二)",
+      "ETD Date/Time": "20261119/1640"
     },
     {
       "Line": "SYS",
       "Voyage": "0419N",
       "Port Calling": "SGSGP",
-      "ETA Date/Time": "20261123/2130 (一)",
-      "ETD Date/Time": "20261124/1330"
+      "ETA Date/Time": "20261125/0330 (三)",
+      "ETD Date/Time": "20261125/1930"
     },
     {
       "Line": "SYS",
       "Voyage": "0419S",
       "Port Calling": "MMYQT",
-      "ETA Date/Time": "20261129/0200 (日)",
-      "ETD Date/Time": "20261201/1400"
+      "ETA Date/Time": "20261130/0800 (一)",
+      "ETD Date/Time": "20261202/2000"
     },
     {
       "Line": "SYS",
@@ -40,45 +131,80 @@
     },
     {
       "Line": "SYS",
+      "Voyage": "0419W",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20261206/0400 (日)",
+      "ETD Date/Time": "20261206/2000"
+    },
+    {
+      "Line": "SYS",
       "Voyage": "0419E",
       "Port Calling": "MMYQT",
-      "ETA Date/Time": "20261209/0000 (三)",
-      "ETD Date/Time": "20261211/1200"
+      "ETA Date/Time": "20261210/0500 (四)",
+      "ETD Date/Time": "20261212/1700"
     },
     {
       "Line": "SYS",
       "Voyage": "0422N",
       "Port Calling": "SGSGP",
-      "ETA Date/Time": "20261215/1700 (二)",
-      "ETD Date/Time": "20261216/0900"
+      "ETA Date/Time": "20261216/2200 (三)",
+      "ETD Date/Time": "20261217/1400"
     },
     {
       "Line": "SYS",
       "Voyage": "0422S",
       "Port Calling": "MMYQT",
-      "ETA Date/Time": "20261220/2130 (日)",
-      "ETD Date/Time": "20261223/0930"
+      "ETA Date/Time": "20261222/0230 (二)",
+      "ETD Date/Time": "20261224/1430"
     },
     {
       "Line": "SYS",
       "Voyage": "0422S",
       "Port Calling": "MYPKL",
-      "ETA Date/Time": "20261226/1830 (六)",
-      "ETD Date/Time": "20261227/1030"
+      "ETA Date/Time": "20261227/2330 (日)",
+      "ETD Date/Time": "20261228/1530"
     },
     {
       "Line": "SYS",
       "Voyage": "0422E",
       "Port Calling": "MMYQT",
-      "ETA Date/Time": "20261230/1900 (三)",
-      "ETD Date/Time": "20270102/0700"
+      "ETA Date/Time": "20270101/0000 (五)",
+      "ETD Date/Time": "20270103/1200"
     },
     {
       "Line": "SYS",
-      "Voyage": "0422E",
+      "Voyage": "0425N",
       "Port Calling": "SGSGP",
-      "ETA Date/Time": "20270106/1200 (三)",
-      "ETD Date/Time": "20270107/0400"
+      "ETA Date/Time": "20270104/1000 (一)",
+      "ETD Date/Time": "20270105/0600"
+    },
+    {
+      "Line": "SYS",
+      "Voyage": "0425S",
+      "Port Calling": "MMYQT",
+      "ETA Date/Time": "20270109/0100 (六)",
+      "ETD Date/Time": "20270111/0630"
+    },
+    {
+      "Line": "SYS",
+      "Voyage": "0425S",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270114/2100 (四)",
+      "ETD Date/Time": "20270115/2300"
+    },
+    {
+      "Line": "SYS",
+      "Voyage": "0425E",
+      "Port Calling": "MMYQT",
+      "ETA Date/Time": "20270119/0100 (二)",
+      "ETD Date/Time": "20270121/0630"
+    },
+    {
+      "Line": "SYS",
+      "Voyage": "0425E",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270125/1000 (一)",
+      "ETD Date/Time": "20270126/0600"
     }
   ]
 }
