@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER LEARNED",
   "VSL_CODE": "LERN",
-  "last_updated": "2026-11-22",
-  "total_records": 7,
+  "last_updated": "2026-11-23",
+  "total_records": 9,
   "records": [
     {
       "DUE_DATE": "2026/11/27",
@@ -56,6 +56,22 @@
       "DUE_DATE": "2027/01/22",
       "CODE": "CE02",
       "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work//"
+    },
+    {
+      "DUE_DATE": "2027/02/21",
+      "CODE": "CF11",
+      "NAME": "EEBD CYL. HYD. TEST",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/21",
+      "CODE": "CF13",
+      "NAME": "SCBA CYL HYD. TEST",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
       "REMARK": ""

@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER SALUTE",
   "VSL_CODE": "SALU",
-  "last_updated": "2026-11-22",
-  "total_records": 3,
+  "last_updated": "2026-11-23",
+  "total_records": 2,
   "records": [
     {
       "DUE_DATE": "2026/11/28",
@@ -11,14 +11,6 @@
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
       "REMARK": "Please Schedule / Arrange Work// 已安排2026.11.22 TWKSG，ABS檢驗"
-    },
-    {
-      "DUE_DATE": "2027/01/05",
-      "CODE": "CE02",
-      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Arrange Work//"
     },
     {
       "DUE_DATE": "2027/02/14",

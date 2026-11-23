@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER EAGLE",
   "VSL_CODE": "EAGL",
-  "last_updated": "2026-11-22",
-  "total_records": 15,
+  "last_updated": "2026-11-23",
+  "total_records": 13,
   "records": [
     {
       "DUE_DATE": "2026/12/30",
@@ -11,62 +11,6 @@
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
       "REMARK": "Please Schedule / Arrange Work//"
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CODE": "CB01",
-      "NAME": "CLASS A/S",
-      "SCHEDULE_DATE": "2026/09/25",
-      "PLANNED_PORT": "CNZOS",
-      "REMARK": "20261005-1113 舟山華豐進塢"
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CODE": "CB10",
-      "NAME": "L/L A/S",
-      "SCHEDULE_DATE": "2026/09/25",
-      "PLANNED_PORT": "CNZOS",
-      "REMARK": "20261005-1113 舟山華豐進塢"
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CODE": "CB11",
-      "NAME": "S/C A/S",
-      "SCHEDULE_DATE": "2026/09/25",
-      "PLANNED_PORT": "CNZOS",
-      "REMARK": "20261005-1113 舟山華豐進塢"
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CODE": "CB12",
-      "NAME": "S/E A/S",
-      "SCHEDULE_DATE": "2026/09/25",
-      "PLANNED_PORT": "CNZOS",
-      "REMARK": "20261005-1113 舟山華豐進塢"
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CODE": "CB13",
-      "NAME": "S/R A/S",
-      "SCHEDULE_DATE": "2026/09/25",
-      "PLANNED_PORT": "CNZOS",
-      "REMARK": "20261005-1113 舟山華豐進塢"
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CODE": "CB15",
-      "NAME": "IAPP A/S",
-      "SCHEDULE_DATE": "2026/09/25",
-      "PLANNED_PORT": "CNZOS",
-      "REMARK": "20261005-1113 舟山華豐進塢"
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CODE": "CB16",
-      "NAME": "DG A/S",
-      "SCHEDULE_DATE": "2026/09/25",
-      "PLANNED_PORT": "CNZOS",
-      "REMARK": "20261005-1113 舟山華豐進塢"
     },
     {
       "DUE_DATE": "2027/01/31",
@@ -120,6 +64,46 @@
       "DUE_DATE": "2027/02/20",
       "CODE": "CF03",
       "NAME": "LIFEJACKET ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/21",
+      "CODE": "CF10",
+      "NAME": "EEBD ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/21",
+      "CODE": "CF12",
+      "NAME": "SCBA ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "2023/04/02 更換"
+    },
+    {
+      "DUE_DATE": "2027/02/21",
+      "CODE": "CF14",
+      "NAME": "P.F.E. CO2 ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/21",
+      "CODE": "CF16",
+      "NAME": "P.F.E. FOAM ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/21",
+      "CODE": "CF18",
+      "NAME": "P.F.E. DP ANNUAL",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
       "REMARK": ""

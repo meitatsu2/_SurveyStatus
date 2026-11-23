@@ -1,25 +1,9 @@
 {
   "VESSEL": "EVER ARM",
   "VSL_CODE": "ARMS",
-  "last_updated": "2026-11-22",
-  "total_records": 9,
+  "last_updated": "2026-11-23",
+  "total_records": 7,
   "records": [
-    {
-      "DUE_DATE": "2026/12/03",
-      "CODE": "CF06",
-      "NAME": "FIXED CO2 ANNUAL",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Arrange Work//"
-    },
-    {
-      "DUE_DATE": "2026/12/31",
-      "CODE": "CF07",
-      "NAME": "FIXED CO2 2Y WEIGHTING",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Arrange Work//"
-    },
     {
       "DUE_DATE": "2027/01/20",
       "CODE": "CD01",

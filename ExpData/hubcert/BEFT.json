@@ -1,7 +1,7 @@
 {
   "VESSEL": "EVER BEFIT",
   "VSL_CODE": "BEFT",
-  "last_updated": "2026-11-22",
+  "last_updated": "2026-11-23",
   "total_records": 11,
   "records": [
     {
@@ -88,9 +88,9 @@
       "DUE_DATE": "2027/02/19",
       "CODE": "CE02",
       "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
-      "SCHEDULE_DATE": "2025/02/27",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "將提醒船端提出申請，計畫二月底或三月初高雄安排"
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "VESSEL": "EVER ALOT",
   "VSL_CODE": "ALOT",
-  "last_updated": "2026-11-22",
+  "last_updated": "2026-11-23",
   "total_records": 2,
   "records": [
     {
@@ -10,7 +10,7 @@
       "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
       "SCHEDULE_DATE": "2025/01/11",
       "PLANNED_PORT": "TWKSG",
-      "REMARK": "Please Update Record / Arrange Work// TWKSG20250111"
+      "REMARK": "Please Update Record / Rearrange Work// TWKSG20250111"
     },
     {
       "DUE_DATE": "2026/12/24",

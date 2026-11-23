@@ -1,16 +1,16 @@
 {
   "VESSEL": "EVER WORLD",
   "VSL_CODE": "WOLD",
-  "last_updated": "2026-11-22",
+  "last_updated": "2026-11-23",
   "total_records": 1,
   "records": [
     {
       "DUE_DATE": "2026/12/11",
       "CODE": "CA19",
       "NAME": "CLASS OUTSTANDING ITEMS",
-      "SCHEDULE_DATE": "2026/11/19",
-      "PLANNED_PORT": "CNXHK",
-      "REMARK": "Please Update Record / Rearrange Work// 維修方案與排程計畫規劃安排20261116 TWKSG。"
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": "Please Schedule / Arrange Work// 已經安排驗船師11/16高雄登輪檢驗結案順利發證"
     }
   ]
 }

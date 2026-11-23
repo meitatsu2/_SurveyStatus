@@ -1,17 +1,9 @@
 {
   "VESSEL": "EVER USEFUL",
   "VSL_CODE": "USFL",
-  "last_updated": "2026-11-22",
-  "total_records": 2,
+  "last_updated": "2026-11-23",
+  "total_records": 1,
   "records": [
-    {
-      "DUE_DATE": "2026/09/30",
-      "CODE": "CB07",
-      "NAME": "C.M.S.",
-      "SCHEDULE_DATE": "2026/12/23",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "Keep Watching!// 安排年檢一併施作"
-    },
     {
       "DUE_DATE": "2027/01/16",
       "CODE": "CC01",

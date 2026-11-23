@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER ART",
   "VSL_CODE": "ARTX",
-  "last_updated": "2026-11-22",
-  "total_records": 1,
+  "last_updated": "2026-11-23",
+  "total_records": 2,
   "records": [
     {
       "DUE_DATE": "2026/12/29",
@@ -11,6 +11,14 @@
       "SCHEDULE_DATE": "2026/12/16",
       "PLANNED_PORT": "NLRDM",
       "REMARK": "安排20261216 NLRDM"
+    },
+    {
+      "DUE_DATE": "2027/02/21",
+      "CODE": "CF04",
+      "NAME": "IMMERSION SUIT INSP (<10Y)",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
     }
   ]
 }

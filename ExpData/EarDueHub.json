@@ -37,11 +37,11 @@
   },
   {
     "vessel_name": "EVER ARM",
-    "due_date": "2026/12/03"
+    "due_date": "2027/01/20"
   },
   {
     "vessel_name": "EVER ART",
-    "due_date": "9999/12/30"
+    "due_date": "2027/02/21"
   },
   {
     "vessel_name": "EVER BALMY",
@@ -246,10 +246,6 @@
   {
     "vessel_name": "EVER LENIENT",
     "due_date": "2026/12/01"
-  },
-  {
-    "vessel_name": "EVER LIBERAL",
-    "due_date": "2026/12/11"
   },
   {
     "vessel_name": "EVER LIBRA",
@@ -485,7 +481,7 @@
   },
   {
     "vessel_name": "EVER VIM",
-    "due_date": "9999/12/30"
+    "due_date": "2026/12/15"
   },
   {
     "vessel_name": "EVER VIVE",
@@ -521,7 +517,7 @@
   },
   {
     "vessel_name": "EVER WIZ",
-    "due_date": "2027/02/20"
+    "due_date": "2026/11/20"
   },
   {
     "vessel_name": "EVER WORLD",
@@ -557,7 +553,7 @@
   },
   {
     "vessel_name": "UNI-PREMIER",
-    "due_date": "9999/12/30"
+    "due_date": "2026/12/03"
   },
   {
     "vessel_name": "UNI-PROBITY",
