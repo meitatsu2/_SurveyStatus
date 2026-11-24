@@ -1,36 +1,12 @@
 {
   "vessel_name": "EVER FOREVER",
-  "last_updated": "2026-11-23",
-  "total_records": 23,
+  "last_updated": "2026-11-25",
+  "total_records": 14,
   "records": [
     {
       "DUE_DATE": "2027/01/05",
       "CLASS": "AB",
       "DESCRIPTION": "Cert - International Air Pollution Prevention CertificateECC",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/05",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Survey - Cargo Gear 1RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/05",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - SOLAS Lifting Appliances - Annual Survey 1RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Automation Survey 1RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Ballast Water Management Survey 1RemoteIn Progress",
       "CODE": ""
     },
     {
@@ -54,43 +30,13 @@
     {
       "DUE_DATE": "2027/03/14",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual IOPP Annex I Survey 1RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/14",
-      "CLASS": "AB",
       "DESCRIPTION": "Surv - Annual Load Line Survey 1RemoteIn Progress",
       "CODE": ""
     },
     {
       "DUE_DATE": "2027/03/14",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Machinery Survey 1RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/14",
-      "CLASS": "AB",
       "DESCRIPTION": "Surv - Annual Safety Construction Survey 1RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Safety Equipment Survey 1RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/03/14",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Periodical Safety Radio Survey 1RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/04/05",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - Annual Survey - Elevator 1RemoteIn Progress",
       "CODE": ""
     },
     {

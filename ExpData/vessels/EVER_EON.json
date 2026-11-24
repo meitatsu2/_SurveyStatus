@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER EON",
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-25",
   "total_records": 20,
   "records": [
     {
@@ -96,7 +96,7 @@
     {
       "DUE_DATE": "2030/12/29",
       "CLASS": "AB",
-      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 1Remote",
+      "DESCRIPTION": "Surv - Special Continuous Survey - Machinery 1RemoteIn Progress",
       "CODE": "CB03"
     },
     {

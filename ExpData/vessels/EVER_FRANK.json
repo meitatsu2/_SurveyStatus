@@ -1,8 +1,92 @@
 {
   "vessel_name": "EVER FRANK",
-  "last_updated": "2026-11-23",
-  "total_records": 4,
+  "last_updated": "2026-11-25",
+  "total_records": 18,
   "records": [
+    {
+      "DUE_DATE": "2027/05/17",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - AS - ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/17",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - ECAS - ECO ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/17",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - PLI - LOAD LINE INSPECTION",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/17",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - SCA - SAFCON ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/17",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - SEA - SAFETY EQUIPMENT ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/17",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - RTP - RADIOTEL. PERIODICAL\n*",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/17",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - DIA - DANGEROUS GOODS REG. 19 ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/17",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - MOA - MARPOL I (OIL) ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/17",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - MAA - MARPOL VI (AIR) ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/17",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - LAAC - LIFTING APPLIANCES ANNUAL\n*",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2027/05/17",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - BWA - BALLAST WATER ANNUAL",
+      "CODE": ""
+    },
+    {
+      "DUE_DATE": "2029/01/23",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - BTMS - BOTTOM SURVEY",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2031/02/17",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - SS - SPECIAL",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2031/02/17",
+      "CLASS": "LR",
+      "DESCRIPTION": "Surv - TS1 - SCREWSHAFT",
+      "CODE": "CB06"
+    },
     {
       "DUE_DATE": "2099/12/31",
       "CLASS": "AB",

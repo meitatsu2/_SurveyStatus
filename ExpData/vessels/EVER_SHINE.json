@@ -1,12 +1,24 @@
 {
   "vessel_name": "EVER SHINE",
-  "last_updated": "2026-11-23",
-  "total_records": 7,
+  "last_updated": "2026-11-25",
+  "total_records": 9,
   "records": [
     {
       "DUE_DATE": "2026/12/31",
       "CLASS": "LR",
       "DESCRIPTION": "LR - NO1 SUPPLY VENT FAN MOTOR",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2027/01/21",
+      "CLASS": "LR",
+      "DESCRIPTION": "LR - Mooring winch no.2 out of operation",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2027/09/27",
+      "CLASS": "LR",
+      "DESCRIPTION": "LR - FORWARD AND AFT BOW THRUSTER OUT OF SERVICE",
       "CODE": "CA19"
     },
     {

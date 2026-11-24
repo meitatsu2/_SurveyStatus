@@ -1,26 +1,8 @@
 {
   "vessel_name": "EVER BRAVE",
-  "last_updated": "2026-11-23",
-  "total_records": 10,
+  "last_updated": "2026-11-25",
+  "total_records": 9,
   "records": [
-    {
-      "DUE_DATE": "2027/01/13",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - ISM Intermediate Audit 2RemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/13",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - ISPS Intermediate Verification 2 - Part A & BRemoteIn Progress",
-      "CODE": ""
-    },
-    {
-      "DUE_DATE": "2027/01/13",
-      "CLASS": "AB",
-      "DESCRIPTION": "Surv - MLC Intermediate Inspection 2RemoteIn Progress",
-      "CODE": ""
-    },
     {
       "DUE_DATE": "2028/08/29",
       "CLASS": "AB",
@@ -56,6 +38,18 @@
       "CLASS": "AB",
       "DESCRIPTION": "Surv - Tailshaft Propeller Connection - Survey - Tail Shaft",
       "CODE": "CB06"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirement\nISM code \n10.1 The Company should establish procedures to ensure that the ship is maintained in conformity with the provisions of the relevant rules and regulations and with any additional requirements, which may be established by the Company.\n10.2. In meeting these requirements the Company should ensure that:\n10.2.1 inspections are held at appropriate intervals;\n10.2.2 any nonconformity is reported with its possible cause, if known;\n10.2.3 appropriate corrective action is taken; and\n10.2.4 records of these activities are maintained.\nEvidence \nThe Gray water overboard valve was found with temporary repairs (Cement box), at engine room 3rd deck, starboard side, frame 20. \nBased on Chief Engineer handing over report dated January 2025, the temporary repair were documented.\nNature of finding\nThe identified defect with temporary repair was not reported to company or classification society. \nImmediate corrective actions taken\nThe Master has formally informed the Company of the defect and submitted a formal request to the attending auditor/surveyor to document the defect in accordance with ABS Class Rules. SAC Work Order No. 7956385 was opened, and a Condition of Class (COC) was issued for a period of three months, until 21 February 2027.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2099/12/31",
+      "CLASS": "AB",
+      "DESCRIPTION": "ABS Non-Conformity : Requirement\nMLC Convention – Regulation 2.2: Wages\nAll seafarers shall be paid for their work regularly and in full in accordance with their employment agreements.\nEvidence\nThe seafarers’ employment agreements (SEAs) for Vietnamese crew members do not incorporate a collective bargaining agreement (CBA).\nThe SEAs for Indonesian crew members incorporate the CBA with the Indonesian Seafarers’ Workers’ Association (P31).\nBased on the overtime calculation provisions of the Indonesian CBA and the crew SEAs entered into with the owners, which specify 44 working hours per week, the total monthly contractual working hours, including 85 hours of guaranteed overtime, are 273.6 hours. This calculation is based on a fixed 30-day month, regardless of the calendar month, in accordance with the CBA wage terms. Normal working hours are eight hours per day from Monday to Friday and four hours on Saturday. Hours worked beyond these normal working hours, or on holidays specified in the CBA, are counted as overtime.\nCrew members of all nationalities were noted to have signed SEAs with the MLC shipowner specifying 44 working hours per week and 85 hours of guaranteed overtime per month.\nThe following monthly working hours were recorded for the sampled crew members:\n1. Mr Agus — Indonesian nationality, holding the rank of Able Seaman\nJuly 2026: Total hours worked were 281 hours, exceeding the monthly contractual working hours by 7.4 hours.\n2. Mr Bui Manh Khang — Vietnamese nationality, holding the rank of Able Seaman\nAugust 2026: Total hours worked were 275.5 hours, exceeding the monthly contractual working hours by 1.9 hours.\nJuly 2026: Total hours worked were 276 hours, exceeding the monthly contractual working hours by 2.4 hours.\nNature of the Finding\n1. The above-mentioned crew members were noted to have worked beyond their contractual working hours. However, payment for overtime exceeding the guaranteed 85 hours per month was not evident in the payslips sampled.\n2. No mechanism was in place to track and maintain records of the actual monthly overtime hours worked by crew members whose SEAs provide for 85 hours of guaranteed overtime.",
+      "CODE": "CA19"
     },
     {
       "DUE_DATE": "2099/12/31",

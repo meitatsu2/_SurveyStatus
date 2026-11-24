@@ -1,6 +1,6 @@
 {
   "vessel_name": "EVER BEFIT",
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-25",
   "total_records": 16,
   "records": [
     {
@@ -35,6 +35,30 @@
     },
     {
       "DUE_DATE": "2028/06/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/06/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Docking Survey",
+      "CODE": "CB04"
+    },
+    {
+      "DUE_DATE": "2028/06/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "Class - Special Survey",
+      "CODE": "CB03"
+    },
+    {
+      "DUE_DATE": "2028/06/27",
+      "CLASS": "NK",
+      "DESCRIPTION": "NK - The leaking distance piece for COOL.S.W. & CENT.C.F.W.COOLER OUT B.D. (10K-500A, 011VPH, S-Side) is to be permanently repaired at the earliest practicable opportunity, but no later than the next drydock, subject to satisfactory verification at the Class periodical survey.",
+      "CODE": "CA19"
+    },
+    {
+      "DUE_DATE": "2028/06/27",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Class Special Survey of Hull (No.2)",
       "CODE": "CB03"
@@ -64,39 +88,15 @@
       "CODE": "CB06"
     },
     {
-      "DUE_DATE": "2028/06/27",
+      "DUE_DATE": "2033/06/27",
       "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/06/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Docking Survey",
-      "CODE": "CB04"
-    },
-    {
-      "DUE_DATE": "2028/06/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Special Survey",
-      "CODE": "CB03"
-    },
-    {
-      "DUE_DATE": "2028/06/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "NK - The leaking distance piece for COOL.S.W. & CENT.C.F.W.COOLER OUT B.D. (10K-500A, 011VPH, S-Side) is to be permanently repaired at the earliest practicable opportunity, but no later than the next drydock, subject to satisfactory verification at the Class periodical survey.",
-      "CODE": "CA19"
+      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
+      "CODE": "CB06"
     },
     {
       "DUE_DATE": "2033/06/27",
       "CLASS": "CR",
       "DESCRIPTION": "Surv - Propeller Shaft Survey which applies M1, M2 with maximum intervals of 15 years C (M1/M2)",
-      "CODE": "CB06"
-    },
-    {
-      "DUE_DATE": "2033/06/27",
-      "CLASS": "NK",
-      "DESCRIPTION": "Class - Prop. Shaft Survey once every 15 years",
       "CODE": "CB06"
     }
   ]
