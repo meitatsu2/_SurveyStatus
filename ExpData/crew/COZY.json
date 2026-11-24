@@ -1,111 +1,111 @@
 {
   "scode": "COZY",
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-25",
   "total_records": 21,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "120.0",
-      "Name": "SERRA,GIOVANNI BATTISTA"
+      "O/B": "2.0",
+      "Name": "ANTONINO,RUSSO"
     },
     {
       "Rank": "1O",
-      "O/B": "81.0",
+      "O/B": "90.0",
       "Name": "FRANZA,FULVIO"
     },
     {
       "Rank": "2O",
-      "O/B": "56.0",
+      "O/B": "65.0",
       "Name": "BASTARECHE,EDDIE MARAMBA"
     },
     {
       "Rank": "3O",
-      "O/B": "173.0",
-      "Name": "FLORES,MARIO JR. JUNTILLA"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "91.0",
+      "O/B": "100.0",
       "Name": "MALINAY,ROYSON DE-VERA"
     },
     {
+      "Rank": "3O",
+      "O/B": "182.0",
+      "Name": "FLORES,MARIO JR. JUNTILLA"
+    },
+    {
       "Rank": "CE",
-      "O/B": "186.0",
+      "O/B": "195.0",
       "Name": "DARIAGAN,ALNY CASIPLE"
     },
     {
       "Rank": "2E",
-      "O/B": "16.0",
+      "O/B": "24.0",
       "Name": "LEOCARIO, VINCE ANTHONY JUSTO"
     },
     {
       "Rank": "3E",
-      "O/B": "192.0",
+      "O/B": "201.0",
       "Name": "QUEVEDO,RONALDO BALIMBING"
     },
     {
       "Rank": "4E",
-      "O/B": "186.0",
+      "O/B": "195.0",
       "Name": "BOBILES,ELDER VICENTE"
     },
     {
-      "Rank": "EE",
-      "O/B": "232.0",
-      "Name": "MANGUBAT,JOHN PAUL JAMILLA"
+      "Rank": "4E",
+      "O/B": "1.0",
+      "Name": "SARONA,RICHE VILLAMOR"
     },
     {
       "Rank": "EE",
-      "O/B": "1.0",
-      "Name": "TRINIDAD,MARLON CLAVO"
+      "O/B": "5.0",
+      "Name": "TRINIDAD, MARLON CLAVO"
     },
     {
       "Rank": "BS",
-      "O/B": "74.0",
+      "O/B": "83.0",
       "Name": "ANASTACIO,KILVEN FODRA"
     },
     {
       "Rank": "AB",
-      "O/B": "138.0",
+      "O/B": "147.0",
       "Name": "AQUE,KHALIL"
     },
     {
       "Rank": "AB",
-      "O/B": "74.0",
+      "O/B": "83.0",
       "Name": "RESPICIO,RUZENDYLL CALIVOSO"
     },
     {
       "Rank": "AB",
-      "O/B": "186.0",
-      "Name": "ADALIN,GLENARD JOHN ALICOS"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "74.0",
+      "O/B": "83.0",
       "Name": "LIBORES,LIONEL LIMEN"
     },
     {
       "Rank": "AB",
-      "O/B": "68.0",
+      "O/B": "195.0",
+      "Name": "ADALIN,GLENARD JOHN ALICOS"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "77.0",
       "Name": "BUENO,REHD TEEJAY SUMIRAN"
     },
     {
       "Rank": "OS",
-      "O/B": "68.0",
+      "O/B": "77.0",
       "Name": "PADUA,JAYSON SORIANO"
     },
     {
       "Rank": "FT",
-      "O/B": "74.0",
+      "O/B": "83.0",
       "Name": "YOCTE,JERSON MONLEON"
     },
     {
       "Rank": "CC",
-      "O/B": "138.0",
+      "O/B": "147.0",
       "Name": "DUREMDES,ARCHIE DIONG"
     },
     {
       "Rank": "MB",
-      "O/B": "39.0",
+      "O/B": "47.0",
       "Name": "DOCTOLERO, JOHN PAUL FRIGILLANA"
     }
   ]

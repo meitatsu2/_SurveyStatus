@@ -1,111 +1,111 @@
 {
   "scode": "EXEL",
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-25",
   "total_records": 21,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "31.0",
+      "O/B": "39.0",
       "Name": "SANDOVAL, CHARLON BURGOS"
     },
     {
       "Rank": "1O",
-      "O/B": "107.0",
+      "O/B": "115.0",
       "Name": "PADRONES,MARK RYAN BANZON"
     },
     {
       "Rank": "2O",
-      "O/B": "23.0",
+      "O/B": "31.0",
       "Name": "MOLINA, JERRY BISOY"
     },
     {
       "Rank": "3O",
-      "O/B": "141.0",
-      "Name": "VAQUILAR,JULIUS MICHAEL GAMBOA"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "99.0",
+      "O/B": "107.0",
       "Name": "CASAREO,RICHARD LORCA"
     },
     {
+      "Rank": "3O",
+      "O/B": "149.0",
+      "Name": "VAQUILAR,JULIUS MICHAEL GAMBOA"
+    },
+    {
       "Rank": "CE",
-      "O/B": "141.0",
+      "O/B": "149.0",
       "Name": "MILLET,ANDY GREGORIO"
     },
     {
       "Rank": "2E",
-      "O/B": "23.0",
+      "O/B": "31.0",
       "Name": "FERRER, SATURNINO GUTIERREZ"
     },
     {
       "Rank": "3E",
-      "O/B": "99.0",
+      "O/B": "107.0",
       "Name": "BARTOLOME,ANGELO REY GRAGEDA"
     },
     {
       "Rank": "4E",
-      "O/B": "141.0",
+      "O/B": "149.0",
       "Name": "ENCISO,VINCENT JAMES ECHON"
     },
     {
       "Rank": "4E",
-      "O/B": "141.0",
+      "O/B": "149.0",
       "Name": "CABANG,JERSON GOROY"
     },
     {
       "Rank": "BS",
-      "O/B": "99.0",
+      "O/B": "107.0",
       "Name": "GERMANO,REYNALDO TALLADA"
     },
     {
       "Rank": "AB",
-      "O/B": "56.0",
-      "Name": "LLAMERA,DARYL BERNALES"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "56.0",
+      "O/B": "64.0",
       "Name": "GASANG,ADONES ABACAHIN"
     },
     {
       "Rank": "AB",
-      "O/B": "56.0",
+      "O/B": "21.0",
+      "Name": "MARCOS,EDGAR II MARTINEZ"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "64.0",
       "Name": "QUIJANO,NEIL AGUIRRE"
     },
     {
       "Rank": "AB",
-      "O/B": "13.0",
-      "Name": "MARCOS,EDGAR II MARTINEZ"
+      "O/B": "64.0",
+      "Name": "LLAMERA,DARYL BERNALES"
     },
     {
       "Rank": "OS",
-      "O/B": "99.0",
+      "O/B": "107.0",
       "Name": "APOLINARIA,DAN REV NALAM"
     },
     {
       "Rank": "OS",
-      "O/B": "13.0",
+      "O/B": "21.0",
       "Name": "MANILHIG,MARK MAURISS LAURON"
     },
     {
       "Rank": "FT",
-      "O/B": "13.0",
+      "O/B": "21.0",
       "Name": "DIONISIO,NORBERTO JR. MORALES"
     },
     {
       "Rank": "FT",
-      "O/B": "56.0",
+      "O/B": "64.0",
       "Name": "BAGTO,DIEGO LAPPAO"
     },
     {
       "Rank": "MM",
-      "O/B": "99.0",
+      "O/B": "107.0",
       "Name": "RESABAL,JAYLAND BACOG"
     },
     {
       "Rank": "CA",
-      "O/B": "56.0",
+      "O/B": "64.0",
       "Name": "PINEDA,RONALD PASCUAL"
     }
   ]

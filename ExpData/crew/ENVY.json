@@ -1,116 +1,111 @@
 {
   "scode": "ENVY",
-  "last_updated": "2026-11-23",
-  "total_records": 22,
+  "last_updated": "2026-11-25",
+  "total_records": 21,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "66.0",
+      "O/B": "74.0",
       "Name": "王忠洲"
     },
     {
       "Rank": "1O",
-      "O/B": "172.0",
+      "O/B": "180.0",
       "Name": "張明浩"
     },
     {
       "Rank": "2O",
-      "O/B": "66.0",
+      "O/B": "74.0",
       "Name": "林城航"
     },
     {
       "Rank": "3O",
-      "O/B": "73.0",
-      "Name": "LIMBO,MICHAEL JANDUSAY"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "228.0",
-      "Name": "楊星華"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "6.0",
+      "O/B": "14.0",
       "Name": "曹　楠"
     },
     {
+      "Rank": "3O",
+      "O/B": "81.0",
+      "Name": "LIMBO,MICHAEL JANDUSAY"
+    },
+    {
       "Rank": "CE",
-      "O/B": "14.0",
+      "O/B": "22.0",
       "Name": "MACADANGDANG, JOEL ALMONTE"
     },
     {
       "Rank": "2E",
-      "O/B": "182.0",
+      "O/B": "190.0",
       "Name": "GEDORIO,GAUDIOSO LENDIO"
     },
     {
       "Rank": "3E",
-      "O/B": "73.0",
+      "O/B": "81.0",
       "Name": "PORPETCHO,IAN REX PERALES"
     },
     {
       "Rank": "4E",
-      "O/B": "14.0",
+      "O/B": "22.0",
       "Name": "MAGUNDAYAO, LLOYD DOMINGO"
     },
     {
       "Rank": "J4E",
-      "O/B": "14.0",
+      "O/B": "22.0",
       "Name": "VALENCIA, JOHN CARLO VITERBO"
     },
     {
       "Rank": "BS",
-      "O/B": "124.0",
+      "O/B": "132.0",
       "Name": "LAMANILAO,RANDY MORENO"
     },
     {
       "Rank": "AB",
-      "O/B": "182.0",
+      "O/B": "22.0",
+      "Name": "QUIMSON, FRANK MICHAEL CAMASO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "190.0",
       "Name": "ALCULAR,AMELITO CAMANGEG"
     },
     {
       "Rank": "AB",
-      "O/B": "124.0",
-      "Name": "MIJARES,GHIRO TASTAR"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "14.0",
+      "O/B": "22.0",
       "Name": "DERIS, ALEJANDRO MILLARE"
     },
     {
       "Rank": "AB",
-      "O/B": "14.0",
-      "Name": "QUIMSON, FRANK MICHAEL CAMASO"
+      "O/B": "132.0",
+      "Name": "MIJARES,GHIRO TASTAR"
     },
     {
       "Rank": "OS",
-      "O/B": "14.0",
+      "O/B": "22.0",
       "Name": "PACA, JOHNY BOY EVALLE"
     },
     {
       "Rank": "OS",
-      "O/B": "67.0",
+      "O/B": "75.0",
       "Name": "RAMOS,RENNIEL SALVID"
     },
     {
       "Rank": "FT",
-      "O/B": "179.0",
+      "O/B": "187.0",
       "Name": "ORDILLANO,PANCHO PASTRANA"
     },
     {
       "Rank": "MM",
-      "O/B": "179.0",
+      "O/B": "187.0",
       "Name": "HERNANDO,ALVIN CLENT ENERO"
     },
     {
       "Rank": "JMM",
-      "O/B": "67.0",
+      "O/B": "75.0",
       "Name": "NOBLEZA,CARL JEREMY"
     },
     {
       "Rank": "CA",
-      "O/B": "67.0",
+      "O/B": "75.0",
       "Name": "JACOB,ARIEL TARE"
     }
   ]

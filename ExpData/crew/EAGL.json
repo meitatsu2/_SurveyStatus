@@ -1,116 +1,116 @@
 {
   "scode": "EAGL",
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-25",
   "total_records": 22,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "113.0",
+      "O/B": "121.0",
       "Name": "PINOS,DEXTER PACANG"
     },
     {
       "Rank": "1O",
-      "O/B": "90.0",
+      "O/B": "98.0",
       "Name": "ALANZADO,JERRY BULARON"
     },
     {
       "Rank": "2O",
-      "O/B": "13.0",
+      "O/B": "21.0",
       "Name": "ABERION,ARMANDO JR. MANAYAGA"
     },
     {
       "Rank": "3O",
-      "O/B": "47.0",
+      "O/B": "55.0",
       "Name": "BINWAG,JEREMY BOLLA"
     },
     {
       "Rank": "3O",
-      "O/B": "169.0",
+      "O/B": "177.0",
       "Name": "GAMINDE,VJORN ROSS GARCHITORENA"
     },
     {
       "Rank": "CE",
-      "O/B": "29.0",
+      "O/B": "37.0",
       "Name": "GERMISE,MARK JESSAN VELASCO"
     },
     {
       "Rank": "2E",
-      "O/B": "176.0",
+      "O/B": "184.0",
       "Name": "TANCUECO,MICHAEL DELOS-REYES"
     },
     {
       "Rank": "3E",
-      "O/B": "29.0",
-      "Name": "GUTIERREZ,JIMMY LEBUSANA"
-    },
-    {
-      "Rank": "3E",
-      "O/B": "211.0",
+      "O/B": "219.0",
       "Name": "ENRICOSO,RAMIL DE LOS SANTOS"
     },
     {
       "Rank": "3E",
-      "O/B": "47.0",
+      "O/B": "55.0",
       "Name": "OMANA,LOWELL GODITO"
     },
     {
+      "Rank": "3E",
+      "O/B": "37.0",
+      "Name": "GUTIERREZ,JIMMY LEBUSANA"
+    },
+    {
       "Rank": "4E",
-      "O/B": "211.0",
+      "O/B": "219.0",
       "Name": "CATAPANG,KENT KENNETH RYAN MASANGKAY"
     },
     {
       "Rank": "BS",
-      "O/B": "169.0",
+      "O/B": "177.0",
       "Name": "ROBREDILLO,DANTE PASTOR"
     },
     {
-      "Rank": "AB",
-      "O/B": "169.0",
-      "Name": "FELICES,FREDERICK SABSALON"
-    },
-    {
       "Rank": "OS(AB)",
-      "O/B": "90.0",
+      "O/B": "98.0",
       "Name": "CASTRO,CHARLIE BAYAWA"
     },
     {
       "Rank": "AB",
-      "O/B": "211.0",
-      "Name": "LABIAL,JAMES JOSEPH ABLAN"
+      "O/B": "219.0",
+      "Name": "RAON,RANDY ARCA"
     },
     {
       "Rank": "AB",
-      "O/B": "90.0",
-      "Name": "RAMIREZ,ARCHIE FROI FERNANDEZ"
+      "O/B": "177.0",
+      "Name": "FELICES,FREDERICK SABSALON"
     },
     {
       "Rank": "AB",
-      "O/B": "211.0",
+      "O/B": "219.0",
       "Name": "BAULA,JUVINO GASMIN"
     },
     {
       "Rank": "AB",
-      "O/B": "211.0",
-      "Name": "RAON,RANDY ARCA"
+      "O/B": "219.0",
+      "Name": "LABIAL,JAMES JOSEPH ABLAN"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "98.0",
+      "Name": "RAMIREZ,ARCHIE FROI FERNANDEZ"
     },
     {
       "Rank": "FT",
-      "O/B": "90.0",
+      "O/B": "98.0",
       "Name": "GALVAN,MARTIN LASCONA"
     },
     {
       "Rank": "MM",
-      "O/B": "13.0",
+      "O/B": "21.0",
       "Name": "ENDENCIA,ABELARDO ARCETA"
     },
     {
       "Rank": "JMM",
-      "O/B": "13.0",
+      "O/B": "21.0",
       "Name": "DELITO,MARC RENZ XYRUS CASTILLO"
     },
     {
       "Rank": "CA",
-      "O/B": "90.0",
+      "O/B": "98.0",
       "Name": "DERAMAS,GEORGE BRYAN MANALO"
     }
   ]

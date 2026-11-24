@@ -1,106 +1,131 @@
 {
   "scode": "CRER",
-  "last_updated": "2026-11-23",
-  "total_records": 20,
+  "last_updated": "2026-11-25",
+  "total_records": 25,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "80.0",
+      "O/B": "89.0",
       "Name": "廖家逢"
     },
     {
       "Rank": "1O",
-      "O/B": "51.0",
+      "O/B": "60.0",
       "Name": "羅凱俊"
     },
     {
       "Rank": "2O",
-      "O/B": "164.0",
+      "O/B": "173.0",
       "Name": "蔡金洧"
     },
     {
+      "Rank": "2O",
+      "O/B": "5.0",
+      "Name": "曾冠銘"
+    },
+    {
       "Rank": "3O",
-      "O/B": "244.0",
+      "O/B": "253.0",
       "Name": "羅凱中"
     },
     {
       "Rank": "3O",
-      "O/B": "164.0",
+      "O/B": "173.0",
       "Name": "王柏騰"
     },
     {
       "Rank": "CE",
-      "O/B": "152.0",
+      "O/B": "5.0",
+      "Name": "郭亞文"
+    },
+    {
+      "Rank": "CE",
+      "O/B": "161.0",
       "Name": "游家郎"
     },
     {
       "Rank": "2E",
-      "O/B": "51.0",
+      "O/B": "60.0",
       "Name": "游輝琛"
     },
     {
       "Rank": "3E",
-      "O/B": "80.0",
+      "O/B": "89.0",
       "Name": "CUISON,FIDEL CUISON"
     },
     {
       "Rank": "4E",
-      "O/B": "80.0",
+      "O/B": "89.0",
       "Name": "DAVEN,JOHN DALE BAA"
     },
     {
       "Rank": "BS",
-      "O/B": "92.0",
+      "O/B": "101.0",
       "Name": "BONGABONG,DENNIS JAMES VENTIC"
     },
     {
       "Rank": "AB",
-      "O/B": "92.0",
+      "O/B": "101.0",
       "Name": "PONTE,PAUL JANUHAN"
     },
     {
       "Rank": "AB",
-      "O/B": "200.0",
-      "Name": "DERAIN,RODELWIN REFINA"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "200.0",
+      "O/B": "209.0",
       "Name": "GILBUELA,CHRISTIAN ANGEL BUNAYOG"
     },
     {
       "Rank": "AB",
-      "O/B": "190.0",
-      "Name": "SANCHEZ,AGHAM BENTULAN"
+      "O/B": "4.0",
+      "Name": "DESIERTO, RONE RYAN RITO"
     },
     {
       "Rank": "AB",
-      "O/B": "92.0",
+      "O/B": "4.0",
+      "Name": "SALINAS, MARLOU DALANGIN"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "101.0",
       "Name": "ORADA,KARL LORENZ FUENTES"
     },
     {
+      "Rank": "AB",
+      "O/B": "209.0",
+      "Name": "DERAIN,RODELWIN REFINA"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "199.0",
+      "Name": "SANCHEZ,AGHAM BENTULAN"
+    },
+    {
       "Rank": "OS",
-      "O/B": "190.0",
+      "O/B": "199.0",
       "Name": "ASIS,JUSTINE DURANGO"
     },
     {
       "Rank": "FT",
-      "O/B": "200.0",
+      "O/B": "209.0",
       "Name": "CONDE,ELMAR DOMINGO"
     },
     {
+      "Rank": "FT",
+      "O/B": "4.0",
+      "Name": "FLORES, ROMEL DE VERA"
+    },
+    {
       "Rank": "MM",
-      "O/B": "177.0",
+      "O/B": "186.0",
       "Name": "CALONIA,JAMES ALBERT CANOY"
     },
     {
       "Rank": "MM",
-      "O/B": "177.0",
+      "O/B": "186.0",
       "Name": "PAGDILAO,BRYAN PAUL MACAMOS"
     },
     {
       "Rank": "CA",
-      "O/B": "177.0",
+      "O/B": "186.0",
       "Name": "JARDIN,JOLLAN FLORANTE"
     }
   ]

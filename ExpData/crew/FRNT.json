@@ -1,121 +1,121 @@
 {
   "scode": "FRNT",
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-25",
   "total_records": 23,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "226.0",
+      "O/B": "234.0",
       "Name": "黃海波"
     },
     {
       "Rank": "1O",
-      "O/B": "142.0",
+      "O/B": "150.0",
       "Name": "郝瑞琪"
     },
     {
       "Rank": "2O",
-      "O/B": "222.0",
+      "O/B": "230.0",
       "Name": "李　繭"
     },
     {
       "Rank": "2O",
-      "O/B": "222.0",
+      "O/B": "230.0",
       "Name": "SUMAWAY,RUPERTO JR. GARCIA"
     },
     {
       "Rank": "3O",
-      "O/B": "142.0",
+      "O/B": "150.0",
       "Name": "裴文輝"
     },
     {
       "Rank": "CE",
-      "O/B": "46.0",
-      "Name": "PLACIDO, JOHN JAY ACENAS"
+      "O/B": "55.0",
+      "Name": "PLACIDO,JOHN JAY ACENAS"
     },
     {
       "Rank": "2E",
-      "O/B": "100.0",
+      "O/B": "108.0",
       "Name": "BUICO,ARVIN-JOHN ENGLIS"
     },
     {
       "Rank": "3E",
-      "O/B": "142.0",
+      "O/B": "150.0",
       "Name": "PASCUA,DOMINICK RESPICIO"
     },
     {
       "Rank": "4E",
-      "O/B": "226.0",
+      "O/B": "234.0",
       "Name": "AGUINALDO,JOHN LLOYD ESCLAVILLA"
     },
     {
       "Rank": "4E",
-      "O/B": "142.0",
+      "O/B": "150.0",
       "Name": "CASTRO,JOSHUA ALLEN NABUA"
     },
     {
       "Rank": "BS",
-      "O/B": "226.0",
+      "O/B": "234.0",
       "Name": "RODIL,ERICSON VALDERAMA"
     },
     {
       "Rank": "AB",
-      "O/B": "140.0",
-      "Name": "楊　柳"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "55.0",
-      "Name": "MEDINA,PATRICK JAVIER"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "55.0",
+      "O/B": "63.0",
       "Name": "GARING,MARKTUIN BENSING"
     },
     {
       "Rank": "AB",
-      "O/B": "142.0",
+      "O/B": "150.0",
       "Name": "LIMOCON,JOSE SUMIPO"
     },
     {
       "Rank": "AB",
-      "O/B": "140.0",
+      "O/B": "148.0",
       "Name": "周江濤"
     },
     {
       "Rank": "AB",
-      "O/B": "142.0",
+      "O/B": "148.0",
+      "Name": "楊　柳"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "63.0",
+      "Name": "MEDINA,PATRICK JAVIER"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "150.0",
       "Name": "MECIJA,EDWARD BOJILADOR"
     },
     {
       "Rank": "OS",
-      "O/B": "226.0",
+      "O/B": "234.0",
       "Name": "MANDREZA,XAVIER FRANZ APOLINAR"
     },
     {
       "Rank": "FT",
-      "O/B": "55.0",
+      "O/B": "63.0",
       "Name": "VALENZUELA,REYNALDO SANGUYO"
     },
     {
       "Rank": "MM",
-      "O/B": "40.0",
-      "Name": "DOMINGO, ARRON JAY ARTUS"
+      "O/B": "49.0",
+      "Name": "DOMINGO,ARRON JAY ARTUS"
     },
     {
       "Rank": "MM",
-      "O/B": "55.0",
+      "O/B": "63.0",
       "Name": "GERARMAN,CRESENCIANO JR. ESTOQUE"
     },
     {
       "Rank": "JMM",
-      "O/B": "50.0",
+      "O/B": "58.0",
       "Name": "MONTEMAYOR,JUNGEI CARPENTEROS"
     },
     {
       "Rank": "CA",
-      "O/B": "55.0",
+      "O/B": "63.0",
       "Name": "屈懷全"
     }
   ]

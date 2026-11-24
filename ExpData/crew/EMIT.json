@@ -1,131 +1,131 @@
 {
   "scode": "EMIT",
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-25",
   "total_records": 25,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "194.0",
+      "O/B": "202.0",
       "Name": "周明勳"
     },
     {
       "Rank": "1O",
-      "O/B": "194.0",
+      "O/B": "202.0",
       "Name": "劉敏全"
     },
     {
       "Rank": "2O",
-      "O/B": "194.0",
+      "O/B": "202.0",
       "Name": "胡智凱"
     },
     {
       "Rank": "2O",
-      "O/B": "194.0",
+      "O/B": "202.0",
       "Name": "賴韋丞"
     },
     {
       "Rank": "3O",
-      "O/B": "31.0",
+      "O/B": "39.0",
       "Name": "葉世龍"
     },
     {
       "Rank": "CE",
-      "O/B": "31.0",
-      "Name": "劉后滿"
-    },
-    {
-      "Rank": "CE",
-      "O/B": "227.0",
+      "O/B": "235.0",
       "Name": "高大千"
     },
     {
-      "Rank": "2E",
-      "O/B": "40.0",
-      "Name": "徐紅波"
+      "Rank": "CE",
+      "O/B": "39.0",
+      "Name": "劉后滿"
     },
     {
       "Rank": "2E",
-      "O/B": "227.0",
+      "O/B": "235.0",
       "Name": "邱奕寰"
     },
     {
+      "Rank": "2E",
+      "O/B": "48.0",
+      "Name": "徐紅波"
+    },
+    {
       "Rank": "3E",
-      "O/B": "85.0",
+      "O/B": "93.0",
       "Name": "史世林"
     },
     {
       "Rank": "3E",
-      "O/B": "36.0",
+      "O/B": "44.0",
       "Name": "李永琪"
     },
     {
       "Rank": "4E",
-      "O/B": "85.0",
+      "O/B": "93.0",
       "Name": "樊　澤"
     },
     {
       "Rank": "BS",
-      "O/B": "194.0",
+      "O/B": "202.0",
       "Name": "呂金龍"
     },
     {
       "Rank": "AB",
-      "O/B": "167.0",
-      "Name": "王識煒"
+      "O/B": "152.0",
+      "Name": "SOSA,RAISAL ARRIOLA"
     },
     {
       "Rank": "AB",
-      "O/B": "167.0",
-      "Name": "洪俊偉"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "167.0",
-      "Name": "林廷耀"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "167.0",
+      "O/B": "175.0",
       "Name": "AQUINO,ARISTOTLE AGUILAR"
     },
     {
       "Rank": "AB",
-      "O/B": "167.0",
-      "Name": "MUYAR,CHRISTIAN CRISTOPHER CANLAS"
+      "O/B": "175.0",
+      "Name": "林廷耀"
     },
     {
       "Rank": "AB",
-      "O/B": "167.0",
+      "O/B": "175.0",
       "Name": "LLORENTE,JAMES FUTALAN"
     },
     {
       "Rank": "AB",
-      "O/B": "144.0",
-      "Name": "SOSA,RAISAL ARRIOLA"
+      "O/B": "175.0",
+      "Name": "洪俊偉"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "175.0",
+      "Name": "王識煒"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "175.0",
+      "Name": "MUYAR,CHRISTIAN CRISTOPHER CANLAS"
     },
     {
       "Rank": "FT",
-      "O/B": "194.0",
+      "O/B": "202.0",
       "Name": "王誠鴻"
     },
     {
       "Rank": "MM",
-      "O/B": "140.0",
+      "O/B": "148.0",
       "Name": "蔡吳政一"
     },
     {
       "Rank": "MM",
-      "O/B": "40.0",
-      "Name": "龍小七"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "167.0",
+      "O/B": "175.0",
       "Name": "吳健榮"
     },
     {
+      "Rank": "MM",
+      "O/B": "48.0",
+      "Name": "龍小七"
+    },
+    {
       "Rank": "CA",
-      "O/B": "167.0",
+      "O/B": "175.0",
       "Name": "林謚竣"
     }
   ]

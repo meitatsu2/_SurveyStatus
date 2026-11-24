@@ -1,8 +1,57 @@
 {
   "scode": "FATH",
-  "last_updated": "2026-11-23",
-  "total_records": 26,
+  "last_updated": "2026-11-25",
+  "total_records": 30,
   "records": [
+    {
+      "Line": "ESA",
+      "Voyage": "1701-036E",
+      "Port Calling": "BRSTO",
+      "ETA Date/Time": "20260903/1348 (四)",
+      "ETD Date/Time": "20260905/0142"
+    },
+    {
+      "Line": "ESA",
+      "Voyage": "1701-036E",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20260926/1255 (六)",
+      "ETD Date/Time": "20260928/0120"
+    },
+    {
+      "Line": "ESA",
+      "Voyage": "1701-036E",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261001/1610 (四)",
+      "ETD Date/Time": "20261002/1410"
+    },
+    {
+      "Line": "ESA",
+      "Voyage": "1714-037W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261007/1400 (三)",
+      "ETD Date/Time": "20261009/1400"
+    },
+    {
+      "Line": "ESA",
+      "Voyage": "1714-037W",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20261011/1729 (日)",
+      "ETD Date/Time": "20261012/0828"
+    },
+    {
+      "Line": "ESA",
+      "Voyage": "1714-037W",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261013/1510 (二)",
+      "ETD Date/Time": "20261014/1615"
+    },
+    {
+      "Line": "ESA",
+      "Voyage": "1714-037W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261018/2135 (日)",
+      "ETD Date/Time": "20261019/1455"
+    },
     {
       "Line": "ESA",
       "Voyage": "1714-037W",
@@ -14,43 +63,43 @@
       "Line": "ESA",
       "Voyage": "1714-037W",
       "Port Calling": "BRSTO",
-      "ETA Date/Time": "20261116/1600 (一)",
-      "ETD Date/Time": "20261118/0100"
+      "ETA Date/Time": "20261116/1846 (一)",
+      "ETD Date/Time": "20261117/2112"
     },
     {
       "Line": "ESA",
       "Voyage": "1714-037E",
-      "Port Calling": "BRNVT",
-      "ETA Date/Time": "20261120/1500 (五)",
-      "ETD Date/Time": "20261121/0700"
+      "Port Calling": "BRIMB",
+      "ETA Date/Time": "20261118/1524 (三)",
+      "ETD Date/Time": "20261120/1017"
     },
     {
       "Line": "ESA",
       "Voyage": "1714-037E",
       "Port Calling": "UYMVD",
-      "ETA Date/Time": "20261123/0600 (一)",
-      "ETD Date/Time": "20261124/1700"
+      "ETA Date/Time": "20261122/0200 (日)",
+      "ETD Date/Time": "20261123/1000"
     },
     {
       "Line": "ESA",
       "Voyage": "1714-037E",
       "Port Calling": "ARBUE",
-      "ETA Date/Time": "20261125/1200 (三)",
-      "ETD Date/Time": "20261127/1400"
+      "ETA Date/Time": "20261124/0430 (二)",
+      "ETD Date/Time": "20261126/0100"
     },
     {
       "Line": "ESA",
       "Voyage": "1714-037E",
       "Port Calling": "BRPNP",
-      "ETA Date/Time": "20261201/0100 (二)",
-      "ETD Date/Time": "20261201/2100"
+      "ETA Date/Time": "20261129/0100 (日)",
+      "ETD Date/Time": "20261129/2300"
     },
     {
       "Line": "ESA",
       "Voyage": "1714-037E",
       "Port Calling": "BRSTO",
-      "ETA Date/Time": "20261209/0100 (三)",
-      "ETD Date/Time": "20261210/0700"
+      "ETA Date/Time": "20261202/0100 (三)",
+      "ETD Date/Time": "20261203/0700"
     },
     {
       "Line": "ESA",
@@ -58,27 +107,6 @@
       "Port Calling": "SGSGP",
       "ETA Date/Time": "20261223/1700 (三)",
       "ETD Date/Time": "20261224/1800"
-    },
-    {
-      "Line": "ESA",
-      "Voyage": "1714-037E",
-      "Port Calling": "HKHKG",
-      "ETA Date/Time": "20261228/2000 (一)",
-      "ETD Date/Time": "20261229/1400"
-    },
-    {
-      "Line": "ESA",
-      "Voyage": "1714-037E",
-      "Port Calling": "CNSHG",
-      "ETA Date/Time": "20270101/0600 (五)",
-      "ETD Date/Time": "20270102/0800"
-    },
-    {
-      "Line": "ESA",
-      "Voyage": "1714-037E",
-      "Port Calling": "CNNBO",
-      "ETA Date/Time": "20270102/2000 (六)",
-      "ETD Date/Time": "20270103/2200"
     },
     {
       "Line": "WSA",

@@ -1,107 +1,112 @@
 {
   "scode": "CONY",
-  "last_updated": "2026-11-23",
-  "total_records": 20,
+  "last_updated": "2026-11-25",
+  "total_records": 21,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "180.0",
+      "O/B": "189.0",
       "Name": "洪瑋鍵"
     },
     {
       "Rank": "1O",
-      "O/B": "39.0",
-      "Name": "王子祿"
-    },
-    {
-      "Rank": "1O",
-      "O/B": "39.0",
+      "O/B": "48.0",
       "Name": "張育瑋"
     },
     {
+      "Rank": "1O",
+      "O/B": "48.0",
+      "Name": "王子祿"
+    },
+    {
       "Rank": "2O",
-      "O/B": "180.0",
+      "O/B": "189.0",
       "Name": "蔡承祐"
     },
     {
       "Rank": "3O",
-      "O/B": "16.0",
-      "Name": "吳庠宏"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "82.0",
+      "O/B": "91.0",
       "Name": "張哲源"
     },
     {
+      "Rank": "3O",
+      "O/B": "25.0",
+      "Name": "吳庠宏"
+    },
+    {
+      "Rank": "5O(T5O)",
+      "O/B": "3.0",
+      "Name": "鄭明誠"
+    },
+    {
       "Rank": "CE",
-      "O/B": "180.0",
+      "O/B": "189.0",
       "Name": "孔懷德"
     },
     {
       "Rank": "2E",
-      "O/B": "39.0",
+      "O/B": "48.0",
       "Name": "李政隆"
     },
     {
       "Rank": "3E",
-      "O/B": "170.0",
+      "O/B": "179.0",
       "Name": "陳重延"
     },
     {
       "Rank": "4E",
-      "O/B": "82.0",
+      "O/B": "91.0",
       "Name": "吳小謙"
     },
     {
       "Rank": "BS",
-      "O/B": "151.0",
+      "O/B": "160.0",
       "Name": "陳自賢"
     },
     {
       "Rank": "AB",
-      "O/B": "161.0",
+      "O/B": "170.0",
       "Name": "MABULAC,SANNIE BENJAMIN"
     },
     {
       "Rank": "AB",
-      "O/B": "161.0",
-      "Name": "MARISCOTES,WARREN DE JUAN"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "161.0",
+      "O/B": "170.0",
       "Name": "CAPINAN,MICHAEL PUNO"
     },
     {
       "Rank": "AB",
-      "O/B": "96.0",
-      "Name": "劉奕宏"
+      "O/B": "170.0",
+      "Name": "MARISCOTES,WARREN DE JUAN"
     },
     {
       "Rank": "AB",
-      "O/B": "151.0",
+      "O/B": "160.0",
       "Name": "邱竣銘"
     },
     {
       "Rank": "AB",
-      "O/B": "204.0",
-      "Name": "戴��祥"
+      "O/B": "105.0",
+      "Name": "劉奕宏"
+    },
+    {
+      "Rank": "OS",
+      "O/B": "3.0",
+      "Name": "孫兆緯"
     },
     {
       "Rank": "FT",
-      "O/B": "62.0",
+      "O/B": "71.0",
       "Name": "OBISO,MARCELO ALGABRE"
     },
     {
       "Rank": "MM",
-      "O/B": "111.0",
+      "O/B": "120.0",
       "Name": "李彥廷"
     },
     {
       "Rank": "CA",
-      "O/B": "180.0",
-      "Name": "曾文宏"
+      "O/B": "3.0",
+      "Name": "范姜柔"
     }
   ]
 }

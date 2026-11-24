@@ -1,8 +1,127 @@
 {
   "scode": "EXEL",
-  "last_updated": "2026-11-23",
-  "total_records": 23,
+  "last_updated": "2026-11-25",
+  "total_records": 41,
   "records": [
+    {
+      "Line": "AGI",
+      "Voyage": "194E",
+      "Port Calling": "INNXV",
+      "ETA Date/Time": "20260824/0106 (一)",
+      "ETD Date/Time": "20260824/1915"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "194E",
+      "Port Calling": "INMUN",
+      "ETA Date/Time": "20260826/0954 (三)",
+      "ETD Date/Time": "20260827/0509"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "194E",
+      "Port Calling": "PKKHI",
+      "ETA Date/Time": "20260830/1345 (日)",
+      "ETD Date/Time": "20260902/1215"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "194E",
+      "Port Calling": "LKCMB",
+      "ETA Date/Time": "20260907/0012 (一)",
+      "ETD Date/Time": "20260908/1745"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "194E",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20260913/0230 (日)",
+      "ETD Date/Time": "20260914/0510"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "195W",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20260917/0954 (四)",
+      "ETD Date/Time": "20260919/1100"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "195W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20260924/0200 (四)",
+      "ETD Date/Time": "20260924/1415"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "195W",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20260928/1900 (一)",
+      "ETD Date/Time": "20260929/2010"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "195W",
+      "Port Calling": "LKCMB",
+      "ETA Date/Time": "20261003/2312 (六)",
+      "ETD Date/Time": "20261005/0450"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "195E",
+      "Port Calling": "INNXV",
+      "ETA Date/Time": "20261007/1348 (三)",
+      "ETD Date/Time": "20261008/0818"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "195E",
+      "Port Calling": "INMUN",
+      "ETA Date/Time": "20261009/1900 (五)",
+      "ETD Date/Time": "20261011/0237"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "195E",
+      "Port Calling": "PKKHI",
+      "ETA Date/Time": "20261012/0035 (一)",
+      "ETD Date/Time": "20261014/1105"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "195E",
+      "Port Calling": "LKCMB",
+      "ETA Date/Time": "20261017/2000 (六)",
+      "ETD Date/Time": "20261019/1030"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "195E",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20261026/2100 (一)",
+      "ETD Date/Time": "20261027/1910"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "196W",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20261030/2130 (五)",
+      "ETD Date/Time": "20261101/2200"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "196W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261105/2155 (四)",
+      "ETD Date/Time": "20261106/1340"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "196W",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20261107/1825 (六)",
+      "ETD Date/Time": "20261109/0645"
+    },
     {
       "Line": "AGI",
       "Voyage": "196W",
@@ -14,29 +133,29 @@
       "Line": "AGI",
       "Voyage": "196E",
       "Port Calling": "INNXV",
-      "ETA Date/Time": "20261116/2300 (一)",
-      "ETD Date/Time": "20261117/2300"
+      "ETA Date/Time": "20261116/2130 (一)",
+      "ETD Date/Time": "20261117/1245"
     },
     {
       "Line": "AGI",
       "Voyage": "196E",
       "Port Calling": "INMUN",
-      "ETA Date/Time": "20261119/0100 (四)",
-      "ETD Date/Time": "20261120/0100"
+      "ETA Date/Time": "20261119/1524 (四)",
+      "ETD Date/Time": "20261120/0915"
     },
     {
       "Line": "AGI",
       "Voyage": "196E",
       "Port Calling": "PKKHI",
-      "ETA Date/Time": "20261123/1100 (一)",
-      "ETD Date/Time": "20261125/1100"
+      "ETA Date/Time": "20261122/0928 (日)",
+      "ETD Date/Time": "20261124/0724"
     },
     {
       "Line": "AGI",
       "Voyage": "196E",
       "Port Calling": "LKCMB",
-      "ETA Date/Time": "20261129/1700 (日)",
-      "ETD Date/Time": "20261130/2300"
+      "ETA Date/Time": "20261128/1700 (六)",
+      "ETD Date/Time": "20261129/2300"
     },
     {
       "Line": "AGI",
@@ -139,16 +258,23 @@
     {
       "Line": "AGI",
       "Voyage": "198E",
-      "Port Calling": "PKKHI",
-      "ETA Date/Time": "20270213/2300 (六)",
-      "ETD Date/Time": "20270216/0100"
+      "Port Calling": "INNXV",
+      "ETA Date/Time": "20270211/0800 (四)",
+      "ETD Date/Time": "20270212/0800"
     },
     {
       "Line": "AGI",
       "Voyage": "198E",
       "Port Calling": "INMUN",
-      "ETA Date/Time": "20270216/2100 (二)",
-      "ETD Date/Time": "20270217/2300"
+      "ETA Date/Time": "20270213/2100 (六)",
+      "ETD Date/Time": "20270215/1600"
+    },
+    {
+      "Line": "AGI",
+      "Voyage": "198E",
+      "Port Calling": "PKKHI",
+      "ETA Date/Time": "20270216/0200 (二)",
+      "ETD Date/Time": "20270216/2200"
     },
     {
       "Line": "AGI",

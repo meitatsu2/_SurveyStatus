@@ -1,8 +1,71 @@
 {
   "scode": "FRTN",
-  "last_updated": "2026-11-23",
-  "total_records": 16,
+  "last_updated": "2026-11-25",
+  "total_records": 25,
   "records": [
+    {
+      "Line": "WSA2",
+      "Voyage": "0694-028E",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20260824/1200 (一)",
+      "ETD Date/Time": "20260825/1605"
+    },
+    {
+      "Line": "WSA2",
+      "Voyage": "0694-028E",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20260906/0945 (日)",
+      "ETD Date/Time": "20260908/0415"
+    },
+    {
+      "Line": "WSA2",
+      "Voyage": "0694-028E",
+      "Port Calling": "MXMZO",
+      "ETA Date/Time": "20260925/1505 (五)",
+      "ETD Date/Time": "20260926/1607"
+    },
+    {
+      "Line": "WSA2",
+      "Voyage": "0694-028W",
+      "Port Calling": "PECAL",
+      "ETA Date/Time": "20261002/1532 (五)",
+      "ETD Date/Time": "20261003/0725"
+    },
+    {
+      "Line": "WSA2",
+      "Voyage": "0694-028W",
+      "Port Calling": "ECGYE",
+      "ETA Date/Time": "20261006/0325 (二)",
+      "ETD Date/Time": "20261008/1645"
+    },
+    {
+      "Line": "WSA2",
+      "Voyage": "0694-028W",
+      "Port Calling": "GTZNJ",
+      "ETA Date/Time": "20261013/0040 (二)",
+      "ETD Date/Time": "20261013/2310"
+    },
+    {
+      "Line": "WSA2",
+      "Voyage": "0694-028W",
+      "Port Calling": "MXLZC",
+      "ETA Date/Time": "20261020/1100 (二)",
+      "ETD Date/Time": "20261021/1920"
+    },
+    {
+      "Line": "WSA2",
+      "Voyage": "0694-028W",
+      "Port Calling": "MXMZO",
+      "ETA Date/Time": "20261023/2058 (五)",
+      "ETD Date/Time": "20261024/1922"
+    },
+    {
+      "Line": "WSA2",
+      "Voyage": "0706-029E",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261110/0600 (二)",
+      "ETD Date/Time": "20261111/1802"
+    },
     {
       "Line": "WSA2",
       "Voyage": "0706-029E",
@@ -21,57 +84,57 @@
       "Line": "WSA2",
       "Voyage": "0706-029E",
       "Port Calling": "CNNBO",
-      "ETA Date/Time": "20261119/1600 (四)",
-      "ETD Date/Time": "20261120/1200"
+      "ETA Date/Time": "20261120/1545 (五)",
+      "ETD Date/Time": "20261121/0935"
     },
     {
       "Line": "WSA2",
       "Voyage": "0706-029E",
       "Port Calling": "CNSHG",
-      "ETA Date/Time": "20261121/0000 (六)",
-      "ETD Date/Time": "20261121/2300"
+      "ETA Date/Time": "20261121/2300 (六)",
+      "ETD Date/Time": "20261122/2230"
     },
     {
       "Line": "WSA2",
       "Voyage": "0706-029E",
       "Port Calling": "MXMZO",
-      "ETA Date/Time": "20261204/2000 (五)",
-      "ETD Date/Time": "20261206/1300"
+      "ETA Date/Time": "20261207/0900 (一)",
+      "ETD Date/Time": "20261209/0200"
     },
     {
       "Line": "WSA2",
       "Voyage": "0706-029W",
       "Port Calling": "MXLZC",
-      "ETA Date/Time": "20261205/1900 (六)",
-      "ETD Date/Time": "20261206/1400"
+      "ETA Date/Time": "20261210/0100 (四)",
+      "ETD Date/Time": "20261210/1900"
     },
     {
       "Line": "WSA2",
       "Voyage": "0706-029W",
       "Port Calling": "GTZNJ",
-      "ETA Date/Time": "20261208/1000 (二)",
-      "ETD Date/Time": "20261209/1800"
+      "ETA Date/Time": "20261212/1100 (六)",
+      "ETD Date/Time": "20261213/1700"
     },
     {
       "Line": "WSA2",
       "Voyage": "0706-029W",
       "Port Calling": "PECAL",
-      "ETA Date/Time": "20261215/0300 (二)",
-      "ETD Date/Time": "20261216/0100"
+      "ETA Date/Time": "20261219/0800 (六)",
+      "ETD Date/Time": "20261221/0800"
     },
     {
       "Line": "WSA2",
       "Voyage": "0706-029W",
       "Port Calling": "ECGYE",
-      "ETA Date/Time": "20261218/1500 (五)",
-      "ETD Date/Time": "20261220/2300"
+      "ETA Date/Time": "20261223/1000 (三)",
+      "ETD Date/Time": "20261226/0300"
     },
     {
       "Line": "WSA2",
       "Voyage": "0706-029W",
       "Port Calling": "MXMZO",
-      "ETA Date/Time": "20261227/1600 (日)",
-      "ETD Date/Time": "20261229/1800"
+      "ETA Date/Time": "20270102/0800 (六)",
+      "ETD Date/Time": "20270104/0200"
     },
     {
       "Line": "WSA2",

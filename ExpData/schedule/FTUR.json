@@ -1,8 +1,71 @@
 {
   "scode": "FTUR",
-  "last_updated": "2026-11-23",
-  "total_records": 26,
+  "last_updated": "2026-11-25",
+  "total_records": 35,
   "records": [
+    {
+      "Line": "CES",
+      "Voyage": "0825-035W",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20260826/0712 (三)",
+      "ETD Date/Time": "20260827/1057"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0825-035W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20260901/2220 (二)",
+      "ETD Date/Time": "20260902/1820"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0825-035W",
+      "Port Calling": "GBFLX",
+      "ETA Date/Time": "20261007/0026 (三)",
+      "ETD Date/Time": "20261007/1450"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "036W",
+      "Port Calling": "GBSOU",
+      "ETA Date/Time": "20261011/2350 (日)",
+      "ETD Date/Time": "20261012/2310"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "036W",
+      "Port Calling": "BEANW",
+      "ETA Date/Time": "20261013/2330 (二)",
+      "ETD Date/Time": "20261015/0230"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "036W",
+      "Port Calling": "NLRDM",
+      "ETA Date/Time": "20261018/0106 (日)",
+      "ETD Date/Time": "20261020/1752"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "036W",
+      "Port Calling": "DEBHV",
+      "ETA Date/Time": "20261022/0720 (四)",
+      "ETD Date/Time": "20261026/0445"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "036W",
+      "Port Calling": "FRLHV",
+      "ETA Date/Time": "20261028/1400 (三)",
+      "ETD Date/Time": "20261029/0513"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "036E",
+      "Port Calling": "USNYC",
+      "ETA Date/Time": "20261107/2148 (六)",
+      "ETD Date/Time": "20261110/0330"
+    },
     {
       "Line": "TAE",
       "Voyage": "036E",
@@ -14,50 +77,50 @@
       "Line": "TAE",
       "Voyage": "036E",
       "Port Calling": "USCHS",
-      "ETA Date/Time": "20261116/0100 (一)",
-      "ETD Date/Time": "20261116/1600"
+      "ETA Date/Time": "20261115/2142 (日)",
+      "ETD Date/Time": "20261116/2136"
     },
     {
       "Line": "TAE",
       "Voyage": "036E",
       "Port Calling": "USSVN",
-      "ETA Date/Time": "20261117/1200 (二)",
-      "ETD Date/Time": "20261118/1300"
+      "ETA Date/Time": "20261117/1345 (二)",
+      "ETD Date/Time": "20261118/1824"
     },
     {
       "Line": "TAE",
       "Voyage": "037W",
       "Port Calling": "GBSOU",
-      "ETA Date/Time": "20261126/2030 (四)",
-      "ETD Date/Time": "20261128/0230"
+      "ETA Date/Time": "20261127/0700 (五)",
+      "ETD Date/Time": "20261128/0700"
     },
     {
       "Line": "TAE",
       "Voyage": "037W",
       "Port Calling": "BEANW",
-      "ETA Date/Time": "20261128/2330 (六)",
-      "ETD Date/Time": "20261130/1400"
+      "ETA Date/Time": "20261129/1800 (日)",
+      "ETD Date/Time": "20261201/1000"
     },
     {
       "Line": "TAE",
       "Voyage": "037W",
       "Port Calling": "NLRDM",
-      "ETA Date/Time": "20261201/0000 (二)",
-      "ETD Date/Time": "20261202/1600"
+      "ETA Date/Time": "20261202/0300 (三)",
+      "ETD Date/Time": "20261203/1100"
     },
     {
       "Line": "TAE",
       "Voyage": "037W",
       "Port Calling": "DEBHV",
-      "ETA Date/Time": "20261203/1000 (四)",
-      "ETD Date/Time": "20261205/1800"
+      "ETA Date/Time": "20261204/1000 (五)",
+      "ETD Date/Time": "20261206/1000"
     },
     {
       "Line": "TAE",
       "Voyage": "037W",
       "Port Calling": "FRLHV",
-      "ETA Date/Time": "20261209/0330 (三)",
-      "ETD Date/Time": "20261210/0600"
+      "ETA Date/Time": "20261207/1800 (一)",
+      "ETD Date/Time": "20261208/1100"
     },
     {
       "Line": "TAE",

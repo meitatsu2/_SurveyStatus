@@ -1,131 +1,131 @@
 {
   "scode": "ECHO",
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-25",
   "total_records": 25,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "147.0",
+      "O/B": "155.0",
       "Name": "溫曉東"
     },
     {
       "Rank": "1O",
-      "O/B": "145.0",
+      "O/B": "153.0",
       "Name": "黃端慶"
     },
     {
       "Rank": "2O",
-      "O/B": "58.0",
+      "O/B": "66.0",
       "Name": "潘　勇"
     },
     {
       "Rank": "3O",
-      "O/B": "39.0",
-      "Name": "CASUGBU,VAN REGALADO"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "58.0",
+      "O/B": "66.0",
       "Name": "林秉緯"
     },
     {
+      "Rank": "3O",
+      "O/B": "47.0",
+      "Name": "CASUGBU,VAN REGALADO"
+    },
+    {
       "Rank": "CE",
-      "O/B": "208.0",
+      "O/B": "216.0",
       "Name": "李榮宗"
     },
     {
       "Rank": "2E",
-      "O/B": "37.0",
-      "Name": "鄭維旭"
-    },
-    {
-      "Rank": "2E",
-      "O/B": "202.0",
+      "O/B": "210.0",
       "Name": "楊哲炎"
     },
     {
+      "Rank": "2E",
+      "O/B": "45.0",
+      "Name": "鄭維旭"
+    },
+    {
       "Rank": "3E",
-      "O/B": "108.0",
+      "O/B": "116.0",
       "Name": "梁　冰"
     },
     {
       "Rank": "3E",
-      "O/B": "171.0",
+      "O/B": "179.0",
       "Name": "吳應東"
     },
     {
       "Rank": "4E",
-      "O/B": "50.0",
+      "O/B": "58.0",
       "Name": "郭崇凱"
     },
     {
       "Rank": "BS",
-      "O/B": "58.0",
+      "O/B": "66.0",
       "Name": "INCIONG,ERICSON PALERACIO"
     },
     {
       "Rank": "AB",
-      "O/B": "37.0",
+      "O/B": "45.0",
       "Name": "FINESA,CHRISTIAN ANGELOU IMAN"
     },
     {
       "Rank": "AB",
-      "O/B": "39.0",
-      "Name": "楊國榮"
+      "O/B": "47.0",
+      "Name": "隋宏宇"
     },
     {
       "Rank": "AB",
-      "O/B": "58.0",
-      "Name": "RAGSAG,PETER JOHN RABACA"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "37.0",
-      "Name": "BINALANGBANG,ARNEL BIHAY"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "58.0",
-      "Name": "MAGPANTAY,GOLDMAN ALBANIA"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "39.0",
+      "O/B": "47.0",
       "Name": "范紅波"
     },
     {
       "Rank": "AB",
-      "O/B": "39.0",
-      "Name": "隋宏宇"
+      "O/B": "66.0",
+      "Name": "MAGPANTAY,GOLDMAN ALBANIA"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "45.0",
+      "Name": "BINALANGBANG,ARNEL BIHAY"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "66.0",
+      "Name": "RAGSAG,PETER JOHN RABACA"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "47.0",
+      "Name": "楊國榮"
     },
     {
       "Rank": "FT",
-      "O/B": "58.0",
+      "O/B": "66.0",
       "Name": "劉祖順"
     },
     {
       "Rank": "MM",
-      "O/B": "37.0",
-      "Name": "劉恩呈"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "145.0",
-      "Name": "陳柏宏"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "37.0",
+      "O/B": "45.0",
       "Name": "SORIA,IAN CHRISTIAN"
     },
     {
       "Rank": "MM",
-      "O/B": "58.0",
+      "O/B": "153.0",
+      "Name": "陳柏宏"
+    },
+    {
+      "Rank": "MM",
+      "O/B": "45.0",
+      "Name": "劉恩呈"
+    },
+    {
+      "Rank": "MM",
+      "O/B": "66.0",
       "Name": "錢凱毅"
     },
     {
       "Rank": "CA",
-      "O/B": "58.0",
+      "O/B": "66.0",
       "Name": "林俊雄"
     }
   ]

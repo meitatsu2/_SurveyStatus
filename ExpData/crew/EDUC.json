@@ -1,126 +1,126 @@
 {
   "scode": "EDUC",
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-25",
   "total_records": 24,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "59.0",
+      "O/B": "67.0",
       "Name": "鄭善仁"
     },
     {
       "Rank": "1O",
-      "O/B": "59.0",
+      "O/B": "67.0",
       "Name": "蕭立宗"
     },
     {
       "Rank": "2O",
-      "O/B": "59.0",
+      "O/B": "67.0",
       "Name": "黃宏翔"
     },
     {
       "Rank": "2O",
-      "O/B": "59.0",
-      "Name": "劉耀文"
-    },
-    {
-      "Rank": "2O",
-      "O/B": "59.0",
+      "O/B": "67.0",
       "Name": "蕭　邦"
     },
     {
+      "Rank": "2O",
+      "O/B": "67.0",
+      "Name": "劉耀文"
+    },
+    {
       "Rank": "CE",
-      "O/B": "93.0",
+      "O/B": "101.0",
       "Name": "陳景源"
     },
     {
       "Rank": "2E",
-      "O/B": "93.0",
+      "O/B": "101.0",
       "Name": "余建鋅"
     },
     {
       "Rank": "3E",
-      "O/B": "12.0",
+      "O/B": "20.0",
       "Name": "劉又錡"
     },
     {
       "Rank": "3E",
-      "O/B": "93.0",
-      "Name": "陳昱齊"
+      "O/B": "11.0",
+      "Name": "樊有煜"
     },
     {
       "Rank": "3E",
-      "O/B": "93.0",
+      "O/B": "101.0",
       "Name": "廖奕鑫"
     },
     {
       "Rank": "3E",
-      "O/B": "3.0",
-      "Name": "樊有煜"
+      "O/B": "101.0",
+      "Name": "陳昱齊"
     },
     {
       "Rank": "BS",
-      "O/B": "59.0",
+      "O/B": "67.0",
       "Name": "楊方達"
     },
     {
       "Rank": "AB",
-      "O/B": "34.0",
-      "Name": "吳弦澔"
+      "O/B": "20.0",
+      "Name": "周聖恩"
     },
     {
       "Rank": "AB",
-      "O/B": "34.0",
-      "Name": "BAYAWA,DENVER LUGATIMAN"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "34.0",
-      "Name": "陳威福"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "34.0",
-      "Name": "ELAS,RUEL BAYER"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "34.0",
+      "O/B": "42.0",
       "Name": "SABULARSE,JOE IAN BALLARES"
     },
     {
       "Rank": "AB",
-      "O/B": "34.0",
+      "O/B": "42.0",
       "Name": "黃德彰"
     },
     {
       "Rank": "AB",
-      "O/B": "12.0",
-      "Name": "周聖恩"
+      "O/B": "42.0",
+      "Name": "吳弦澔"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "42.0",
+      "Name": "BAYAWA,DENVER LUGATIMAN"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "42.0",
+      "Name": "陳威福"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "42.0",
+      "Name": "ELAS,RUEL BAYER"
     },
     {
       "Rank": "FT",
-      "O/B": "59.0",
+      "O/B": "67.0",
       "Name": "夏嘉懋"
     },
     {
       "Rank": "MM",
-      "O/B": "34.0",
+      "O/B": "42.0",
       "Name": "柳宗濤"
     },
     {
       "Rank": "MM",
-      "O/B": "87.0",
+      "O/B": "95.0",
       "Name": "王信友"
     },
     {
       "Rank": "MM",
-      "O/B": "34.0",
+      "O/B": "42.0",
       "Name": "陳原凱"
     },
     {
       "Rank": "CA",
-      "O/B": "34.0",
+      "O/B": "42.0",
       "Name": "林錦宗"
     }
   ]

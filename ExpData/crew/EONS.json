@@ -1,136 +1,146 @@
 {
   "scode": "EONS",
-  "last_updated": "2026-11-23",
-  "total_records": 26,
+  "last_updated": "2026-11-25",
+  "total_records": 28,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "104.0",
+      "O/B": "112.0",
       "Name": "王慶孝"
     },
     {
       "Rank": "1O",
-      "O/B": "192.0",
+      "O/B": "200.0",
       "Name": "莊逸椽"
     },
     {
       "Rank": "2O",
-      "O/B": "196.0",
-      "Name": "吳多杰"
+      "O/B": "5.0",
+      "Name": "洪正霖"
     },
     {
       "Rank": "2O",
-      "O/B": "196.0",
+      "O/B": "204.0",
       "Name": "趙建華"
     },
     {
       "Rank": "3O",
-      "O/B": "104.0",
+      "O/B": "112.0",
       "Name": "田志邦"
     },
     {
       "Rank": "CE",
-      "O/B": "196.0",
+      "O/B": "204.0",
       "Name": "方文廣"
     },
     {
       "Rank": "CE",
-      "O/B": "29.0",
+      "O/B": "37.0",
       "Name": "葛經國"
     },
     {
       "Rank": "2E",
-      "O/B": "203.0",
+      "O/B": "5.0",
+      "Name": "徐詩倫"
+    },
+    {
+      "Rank": "2E",
+      "O/B": "211.0",
       "Name": "邱天生"
     },
     {
       "Rank": "3E",
-      "O/B": "75.0",
+      "O/B": "83.0",
       "Name": "吳晨瑋"
     },
     {
       "Rank": "3E",
-      "O/B": "29.0",
-      "Name": "林仁鈞"
-    },
-    {
-      "Rank": "3E",
-      "O/B": "87.0",
-      "Name": "張　亮"
-    },
-    {
-      "Rank": "3E",
-      "O/B": "201.0",
+      "O/B": "209.0",
       "Name": "張富翔"
     },
     {
       "Rank": "3E",
-      "O/B": "29.0",
-      "Name": "葉　凡"
+      "O/B": "95.0",
+      "Name": "張　亮"
+    },
+    {
+      "Rank": "3E",
+      "O/B": "37.0",
+      "Name": "林仁鈞"
     },
     {
       "Rank": "BS",
-      "O/B": "199.0",
+      "O/B": "5.0",
+      "Name": "劉德馨"
+    },
+    {
+      "Rank": "BS",
+      "O/B": "207.0",
       "Name": "DESPABELADERO,FELIX MARU"
     },
     {
       "Rank": "AB",
-      "O/B": "104.0",
-      "Name": "莫嘉輝"
+      "O/B": "5.0",
+      "Name": "CARAEL,JESSON MAKINANO"
     },
     {
       "Rank": "AB",
-      "O/B": "104.0",
+      "O/B": "112.0",
       "Name": "孫冠蘭"
     },
     {
       "Rank": "AB",
-      "O/B": "104.0",
+      "O/B": "83.0",
+      "Name": "CAMALES,KARL ANGELO CANSANCIO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "112.0",
       "Name": "劉躍東"
     },
     {
       "Rank": "AB",
-      "O/B": "75.0",
+      "O/B": "83.0",
       "Name": "ASPERO,JOEDEN DEOCERA"
     },
     {
       "Rank": "AB",
-      "O/B": "75.0",
-      "Name": "SADIWA,FRANCIS MORENO"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "75.0",
+      "O/B": "83.0",
       "Name": "戴　群"
     },
     {
       "Rank": "AB",
-      "O/B": "75.0",
-      "Name": "CAMALES,KARL ANGELO CANSANCIO"
+      "O/B": "83.0",
+      "Name": "SADIWA,FRANCIS MORENO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "112.0",
+      "Name": "莫嘉輝"
     },
     {
       "Rank": "FT",
-      "O/B": "199.0",
-      "Name": "夏財信"
+      "O/B": "5.0",
+      "Name": "劉志平"
     },
     {
       "Rank": "MM",
-      "O/B": "104.0",
+      "O/B": "112.0",
+      "Name": "李則明"
+    },
+    {
+      "Rank": "MM",
+      "O/B": "112.0",
       "Name": "田　鶴"
     },
     {
       "Rank": "MM",
-      "O/B": "199.0",
-      "Name": "李冠勳"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "104.0",
-      "Name": "李則明"
+      "O/B": "5.0",
+      "Name": "CARBONELL,CARVE JIM VERGARA"
     },
     {
       "Rank": "CA",
-      "O/B": "104.0",
+      "O/B": "112.0",
       "Name": "林海山"
     }
   ]

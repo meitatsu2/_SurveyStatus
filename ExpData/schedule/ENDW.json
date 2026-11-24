@@ -1,0 +1,98 @@
+{
+  "scode": "ENDW",
+  "last_updated": "2026-11-25",
+  "total_records": 13,
+  "records": [
+    {
+      "Line": "CES",
+      "Voyage": "0853-001W",
+      "Port Calling": "KRKJE",
+      "ETA Date/Time": "20270219/0000 (五)",
+      "ETD Date/Time": "20270219/0000"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0853-001W",
+      "Port Calling": "CNXGA",
+      "ETA Date/Time": "20270220/1300 (六)",
+      "ETD Date/Time": "20270220/1500"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0853-001W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20270221/0400 (日)",
+      "ETD Date/Time": "20270222/2200"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0853-001W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20270223/0800 (二)",
+      "ETD Date/Time": "20270225/1000"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0853-001W",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20270226/1800 (五)",
+      "ETD Date/Time": "20270227/1600"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0853-001W",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20270228/2200 (日)",
+      "ETD Date/Time": "20270302/0400"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0853-001W",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270305/1700 (五)",
+      "ETD Date/Time": "20270307/0200"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0853-001W",
+      "Port Calling": "LKCMB",
+      "ETA Date/Time": "20270311/1500 (四)",
+      "ETD Date/Time": "20270312/0500"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0853-001E",
+      "Port Calling": "GBFLX",
+      "ETA Date/Time": "20270406/1530 (二)",
+      "ETD Date/Time": "20270407/1900"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0853-001E",
+      "Port Calling": "BEANW",
+      "ETA Date/Time": "20270408/1500 (四)",
+      "ETD Date/Time": "20270410/1600"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0853-001E",
+      "Port Calling": "DEHBG",
+      "ETA Date/Time": "20270411/1700 (日)",
+      "ETD Date/Time": "20270414/1400"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0853-001E",
+      "Port Calling": "NLRDM",
+      "ETA Date/Time": "20270415/1200 (四)",
+      "ETD Date/Time": "20270418/1500"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0853-001E",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270517/2300 (一)",
+      "ETD Date/Time": "20270519/0800"
+    }
+  ]
+}

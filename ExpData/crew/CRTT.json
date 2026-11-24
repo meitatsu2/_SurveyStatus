@@ -1,106 +1,116 @@
 {
   "scode": "CRTT",
-  "last_updated": "2026-11-23",
-  "total_records": 20,
+  "last_updated": "2026-11-25",
+  "total_records": 22,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "98.0",
+      "O/B": "107.0",
       "Name": "KURNIAWAN,ADI BAGUS"
     },
     {
       "Rank": "1O",
-      "O/B": "51.0",
+      "O/B": "60.0",
       "Name": "SARAGIH,FIRMAN JHON LOLA"
     },
     {
       "Rank": "2O",
-      "O/B": "143.0",
+      "O/B": "152.0",
       "Name": "HANDUGAN,NOEL-PAUL CURIBA"
     },
     {
       "Rank": "3O",
-      "O/B": "143.0",
-      "Name": "BANIYA,ZENON ALIGUYON"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "98.0",
+      "O/B": "107.0",
       "Name": "PUTRA,ROCHMAT  BAYU BIMANTARA"
     },
     {
+      "Rank": "3O",
+      "O/B": "152.0",
+      "Name": "BANIYA,ZENON ALIGUYON"
+    },
+    {
       "Rank": "CE",
-      "O/B": "195.0",
+      "O/B": "204.0",
       "Name": "ETABAG,JOEBERT ALSAGA"
     },
     {
       "Rank": "2E",
-      "O/B": "75.0",
+      "O/B": "84.0",
       "Name": "WINARNO,ENDAR"
     },
     {
       "Rank": "3E",
-      "O/B": "98.0",
-      "Name": "MUZAKKAR,KAHAR"
-    },
-    {
-      "Rank": "3E",
-      "O/B": "75.0",
+      "O/B": "84.0",
       "Name": "PURWOKO,WAHYU AJI"
     },
     {
+      "Rank": "3E",
+      "O/B": "107.0",
+      "Name": "MUZAKKAR,KAHAR"
+    },
+    {
       "Rank": "4E",
-      "O/B": "98.0",
+      "O/B": "107.0",
       "Name": "LEONARDY,RENO"
     },
     {
       "Rank": "BS",
-      "O/B": "113.0",
+      "O/B": "122.0",
       "Name": "SOLOMON,TIRSO TABIQUE"
     },
     {
       "Rank": "AB",
-      "O/B": "143.0",
-      "Name": "MONTEMAYOR,EDGAR CARAEL"
+      "O/B": "107.0",
+      "Name": "FAIDZIN,KHOLIF  AMIR"
     },
     {
       "Rank": "AB",
-      "O/B": "143.0",
+      "O/B": "152.0",
       "Name": "BEGASO,JON MIKHAEL MAURICIO"
     },
     {
       "Rank": "AB",
-      "O/B": "143.0",
+      "O/B": "152.0",
       "Name": "OLANDRES,JOE CALIPH BALUYA"
     },
     {
       "Rank": "AB",
-      "O/B": "98.0",
-      "Name": "DWIJO,PRANOTO  ANTON"
+      "O/B": "152.0",
+      "Name": "MONTEMAYOR,EDGAR CARAEL"
     },
     {
       "Rank": "AB",
-      "O/B": "98.0",
-      "Name": "FAIDZIN,KHOLIF  AMIR"
+      "O/B": "107.0",
+      "Name": "DWIJO,PRANOTO  ANTON"
     },
     {
       "Rank": "OS",
-      "O/B": "113.0",
+      "O/B": "122.0",
       "Name": "ORANO,JHON ANTHONY JR. ANGUS"
     },
     {
       "Rank": "FT",
-      "O/B": "195.0",
+      "O/B": "204.0",
       "Name": "QUITELES,STEWART PASCUAL"
     },
     {
+      "Rank": "FT",
+      "O/B": "3.0",
+      "Name": "AGUSTIANDA,SABRI KARIM"
+    },
+    {
       "Rank": "MM",
-      "O/B": "195.0",
+      "O/B": "204.0",
       "Name": "SAMONTE,SPIKE POLICARPIO"
     },
     {
       "Rank": "CA",
-      "O/B": "195.0",
+      "O/B": "3.0",
+      "Name": "DJAMALUDIN"
+    },
+    {
+      "Rank": "CA",
+      "O/B": "204.0",
       "Name": "JALANDONI,JOHN MARLON SARACIN"
     }
   ]

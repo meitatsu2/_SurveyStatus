@@ -1,7 +1,7 @@
 {
   "scode": "EVOS",
-  "last_updated": "2026-11-23",
-  "total_records": 7,
+  "last_updated": "2026-11-25",
+  "total_records": 8,
   "records": [
     {
       "Line": "CES",
@@ -51,6 +51,13 @@
       "Port Calling": "SGSGP",
       "ETA Date/Time": "20270514/1700 (五)",
       "ETD Date/Time": "20270516/0200"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0863-001W",
+      "Port Calling": "LKCMB",
+      "ETA Date/Time": "20270520/1500 (四)",
+      "ETD Date/Time": "20270521/0500"
     }
   ]
 }

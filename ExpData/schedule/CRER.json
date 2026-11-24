@@ -1,8 +1,134 @@
 {
   "scode": "CRER",
-  "last_updated": "2026-11-23",
-  "total_records": 45,
+  "last_updated": "2026-11-25",
+  "total_records": 63,
   "records": [
+    {
+      "Line": "CAJ",
+      "Voyage": "0596-142S",
+      "Port Calling": "HTPAP",
+      "ETA Date/Time": "20260824/1300 (一)",
+      "ETD Date/Time": "20260826/1250"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0596-142S",
+      "Port Calling": "COBQL",
+      "ETA Date/Time": "20260828/1015 (五)",
+      "ETD Date/Time": "20260829/0549"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0597-143N",
+      "Port Calling": "PACCT",
+      "ETA Date/Time": "20260830/0642 (日)",
+      "ETD Date/Time": "20260831/0331"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0597-143N",
+      "Port Calling": "PAZJP",
+      "ETA Date/Time": "20260831/1942 (一)",
+      "ETD Date/Time": "20260831/2236"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0597-143S",
+      "Port Calling": "JMKSN",
+      "ETA Date/Time": "20260904/0100 (五)",
+      "ETD Date/Time": "20260904/1514"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0597-143S",
+      "Port Calling": "HTPAP",
+      "ETA Date/Time": "20260906/1218 (日)",
+      "ETD Date/Time": "20260908/1324"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0598-144N",
+      "Port Calling": "PACCT",
+      "ETA Date/Time": "20260910/1806 (四)",
+      "ETD Date/Time": "20260911/1300"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0598-144N",
+      "Port Calling": "PAZJP",
+      "ETA Date/Time": "20260912/2030 (六)",
+      "ETD Date/Time": "20260913/0230"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0598-144S",
+      "Port Calling": "JMKSN",
+      "ETA Date/Time": "20260914/2127 (一)",
+      "ETD Date/Time": "20260915/1118"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0598-144S",
+      "Port Calling": "HTPAP",
+      "ETA Date/Time": "20260916/1236 (三)",
+      "ETD Date/Time": "20260917/1606"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0599-145N",
+      "Port Calling": "PACCT",
+      "ETA Date/Time": "20260920/0716 (日)",
+      "ETD Date/Time": "20260921/0236"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0599-145S",
+      "Port Calling": "JMKSN",
+      "ETA Date/Time": "20260922/2054 (二)",
+      "ETD Date/Time": "20260923/1412"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0599-145S",
+      "Port Calling": "HTPAP",
+      "ETA Date/Time": "20260924/1302 (四)",
+      "ETD Date/Time": "20260926/1024"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0600-146N",
+      "Port Calling": "PACCT",
+      "ETA Date/Time": "20260928/1112 (一)",
+      "ETD Date/Time": "20260929/0327"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0600-146N",
+      "Port Calling": "JMKSN",
+      "ETA Date/Time": "20260930/2130 (三)",
+      "ETD Date/Time": "20261001/0555"
+    },
+    {
+      "Line": "WFS",
+      "Voyage": "1287-147S",
+      "Port Calling": "JMKSN",
+      "ETA Date/Time": "20261002/1200 (五)",
+      "ETD Date/Time": "20261025/1200"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0603-149S",
+      "Port Calling": "JMKSN",
+      "ETA Date/Time": "20261106/0354 (五)",
+      "ETD Date/Time": "20261106/1842"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0603-149S",
+      "Port Calling": "HTPAP",
+      "ETA Date/Time": "20261107/1854 (六)",
+      "ETD Date/Time": "20261109/1136"
+    },
     {
       "Line": "CAJ",
       "Voyage": "0604-150N",
@@ -28,295 +154,295 @@
       "Line": "CAJ",
       "Voyage": "0604-150S",
       "Port Calling": "HTPAP",
-      "ETA Date/Time": "20261116/0800 (一)",
-      "ETD Date/Time": "20261117/1800"
+      "ETA Date/Time": "20261116/1236 (一)",
+      "ETD Date/Time": "20261117/1200"
     },
     {
       "Line": "CAJ",
       "Voyage": "0604-150S",
       "Port Calling": "COBQL",
-      "ETA Date/Time": "20261119/1000 (四)",
-      "ETD Date/Time": "20261120/1200"
-    },
-    {
-      "Line": "CAJ",
-      "Voyage": "0605-151N",
-      "Port Calling": "PAZJP",
-      "ETA Date/Time": "20261121/0700 (六)",
-      "ETD Date/Time": "20261121/1300"
+      "ETA Date/Time": "20261120/1650 (五)",
+      "ETD Date/Time": "20261122/0920"
     },
     {
       "Line": "CAJ",
       "Voyage": "0605-151N",
       "Port Calling": "PACCT",
-      "ETA Date/Time": "20261121/2000 (六)",
-      "ETD Date/Time": "20261122/2100"
+      "ETA Date/Time": "20261123/1148 (一)",
+      "ETD Date/Time": "20261124/1448"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0605-151N",
+      "Port Calling": "PAZJP",
+      "ETA Date/Time": "20261125/0600 (三)",
+      "ETD Date/Time": "20261125/1200"
     },
     {
       "Line": "CAJ",
       "Voyage": "0605-151S",
       "Port Calling": "JMKSN",
-      "ETA Date/Time": "20261123/1500 (一)",
-      "ETD Date/Time": "20261124/0800"
+      "ETA Date/Time": "20261128/0500 (六)",
+      "ETD Date/Time": "20261128/2200"
     },
     {
       "Line": "CAJ",
       "Voyage": "0605-151S",
       "Port Calling": "HTPAP",
-      "ETA Date/Time": "20261125/0800 (三)",
-      "ETD Date/Time": "20261126/1800"
+      "ETA Date/Time": "20261129/0800 (日)",
+      "ETD Date/Time": "20261130/1800"
     },
     {
       "Line": "CAJ",
       "Voyage": "0606-152N",
       "Port Calling": "PAZJP",
-      "ETA Date/Time": "20261129/0700 (日)",
-      "ETD Date/Time": "20261129/1300"
+      "ETA Date/Time": "20261203/0700 (四)",
+      "ETD Date/Time": "20261203/1300"
     },
     {
       "Line": "CAJ",
       "Voyage": "0606-152N",
       "Port Calling": "PACCT",
-      "ETA Date/Time": "20261129/2000 (日)",
-      "ETD Date/Time": "20261130/2100"
+      "ETA Date/Time": "20261203/2000 (四)",
+      "ETD Date/Time": "20261204/2100"
     },
     {
       "Line": "CAJ",
       "Voyage": "0606-152S",
       "Port Calling": "JMKSN",
-      "ETA Date/Time": "20261202/1500 (三)",
-      "ETD Date/Time": "20261203/0800"
+      "ETA Date/Time": "20261206/1500 (日)",
+      "ETD Date/Time": "20261207/0800"
     },
     {
       "Line": "CAJ",
       "Voyage": "0606-152S",
       "Port Calling": "HTPAP",
-      "ETA Date/Time": "20261204/0800 (五)",
-      "ETD Date/Time": "20261205/1800"
+      "ETA Date/Time": "20261208/0800 (二)",
+      "ETD Date/Time": "20261209/1800"
     },
     {
       "Line": "CAJ",
       "Voyage": "0607-153N",
       "Port Calling": "PAZJP",
-      "ETA Date/Time": "20261208/0700 (二)",
-      "ETD Date/Time": "20261208/1300"
+      "ETA Date/Time": "20261211/0700 (五)",
+      "ETD Date/Time": "20261211/1300"
     },
     {
       "Line": "CAJ",
       "Voyage": "0607-153N",
       "Port Calling": "PACCT",
-      "ETA Date/Time": "20261208/2000 (二)",
-      "ETD Date/Time": "20261209/2100"
+      "ETA Date/Time": "20261211/2000 (五)",
+      "ETD Date/Time": "20261212/2100"
     },
     {
       "Line": "CAJ",
       "Voyage": "0607-153S",
       "Port Calling": "JMKSN",
-      "ETA Date/Time": "20261210/1430 (四)",
-      "ETD Date/Time": "20261211/0530"
+      "ETA Date/Time": "20261214/2200 (一)",
+      "ETD Date/Time": "20261215/1500"
     },
     {
       "Line": "CAJ",
       "Voyage": "0607-153S",
       "Port Calling": "HTPAP",
-      "ETA Date/Time": "20261212/1600 (六)",
-      "ETD Date/Time": "20261213/1700"
+      "ETA Date/Time": "20261216/1000 (三)",
+      "ETD Date/Time": "20261217/2000"
     },
     {
       "Line": "CAJ",
       "Voyage": "0608-154N",
       "Port Calling": "PAZJP",
-      "ETA Date/Time": "20261215/0500 (二)",
-      "ETD Date/Time": "20261215/1400"
+      "ETA Date/Time": "20261219/0700 (六)",
+      "ETD Date/Time": "20261219/1500"
     },
     {
       "Line": "CAJ",
       "Voyage": "0608-154N",
       "Port Calling": "PACCT",
-      "ETA Date/Time": "20261215/1600 (二)",
-      "ETD Date/Time": "20261216/1900"
+      "ETA Date/Time": "20261219/1800 (六)",
+      "ETD Date/Time": "20261220/1900"
     },
     {
       "Line": "CAJ",
       "Voyage": "0608-154S",
       "Port Calling": "JMKSN",
-      "ETA Date/Time": "20261218/1430 (五)",
-      "ETD Date/Time": "20261219/0530"
-    },
-    {
-      "Line": "CAJ",
-      "Voyage": "0608-154S",
-      "Port Calling": "HTPAP",
-      "ETA Date/Time": "20261220/1600 (日)",
-      "ETD Date/Time": "20261221/1700"
-    },
-    {
-      "Line": "CAJ",
-      "Voyage": "0609-155N",
-      "Port Calling": "PAZJP",
       "ETA Date/Time": "20261223/0500 (三)",
-      "ETD Date/Time": "20261223/1400"
+      "ETD Date/Time": "20261223/2200"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0608-154S",
+      "Port Calling": "HTPAP",
+      "ETA Date/Time": "20261225/1600 (五)",
+      "ETD Date/Time": "20261226/1700"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0609-155N",
+      "Port Calling": "PAZJP",
+      "ETA Date/Time": "20261228/0500 (一)",
+      "ETD Date/Time": "20261228/1400"
     },
     {
       "Line": "CAJ",
       "Voyage": "0609-155N",
       "Port Calling": "PACCT",
-      "ETA Date/Time": "20261223/1600 (三)",
-      "ETD Date/Time": "20261224/1900"
-    },
-    {
-      "Line": "CAJ",
-      "Voyage": "0609-155S",
-      "Port Calling": "JMKSN",
-      "ETA Date/Time": "20261226/1430 (六)",
-      "ETD Date/Time": "20261227/0530"
-    },
-    {
-      "Line": "CAJ",
-      "Voyage": "0609-155S",
-      "Port Calling": "HTPAP",
       "ETA Date/Time": "20261228/1600 (一)",
-      "ETD Date/Time": "20261229/1700"
+      "ETD Date/Time": "20261229/1900"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0609-155S",
+      "Port Calling": "JMKSN",
+      "ETA Date/Time": "20261231/1430 (四)",
+      "ETD Date/Time": "20270101/0530"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0609-155S",
+      "Port Calling": "HTPAP",
+      "ETA Date/Time": "20270102/1600 (六)",
+      "ETD Date/Time": "20270103/1700"
     },
     {
       "Line": "CAJ",
       "Voyage": "0610-156N",
       "Port Calling": "PAZJP",
-      "ETA Date/Time": "20261231/0500 (四)",
-      "ETD Date/Time": "20261231/1400"
+      "ETA Date/Time": "20270105/0500 (二)",
+      "ETD Date/Time": "20270105/1400"
     },
     {
       "Line": "CAJ",
       "Voyage": "0610-156N",
       "Port Calling": "PACCT",
-      "ETA Date/Time": "20261231/1600 (四)",
-      "ETD Date/Time": "20270101/1900"
-    },
-    {
-      "Line": "CAJ",
-      "Voyage": "0610-156S",
-      "Port Calling": "JMKSN",
-      "ETA Date/Time": "20270103/1430 (日)",
-      "ETD Date/Time": "20270104/0530"
-    },
-    {
-      "Line": "CAJ",
-      "Voyage": "0610-156S",
-      "Port Calling": "HTPAP",
       "ETA Date/Time": "20270105/1600 (二)",
-      "ETD Date/Time": "20270106/1700"
+      "ETD Date/Time": "20270106/1900"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0610-156S",
+      "Port Calling": "JMKSN",
+      "ETA Date/Time": "20270108/1430 (五)",
+      "ETD Date/Time": "20270109/0530"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0610-156S",
+      "Port Calling": "HTPAP",
+      "ETA Date/Time": "20270110/1600 (日)",
+      "ETD Date/Time": "20270111/1700"
     },
     {
       "Line": "CAJ",
       "Voyage": "0611-157N",
       "Port Calling": "PAZJP",
-      "ETA Date/Time": "20270108/0500 (五)",
-      "ETD Date/Time": "20270108/1400"
+      "ETA Date/Time": "20270113/0500 (三)",
+      "ETD Date/Time": "20270113/1400"
     },
     {
       "Line": "CAJ",
       "Voyage": "0611-157N",
       "Port Calling": "PACCT",
-      "ETA Date/Time": "20270108/1600 (五)",
-      "ETD Date/Time": "20270109/1900"
-    },
-    {
-      "Line": "CAJ",
-      "Voyage": "0611-157S",
-      "Port Calling": "JMKSN",
-      "ETA Date/Time": "20270111/1430 (一)",
-      "ETD Date/Time": "20270112/0530"
-    },
-    {
-      "Line": "CAJ",
-      "Voyage": "0611-157S",
-      "Port Calling": "HTPAP",
       "ETA Date/Time": "20270113/1600 (三)",
-      "ETD Date/Time": "20270114/1700"
+      "ETD Date/Time": "20270114/1900"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0611-157S",
+      "Port Calling": "JMKSN",
+      "ETA Date/Time": "20270116/1430 (六)",
+      "ETD Date/Time": "20270117/0530"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0611-157S",
+      "Port Calling": "HTPAP",
+      "ETA Date/Time": "20270118/1600 (一)",
+      "ETD Date/Time": "20270119/1700"
     },
     {
       "Line": "CAJ",
       "Voyage": "0612-158N",
       "Port Calling": "PAZJP",
-      "ETA Date/Time": "20270116/0500 (六)",
-      "ETD Date/Time": "20270116/1400"
+      "ETA Date/Time": "20270121/0500 (四)",
+      "ETD Date/Time": "20270121/1400"
     },
     {
       "Line": "CAJ",
       "Voyage": "0612-158N",
       "Port Calling": "PACCT",
-      "ETA Date/Time": "20270116/1600 (六)",
-      "ETD Date/Time": "20270117/1900"
-    },
-    {
-      "Line": "CAJ",
-      "Voyage": "0612-158S",
-      "Port Calling": "JMKSN",
-      "ETA Date/Time": "20270119/1430 (二)",
-      "ETD Date/Time": "20270120/0530"
-    },
-    {
-      "Line": "CAJ",
-      "Voyage": "0612-158S",
-      "Port Calling": "HTPAP",
       "ETA Date/Time": "20270121/1600 (四)",
-      "ETD Date/Time": "20270122/1700"
+      "ETD Date/Time": "20270122/1900"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0612-158S",
+      "Port Calling": "JMKSN",
+      "ETA Date/Time": "20270124/1430 (日)",
+      "ETD Date/Time": "20270125/0530"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0612-158S",
+      "Port Calling": "HTPAP",
+      "ETA Date/Time": "20270126/1600 (二)",
+      "ETD Date/Time": "20270127/1700"
     },
     {
       "Line": "CAJ",
       "Voyage": "0613-159N",
       "Port Calling": "PAZJP",
-      "ETA Date/Time": "20270124/0500 (日)",
-      "ETD Date/Time": "20270124/1400"
+      "ETA Date/Time": "20270129/0500 (五)",
+      "ETD Date/Time": "20270129/1400"
     },
     {
       "Line": "CAJ",
       "Voyage": "0613-159N",
       "Port Calling": "PACCT",
-      "ETA Date/Time": "20270124/1600 (日)",
-      "ETD Date/Time": "20270125/1900"
-    },
-    {
-      "Line": "CAJ",
-      "Voyage": "0613-159S",
-      "Port Calling": "JMKSN",
-      "ETA Date/Time": "20270127/1430 (三)",
-      "ETD Date/Time": "20270128/0530"
-    },
-    {
-      "Line": "CAJ",
-      "Voyage": "0613-159S",
-      "Port Calling": "HTPAP",
       "ETA Date/Time": "20270129/1600 (五)",
-      "ETD Date/Time": "20270130/1700"
+      "ETD Date/Time": "20270130/1900"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0613-159S",
+      "Port Calling": "JMKSN",
+      "ETA Date/Time": "20270201/1430 (一)",
+      "ETD Date/Time": "20270202/0530"
+    },
+    {
+      "Line": "CAJ",
+      "Voyage": "0613-159S",
+      "Port Calling": "HTPAP",
+      "ETA Date/Time": "20270203/1600 (三)",
+      "ETD Date/Time": "20270204/1700"
     },
     {
       "Line": "CAJ",
       "Voyage": "0614-160N",
       "Port Calling": "PAZJP",
-      "ETA Date/Time": "20270201/0500 (一)",
-      "ETD Date/Time": "20270201/1400"
+      "ETA Date/Time": "20270206/0500 (六)",
+      "ETD Date/Time": "20270206/1400"
     },
     {
       "Line": "CAJ",
       "Voyage": "0614-160N",
       "Port Calling": "PACCT",
-      "ETA Date/Time": "20270201/1600 (一)",
-      "ETD Date/Time": "20270202/1900"
+      "ETA Date/Time": "20270206/1600 (六)",
+      "ETD Date/Time": "20270207/1900"
     },
     {
       "Line": "CAJ",
       "Voyage": "0614-160S",
       "Port Calling": "JMKSN",
-      "ETA Date/Time": "20270204/1430 (四)",
-      "ETD Date/Time": "20270205/0530"
+      "ETA Date/Time": "20270209/1430 (二)",
+      "ETD Date/Time": "20270210/0530"
     },
     {
       "Line": "CAJ",
       "Voyage": "0614-160S",
       "Port Calling": "HTPAP",
-      "ETA Date/Time": "20270206/1600 (六)",
-      "ETD Date/Time": "20270207/1700"
+      "ETA Date/Time": "20270211/1600 (四)",
+      "ETD Date/Time": "20270212/1700"
     }
   ]
 }

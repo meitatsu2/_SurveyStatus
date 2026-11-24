@@ -1,141 +1,141 @@
 {
   "scode": "FRNK",
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-25",
   "total_records": 27,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "16.0",
+      "O/B": "24.0",
       "Name": "FRANCISCO, JOSE ASTILLERO"
     },
     {
       "Rank": "1O",
-      "O/B": "11.0",
+      "O/B": "19.0",
       "Name": "VILLAFUERTE, RAUL-JR. RAMOS"
     },
     {
       "Rank": "2O",
-      "O/B": "16.0",
+      "O/B": "24.0",
       "Name": "LUMAUIG, DEXTER VALENZUELA"
     },
     {
       "Rank": "3O",
-      "O/B": "179.0",
+      "O/B": "187.0",
       "Name": "QUINATADCAN,JURECAR ABAO"
     },
     {
       "Rank": "3O",
-      "O/B": "186.0",
+      "O/B": "194.0",
       "Name": "CRISTOBAL,NOEL HUQUERIZA"
     },
     {
       "Rank": "DC",
-      "O/B": "88.0",
-      "Name": "DELOS SANTOS,JOHN IRISH PADILLA"
-    },
-    {
-      "Rank": "DC",
-      "O/B": "88.0",
+      "O/B": "96.0",
       "Name": "DEVEZA,RHUIEN EISTER ABAD"
     },
     {
+      "Rank": "DC",
+      "O/B": "96.0",
+      "Name": "DELOS SANTOS,JOHN IRISH PADILLA"
+    },
+    {
       "Rank": "CE",
-      "O/B": "16.0",
+      "O/B": "24.0",
       "Name": "石銘宏"
     },
     {
       "Rank": "2E",
-      "O/B": "104.0",
+      "O/B": "112.0",
       "Name": "付　濤"
     },
     {
       "Rank": "3E",
-      "O/B": "189.0",
+      "O/B": "197.0",
       "Name": "LOPEZ,JEFF ARCEO"
     },
     {
       "Rank": "4E",
-      "O/B": "105.0",
-      "Name": "TINOY,PAUL MARK LORENZO"
-    },
-    {
-      "Rank": "4E",
-      "O/B": "179.0",
+      "O/B": "187.0",
       "Name": "SEBASTIAN,JOSHUA BERANIA"
     },
     {
+      "Rank": "4E",
+      "O/B": "113.0",
+      "Name": "TINOY,PAUL MARK LORENZO"
+    },
+    {
       "Rank": "J4E",
-      "O/B": "88.0",
+      "O/B": "96.0",
       "Name": "DUMANGAS,ALDRIN BALASA"
     },
     {
       "Rank": "BS",
-      "O/B": "88.0",
+      "O/B": "96.0",
       "Name": "CASTILLANO,JENIFER TERO"
     },
     {
       "Rank": "AB",
-      "O/B": "179.0",
-      "Name": "BARBOSA,RODEL ADOBO"
+      "O/B": "96.0",
+      "Name": "LINGAHAN,JOVIAL PERALES"
     },
     {
       "Rank": "AB",
-      "O/B": "179.0",
+      "O/B": "187.0",
       "Name": "ALPUERTO,ALBERTO TOMIAS"
     },
     {
       "Rank": "AB",
-      "O/B": "11.0",
-      "Name": "RETIRO, VINCENT SEMBRANO"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "11.0",
-      "Name": "SENTORIAS, ALAN ANIT"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "179.0",
+      "O/B": "187.0",
       "Name": "OBBUS,CHELITO ALINSUB"
     },
     {
       "Rank": "AB",
-      "O/B": "11.0",
-      "Name": "SUERTE, AL TENEBROSO"
+      "O/B": "19.0",
+      "Name": "SENTORIAS, ALAN ANIT"
     },
     {
       "Rank": "AB",
-      "O/B": "88.0",
-      "Name": "LINGAHAN,JOVIAL PERALES"
+      "O/B": "19.0",
+      "Name": "RETIRO, VINCENT SEMBRANO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "187.0",
+      "Name": "BARBOSA,RODEL ADOBO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "19.0",
+      "Name": "SUERTE, AL TENEBROSO"
     },
     {
       "Rank": "FT",
-      "O/B": "88.0",
+      "O/B": "96.0",
       "Name": "FERNANDEZ,JESUS-JR. MASIGA"
     },
     {
       "Rank": "MM",
-      "O/B": "179.0",
-      "Name": "FUENTES,ARVIN REY CAULA"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "88.0",
-      "Name": "LUISTRO,JONATHAN BAYANI"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "179.0",
+      "O/B": "187.0",
       "Name": "MUZONES,J.C. CARL GUMAYAN"
     },
     {
       "Rank": "MM",
-      "O/B": "179.0",
+      "O/B": "187.0",
       "Name": "DARIAGAN,RENEBOY DEGALA"
     },
     {
+      "Rank": "MM",
+      "O/B": "96.0",
+      "Name": "LUISTRO,JONATHAN BAYANI"
+    },
+    {
+      "Rank": "MM",
+      "O/B": "187.0",
+      "Name": "FUENTES,ARVIN REY CAULA"
+    },
+    {
       "Rank": "CA",
-      "O/B": "179.0",
+      "O/B": "187.0",
       "Name": "CASAURAN,RAYMOND JAY DE JESUS"
     }
   ]

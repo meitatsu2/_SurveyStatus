@@ -1,126 +1,131 @@
 {
   "scode": "ECLT",
-  "last_updated": "2026-11-23",
-  "total_records": 24,
+  "last_updated": "2026-11-25",
+  "total_records": 25,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "53.0",
-      "Name": "呂佩緻"
-    },
-    {
-      "Rank": "MS",
-      "O/B": "97.0",
+      "O/B": "105.0",
       "Name": "劉曉強"
     },
     {
+      "Rank": "MS",
+      "O/B": "61.0",
+      "Name": "呂佩緻"
+    },
+    {
       "Rank": "1O",
-      "O/B": "97.0",
+      "O/B": "105.0",
       "Name": "机恩加"
     },
     {
       "Rank": "2O",
-      "O/B": "97.0",
+      "O/B": "105.0",
+      "Name": "陳厚凱"
+    },
+    {
+      "Rank": "2O",
+      "O/B": "105.0",
       "Name": "謝　譯"
     },
     {
       "Rank": "2O",
-      "O/B": "97.0",
+      "O/B": "105.0",
       "Name": "李昆原"
     },
     {
-      "Rank": "2O",
-      "O/B": "97.0",
-      "Name": "陳厚凱"
-    },
-    {
       "Rank": "CE",
-      "O/B": "136.0",
+      "O/B": "144.0",
       "Name": "林信宏"
     },
     {
       "Rank": "2E",
-      "O/B": "136.0",
+      "O/B": "144.0",
       "Name": "陳鵬文"
     },
     {
       "Rank": "3E",
-      "O/B": "136.0",
+      "O/B": "144.0",
       "Name": "李皓迪"
     },
     {
+      "Rank": "3E",
+      "O/B": "4.0",
+      "Name": "蕭允然"
+    },
+    {
       "Rank": "4E",
-      "O/B": "136.0",
+      "O/B": "144.0",
       "Name": "陳聖和"
     },
     {
       "Rank": "4E",
-      "O/B": "136.0",
+      "O/B": "144.0",
       "Name": "呂昆龍"
     },
     {
       "Rank": "BS",
-      "O/B": "97.0",
+      "O/B": "105.0",
       "Name": "許嘉峰"
     },
     {
       "Rank": "AB",
-      "O/B": "70.0",
-      "Name": "林哲維"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "70.0",
-      "Name": "許志聖"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "70.0",
+      "O/B": "78.0",
       "Name": "DAVASOL,ARIEL DIVIDA"
     },
     {
       "Rank": "AB",
-      "O/B": "70.0",
+      "O/B": "78.0",
       "Name": "RUSTIA,ARNIE CONCHAS"
     },
     {
       "Rank": "AB",
-      "O/B": "70.0",
+      "O/B": "61.0",
+      "Name": "ROA,RICK IVAN DAGAAS"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "78.0",
+      "Name": "許志聖"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "78.0",
+      "Name": "林哲維"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "78.0",
       "Name": "蔡漢禹"
     },
     {
       "Rank": "AB",
-      "O/B": "70.0",
+      "O/B": "78.0",
       "Name": "MORENO,RANDY CATURAO"
     },
     {
-      "Rank": "AB",
-      "O/B": "53.0",
-      "Name": "ROA,RICK IVAN DAGAAS"
-    },
-    {
       "Rank": "FT",
-      "O/B": "97.0",
+      "O/B": "105.0",
       "Name": "陳聯登"
     },
     {
       "Rank": "MM",
-      "O/B": "70.0",
-      "Name": "欒中笛"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "132.0",
+      "O/B": "140.0",
       "Name": "蔡育宗"
     },
     {
       "Rank": "MM",
-      "O/B": "70.0",
+      "O/B": "78.0",
+      "Name": "欒中笛"
+    },
+    {
+      "Rank": "MM",
+      "O/B": "78.0",
       "Name": "林志臻"
     },
     {
       "Rank": "CA",
-      "O/B": "70.0",
+      "O/B": "78.0",
       "Name": "蔡新煬"
     }
   ]

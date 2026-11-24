@@ -1,141 +1,136 @@
 {
   "scode": "FTUR",
-  "last_updated": "2026-11-23",
-  "total_records": 27,
+  "last_updated": "2026-11-25",
+  "total_records": 26,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "11.0",
+      "O/B": "19.0",
       "Name": "BANGA,MYRNARD SUSAYA"
     },
     {
       "Rank": "1O",
-      "O/B": "172.0",
+      "O/B": "180.0",
       "Name": "ILUSTRISIMO,JOHN VINCENT CAASI"
     },
     {
       "Rank": "2O",
-      "O/B": "172.0",
+      "O/B": "180.0",
       "Name": "ROSOS,RAYMUND ROSELL"
     },
     {
       "Rank": "3O",
-      "O/B": "78.0",
-      "Name": "TUMAPANG,JOSE II GANABON"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "11.0",
+      "O/B": "19.0",
       "Name": "ALMASA,EDMUND MONJAS"
     },
     {
+      "Rank": "3O",
+      "O/B": "86.0",
+      "Name": "TUMAPANG,JOSE II GANABON"
+    },
+    {
       "Rank": "DC",
-      "O/B": "78.0",
+      "O/B": "86.0",
       "Name": "ABAYARI,HEZRON QUIJANO"
     },
     {
       "Rank": "DC",
-      "O/B": "78.0",
+      "O/B": "86.0",
       "Name": "AQUITANIA,JERICHO AVILA"
     },
     {
       "Rank": "CE",
-      "O/B": "11.0",
+      "O/B": "19.0",
       "Name": "HABAWEL,BENJAMIN JR UMILA"
     },
     {
-      "Rank": "CE",
-      "O/B": "246.0",
-      "Name": "MARQUEZ,ADONIS PANERGO"
-    },
-    {
       "Rank": "2E",
-      "O/B": "31.0",
+      "O/B": "39.0",
       "Name": "ALORRO, ALEXIS GOMEZ"
     },
     {
       "Rank": "3E",
-      "O/B": "31.0",
+      "O/B": "39.0",
       "Name": "BARICUATRO, KENNETH IAN PIGUERO"
     },
     {
       "Rank": "4E",
-      "O/B": "172.0",
-      "Name": "CORPUZ,JOB MANGNGIC"
-    },
-    {
-      "Rank": "4E",
-      "O/B": "172.0",
+      "O/B": "180.0",
       "Name": "QUINATADCAN,EDWARD LASOTA"
     },
     {
+      "Rank": "4E",
+      "O/B": "180.0",
+      "Name": "CORPUZ,JOB MANGNGIC"
+    },
+    {
       "Rank": "J4E",
-      "O/B": "172.0",
+      "O/B": "180.0",
       "Name": "OSMA,JAILO KEAN NOTA"
     },
     {
       "Rank": "BS",
-      "O/B": "31.0",
+      "O/B": "39.0",
       "Name": "MAGDADARO, HANS CATADMAN"
     },
     {
       "Rank": "AB",
-      "O/B": "11.0",
-      "Name": "NICOR,MEL ALFON ESPUERTA"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "78.0",
-      "Name": "RENUENA,JHON ARBEN VALENZONA"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "31.0",
-      "Name": "TIMBAS, BRENT RYAN TORDA"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "78.0",
-      "Name": "ZUNIGA,ZANDRO MIGUEL POLECINA"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "11.0",
+      "O/B": "19.0",
       "Name": "NIDEA,JEFREY MERCADERO"
     },
     {
       "Rank": "AB",
-      "O/B": "11.0",
+      "O/B": "86.0",
+      "Name": "ZUNIGA,ZANDRO MIGUEL POLECINA"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "19.0",
       "Name": "MUNAR,NORMAN RAY PASCUA"
     },
     {
+      "Rank": "AB",
+      "O/B": "39.0",
+      "Name": "TIMBAS, BRENT RYAN TORDA"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "19.0",
+      "Name": "NICOR,MEL ALFON ESPUERTA"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "86.0",
+      "Name": "RENUENA,JHON ARBEN VALENZONA"
+    },
+    {
       "Rank": "OS",
-      "O/B": "31.0",
+      "O/B": "39.0",
       "Name": "RODRIGO, ERICSON ESPARDINEZ"
     },
     {
       "Rank": "FT",
-      "O/B": "172.0",
+      "O/B": "180.0",
       "Name": "DOROMAL,JUDELIN MABAYAG"
     },
     {
       "Rank": "MM",
-      "O/B": "160.0",
-      "Name": "APARECE,SETH PADILLO"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "78.0",
+      "O/B": "86.0",
       "Name": "FALEJO,DICK CHRISTIAN TORRES"
     },
     {
       "Rank": "MM",
-      "O/B": "78.0",
+      "O/B": "168.0",
+      "Name": "APARECE,SETH PADILLO"
+    },
+    {
+      "Rank": "MM",
+      "O/B": "86.0",
       "Name": "ACOBERA,GLEN DELA MERCED"
     },
     {
       "Rank": "CA",
-      "O/B": "78.0",
+      "O/B": "86.0",
       "Name": "RESICO,PETER JONES IGHARAS"
     }
   ]
