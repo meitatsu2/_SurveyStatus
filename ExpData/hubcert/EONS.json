@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER EON",
   "VSL_CODE": "EONS",
-  "last_updated": "2026-11-23",
-  "total_records": 2,
+  "last_updated": "2026-11-25",
+  "total_records": 1,
   "records": [
     {
       "DUE_DATE": "2026/12/07",
@@ -11,14 +11,6 @@
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
       "REMARK": "Please Schedule / Arrange Work// 預計11月回亞洲安排施作"
-    },
-    {
-      "DUE_DATE": "2026/12/29",
-      "CODE": "CB18",
-      "NAME": "CARGO GEAR A/S",
-      "SCHEDULE_DATE": "2026/11/16",
-      "PLANNED_PORT": "SGSGP",
-      "REMARK": "Please Update Record / Arrange Work// 已向ABS提出申請"
     }
   ]
 }

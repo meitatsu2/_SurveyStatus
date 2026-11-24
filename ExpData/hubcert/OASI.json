@@ -1,17 +1,9 @@
 {
   "VESSEL": "EVER OASIS",
   "VSL_CODE": "OASI",
-  "last_updated": "2026-11-23",
-  "total_records": 10,
+  "last_updated": "2026-11-25",
+  "total_records": 9,
   "records": [
-    {
-      "DUE_DATE": "2026/12/01",
-      "CODE": "CE07",
-      "NAME": "VDR FLOAT-FREE HRU",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Arrange Work//"
-    },
     {
       "DUE_DATE": "2027/01/01",
       "CODE": "CE12",

@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER WISE",
   "VSL_CODE": "WISE",
-  "last_updated": "2026-11-23",
-  "total_records": 9,
+  "last_updated": "2026-11-25",
+  "total_records": 10,
   "records": [
     {
       "DUE_DATE": "2027/01/20",
@@ -72,6 +72,14 @@
       "DUE_DATE": "2027/02/17",
       "CODE": "CF18",
       "NAME": "P.F.E. DP ANNUAL",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
+    },
+    {
+      "DUE_DATE": "2027/02/22",
+      "CODE": "CD01",
+      "NAME": "SSCEC",
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
       "REMARK": ""

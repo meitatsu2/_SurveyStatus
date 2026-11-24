@@ -1,17 +1,9 @@
 {
   "VESSEL": "EVER ETHIC",
   "VSL_CODE": "ETIC",
-  "last_updated": "2026-11-23",
-  "total_records": 6,
+  "last_updated": "2026-11-25",
+  "total_records": 5,
   "records": [
-    {
-      "DUE_DATE": "2026/12/01",
-      "CODE": "CE10",
-      "NAME": "EPIRB HRU",
-      "SCHEDULE_DATE": "2026/11/21",
-      "PLANNED_PORT": "MYPKL",
-      "REMARK": "Please Update Record / Rearrange Work// 計畫安排MYPKL"
-    },
     {
       "DUE_DATE": "2027/01/11",
       "CODE": "CB18",

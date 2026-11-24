@@ -1,7 +1,7 @@
 {
   "VESSEL": "EVER WIZ",
   "VSL_CODE": "WIZZ",
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-25",
   "total_records": 14,
   "records": [
     {
@@ -10,7 +10,7 @@
       "NAME": "CARGO GEAR A/S",
       "SCHEDULE_DATE": "2026/11/22",
       "PLANNED_PORT": "TWKSG",
-      "REMARK": "Please Update Record / Rearrange Work// 已向ABS提出檢驗申請"
+      "REMARK": "Please Update Record / Rearrange Work// 已向ABS提出檢驗申請，20261128於TWKSG進行檢驗"
     },
     {
       "DUE_DATE": "2027/02/20",

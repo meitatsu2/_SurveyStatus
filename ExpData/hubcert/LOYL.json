@@ -1,17 +1,9 @@
 {
   "VESSEL": "EVER LOYAL",
   "VSL_CODE": "LOYL",
-  "last_updated": "2026-11-23",
-  "total_records": 10,
+  "last_updated": "2026-11-25",
+  "total_records": 9,
   "records": [
-    {
-      "DUE_DATE": "2027/01/07",
-      "CODE": "CF01",
-      "NAME": "LIFERAFSHIPT CERT.",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Arrange Work//"
-    },
     {
       "DUE_DATE": "2027/01/08",
       "CODE": "CB18",

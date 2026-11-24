@@ -1,8 +1,8 @@
 {
   "VESSEL": "UNI-PREMIER",
   "VSL_CODE": "PRMR",
-  "last_updated": "2026-11-23",
-  "total_records": 4,
+  "last_updated": "2026-11-25",
+  "total_records": 5,
   "records": [
     {
       "DUE_DATE": "2026/12/03",
@@ -35,6 +35,14 @@
       "SCHEDULE_DATE": "2027/01/31",
       "PLANNED_PORT": "TWKSG",
       "REMARK": "PRMR26S13601R1 安排於202701進行換證"
+    },
+    {
+      "DUE_DATE": "2027/02/22",
+      "CODE": "CE13",
+      "NAME": "LRIT ANNUAL CONFORMANCE TEST (FOR PANAMA FLAG ONLY)",
+      "SCHEDULE_DATE": "",
+      "PLANNED_PORT": "",
+      "REMARK": ""
     }
   ]
 }

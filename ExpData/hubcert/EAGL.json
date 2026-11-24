@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER EAGLE",
   "VSL_CODE": "EAGL",
-  "last_updated": "2026-11-23",
-  "total_records": 13,
+  "last_updated": "2026-11-25",
+  "total_records": 9,
   "records": [
     {
       "DUE_DATE": "2026/12/30",
@@ -11,38 +11,6 @@
       "SCHEDULE_DATE": "",
       "PLANNED_PORT": "",
       "REMARK": "Please Schedule / Arrange Work//"
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CODE": "CE03",
-      "NAME": "VDR ANNUAL INSP.",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": ""
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CODE": "CE08",
-      "NAME": "EPIRB ANNUAL INSP.",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": ""
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CODE": "CF21",
-      "NAME": "LIFEBOAT A/S",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": ""
-    },
-    {
-      "DUE_DATE": "2027/01/31",
-      "CODE": "CF23",
-      "NAME": "LIFEBOAT DAVIT & WINCH A/S",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": ""
     },
     {
       "DUE_DATE": "2027/02/12",

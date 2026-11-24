@@ -1,17 +1,9 @@
 {
   "VESSEL": "EVER ORIENT",
   "VSL_CODE": "OENT",
-  "last_updated": "2026-11-23",
-  "total_records": 5,
+  "last_updated": "2026-11-25",
+  "total_records": 4,
   "records": [
-    {
-      "DUE_DATE": "2027/01/04",
-      "CODE": "CF19",
-      "NAME": "P.F.E. DP CHARGE",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Arrange Work//"
-    },
     {
       "DUE_DATE": "2027/01/10",
       "CODE": "CF06",

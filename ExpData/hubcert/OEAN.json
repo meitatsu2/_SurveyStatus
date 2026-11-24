@@ -1,33 +1,9 @@
 {
   "VESSEL": "EVER OCEAN",
   "VSL_CODE": "OEAN",
-  "last_updated": "2026-11-23",
-  "total_records": 7,
+  "last_updated": "2026-11-25",
+  "total_records": 4,
   "records": [
-    {
-      "DUE_DATE": "2026/11/14",
-      "CODE": "CF19",
-      "NAME": "P.F.E. DP CHARGE",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Update Record / Rearrange Work//"
-    },
-    {
-      "DUE_DATE": "2026/12/11",
-      "CODE": "CE02",
-      "NAME": "MAGNETIC COMPASS ANNUAL ADJ.",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Arrange Work// 預計20250105 TWKSG更新(工單已發)"
-    },
-    {
-      "DUE_DATE": "2026/12/11",
-      "CODE": "CF01",
-      "NAME": "LIFERAFSHIPT CERT.",
-      "SCHEDULE_DATE": "2025/01/01",
-      "PLANNED_PORT": "TWKSG",
-      "REMARK": "Please Update Record / Rearrange Work// 預計20250105 TWKS更新."
-    },
     {
       "DUE_DATE": "2027/01/01",
       "CODE": "CC03",

@@ -1,7 +1,7 @@
 {
   "VESSEL": "EVER BLINK",
   "VSL_CODE": "BLNK",
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-25",
   "total_records": 3,
   "records": [
     {
@@ -10,7 +10,7 @@
       "NAME": "SSCEC",
       "SCHEDULE_DATE": "2026/11/24",
       "PLANNED_PORT": "IDSUB",
-      "REMARK": "預計安排11/24 IDSUB施作。"
+      "REMARK": "Please Update Record / Rearrange Work// 預計安排11/24 IDSUB施作。"
     },
     {
       "DUE_DATE": "2026/12/19",

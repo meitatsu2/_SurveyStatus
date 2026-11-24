@@ -1,8 +1,8 @@
 {
   "VESSEL": "EVER FOREVER",
   "VSL_CODE": "FRVR",
-  "last_updated": "2026-11-23",
-  "total_records": 3,
+  "last_updated": "2026-11-25",
+  "total_records": 2,
   "records": [
     {
       "DUE_DATE": "2026/11/20",
@@ -11,14 +11,6 @@
       "SCHEDULE_DATE": "2026/11/21",
       "PLANNED_PORT": "KRPUS",
       "REMARK": "Please Update Record / Rearrange Work// 已申請展延，並預計安排隨船至釜山20261123"
-    },
-    {
-      "DUE_DATE": "2027/01/01",
-      "CODE": "CE10",
-      "NAME": "EPIRB HRU",
-      "SCHEDULE_DATE": "",
-      "PLANNED_PORT": "",
-      "REMARK": "Please Schedule / Arrange Work//"
     },
     {
       "DUE_DATE": "2027/01/06",
