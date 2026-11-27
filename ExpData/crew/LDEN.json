@@ -1,127 +1,127 @@
 {
   "scode": "LDEN",
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-27",
   "total_records": 24,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "9.0",
+      "O/B": "19.0",
       "Name": "李大勝"
     },
     {
       "Rank": "1O",
-      "O/B": "80.0",
+      "O/B": "90.0",
       "Name": "SARIEGO,EDGAR ORJALEZA"
     },
     {
       "Rank": "2O",
-      "O/B": "204.0",
+      "O/B": "214.0",
       "Name": "DAPITAN,WALTER BAYON"
     },
     {
       "Rank": "3O",
-      "O/B": "204.0",
-      "Name": "GALERO,EARL GLENN TIMON"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "176.0",
+      "O/B": "186.0",
       "Name": "豐萬年"
     },
     {
-      "Rank": "DC",
-      "O/B": "120.0",
-      "Name": "田衛東"
+      "Rank": "3O",
+      "O/B": "5.0",
+      "Name": "MARTILLANO, OSCAR TAGUDIN"
     },
     {
       "Rank": "DC",
-      "O/B": "120.0",
+      "O/B": "130.0",
       "Name": "陳慧龍"
     },
     {
+      "Rank": "DC",
+      "O/B": "130.0",
+      "Name": "田衛東"
+    },
+    {
       "Rank": "CE",
-      "O/B": "205.0",
+      "O/B": "215.0",
       "Name": "SILVA,ROMAN SALINAS"
     },
     {
       "Rank": "2E",
-      "O/B": "153.0",
+      "O/B": "163.0",
       "Name": "CEPE,JOHN MICHAEL VILLADARES"
     },
     {
       "Rank": "3E",
-      "O/B": "153.0",
+      "O/B": "163.0",
       "Name": "MARQUEZ,JOEMARIE PANERGO"
     },
     {
       "Rank": "4E",
-      "O/B": "153.0",
-      "Name": "CORTEZ,RANDALL ARIN TAGUILING"
-    },
-    {
-      "Rank": "4E",
-      "O/B": "80.0",
+      "O/B": "90.0",
       "Name": "OLIDAN,JEROME AGUSTIN"
     },
     {
+      "Rank": "4E",
+      "O/B": "163.0",
+      "Name": "CORTEZ,RANDALL ARIN TAGUILING"
+    },
+    {
       "Rank": "EC",
-      "O/B": "107.0",
+      "O/B": "117.0",
       "Name": "DESQUITADO,RODEL SALCEDO"
     },
     {
       "Rank": "BS",
-      "O/B": "205.0",
-      "Name": "CASAREO,RAZZEL LORCA"
+      "O/B": "5.0",
+      "Name": "GINGOYON, PERICLES GONZALES"
     },
     {
       "Rank": "AB",
-      "O/B": "115.0",
-      "Name": "宋成飛"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "107.0",
-      "Name": "TORREDONDO,JAYSON PASILAN"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "6.0",
-      "Name": "李　磊"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "115.0",
+      "O/B": "125.0",
       "Name": "石軍磊"
     },
     {
       "Rank": "AB",
-      "O/B": "107.0",
+      "O/B": "117.0",
+      "Name": "TORREDONDO,JAYSON PASILAN"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "117.0",
       "Name": "HINGO,FRANCIS COLUBIO"
     },
     {
+      "Rank": "AB",
+      "O/B": "125.0",
+      "Name": "宋成飛"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "16.0",
+      "Name": "李　磊"
+    },
+    {
       "Rank": "OS",
-      "O/B": "6.0",
+      "O/B": "16.0",
       "Name": "馬　君"
     },
     {
       "Rank": "FT",
-      "O/B": "205.0",
-      "Name": "BONDUQUIN,JIM MACATANGAY"
+      "O/B": "5.0",
+      "Name": "VERO, VICTOR RAMADA"
     },
     {
       "Rank": "MM",
-      "O/B": "204.0",
+      "O/B": "214.0",
       "Name": "VILLAREZ,NAPOLEON ANG"
     },
     {
       "Rank": "JMM",
-      "O/B": "204.0",
+      "O/B": "214.0",
       "Name": "ANIT,RYAN CHRISTOPHER ANUB"
     },
     {
       "Rank": "CA",
-      "O/B": "204.0",
-      "Name": "ULNAGAN,NORMAN BUNAO"
+      "O/B": "5.0",
+      "Name": "MADERAZO, CRISTOPHER ENCINAS"
     }
   ]
 }

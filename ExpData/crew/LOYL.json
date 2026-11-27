@@ -1,131 +1,116 @@
 {
   "scode": "LOYL",
-  "last_updated": "2026-11-25",
-  "total_records": 25,
+  "last_updated": "2026-11-27",
+  "total_records": 22,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "65.0",
+      "O/B": "75.0",
       "Name": "鄭俊杰"
     },
     {
       "Rank": "1O",
-      "O/B": "150.0",
+      "O/B": "160.0",
       "Name": "王　毅"
     },
     {
       "Rank": "2O",
-      "O/B": "65.0",
+      "O/B": "75.0",
       "Name": "潘芊瑞"
     },
     {
       "Rank": "3O",
-      "O/B": "150.0",
-      "Name": "王竣昱"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "65.0",
+      "O/B": "75.0",
       "Name": "楊鈞皓"
     },
     {
+      "Rank": "3O",
+      "O/B": "160.0",
+      "Name": "王竣昱"
+    },
+    {
       "Rank": "5O(T5O)",
-      "O/B": "125.0",
+      "O/B": "135.0",
       "Name": "邱德瑜"
     },
     {
       "Rank": "CE",
-      "O/B": "65.0",
+      "O/B": "75.0",
       "Name": "陳冠宏"
     },
     {
       "Rank": "2E",
-      "O/B": "133.0",
+      "O/B": "143.0",
       "Name": "陳泓儒"
     },
     {
       "Rank": "3E",
-      "O/B": "141.0",
+      "O/B": "151.0",
       "Name": "CASTRO,TIMOTHY GARCIA"
     },
     {
       "Rank": "4E",
-      "O/B": "1.0",
+      "O/B": "9.0",
       "Name": "張晏輔"
     },
     {
-      "Rank": "4E",
-      "O/B": "229.0",
-      "Name": "黃凱羣"
-    },
-    {
       "Rank": "5E(T5E)",
-      "O/B": "125.0",
-      "Name": "劉宇賢"
-    },
-    {
-      "Rank": "5E(T5E)",
-      "O/B": "1.0",
+      "O/B": "9.0",
       "Name": "黃仁賢"
     },
     {
+      "Rank": "5E(T5E)",
+      "O/B": "135.0",
+      "Name": "劉宇賢"
+    },
+    {
       "Rank": "BS",
-      "O/B": "16.0",
+      "O/B": "26.0",
       "Name": "王銀穫"
     },
     {
       "Rank": "AB",
-      "O/B": "87.0",
-      "Name": "RACELIS,WILHELM  ENCANTO"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "133.0",
-      "Name": "林宏洋"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "87.0",
-      "Name": "REMADA,NHIEL PATRICK SELIBIO"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "1.0",
-      "Name": "張啓芳"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "1.0",
+      "O/B": "9.0",
       "Name": "王善弘"
     },
     {
       "Rank": "AB",
-      "O/B": "229.0",
-      "Name": "黃健豪"
+      "O/B": "97.0",
+      "Name": "REMADA,NHIEL PATRICK SELIBIO"
     },
     {
       "Rank": "AB",
-      "O/B": "16.0",
+      "O/B": "9.0",
+      "Name": "張啓芳"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "26.0",
       "Name": "ZAPANZA, FRANCIS JOHN BANDIOLA"
     },
     {
       "Rank": "AB",
-      "O/B": "229.0",
-      "Name": "賴俊瑋"
+      "O/B": "97.0",
+      "Name": "RACELIS,WILHELM  ENCANTO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "143.0",
+      "Name": "林宏洋"
     },
     {
       "Rank": "FT",
-      "O/B": "150.0",
+      "O/B": "160.0",
       "Name": "邱盟訓"
     },
     {
       "Rank": "MM",
-      "O/B": "16.0",
-      "Name": "施明宏"
+      "O/B": "6.0",
+      "Name": "孫明濬"
     },
     {
       "Rank": "CA",
-      "O/B": "150.0",
+      "O/B": "160.0",
       "Name": "林伊要"
     }
   ]

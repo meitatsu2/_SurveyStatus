@@ -1,8 +1,57 @@
 {
   "scode": "LTUS",
-  "last_updated": "2026-11-25",
-  "total_records": 14,
+  "last_updated": "2026-11-27",
+  "total_records": 23,
   "records": [
+    {
+      "Line": "WSA",
+      "Voyage": "0792-071W",
+      "Port Calling": "PECAL",
+      "ETA Date/Time": "20260902/1254 (三)",
+      "ETD Date/Time": "20260903/1445"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0792-071W",
+      "Port Calling": "CLVAL",
+      "ETA Date/Time": "20260907/1942 (一)",
+      "ETD Date/Time": "20260908/1452"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0792-071W",
+      "Port Calling": "COBVT",
+      "ETA Date/Time": "20260917/2036 (四)",
+      "ETD Date/Time": "20260919/2208"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0026-072E",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261013/2150 (二)",
+      "ETD Date/Time": "20261015/1925"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0026-072E",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261017/0210 (六)",
+      "ETD Date/Time": "20261018/0105"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0026-072E",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20261018/2226 (日)",
+      "ETD Date/Time": "20261019/1950"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0026-072E",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261026/0630 (一)",
+      "ETD Date/Time": "20261027/1030"
+    },
     {
       "Line": "OGWC",
       "Voyage": "0026-072W",
@@ -14,15 +63,29 @@
       "Line": "OGWC",
       "Voyage": "0026-072W",
       "Port Calling": "CNNBO",
-      "ETA Date/Time": "20261127/1400 (五)",
-      "ETD Date/Time": "20261128/2000"
+      "ETA Date/Time": "20261203/0900 (四)",
+      "ETD Date/Time": "20261203/1900"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0026-072W",
+      "Port Calling": "CNVZJ",
+      "ETA Date/Time": "20261204/0900 (五)",
+      "ETD Date/Time": "20261205/1500"
     },
     {
       "Line": "OGWC",
       "Voyage": "0026-072W",
       "Port Calling": "CNQND",
-      "ETA Date/Time": "20261130/0400 (一)",
-      "ETD Date/Time": "20261201/0400"
+      "ETA Date/Time": "20261207/0600 (一)",
+      "ETD Date/Time": "20261209/0600"
+    },
+    {
+      "Line": "WFS",
+      "Voyage": "1292-073S",
+      "Port Calling": "CNQND",
+      "ETA Date/Time": "20261210/1200 (四)",
+      "ETD Date/Time": "20270109/1200"
     },
     {
       "Line": "OGRD",

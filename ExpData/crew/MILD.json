@@ -1,136 +1,136 @@
 {
   "scode": "MILD",
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-27",
   "total_records": 26,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "164.0",
+      "O/B": "173.0",
       "Name": "吳仁傑"
     },
     {
       "Rank": "1O",
-      "O/B": "11.0",
+      "O/B": "20.0",
       "Name": "高慶霖"
     },
     {
       "Rank": "2O",
-      "O/B": "22.0",
+      "O/B": "31.0",
       "Name": "馬遠濤"
     },
     {
       "Rank": "3O",
-      "O/B": "121.0",
+      "O/B": "130.0",
       "Name": "楊　波"
     },
     {
       "Rank": "3O",
-      "O/B": "128.0",
+      "O/B": "137.0",
       "Name": "洪笥宸"
     },
     {
       "Rank": "DC",
-      "O/B": "64.0",
-      "Name": "李良駿"
-    },
-    {
-      "Rank": "DC",
-      "O/B": "64.0",
+      "O/B": "73.0",
       "Name": "張　杰"
     },
     {
+      "Rank": "DC",
+      "O/B": "73.0",
+      "Name": "李良駿"
+    },
+    {
       "Rank": "CE",
-      "O/B": "128.0",
+      "O/B": "137.0",
       "Name": "李　安"
     },
     {
       "Rank": "2E",
-      "O/B": "85.0",
+      "O/B": "94.0",
       "Name": "馬　越"
     },
     {
       "Rank": "3E",
-      "O/B": "141.0",
+      "O/B": "150.0",
       "Name": "周錦平"
     },
     {
       "Rank": "4E",
-      "O/B": "85.0",
-      "Name": "呂朝陽"
-    },
-    {
-      "Rank": "4E",
-      "O/B": "85.0",
+      "O/B": "94.0",
       "Name": "田夢威"
     },
     {
+      "Rank": "4E",
+      "O/B": "94.0",
+      "Name": "呂朝陽"
+    },
+    {
       "Rank": "EC",
-      "O/B": "64.0",
+      "O/B": "73.0",
       "Name": "彭　清"
     },
     {
       "Rank": "BS",
-      "O/B": "125.0",
+      "O/B": "134.0",
       "Name": "夏見中"
     },
     {
       "Rank": "AB",
-      "O/B": "85.0",
+      "O/B": "94.0",
       "Name": "PITO,JAY MARK SALA-AN"
     },
     {
       "Rank": "AB",
-      "O/B": "85.0",
-      "Name": "REQUIRON,JAE BUTCH ARRIOLA"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "125.0",
-      "Name": "PROVIDO,RONEL DIVINAGRACIA"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "6.0",
-      "Name": "謝峻印"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "6.0",
+      "O/B": "15.0",
       "Name": "ARGALLON,REINHARD GENOBAGA"
     },
     {
       "Rank": "AB",
-      "O/B": "125.0",
+      "O/B": "94.0",
+      "Name": "REQUIRON,JAE BUTCH ARRIOLA"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "15.0",
+      "Name": "謝峻印"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "134.0",
       "Name": "RUIZ,CHARLES DOMINGO"
     },
     {
       "Rank": "AB",
-      "O/B": "125.0",
+      "O/B": "134.0",
       "Name": "MANAMTAM,ROMEL REMODO"
     },
     {
+      "Rank": "AB",
+      "O/B": "134.0",
+      "Name": "PROVIDO,RONEL DIVINAGRACIA"
+    },
+    {
       "Rank": "FT",
-      "O/B": "70.0",
+      "O/B": "79.0",
       "Name": "劉繼福"
     },
     {
       "Rank": "MM",
-      "O/B": "141.0",
+      "O/B": "150.0",
       "Name": "張家銘"
     },
     {
       "Rank": "MM",
-      "O/B": "6.0",
-      "Name": "劉　洋"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "22.0",
+      "O/B": "31.0",
       "Name": "PINON,MAYNARD VILORIA"
     },
     {
+      "Rank": "MM",
+      "O/B": "15.0",
+      "Name": "劉　洋"
+    },
+    {
       "Rank": "CA",
-      "O/B": "85.0",
+      "O/B": "94.0",
       "Name": "邱孟鶴"
     }
   ]

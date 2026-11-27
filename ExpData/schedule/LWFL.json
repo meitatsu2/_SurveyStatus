@@ -1,42 +1,98 @@
 {
   "scode": "LWFL",
-  "last_updated": "2026-11-25",
-  "total_records": 15,
+  "last_updated": "2026-11-27",
+  "total_records": 23,
   "records": [
+    {
+      "Line": "WSA",
+      "Voyage": "0798-073E",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20260830/1448 (日)",
+      "ETD Date/Time": "20260831/1935"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0798-073E",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260901/1545 (二)",
+      "ETD Date/Time": "20260903/1025"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0798-073E",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20260910/2230 (四)",
+      "ETD Date/Time": "20260912/0030"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0798-073W",
+      "Port Calling": "MXMZO",
+      "ETA Date/Time": "20261005/1026 (一)",
+      "ETD Date/Time": "20261007/2158"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0798-073W",
+      "Port Calling": "PABBA",
+      "ETA Date/Time": "20261014/1200 (三)",
+      "ETD Date/Time": "20261015/0725"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0798-073W",
+      "Port Calling": "COBVT",
+      "ETA Date/Time": "20261016/0912 (五)",
+      "ETD Date/Time": "20261017/2048"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0798-073W",
+      "Port Calling": "PECAL",
+      "ETA Date/Time": "20261021/1242 (三)",
+      "ETD Date/Time": "20261022/2329"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0798-073W",
+      "Port Calling": "CLVAL",
+      "ETA Date/Time": "20261026/0554 (一)",
+      "ETD Date/Time": "20261027/0615"
+    },
     {
       "Line": "WSA",
       "Voyage": "0811-074E",
       "Port Calling": "HKHKG",
-      "ETA Date/Time": "20261123/1400 (一)",
-      "ETD Date/Time": "20261124/2000"
+      "ETA Date/Time": "20261123/1335 (一)",
+      "ETD Date/Time": "20261124/1605"
     },
     {
       "Line": "WSA",
       "Voyage": "0811-074E",
       "Port Calling": "CNYYT",
-      "ETA Date/Time": "20261125/0400 (三)",
-      "ETD Date/Time": "20261126/1000"
+      "ETA Date/Time": "20261127/1200 (五)",
+      "ETD Date/Time": "20261128/1600"
     },
     {
       "Line": "WSA",
       "Voyage": "0811-074E",
       "Port Calling": "TWKSG",
-      "ETA Date/Time": "20261127/1000 (五)",
-      "ETD Date/Time": "20261128/0400"
+      "ETA Date/Time": "20261129/1500 (日)",
+      "ETD Date/Time": "20261130/0900"
     },
     {
       "Line": "WSA",
       "Voyage": "0811-074E",
       "Port Calling": "CNSHG",
-      "ETA Date/Time": "20261129/1800 (日)",
-      "ETD Date/Time": "20261130/1000"
+      "ETA Date/Time": "20261202/0000 (三)",
+      "ETD Date/Time": "20261202/1600"
     },
     {
       "Line": "WSA",
       "Voyage": "0811-074E",
       "Port Calling": "CNNBO",
-      "ETA Date/Time": "20261201/0000 (二)",
-      "ETD Date/Time": "20261201/2000"
+      "ETA Date/Time": "20261203/0400 (四)",
+      "ETD Date/Time": "20261204/0000"
     },
     {
       "Line": "WSA",

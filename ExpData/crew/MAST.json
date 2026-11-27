@@ -1,131 +1,131 @@
 {
   "scode": "MAST",
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-27",
   "total_records": 25,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "6.0",
+      "O/B": "15.0",
       "Name": "孫昌光"
     },
     {
       "Rank": "1O",
-      "O/B": "98.0",
+      "O/B": "107.0",
       "Name": "AURELIO,HADRIAN TAMAYO"
     },
     {
       "Rank": "2O",
-      "O/B": "10.0",
+      "O/B": "19.0",
       "Name": "LAPORE,ROBERT DUMILAG"
     },
     {
       "Rank": "2O",
-      "O/B": "100.0",
+      "O/B": "109.0",
       "Name": "RAVENA,KENNETH CHAN"
     },
     {
       "Rank": "3O",
-      "O/B": "12.0",
+      "O/B": "21.0",
       "Name": "CARAGAN, AARON CAYAGO"
     },
     {
       "Rank": "DC",
-      "O/B": "10.0",
+      "O/B": "19.0",
       "Name": "VILLANUEVA,CHRISTIAN JADE MANHIPUS"
     },
     {
       "Rank": "CE",
-      "O/B": "12.0",
+      "O/B": "21.0",
       "Name": "劉軍工"
     },
     {
       "Rank": "2E",
-      "O/B": "6.0",
+      "O/B": "15.0",
       "Name": "王建烽"
     },
     {
       "Rank": "3E",
-      "O/B": "10.0",
+      "O/B": "19.0",
       "Name": "紀亮亮"
     },
     {
       "Rank": "4E",
-      "O/B": "100.0",
+      "O/B": "109.0",
       "Name": "侯京鑫"
     },
     {
       "Rank": "4E",
-      "O/B": "100.0",
+      "O/B": "109.0",
       "Name": "邱　攀"
     },
     {
       "Rank": "EC",
-      "O/B": "10.0",
+      "O/B": "19.0",
       "Name": "廖浩翔"
     },
     {
       "Rank": "BS",
-      "O/B": "100.0",
+      "O/B": "109.0",
       "Name": "VENZUELA,RAMILO VELUZ"
     },
     {
       "Rank": "AB",
-      "O/B": "91.0",
-      "Name": "楊文曉"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "98.0",
+      "O/B": "107.0",
       "Name": "PIEZAS,NEIL VILLAHERMOSA"
     },
     {
       "Rank": "AB",
-      "O/B": "91.0",
-      "Name": "周紀平"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "91.0",
+      "O/B": "100.0",
       "Name": "陸　健"
     },
     {
       "Rank": "AB",
-      "O/B": "10.0",
+      "O/B": "19.0",
       "Name": "CARDINO,RAYMUND CHRISTIAN ALPAY"
     },
     {
       "Rank": "AB",
-      "O/B": "100.0",
+      "O/B": "107.0",
+      "Name": "BAYADOG,PRIMITIVO BARIARCAL"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "109.0",
       "Name": "CALIBO,ANTHONY JUN PADAYHAG"
     },
     {
       "Rank": "AB",
-      "O/B": "98.0",
-      "Name": "BAYADOG,PRIMITIVO BARIARCAL"
+      "O/B": "100.0",
+      "Name": "楊文曉"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "100.0",
+      "Name": "周紀平"
     },
     {
       "Rank": "FT",
-      "O/B": "6.0",
+      "O/B": "15.0",
       "Name": "劉　干"
     },
     {
       "Rank": "MM",
-      "O/B": "6.0",
+      "O/B": "15.0",
       "Name": "黃子恩"
     },
     {
       "Rank": "MM",
-      "O/B": "100.0",
+      "O/B": "109.0",
       "Name": "SOLDEVILLA,JOHN CUNANAN"
     },
     {
       "Rank": "JMM",
-      "O/B": "6.0",
+      "O/B": "15.0",
       "Name": "黃銘毅"
     },
     {
       "Rank": "CA",
-      "O/B": "100.0",
+      "O/B": "109.0",
       "Name": "張世林"
     }
   ]

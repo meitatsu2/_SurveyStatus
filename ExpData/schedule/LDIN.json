@@ -1,8 +1,78 @@
 {
   "scode": "LDIN",
-  "last_updated": "2026-11-25",
-  "total_records": 15,
+  "last_updated": "2026-11-27",
+  "total_records": 25,
   "records": [
+    {
+      "Line": "OGES",
+      "Voyage": "0043-084E",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20260904/0245 (五)",
+      "ETD Date/Time": "20260904/2310"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0800-085E",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20260908/0840 (二)",
+      "ETD Date/Time": "20260909/2141"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0800-085E",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20260910/1810 (四)",
+      "ETD Date/Time": "20260912/0305"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0800-085E",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260913/1250 (日)",
+      "ETD Date/Time": "20260914/1225"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0800-085E",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20260923/0230 (三)",
+      "ETD Date/Time": "20260924/0200"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0800-085W",
+      "Port Calling": "MXMZO",
+      "ETA Date/Time": "20261019/1809 (一)",
+      "ETD Date/Time": "20261021/1452"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0800-085W",
+      "Port Calling": "PABBA",
+      "ETA Date/Time": "20261027/0542 (二)",
+      "ETD Date/Time": "20261028/0855"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0800-085W",
+      "Port Calling": "COBVT",
+      "ETA Date/Time": "20261029/1912 (四)",
+      "ETD Date/Time": "20261031/2036"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0800-085W",
+      "Port Calling": "PECAL",
+      "ETA Date/Time": "20261104/0154 (三)",
+      "ETD Date/Time": "20261105/1325"
+    },
+    {
+      "Line": "WSA",
+      "Voyage": "0800-085W",
+      "Port Calling": "CLVAL",
+      "ETA Date/Time": "20261109/0500 (一)",
+      "ETD Date/Time": "20261110/0550"
+    },
     {
       "Line": "WSA",
       "Voyage": "0814-086E",

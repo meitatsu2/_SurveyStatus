@@ -1,141 +1,141 @@
 {
   "scode": "LODG",
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-27",
   "total_records": 27,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "15.0",
+      "O/B": "25.0",
       "Name": "仲飛龍"
     },
     {
       "Rank": "1O",
-      "O/B": "15.0",
+      "O/B": "25.0",
       "Name": "ANDRES,LINBERT REBOLDERA"
     },
     {
       "Rank": "2O",
-      "O/B": "178.0",
+      "O/B": "188.0",
       "Name": "RAMAS,RICARDO"
     },
     {
       "Rank": "3O",
-      "O/B": "99.0",
-      "Name": "SALVACION,GUIL DIN ARIOLA"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "5.0",
+      "O/B": "15.0",
       "Name": "王　濤"
     },
     {
+      "Rank": "3O",
+      "O/B": "109.0",
+      "Name": "SALVACION,GUIL DIN ARIOLA"
+    },
+    {
       "Rank": "DC",
-      "O/B": "100.0",
+      "O/B": "110.0",
       "Name": "RANDELL,BILLY NOEL"
     },
     {
       "Rank": "DC",
-      "O/B": "100.0",
+      "O/B": "110.0",
       "Name": "PRINCE,WILLIAM MICHAEL"
     },
     {
       "Rank": "CE",
-      "O/B": "82.0",
+      "O/B": "92.0",
       "Name": "房明景"
     },
     {
       "Rank": "2E",
-      "O/B": "169.0",
+      "O/B": "179.0",
       "Name": "胡海默"
     },
     {
       "Rank": "3E",
-      "O/B": "58.0",
+      "O/B": "68.0",
       "Name": "SAMERA,JAN CLARENCE MACASERO"
     },
     {
       "Rank": "4E",
-      "O/B": "15.0",
+      "O/B": "25.0",
       "Name": "PERIO,JEROME MANLICLIC"
     },
     {
       "Rank": "J4E",
-      "O/B": "178.0",
+      "O/B": "188.0",
       "Name": "ABULOCION,JEROME BARRANCO"
     },
     {
       "Rank": "EC",
-      "O/B": "99.0",
-      "Name": "BALICAO,EUFER KEITH BULAO"
-    },
-    {
-      "Rank": "EC",
-      "O/B": "169.0",
-      "Name": "欒傳奇"
-    },
-    {
-      "Rank": "EC",
-      "O/B": "5.0",
+      "O/B": "15.0",
       "Name": "辛坤洲"
     },
     {
       "Rank": "EC",
-      "O/B": "99.0",
+      "O/B": "179.0",
+      "Name": "欒傳奇"
+    },
+    {
+      "Rank": "EC",
+      "O/B": "109.0",
       "Name": "ABOLI,CHRISTIAN JUDE AGPAWAN"
     },
     {
+      "Rank": "EC",
+      "O/B": "109.0",
+      "Name": "BALICAO,EUFER KEITH BULAO"
+    },
+    {
       "Rank": "BS",
-      "O/B": "15.0",
+      "O/B": "25.0",
       "Name": "高扎根"
     },
     {
       "Rank": "AB",
-      "O/B": "169.0",
-      "Name": "左春峰"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "82.0",
-      "Name": "王效偉"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "82.0",
+      "O/B": "92.0",
       "Name": "張財華"
     },
     {
       "Rank": "AB",
-      "O/B": "169.0",
+      "O/B": "179.0",
+      "Name": "左春峰"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "179.0",
       "Name": "任肖雄"
     },
     {
       "Rank": "AB",
-      "O/B": "178.0",
+      "O/B": "188.0",
       "Name": "NUEVA,DARYLL VASQUEZ"
     },
     {
+      "Rank": "AB",
+      "O/B": "92.0",
+      "Name": "王效偉"
+    },
+    {
       "Rank": "OS",
-      "O/B": "15.0",
+      "O/B": "25.0",
       "Name": "JUAN,JEROME ANGANGAN"
     },
     {
       "Rank": "FT",
-      "O/B": "15.0",
+      "O/B": "25.0",
       "Name": "TEGIO,JOAMIL DEL ROSARIO"
     },
     {
       "Rank": "MM",
-      "O/B": "99.0",
+      "O/B": "109.0",
       "Name": "DALUGDUG,DAVE NINO ADAPTAR"
     },
     {
       "Rank": "JMM",
-      "O/B": "99.0",
+      "O/B": "109.0",
       "Name": "TAJONERA,VOLTER MANTES"
     },
     {
       "Rank": "CA",
-      "O/B": "99.0",
+      "O/B": "109.0",
       "Name": "OBMERGA,JEOSECO BON REJANO"
     }
   ]

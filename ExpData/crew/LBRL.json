@@ -1,147 +1,132 @@
 {
   "scode": "LBRL",
-  "last_updated": "2026-11-25",
-  "total_records": 28,
+  "last_updated": "2026-11-27",
+  "total_records": 25,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "8.0",
+      "O/B": "18.0",
       "Name": "GUIMARAY,PIO LEONES"
     },
     {
       "Rank": "1O",
-      "O/B": "105.0",
+      "O/B": "115.0",
       "Name": "CENA,ERICK PABLEA"
     },
     {
       "Rank": "2O",
-      "O/B": "8.0",
+      "O/B": "18.0",
       "Name": "ARGAMASO,VICTOR JUN DELMONTE"
     },
     {
       "Rank": "3O",
-      "O/B": "8.0",
+      "O/B": "18.0",
       "Name": "RAQUEDAN,LAURENCE SARMIENTO"
     },
     {
       "Rank": "3O",
-      "O/B": "105.0",
+      "O/B": "115.0",
       "Name": "RESTON,ROMERO RODRIGO"
     },
     {
       "Rank": "DC",
-      "O/B": "8.0",
+      "O/B": "18.0",
       "Name": "MARSHALL, TOMOS MATHOLWCH"
     },
     {
       "Rank": "DC",
-      "O/B": "8.0",
+      "O/B": "18.0",
       "Name": "ALGHANEM, MUDHAFAR AHMED MANSOOR NASER"
     },
     {
       "Rank": "CE",
-      "O/B": "8.0",
+      "O/B": "18.0",
       "Name": "LARON,MARK-ANTHONY PAYO"
     },
     {
-      "Rank": "CE",
-      "O/B": "261.0",
-      "Name": "TORRES,KIM NOWEL AVILA"
-    },
-    {
       "Rank": "2E",
-      "O/B": "261.0",
+      "O/B": "271.0",
       "Name": "ASUNCION,GENESIS ADAWEY"
     },
     {
       "Rank": "3E",
-      "O/B": "8.0",
+      "O/B": "18.0",
       "Name": "SAWADAN,JYLEX SHAYNE ALNGAG"
     },
     {
       "Rank": "4E",
-      "O/B": "8.0",
+      "O/B": "18.0",
       "Name": "SIMANGAN,BENZ DAVE CANONIZADO"
     },
     {
       "Rank": "J4E",
-      "O/B": "8.0",
+      "O/B": "18.0",
       "Name": "PRANGAN,IAN STEEVE PAGALA"
     },
     {
       "Rank": "EC",
-      "O/B": "105.0",
+      "O/B": "115.0",
       "Name": "BASA,TRISTAN JOHN TULAUAN"
     },
     {
       "Rank": "EC",
-      "O/B": "105.0",
+      "O/B": "115.0",
       "Name": "VARGAS,GEO-BENCE LANADA"
     },
     {
       "Rank": "BS",
-      "O/B": "8.0",
+      "O/B": "18.0",
       "Name": "DE LEON,GEORGE PAGTALUNAN"
     },
     {
       "Rank": "AB",
-      "O/B": "184.0",
-      "Name": "MAJADAS,MARC LOU TAMPOS"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "105.0",
-      "Name": "ALAJID,DIOSDADO REYES"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "8.0",
-      "Name": "SOLUTA,IAN PECATE"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "105.0",
+      "O/B": "115.0",
       "Name": "CAGAS,JOHN GILBERT MACALOS"
     },
     {
       "Rank": "AB",
-      "O/B": "96.0",
+      "O/B": "194.0",
+      "Name": "MAJADAS,MARC LOU TAMPOS"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "18.0",
+      "Name": "SOLUTA,IAN PECATE"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "106.0",
       "Name": "DAVID,NIKO REYES"
     },
     {
+      "Rank": "AB",
+      "O/B": "115.0",
+      "Name": "ALAJID,DIOSDADO REYES"
+    },
+    {
       "Rank": "OS",
-      "O/B": "96.0",
+      "O/B": "106.0",
       "Name": "GARCIA,JOMARY CASTILLEJO"
     },
     {
       "Rank": "FT",
-      "O/B": "184.0",
-      "Name": "MANGAHAS,ROMUALDO MARTIN"
-    },
-    {
-      "Rank": "FT",
-      "O/B": "8.0",
+      "O/B": "18.0",
       "Name": "PARALLEON,BERNARDO ENCANTO"
     },
     {
       "Rank": "MM",
-      "O/B": "184.0",
-      "Name": "ESPOSADO,BENJIE EDANG"
+      "O/B": "6.0",
+      "Name": "DELA CERNA,JUN-JUN CAGATAN"
     },
     {
       "Rank": "MM",
-      "O/B": "8.0",
+      "O/B": "18.0",
       "Name": "TALABONG,JHONE CARLO TALISIC"
     },
     {
-      "Rank": "MM",
-      "O/B": "178.0",
-      "Name": "ARTAJO,JAN ANTHONY LONGAKIT"
-    },
-    {
       "Rank": "CA",
-      "O/B": "178.0",
-      "Name": "SALAYO,DANTE LADINES"
+      "O/B": "6.0",
+      "Name": "ASTILLO,MANUELO JR SUMBELING"
     }
   ]
 }

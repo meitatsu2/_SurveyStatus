@@ -1,136 +1,146 @@
 {
   "scode": "MAXI",
-  "last_updated": "2026-11-25",
-  "total_records": 26,
+  "last_updated": "2026-11-27",
+  "total_records": 28,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "182.0",
+      "O/B": "191.0",
       "Name": "曾信培"
     },
     {
       "Rank": "1O",
-      "O/B": "88.0",
+      "O/B": "97.0",
       "Name": "張　勇"
     },
     {
       "Rank": "2O",
-      "O/B": "182.0",
+      "O/B": "191.0",
       "Name": "韓　威"
     },
     {
       "Rank": "3O",
-      "O/B": "173.0",
-      "Name": "梅仁凱"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "79.0",
+      "O/B": "88.0",
       "Name": "李　韓"
     },
     {
-      "Rank": "DC",
-      "O/B": "167.0",
-      "Name": "馮宇鑫"
+      "Rank": "3O",
+      "O/B": "182.0",
+      "Name": "梅仁凱"
     },
     {
       "Rank": "DC",
-      "O/B": "167.0",
+      "O/B": "176.0",
       "Name": "劉　俊"
     },
     {
+      "Rank": "DC",
+      "O/B": "176.0",
+      "Name": "馮宇鑫"
+    },
+    {
       "Rank": "CE",
-      "O/B": "182.0",
+      "O/B": "191.0",
       "Name": "張全翔"
     },
     {
+      "Rank": "CE",
+      "O/B": "7.0",
+      "Name": "曲殿成"
+    },
+    {
       "Rank": "2E",
-      "O/B": "141.0",
+      "O/B": "150.0",
       "Name": "羅凱駿"
     },
     {
       "Rank": "3E",
-      "O/B": "82.0",
-      "Name": "ESPANOLA,ARNEL JOSEPH SAYO"
+      "O/B": "7.0",
+      "Name": "CRISOSTOMO, EMMANUEL JOHN DELA CRUZ"
     },
     {
       "Rank": "4E",
-      "O/B": "170.0",
+      "O/B": "179.0",
       "Name": "王彥翔"
     },
     {
       "Rank": "4E",
-      "O/B": "82.0",
+      "O/B": "91.0",
       "Name": "周鼎欽"
     },
     {
+      "Rank": "4E",
+      "O/B": "7.0",
+      "Name": "LAYOG, LUKE JEMUEL JACOBE"
+    },
+    {
       "Rank": "BS",
-      "O/B": "91.0",
+      "O/B": "100.0",
       "Name": "NARDO,JIMMIE MABIOG"
     },
     {
       "Rank": "AB",
-      "O/B": "182.0",
-      "Name": "PERALTA,ARNOLD CRISOSTOMO"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "170.0",
-      "Name": "謝宗友"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "170.0",
-      "Name": "黃政澤"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "182.0",
-      "Name": "RODILLO,JAN MARBEN ORIOLA"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "170.0",
+      "O/B": "179.0",
       "Name": "何書維"
     },
     {
       "Rank": "AB",
-      "O/B": "182.0",
+      "O/B": "179.0",
+      "Name": "黃政澤"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "191.0",
       "Name": "CASTILLO,RYAN-ROY DIGDIGAN"
     },
     {
+      "Rank": "AB",
+      "O/B": "179.0",
+      "Name": "謝宗友"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "191.0",
+      "Name": "PERALTA,ARNOLD CRISOSTOMO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "191.0",
+      "Name": "RODILLO,JAN MARBEN ORIOLA"
+    },
+    {
       "Rank": "OS",
-      "O/B": "74.0",
+      "O/B": "83.0",
       "Name": "余林坤"
     },
     {
       "Rank": "FT",
-      "O/B": "74.0",
+      "O/B": "83.0",
       "Name": "陳榮桂"
     },
     {
       "Rank": "MM",
-      "O/B": "74.0",
-      "Name": "房小森"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "79.0",
-      "Name": "張令啟"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "79.0",
+      "O/B": "88.0",
       "Name": "謝易展"
     },
     {
       "Rank": "MM",
-      "O/B": "173.0",
+      "O/B": "88.0",
+      "Name": "張令啟"
+    },
+    {
+      "Rank": "MM",
+      "O/B": "83.0",
+      "Name": "房小森"
+    },
+    {
+      "Rank": "MM",
+      "O/B": "182.0",
       "Name": "LUCERO,KEATON REEVE OLALDE"
     },
     {
       "Rank": "CA",
-      "O/B": "91.0",
+      "O/B": "100.0",
       "Name": "黃喬一"
     }
   ]

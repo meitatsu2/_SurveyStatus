@@ -1,126 +1,136 @@
 {
   "scode": "LWFL",
-  "last_updated": "2026-11-25",
-  "total_records": 24,
+  "last_updated": "2026-11-27",
+  "total_records": 26,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "173.0",
+      "O/B": "183.0",
       "Name": "盧小東"
     },
     {
       "Rank": "1O",
-      "O/B": "264.0",
-      "Name": "朱家良"
+      "O/B": "5.0",
+      "Name": "李岱達"
     },
     {
       "Rank": "2O",
-      "O/B": "85.0",
+      "O/B": "95.0",
       "Name": "RAMOS,ROLANDO JR. SALUDES"
     },
     {
       "Rank": "3O",
-      "O/B": "163.0",
+      "O/B": "173.0",
       "Name": "FRANCO,CHRISTIAN LACAP"
     },
     {
       "Rank": "3O",
-      "O/B": "80.0",
+      "O/B": "90.0",
       "Name": "孫雨朋"
     },
     {
       "Rank": "DC",
-      "O/B": "154.0",
+      "O/B": "164.0",
       "Name": "慕超凡"
     },
     {
       "Rank": "CE",
-      "O/B": "166.0",
+      "O/B": "176.0",
       "Name": "王安虎"
     },
     {
       "Rank": "2E",
-      "O/B": "166.0",
+      "O/B": "5.0",
+      "Name": "劉　剛"
+    },
+    {
+      "Rank": "2E",
+      "O/B": "5.0",
+      "Name": "胡成成"
+    },
+    {
+      "Rank": "2E",
+      "O/B": "176.0",
       "Name": "易　曦"
     },
     {
       "Rank": "3E",
-      "O/B": "154.0",
+      "O/B": "164.0",
       "Name": "朱　濤"
     },
     {
       "Rank": "4E",
-      "O/B": "155.0",
+      "O/B": "165.0",
       "Name": "梁偉彬"
     },
     {
       "Rank": "EC",
-      "O/B": "80.0",
+      "O/B": "90.0",
       "Name": "張新宇"
     },
     {
       "Rank": "EC",
-      "O/B": "166.0",
-      "Name": "賈子軒"
-    },
-    {
-      "Rank": "EC",
-      "O/B": "80.0",
+      "O/B": "90.0",
       "Name": "陶　宇"
     },
     {
+      "Rank": "EC",
+      "O/B": "176.0",
+      "Name": "賈子軒"
+    },
+    {
       "Rank": "BS",
-      "O/B": "154.0",
+      "O/B": "164.0",
       "Name": "張超群"
     },
     {
       "Rank": "AB",
-      "O/B": "85.0",
+      "O/B": "95.0",
+      "Name": "BANOC,MARLON MORALES"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "95.0",
       "Name": "JAPSAY,REMEL MARTINEZ"
     },
     {
       "Rank": "AB",
-      "O/B": "154.0",
+      "O/B": "164.0",
       "Name": "韓海峰"
     },
     {
       "Rank": "AB",
-      "O/B": "85.0",
+      "O/B": "95.0",
       "Name": "JOVEN,LUCIANO-JR. VILLAREAL"
     },
     {
-      "Rank": "AB",
-      "O/B": "85.0",
-      "Name": "BANOC,MARLON MORALES"
-    },
-    {
       "Rank": "OS",
-      "O/B": "154.0",
-      "Name": "侯明亮"
-    },
-    {
-      "Rank": "OS",
-      "O/B": "80.0",
+      "O/B": "90.0",
       "Name": "許　超"
     },
     {
+      "Rank": "OS",
+      "O/B": "164.0",
+      "Name": "侯明亮"
+    },
+    {
       "Rank": "FT",
-      "O/B": "154.0",
+      "O/B": "164.0",
       "Name": "周利強"
     },
     {
       "Rank": "MM",
-      "O/B": "80.0",
+      "O/B": "90.0",
       "Name": "秦錫錕"
     },
     {
       "Rank": "JMM",
-      "O/B": "154.0",
+      "O/B": "164.0",
       "Name": "呂峻毅"
     },
     {
       "Rank": "CA",
-      "O/B": "80.0",
+      "O/B": "90.0",
       "Name": "崔響雷"
     }
   ]

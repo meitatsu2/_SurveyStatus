@@ -1,121 +1,121 @@
 {
   "scode": "MEGA",
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-27",
   "total_records": 23,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "82.0",
+      "O/B": "91.0",
       "Name": "王振仰"
     },
     {
       "Rank": "1O",
-      "O/B": "40.0",
-      "Name": "ARRIESGADO, JESSIE PALUMAR"
+      "O/B": "50.0",
+      "Name": "ARRIESGADO,JESSIE PALUMAR"
     },
     {
       "Rank": "2O",
-      "O/B": "30.0",
-      "Name": "VERANA, WILBERT PUEBLA"
-    },
-    {
-      "Rank": "2O",
-      "O/B": "247.0",
+      "O/B": "256.0",
       "Name": "田智軍"
     },
     {
+      "Rank": "2O",
+      "O/B": "39.0",
+      "Name": "VERANA, WILBERT PUEBLA"
+    },
+    {
       "Rank": "3O",
-      "O/B": "170.0",
+      "O/B": "179.0",
       "Name": "楊志科"
     },
     {
       "Rank": "CE",
-      "O/B": "117.0",
+      "O/B": "126.0",
       "Name": "陳　義"
     },
     {
       "Rank": "2E",
-      "O/B": "117.0",
+      "O/B": "126.0",
       "Name": "曾智榮"
     },
     {
       "Rank": "3E",
-      "O/B": "67.0",
+      "O/B": "76.0",
       "Name": "ATIOAN,TOMLAYON BANTAWAN"
     },
     {
       "Rank": "4E",
-      "O/B": "67.0",
-      "Name": "BUHONG,RALPH TUGUINAY"
-    },
-    {
-      "Rank": "4E",
-      "O/B": "137.0",
+      "O/B": "146.0",
       "Name": "程　柯"
     },
     {
+      "Rank": "4E",
+      "O/B": "76.0",
+      "Name": "BUHONG,RALPH TUGUINAY"
+    },
+    {
       "Rank": "BS",
-      "O/B": "67.0",
+      "O/B": "76.0",
       "Name": "GISON,RUFINO BA-AL"
     },
     {
       "Rank": "AB",
-      "O/B": "30.0",
-      "Name": "ALDABA, WINNIE PATRICIO"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "30.0",
-      "Name": "CANADA, RODOLFO-JR. BAYUBAY"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "67.0",
-      "Name": "LUNA,RHUMEL DE JULIAN"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "236.0",
+      "O/B": "245.0",
       "Name": "AGILLON,JAY R BUENO"
     },
     {
       "Rank": "AB",
-      "O/B": "236.0",
+      "O/B": "39.0",
+      "Name": "QUILAO, CONRADO BAUTISTA"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "39.0",
+      "Name": "ALDABA, WINNIE PATRICIO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "245.0",
       "Name": "VILLARUEL,GODOFREDO-JR. DEGOMA"
     },
     {
       "Rank": "AB",
-      "O/B": "30.0",
-      "Name": "QUILAO, CONRADO BAUTISTA"
+      "O/B": "76.0",
+      "Name": "LUNA,RHUMEL DE JULIAN"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "39.0",
+      "Name": "CANADA, RODOLFO-JR. BAYUBAY"
     },
     {
       "Rank": "OS",
-      "O/B": "170.0",
+      "O/B": "179.0",
       "Name": "PALER,JASON CAPAPAS"
     },
     {
       "Rank": "FT",
-      "O/B": "30.0",
+      "O/B": "39.0",
       "Name": "凌　剛"
     },
     {
       "Rank": "MM",
-      "O/B": "30.0",
+      "O/B": "39.0",
       "Name": "張德勝"
     },
     {
       "Rank": "MM",
-      "O/B": "67.0",
-      "Name": "JAQUIAS,ELMOR JR. POSADAS"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "67.0",
+      "O/B": "76.0",
       "Name": "DERAIN,JONATHAN BERTULFO"
     },
     {
+      "Rank": "MM",
+      "O/B": "76.0",
+      "Name": "JAQUIAS,ELMOR JR. POSADAS"
+    },
+    {
       "Rank": "CA",
-      "O/B": "30.0",
+      "O/B": "39.0",
       "Name": "于慶杰"
     }
   ]

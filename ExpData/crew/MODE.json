@@ -1,141 +1,151 @@
 {
   "scode": "MODE",
-  "last_updated": "2026-11-25",
-  "total_records": 27,
+  "last_updated": "2026-11-27",
+  "total_records": 29,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "177.0",
+      "O/B": "186.0",
       "Name": "唐國兵"
     },
     {
       "Rank": "1O",
-      "O/B": "191.0",
+      "O/B": "200.0",
       "Name": "郭開封"
     },
     {
-      "Rank": "2O",
-      "O/B": "103.0",
-      "Name": "張昊南"
+      "Rank": "1O",
+      "O/B": "1.0",
+      "Name": "張恒與"
     },
     {
       "Rank": "2O",
-      "O/B": "232.0",
+      "O/B": "241.0",
       "Name": "陳海濤"
     },
     {
+      "Rank": "2O",
+      "O/B": "112.0",
+      "Name": "張昊南"
+    },
+    {
       "Rank": "3O",
-      "O/B": "53.0",
+      "O/B": "62.0",
       "Name": "湯子康"
     },
     {
-      "Rank": "DC",
-      "O/B": "103.0",
-      "Name": "張成成"
+      "Rank": "3O",
+      "O/B": "1.0",
+      "Name": "祖　林"
     },
     {
       "Rank": "DC",
-      "O/B": "103.0",
+      "O/B": "112.0",
       "Name": "謝軒宇"
     },
     {
+      "Rank": "DC",
+      "O/B": "112.0",
+      "Name": "張成成"
+    },
+    {
       "Rank": "CE",
-      "O/B": "53.0",
+      "O/B": "62.0",
       "Name": "章輝光"
     },
     {
       "Rank": "2E",
-      "O/B": "128.0",
+      "O/B": "137.0",
       "Name": "劉　樂"
     },
     {
       "Rank": "3E",
-      "O/B": "65.0",
+      "O/B": "74.0",
       "Name": "劉韋承"
     },
     {
       "Rank": "4E",
-      "O/B": "191.0",
-      "Name": "陳正己"
+      "O/B": "10.0",
+      "Name": "趙毅松"
     },
     {
       "Rank": "4E",
-      "O/B": "128.0",
+      "O/B": "137.0",
       "Name": "李彥廷"
     },
     {
       "Rank": "4E",
-      "O/B": "1.0",
-      "Name": "趙毅松"
+      "O/B": "200.0",
+      "Name": "陳正己"
     },
     {
       "Rank": "BS",
-      "O/B": "128.0",
+      "O/B": "137.0",
       "Name": "吳維新"
     },
     {
       "Rank": "AB",
-      "O/B": "47.0",
-      "Name": "付碧濤"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "53.0",
-      "Name": "AMAMAG,NINO RUFO"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "128.0",
+      "O/B": "137.0",
       "Name": "DIVINAGRACIA,ANCEL VASQUEZ"
     },
     {
       "Rank": "AB",
-      "O/B": "52.0",
-      "Name": "江權哲"
+      "O/B": "62.0",
+      "Name": "BANGA,ADONES SUSAYA"
     },
     {
       "Rank": "AB",
-      "O/B": "47.0",
-      "Name": "劉榮章"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "47.0",
+      "O/B": "56.0",
       "Name": "郭賓杰"
     },
     {
       "Rank": "AB",
-      "O/B": "128.0",
+      "O/B": "137.0",
       "Name": "OMAPAS,BRYAN LASDUCE"
     },
     {
       "Rank": "AB",
-      "O/B": "53.0",
-      "Name": "BANGA,ADONES SUSAYA"
+      "O/B": "56.0",
+      "Name": "付碧濤"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "56.0",
+      "Name": "劉榮章"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "61.0",
+      "Name": "江權哲"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "62.0",
+      "Name": "AMAMAG,NINO RUFO"
     },
     {
       "Rank": "FT",
-      "O/B": "172.0",
+      "O/B": "181.0",
       "Name": "董會永"
     },
     {
       "Rank": "MM",
-      "O/B": "175.0",
-      "Name": "林耕群"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "128.0",
+      "O/B": "137.0",
       "Name": "王柏浚"
     },
     {
       "Rank": "MM",
-      "O/B": "65.0",
+      "O/B": "74.0",
       "Name": "劉啟光"
     },
     {
+      "Rank": "MM",
+      "O/B": "184.0",
+      "Name": "林耕群"
+    },
+    {
       "Rank": "CA",
-      "O/B": "128.0",
+      "O/B": "137.0",
       "Name": "邱冠雄"
     }
   ]

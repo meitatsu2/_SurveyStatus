@@ -1,8 +1,71 @@
 {
   "scode": "MAST",
-  "last_updated": "2026-11-25",
-  "total_records": 18,
+  "last_updated": "2026-11-27",
+  "total_records": 27,
   "records": [
+    {
+      "Line": "AUE",
+      "Voyage": "1371-011E",
+      "Port Calling": "PAPAN",
+      "ETA Date/Time": "20260912/0121 (六)",
+      "ETD Date/Time": "20260912/1400"
+    },
+    {
+      "Line": "AUE",
+      "Voyage": "1371-011E",
+      "Port Calling": "PACCT",
+      "ETA Date/Time": "20260912/1903 (六)",
+      "ETD Date/Time": "20260913/1506"
+    },
+    {
+      "Line": "AUE",
+      "Voyage": "1371-011W",
+      "Port Calling": "USSVN",
+      "ETA Date/Time": "20260918/1400 (五)",
+      "ETD Date/Time": "20260919/1906"
+    },
+    {
+      "Line": "AUE",
+      "Voyage": "1371-011W",
+      "Port Calling": "USNYC",
+      "ETA Date/Time": "20260922/1754 (二)",
+      "ETD Date/Time": "20260925/0012"
+    },
+    {
+      "Line": "AUE",
+      "Voyage": "1371-011W",
+      "Port Calling": "USNFK",
+      "ETA Date/Time": "20260927/0530 (日)",
+      "ETD Date/Time": "20260928/1330"
+    },
+    {
+      "Line": "AUE",
+      "Voyage": "1384-012E",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20261031/1320 (六)",
+      "ETD Date/Time": "20261101/2200"
+    },
+    {
+      "Line": "AUE",
+      "Voyage": "1384-012E",
+      "Port Calling": "VNVUU",
+      "ETA Date/Time": "20261104/0546 (三)",
+      "ETD Date/Time": "20261105/0023"
+    },
+    {
+      "Line": "AUE",
+      "Voyage": "1384-012E",
+      "Port Calling": "VNHPG",
+      "ETA Date/Time": "20261107/0036 (六)",
+      "ETD Date/Time": "20261107/1845"
+    },
+    {
+      "Line": "AUE",
+      "Voyage": "1384-012E",
+      "Port Calling": "HKHKG",
+      "ETA Date/Time": "20261109/1035 (一)",
+      "ETD Date/Time": "20261110/1510"
+    },
     {
       "Line": "AUE",
       "Voyage": "1384-012E",
@@ -14,8 +77,8 @@
       "Line": "AUE",
       "Voyage": "1384-012E",
       "Port Calling": "CNYYT",
-      "ETA Date/Time": "20261118/1600 (三)",
-      "ETD Date/Time": "20261120/0400"
+      "ETA Date/Time": "20261119/1724 (四)",
+      "ETD Date/Time": "20261121/0550"
     },
     {
       "Line": "AUE",
@@ -35,99 +98,99 @@
       "Line": "AUE",
       "Voyage": "1384-012W",
       "Port Calling": "USSVN",
-      "ETA Date/Time": "20261216/0300 (三)",
-      "ETD Date/Time": "20261217/1700"
+      "ETA Date/Time": "20261220/0700 (日)",
+      "ETD Date/Time": "20261221/1700"
     },
     {
       "Line": "AUE",
       "Voyage": "1384-012W",
       "Port Calling": "USNYC",
-      "ETA Date/Time": "20261220/0400 (日)",
-      "ETD Date/Time": "20261222/0500"
+      "ETA Date/Time": "20261226/0400 (六)",
+      "ETD Date/Time": "20261228/0930"
     },
     {
       "Line": "AUE",
       "Voyage": "1384-012W",
       "Port Calling": "USNFK",
-      "ETA Date/Time": "20261223/1800 (三)",
-      "ETD Date/Time": "20261224/1900"
+      "ETA Date/Time": "20261229/2300 (二)",
+      "ETD Date/Time": "20261231/0000"
     },
     {
       "Line": "AUE",
-      "Voyage": "1398-013E",
+      "Voyage": "1397-013E",
       "Port Calling": "MYPKL",
-      "ETA Date/Time": "20270204/1300 (四)",
-      "ETD Date/Time": "20270205/1500"
+      "ETA Date/Time": "20270128/1300 (四)",
+      "ETD Date/Time": "20270129/1500"
     },
     {
       "Line": "AUE",
-      "Voyage": "1398-013E",
+      "Voyage": "1397-013E",
       "Port Calling": "VNVUU",
-      "ETA Date/Time": "20270207/2100 (日)",
-      "ETD Date/Time": "20270208/1400"
+      "ETA Date/Time": "20270131/2100 (日)",
+      "ETD Date/Time": "20270201/1400"
     },
     {
       "Line": "AUE",
-      "Voyage": "1398-013E",
+      "Voyage": "1397-013E",
       "Port Calling": "VNHPG",
-      "ETA Date/Time": "20270211/0200 (四)",
-      "ETD Date/Time": "20270211/1900"
+      "ETA Date/Time": "20270204/0200 (四)",
+      "ETD Date/Time": "20270204/1900"
     },
     {
       "Line": "AUE",
-      "Voyage": "1398-013E",
+      "Voyage": "1397-013E",
       "Port Calling": "HKHKG",
-      "ETA Date/Time": "20270213/0700 (六)",
-      "ETD Date/Time": "20270214/1300"
+      "ETA Date/Time": "20270206/0700 (六)",
+      "ETD Date/Time": "20270207/1300"
     },
     {
       "Line": "AUE",
-      "Voyage": "1398-013E",
+      "Voyage": "1397-013E",
       "Port Calling": "TWKSG",
-      "ETA Date/Time": "20270215/1900 (一)",
-      "ETD Date/Time": "20270217/2100"
+      "ETA Date/Time": "20270208/1900 (一)",
+      "ETD Date/Time": "20270210/2100"
     },
     {
       "Line": "AUE",
-      "Voyage": "1398-013E",
+      "Voyage": "1397-013E",
       "Port Calling": "CNYYT",
-      "ETA Date/Time": "20270218/1900 (四)",
-      "ETD Date/Time": "20270220/1500"
+      "ETA Date/Time": "20270211/1900 (四)",
+      "ETD Date/Time": "20270213/1500"
     },
     {
       "Line": "AUE",
-      "Voyage": "1398-013E",
+      "Voyage": "1397-013E",
       "Port Calling": "PAPAN",
-      "ETA Date/Time": "20270315/2200 (一)",
-      "ETD Date/Time": "20270316/1800"
+      "ETA Date/Time": "20270308/2200 (一)",
+      "ETD Date/Time": "20270309/1800"
     },
     {
       "Line": "AUE",
-      "Voyage": "1398-013E",
+      "Voyage": "1397-013E",
       "Port Calling": "PACCT",
-      "ETA Date/Time": "20270316/1900 (二)",
-      "ETD Date/Time": "20270318/0400"
+      "ETA Date/Time": "20270309/1900 (二)",
+      "ETD Date/Time": "20270311/0400"
     },
     {
       "Line": "AUE",
-      "Voyage": "1398-013W",
+      "Voyage": "1397-013W",
       "Port Calling": "USSVN",
-      "ETA Date/Time": "20270322/0200 (一)",
-      "ETD Date/Time": "20270324/0700"
+      "ETA Date/Time": "20270315/0200 (一)",
+      "ETD Date/Time": "20270317/0700"
     },
     {
       "Line": "AUE",
-      "Voyage": "1398-013W",
+      "Voyage": "1397-013W",
       "Port Calling": "USNYC",
-      "ETA Date/Time": "20270326/0200 (五)",
-      "ETD Date/Time": "20270328/1900"
+      "ETA Date/Time": "20270319/0200 (五)",
+      "ETD Date/Time": "20270321/1900"
     },
     {
       "Line": "AUE",
-      "Voyage": "1398-013W",
+      "Voyage": "1397-013W",
       "Port Calling": "USNFK",
-      "ETA Date/Time": "20270329/1600 (一)",
-      "ETD Date/Time": "20270331/1900"
+      "ETA Date/Time": "20270322/1600 (一)",
+      "ETD Date/Time": "20270324/1900"
     }
   ]
 }

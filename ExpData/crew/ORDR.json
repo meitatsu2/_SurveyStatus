@@ -1,116 +1,116 @@
 {
   "scode": "ORDR",
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-27",
   "total_records": 22,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "149.0",
+      "O/B": "158.0",
       "Name": "SAFII,DIDAH YUSALA"
     },
     {
       "Rank": "1O",
-      "O/B": "29.0",
+      "O/B": "38.0",
       "Name": "DE LA CRUZ, JADE MENDOZA"
     },
     {
       "Rank": "2O",
-      "O/B": "126.0",
+      "O/B": "135.0",
       "Name": "PANIQUE,CARLOS  ALDON"
     },
     {
       "Rank": "3O",
-      "O/B": "126.0",
-      "Name": "RINGOR,JASON JAMES CASTRO"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "80.0",
+      "O/B": "89.0",
       "Name": "LUNA,JUDE  SIMON DUMAGUIT"
     },
     {
+      "Rank": "3O",
+      "O/B": "135.0",
+      "Name": "RINGOR,JASON JAMES CASTRO"
+    },
+    {
       "Rank": "CE",
-      "O/B": "158.0",
+      "O/B": "167.0",
       "Name": "DAO,VAN TRUNG"
     },
     {
       "Rank": "2E",
-      "O/B": "156.0",
+      "O/B": "165.0",
       "Name": "REYES,ROAN ALLA"
     },
     {
       "Rank": "3E",
-      "O/B": "178.0",
+      "O/B": "187.0",
       "Name": "NALANGAN,IVAN REY MANDERICO"
     },
     {
       "Rank": "4E",
-      "O/B": "43.0",
-      "Name": "SAGA,RAFFEE LACERNA"
-    },
-    {
-      "Rank": "4E",
-      "O/B": "185.0",
+      "O/B": "194.0",
       "Name": "MATLIH,YOUSEF AURELIO"
     },
     {
+      "Rank": "4E",
+      "O/B": "52.0",
+      "Name": "SAGA,RAFFEE LACERNA"
+    },
+    {
       "Rank": "BS",
-      "O/B": "197.0",
+      "O/B": "206.0",
       "Name": "HO,NATHANIEL KENNETH MONTEPIO"
     },
     {
       "Rank": "BS",
-      "O/B": "8.0",
+      "O/B": "17.0",
       "Name": "PAMA,JOSEPH FRANZ ALJE GERONCA"
     },
     {
       "Rank": "AB",
-      "O/B": "126.0",
-      "Name": "DAYANGCO,PAULINO JR ROMANOS"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "185.0",
-      "Name": "NINON,ERIS DANN ALINSOD"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "126.0",
-      "Name": "DE LOS REYES,ALLEN ARINAZA"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "103.0",
+      "O/B": "112.0",
       "Name": "VILLAREAL,JAKE  CORNELIO"
     },
     {
       "Rank": "AB",
-      "O/B": "103.0",
+      "O/B": "112.0",
       "Name": "SABE,JAYNIEL  BALO"
     },
     {
+      "Rank": "AB",
+      "O/B": "194.0",
+      "Name": "NINON,ERIS DANN ALINSOD"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "135.0",
+      "Name": "DE LOS REYES,ALLEN ARINAZA"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "135.0",
+      "Name": "DAYANGCO,PAULINO JR ROMANOS"
+    },
+    {
       "Rank": "OS",
-      "O/B": "178.0",
+      "O/B": "187.0",
       "Name": "CAMPOMANES,CHRISTIAN SALEM"
     },
     {
       "Rank": "FT",
-      "O/B": "178.0",
+      "O/B": "187.0",
       "Name": "CALINOG,REMCEL DELOS SANTOS"
     },
     {
       "Rank": "MM",
-      "O/B": "178.0",
+      "O/B": "187.0",
       "Name": "OPOC,ALEXIS SALUDAGA"
     },
     {
       "Rank": "JMM",
-      "O/B": "61.0",
+      "O/B": "70.0",
       "Name": "PAGUNTALAN,MIKEL JAN NAMORA"
     },
     {
       "Rank": "CA",
-      "O/B": "61.0",
+      "O/B": "70.0",
       "Name": "SUPRIATNA,EPI"
     }
   ]

@@ -1,131 +1,131 @@
 {
   "scode": "LSTN",
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-27",
   "total_records": 25,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "66.0",
+      "O/B": "76.0",
       "Name": "張志維"
     },
     {
       "Rank": "1O",
-      "O/B": "229.0",
+      "O/B": "239.0",
       "Name": "袁　水"
     },
     {
       "Rank": "2O",
-      "O/B": "54.0",
+      "O/B": "64.0",
       "Name": "ROJAS,SALVADOR PAGINADO"
     },
     {
       "Rank": "3O",
-      "O/B": "235.0",
+      "O/B": "245.0",
       "Name": "REFUGIO,ZEUS KYLE NANGKIL"
     },
     {
       "Rank": "3O",
-      "O/B": "235.0",
+      "O/B": "245.0",
       "Name": "ANONAT,KENT ANDREW CABISADA"
     },
     {
       "Rank": "DC",
-      "O/B": "24.0",
+      "O/B": "34.0",
       "Name": "WILLS, GEOFFREY ALBERT CHUNG"
     },
     {
       "Rank": "DC",
-      "O/B": "54.0",
+      "O/B": "64.0",
       "Name": "FERRAZZANI,CLAUDIA"
     },
     {
       "Rank": "CE",
-      "O/B": "64.0",
+      "O/B": "74.0",
       "Name": "黃紹忠"
     },
     {
       "Rank": "2E",
-      "O/B": "223.0",
+      "O/B": "233.0",
       "Name": "汪　燦"
     },
     {
       "Rank": "3E",
-      "O/B": "235.0",
+      "O/B": "245.0",
       "Name": "TABAO,ORLY DELAN"
     },
     {
       "Rank": "4E",
-      "O/B": "161.0",
-      "Name": "UY,ELMER SABADO"
-    },
-    {
-      "Rank": "4E",
-      "O/B": "154.0",
+      "O/B": "164.0",
       "Name": "ABEJA,ERWIN VILLAVERDE"
     },
     {
+      "Rank": "4E",
+      "O/B": "171.0",
+      "Name": "UY,ELMER SABADO"
+    },
+    {
       "Rank": "EC",
-      "O/B": "223.0",
+      "O/B": "233.0",
       "Name": "朱煦業"
     },
     {
       "Rank": "EC",
-      "O/B": "64.0",
+      "O/B": "74.0",
       "Name": "焦成東"
     },
     {
       "Rank": "BS",
-      "O/B": "161.0",
+      "O/B": "171.0",
       "Name": "PAGLINAWAN,NOMER VIVERO"
     },
     {
       "Rank": "AB",
-      "O/B": "235.0",
-      "Name": "CAROLINO,HAROLD MARK MAGARRO"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "150.0",
-      "Name": "曾　華"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "148.0",
-      "Name": "PEREZ,MARK LESTER AUREADA"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "64.0",
-      "Name": "劉　鵬"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "64.0",
+      "O/B": "74.0",
       "Name": "張世棟"
     },
     {
       "Rank": "AB",
-      "O/B": "154.0",
+      "O/B": "74.0",
+      "Name": "劉　鵬"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "164.0",
       "Name": "SARDAN,ALLAN SOMBRANO"
     },
     {
+      "Rank": "AB",
+      "O/B": "158.0",
+      "Name": "PEREZ,MARK LESTER AUREADA"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "160.0",
+      "Name": "曾　華"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "245.0",
+      "Name": "CAROLINO,HAROLD MARK MAGARRO"
+    },
+    {
       "Rank": "FT",
-      "O/B": "118.0",
+      "O/B": "128.0",
       "Name": "LAMAROZA,EDILSON GUMANGAN"
     },
     {
       "Rank": "MM",
-      "O/B": "151.0",
-      "Name": "OLVINADA,KEVIN PALMA"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "151.0",
+      "O/B": "161.0",
       "Name": "UBANA,JOEMARIE RICAFRENTE"
     },
     {
+      "Rank": "MM",
+      "O/B": "161.0",
+      "Name": "OLVINADA,KEVIN PALMA"
+    },
+    {
       "Rank": "CA",
-      "O/B": "223.0",
+      "O/B": "233.0",
       "Name": "周春雨"
     }
   ]

@@ -1,141 +1,131 @@
 {
   "scode": "LERN",
-  "last_updated": "2026-11-25",
-  "total_records": 27,
+  "last_updated": "2026-11-27",
+  "total_records": 25,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "158.0",
+      "O/B": "168.0",
       "Name": "張志豪"
     },
     {
       "Rank": "1O",
-      "O/B": "92.0",
+      "O/B": "102.0",
       "Name": "張國慶"
     },
     {
       "Rank": "2O",
-      "O/B": "92.0",
+      "O/B": "102.0",
       "Name": "NAGAL,MURIEL AROCHA"
     },
     {
       "Rank": "3O",
-      "O/B": "55.0",
-      "Name": "王　齊"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "22.0",
+      "O/B": "32.0",
       "Name": "MASA, ADRIAN CHESTER DELA CRUZ"
     },
     {
+      "Rank": "3O",
+      "O/B": "65.0",
+      "Name": "王　齊"
+    },
+    {
       "Rank": "5O",
-      "O/B": "103.0",
+      "O/B": "113.0",
       "Name": "喬一峰"
     },
     {
-      "Rank": "DC",
-      "O/B": "199.0",
-      "Name": "LOTT,SAMUEL EDWARD"
-    },
-    {
-      "Rank": "DC",
-      "O/B": "199.0",
-      "Name": "TATE,MATTHEW DAVID"
-    },
-    {
       "Rank": "CE",
-      "O/B": "122.0",
+      "O/B": "132.0",
       "Name": "張少波"
     },
     {
       "Rank": "2E",
-      "O/B": "157.0",
+      "O/B": "167.0",
       "Name": "周生理"
     },
     {
       "Rank": "3E",
-      "O/B": "22.0",
+      "O/B": "32.0",
       "Name": "SALAS, PETER GALINATO"
     },
     {
       "Rank": "4E",
-      "O/B": "169.0",
+      "O/B": "179.0",
       "Name": "董振豪"
     },
     {
       "Rank": "EC",
-      "O/B": "55.0",
-      "Name": "呂　卓"
-    },
-    {
-      "Rank": "EC",
-      "O/B": "92.0",
-      "Name": "ABLUYAN,KURT HARRIS GUIMPAYAN"
-    },
-    {
-      "Rank": "EC",
-      "O/B": "154.0",
+      "O/B": "164.0",
       "Name": "白智苑"
     },
     {
       "Rank": "EC",
-      "O/B": "55.0",
+      "O/B": "65.0",
+      "Name": "呂　卓"
+    },
+    {
+      "Rank": "EC",
+      "O/B": "102.0",
+      "Name": "ABLUYAN,KURT HARRIS GUIMPAYAN"
+    },
+    {
+      "Rank": "EC",
+      "O/B": "65.0",
       "Name": "黃平安"
     },
     {
       "Rank": "BS",
-      "O/B": "46.0",
+      "O/B": "56.0",
       "Name": "ARROYO,EREL FLAME"
     },
     {
       "Rank": "AB",
-      "O/B": "46.0",
+      "O/B": "56.0",
       "Name": "董子洋"
     },
     {
       "Rank": "AB",
-      "O/B": "197.0",
-      "Name": "AMOGUIS,GREGGY UNAJAN"
+      "O/B": "2.0",
+      "Name": "CRISTOBAL, MARLON VINARAO"
     },
     {
       "Rank": "AB",
-      "O/B": "146.0",
-      "Name": "BELISARIO,RICHIE BERNAL"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "3.0",
+      "O/B": "13.0",
       "Name": "向光威"
     },
     {
+      "Rank": "AB",
+      "O/B": "156.0",
+      "Name": "BELISARIO,RICHIE BERNAL"
+    },
+    {
       "Rank": "OS",
-      "O/B": "103.0",
+      "O/B": "113.0",
       "Name": "陳宣燃"
     },
     {
       "Rank": "OS",
-      "O/B": "3.0",
+      "O/B": "13.0",
       "Name": "邱標輝"
     },
     {
       "Rank": "FT",
-      "O/B": "157.0",
+      "O/B": "167.0",
       "Name": "李翠斌"
     },
     {
       "Rank": "MM",
-      "O/B": "168.0",
+      "O/B": "178.0",
       "Name": "MEDIARIO,ALDRIN ALVAREZ"
     },
     {
       "Rank": "MM",
-      "O/B": "157.0",
+      "O/B": "167.0",
       "Name": "陳　陽"
     },
     {
       "Rank": "CA",
-      "O/B": "107.0",
+      "O/B": "117.0",
       "Name": "金巨波"
     }
   ]

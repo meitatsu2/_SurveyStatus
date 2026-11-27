@@ -1,116 +1,116 @@
 {
   "scode": "LTUS",
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-27",
   "total_records": 22,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "190.0",
+      "O/B": "200.0",
       "Name": "GENECELA,JAY GEE QUINGA"
     },
     {
       "Rank": "1O",
-      "O/B": "136.0",
+      "O/B": "146.0",
       "Name": "MANONGAS,VINCENT FERDINAND EUPENA"
     },
     {
       "Rank": "2O",
-      "O/B": "190.0",
-      "Name": "MILO,IAN CELOCIA"
-    },
-    {
-      "Rank": "2O",
-      "O/B": "128.0",
+      "O/B": "138.0",
       "Name": "LAYNESA,JOHNSON GALAN"
     },
     {
+      "Rank": "2O",
+      "O/B": "200.0",
+      "Name": "MILO,IAN CELOCIA"
+    },
+    {
       "Rank": "3O",
-      "O/B": "190.0",
+      "O/B": "200.0",
       "Name": "RESPONDE,DENRAY OJEDA"
     },
     {
       "Rank": "CE",
-      "O/B": "128.0",
+      "O/B": "138.0",
       "Name": "MANCENIDO,BOYETTE-ANGELO VILLENAS"
     },
     {
       "Rank": "2E",
-      "O/B": "190.0",
+      "O/B": "200.0",
       "Name": "CACLINI,KELVIN TAYABAN"
     },
     {
       "Rank": "3E",
-      "O/B": "128.0",
+      "O/B": "138.0",
       "Name": "TAPITAN,JONATHAN SABADO"
     },
     {
       "Rank": "4E",
-      "O/B": "128.0",
+      "O/B": "138.0",
       "Name": "BONDAD,KARL ANDREI MADRIGAL"
     },
     {
       "Rank": "4E",
-      "O/B": "112.0",
+      "O/B": "122.0",
       "Name": "RONQUILLO,ELLE JAY DENCH TIZON"
     },
     {
       "Rank": "J4E",
-      "O/B": "32.0",
+      "O/B": "42.0",
       "Name": "RANADA, JONH RICO SALEN"
     },
     {
       "Rank": "BS",
-      "O/B": "32.0",
+      "O/B": "42.0",
       "Name": "ENGRACIA, ROBERTO TAGUN"
     },
     {
       "Rank": "AB",
-      "O/B": "190.0",
-      "Name": "MICULOB,CYRIL PUERTO"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "32.0",
-      "Name": "GANANCIAL, CHRISTOPHER CABALLERO"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "190.0",
+      "O/B": "200.0",
       "Name": "ASOY,DE JAYMEN CALER"
     },
     {
       "Rank": "AB",
-      "O/B": "128.0",
+      "O/B": "138.0",
       "Name": "LARGO,CHRISTIAN DALE OCSO"
     },
     {
       "Rank": "AB",
-      "O/B": "35.0",
+      "O/B": "42.0",
+      "Name": "GANANCIAL, CHRISTOPHER CABALLERO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "200.0",
+      "Name": "MICULOB,CYRIL PUERTO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "45.0",
       "Name": "TUYA,NESHER PADIOS"
     },
     {
       "Rank": "OS",
-      "O/B": "35.0",
+      "O/B": "45.0",
       "Name": "MORALES,CEDRICK MARK MELITANTE"
     },
     {
       "Rank": "FT",
-      "O/B": "128.0",
+      "O/B": "138.0",
       "Name": "PARALLEON,RODOLFO ENCANTO"
     },
     {
       "Rank": "MM",
-      "O/B": "128.0",
-      "Name": "LIM,MARK ELMER MARTINOTE"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "190.0",
+      "O/B": "200.0",
       "Name": "MOVIDO,CARLO FERNANDO"
     },
     {
+      "Rank": "MM",
+      "O/B": "138.0",
+      "Name": "LIM,MARK ELMER MARTINOTE"
+    },
+    {
       "Rank": "CA",
-      "O/B": "128.0",
+      "O/B": "138.0",
       "Name": "EMANO,MARK OLIVER GARGANTA"
     }
   ]

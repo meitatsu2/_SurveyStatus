@@ -1,137 +1,122 @@
 {
   "scode": "MEED",
-  "last_updated": "2026-11-25",
-  "total_records": 26,
+  "last_updated": "2026-11-27",
+  "total_records": 23,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "16.0",
+      "O/B": "25.0",
       "Name": "黃原太"
     },
     {
       "Rank": "1O",
-      "O/B": "1.0",
+      "O/B": "10.0",
       "Name": "陳建豪"
     },
     {
-      "Rank": "1O",
-      "O/B": "217.0",
-      "Name": "王立杰"
-    },
-    {
       "Rank": "2O",
-      "O/B": "1.0",
+      "O/B": "10.0",
       "Name": "劉瀚駿"
     },
     {
-      "Rank": "2O",
-      "O/B": "212.0",
-      "Name": "李二濤"
-    },
-    {
       "Rank": "3O",
-      "O/B": "16.0",
-      "Name": "李悦恩"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "99.0",
+      "O/B": "108.0",
       "Name": "黃啟玄"
     },
     {
+      "Rank": "3O",
+      "O/B": "25.0",
+      "Name": "李悦恩"
+    },
+    {
       "Rank": "CE",
-      "O/B": "99.0",
+      "O/B": "108.0",
       "Name": "呂曜羽"
     },
     {
       "Rank": "2E",
-      "O/B": "217.0",
-      "Name": "何　進"
+      "O/B": "3.0",
+      "Name": "劉　飛"
     },
     {
       "Rank": "3E",
-      "O/B": "114.0",
+      "O/B": "123.0",
       "Name": "柳　勝"
     },
     {
       "Rank": "4E",
-      "O/B": "16.0",
-      "Name": "李文宇"
-    },
-    {
-      "Rank": "4E",
-      "O/B": "233.0",
-      "Name": "王鵬程"
-    },
-    {
-      "Rank": "4E",
-      "O/B": "128.0",
+      "O/B": "137.0",
       "Name": "鐘翌羊"
     },
     {
+      "Rank": "4E",
+      "O/B": "25.0",
+      "Name": "李文宇"
+    },
+    {
       "Rank": "BS",
-      "O/B": "128.0",
+      "O/B": "137.0",
       "Name": "史勇華"
     },
     {
       "Rank": "AB",
-      "O/B": "99.0",
-      "Name": "CADORNA,CRES DALEN"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "99.0",
+      "O/B": "108.0",
       "Name": "JUMAO-AS,MELQUESIDEK MENDEZ"
     },
     {
       "Rank": "AB",
-      "O/B": "9.0",
+      "O/B": "18.0",
       "Name": "OBAOB,LUCKY LIAN RHEY AUGUSTO"
     },
     {
       "Rank": "AB",
-      "O/B": "82.0",
+      "O/B": "108.0",
+      "Name": "CADORNA,CRES DALEN"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "91.0",
       "Name": "SANTOYAS,SAMUEL LANZADERAS"
     },
     {
       "Rank": "AB",
-      "O/B": "16.0",
+      "O/B": "25.0",
       "Name": "NARTE,MARIO JR. TABES"
     },
     {
       "Rank": "OS",
-      "O/B": "9.0",
+      "O/B": "18.0",
       "Name": "CABUNAG,JOMARY PANTE"
     },
     {
       "Rank": "OS",
-      "O/B": "128.0",
+      "O/B": "137.0",
       "Name": "王子龍"
     },
     {
       "Rank": "FT",
-      "O/B": "16.0",
+      "O/B": "25.0",
       "Name": "龔家榮"
     },
     {
       "Rank": "MM",
-      "O/B": "215.0",
-      "Name": "賴奕翰"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "225.0",
-      "Name": "汪　海"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "16.0",
+      "O/B": "25.0",
       "Name": "陳偉新"
     },
     {
+      "Rank": "MM",
+      "O/B": "8.0",
+      "Name": "高宇廷"
+    },
+    {
+      "Rank": "MM",
+      "O/B": "3.0",
+      "Name": "寇恒杰"
+    },
+    {
       "Rank": "CA",
-      "O/B": "217.0",
-      "Name": "黃德軍"
+      "O/B": "3.0",
+      "Name": "王騰飛"
     }
   ]
 }

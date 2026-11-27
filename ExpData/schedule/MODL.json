@@ -1,8 +1,78 @@
 {
   "scode": "MODL",
-  "last_updated": "2026-11-25",
-  "total_records": 27,
+  "last_updated": "2026-11-27",
+  "total_records": 37,
   "records": [
+    {
+      "Line": "AUE",
+      "Voyage": "1369-004E",
+      "Port Calling": "PAPAN",
+      "ETA Date/Time": "20260829/0512 (六)",
+      "ETD Date/Time": "20260829/1720"
+    },
+    {
+      "Line": "AUE",
+      "Voyage": "1369-004E",
+      "Port Calling": "PACCT",
+      "ETA Date/Time": "20260829/1902 (六)",
+      "ETD Date/Time": "20260830/1511"
+    },
+    {
+      "Line": "AUE",
+      "Voyage": "1369-004W",
+      "Port Calling": "USSVN",
+      "ETA Date/Time": "20260904/1236 (五)",
+      "ETD Date/Time": "20260906/0001"
+    },
+    {
+      "Line": "AUE",
+      "Voyage": "1369-004W",
+      "Port Calling": "USNYC",
+      "ETA Date/Time": "20260908/0830 (二)",
+      "ETD Date/Time": "20260911/0100"
+    },
+    {
+      "Line": "AUE",
+      "Voyage": "1369-004W",
+      "Port Calling": "USNFK",
+      "ETA Date/Time": "20260912/0318 (六)",
+      "ETD Date/Time": "20260913/0600"
+    },
+    {
+      "Line": "AUE",
+      "Voyage": "1369-004W",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20261021/0430 (三)",
+      "ETD Date/Time": "20261022/1200"
+    },
+    {
+      "Line": "AUE",
+      "Voyage": "1369-004W",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20261026/0830 (一)",
+      "ETD Date/Time": "20261027/1235"
+    },
+    {
+      "Line": "AUE",
+      "Voyage": "1369-004W",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261030/0100 (五)",
+      "ETD Date/Time": "20261030/1925"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "005W",
+      "Port Calling": "CNSHG",
+      "ETA Date/Time": "20261104/1000 (三)",
+      "ETD Date/Time": "20261105/0700"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "005W",
+      "Port Calling": "CNNBO",
+      "ETA Date/Time": "20261108/1815 (日)",
+      "ETD Date/Time": "20261109/1230"
+    },
     {
       "Line": "BEX",
       "Voyage": "005W",
@@ -28,56 +98,56 @@
       "Line": "BEX",
       "Voyage": "005W",
       "Port Calling": "SGSGP",
-      "ETA Date/Time": "20261121/2100 (六)",
-      "ETD Date/Time": "20261122/1700"
+      "ETA Date/Time": "20261122/0835 (日)",
+      "ETD Date/Time": "20261122/2330"
     },
     {
       "Line": "BEX",
       "Voyage": "005W",
       "Port Calling": "EGSUZ",
-      "ETA Date/Time": "20261203/2200 (四)",
-      "ETD Date/Time": "20261204/2200"
+      "ETA Date/Time": "20261204/2200 (五)",
+      "ETD Date/Time": "20261205/2200"
     },
     {
       "Line": "BEX",
       "Voyage": "005E",
       "Port Calling": "GRPIR",
-      "ETA Date/Time": "20261207/0900 (一)",
-      "ETD Date/Time": "20261209/1000"
+      "ETA Date/Time": "20261207/0700 (一)",
+      "ETD Date/Time": "20261209/0700"
     },
     {
       "Line": "BEX",
       "Voyage": "005E",
       "Port Calling": "TRDDG",
-      "ETA Date/Time": "20261210/1500 (四)",
-      "ETD Date/Time": "20261212/1000"
+      "ETA Date/Time": "20261210/1600 (四)",
+      "ETD Date/Time": "20261212/0400"
     },
     {
       "Line": "BEX",
       "Voyage": "005E",
       "Port Calling": "TRIST",
-      "ETA Date/Time": "20261212/1700 (六)",
-      "ETD Date/Time": "20261213/0000"
+      "ETA Date/Time": "20261212/1200 (六)",
+      "ETD Date/Time": "20261213/1800"
     },
     {
       "Line": "BEX",
       "Voyage": "005E",
       "Port Calling": "TRMIR",
-      "ETA Date/Time": "20261215/0000 (二)",
-      "ETD Date/Time": "20261217/0000"
+      "ETA Date/Time": "20261215/2000 (二)",
+      "ETD Date/Time": "20261217/0100"
     },
     {
       "Line": "BEX",
       "Voyage": "005E",
       "Port Calling": "GRPIR B",
-      "ETA Date/Time": "20261220/2300 (日)",
-      "ETD Date/Time": "20261222/1200"
+      "ETA Date/Time": "20261220/1500 (日)",
+      "ETD Date/Time": "20261222/0300"
     },
     {
       "Line": "BEX",
       "Voyage": "005E",
       "Port Calling": "EGSUZ",
-      "ETA Date/Time": "20261225/2300 (五)",
+      "ETA Date/Time": "20261225/2200 (五)",
       "ETD Date/Time": "20261226/1800"
     },
     {

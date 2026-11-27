@@ -1,141 +1,141 @@
 {
   "scode": "MTCH",
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-27",
   "total_records": 27,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "37.0",
+      "O/B": "46.0",
       "Name": "李嘉承"
     },
     {
       "Rank": "1O",
-      "O/B": "100.0",
+      "O/B": "109.0",
       "Name": "陳文中"
     },
     {
       "Rank": "2O",
-      "O/B": "100.0",
+      "O/B": "109.0",
       "Name": "賴維新"
     },
     {
       "Rank": "2O",
-      "O/B": "201.0",
+      "O/B": "210.0",
       "Name": "鄭琰勳"
     },
     {
       "Rank": "3O",
-      "O/B": "76.0",
+      "O/B": "85.0",
       "Name": "肖卓林"
     },
     {
       "Rank": "5O(T5O)",
-      "O/B": "146.0",
+      "O/B": "155.0",
       "Name": "林碩亮"
     },
     {
       "Rank": "DC",
-      "O/B": "76.0",
+      "O/B": "85.0",
       "Name": "肖　李"
     },
     {
       "Rank": "CE",
-      "O/B": "161.0",
+      "O/B": "170.0",
       "Name": "鄭國宏"
     },
     {
       "Rank": "2E",
-      "O/B": "84.0",
+      "O/B": "93.0",
       "Name": "謝小保"
     },
     {
       "Rank": "3E",
-      "O/B": "37.0",
+      "O/B": "46.0",
       "Name": "魏濟飛"
     },
     {
       "Rank": "4E",
-      "O/B": "37.0",
+      "O/B": "46.0",
       "Name": "陳竑郡"
     },
     {
       "Rank": "4E",
-      "O/B": "36.0",
+      "O/B": "45.0",
       "Name": "田雲飛"
     },
     {
       "Rank": "EC",
-      "O/B": "84.0",
-      "Name": "BALGUA,CHRISTIAN ALLEN OCHALE"
-    },
-    {
-      "Rank": "EC",
-      "O/B": "84.0",
+      "O/B": "93.0",
       "Name": "DIMAPILIS,RHALP LHANCE MIER GELILIO"
     },
     {
+      "Rank": "EC",
+      "O/B": "93.0",
+      "Name": "BALGUA,CHRISTIAN ALLEN OCHALE"
+    },
+    {
       "Rank": "BS",
-      "O/B": "100.0",
+      "O/B": "109.0",
       "Name": "VILLAVERDE,ERNESTO JR. DE SAN ANDRES"
     },
     {
       "Rank": "AB",
-      "O/B": "76.0",
-      "Name": "張　浩"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "100.0",
+      "O/B": "109.0",
       "Name": "VALENCIA,HENREICH ENGEL PLAZA"
     },
     {
       "Rank": "AB",
-      "O/B": "19.0",
+      "O/B": "85.0",
+      "Name": "張　浩"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "109.0",
+      "Name": "SILANG,RIZZI NINO CAESAR PERUCHO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "28.0",
       "Name": "詹冬冬"
     },
     {
       "Rank": "AB",
-      "O/B": "84.0",
+      "O/B": "93.0",
       "Name": "LOPEZ,RODOLFO JR. SALENGA"
     },
     {
-      "Rank": "AB",
-      "O/B": "100.0",
-      "Name": "SILANG,RIZZI NINO CAESAR PERUCHO"
-    },
-    {
       "Rank": "OS",
-      "O/B": "100.0",
-      "Name": "PAREDES,MARVIN ROBLE"
-    },
-    {
-      "Rank": "OS",
-      "O/B": "84.0",
+      "O/B": "93.0",
       "Name": "VISCA,GABRIEL"
     },
     {
+      "Rank": "OS",
+      "O/B": "109.0",
+      "Name": "PAREDES,MARVIN ROBLE"
+    },
+    {
       "Rank": "FT",
-      "O/B": "100.0",
+      "O/B": "109.0",
       "Name": "趙漢村"
     },
     {
       "Rank": "MM",
-      "O/B": "100.0",
+      "O/B": "109.0",
       "Name": "翁萬翔"
     },
     {
       "Rank": "MM",
-      "O/B": "19.0",
+      "O/B": "28.0",
       "Name": "郭龍輝"
     },
     {
       "Rank": "MM",
-      "O/B": "100.0",
+      "O/B": "109.0",
       "Name": "傅　磊"
     },
     {
       "Rank": "CA",
-      "O/B": "19.0",
+      "O/B": "28.0",
       "Name": "廖勝賢"
     }
   ]

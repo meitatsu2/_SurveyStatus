@@ -1,8 +1,78 @@
 {
   "scode": "MTCH",
-  "last_updated": "2026-11-25",
-  "total_records": 11,
+  "last_updated": "2026-11-27",
+  "total_records": 21,
   "records": [
+    {
+      "Line": "HTW",
+      "Voyage": "1469-006E",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20260827/2050 (四)",
+      "ETD Date/Time": "20260829/1657"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1469-006E",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20260904/0320 (五)",
+      "ETD Date/Time": "20260906/0002"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1469-006W",
+      "Port Calling": "USLAX",
+      "ETA Date/Time": "20260919/1542 (六)",
+      "ETD Date/Time": "20260924/0428"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1469-006W",
+      "Port Calling": "USOKL",
+      "ETA Date/Time": "20260926/0748 (六)",
+      "ETD Date/Time": "20260928/1318"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1469-006W",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261013/0215 (二)",
+      "ETD Date/Time": "20261015/0018"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0027-007E",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20261019/2142 (一)",
+      "ETD Date/Time": "20261021/1500"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0027-007E",
+      "Port Calling": "VNVUU",
+      "ETA Date/Time": "20261023/1400 (五)",
+      "ETD Date/Time": "20261024/0200"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0027-007E",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261028/1042 (三)",
+      "ETD Date/Time": "20261029/0212"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0027-007E",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261030/2110 (五)",
+      "ETD Date/Time": "20261101/0845"
+    },
+    {
+      "Line": "OGWC",
+      "Voyage": "0027-007E",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20261103/2100 (二)",
+      "ETD Date/Time": "20261105/2110"
+    },
     {
       "Line": "OGWC",
       "Voyage": "0027-007W",

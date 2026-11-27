@@ -1,131 +1,126 @@
 {
   "scode": "MODL",
-  "last_updated": "2026-11-25",
-  "total_records": 25,
+  "last_updated": "2026-11-27",
+  "total_records": 24,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "109.0",
+      "O/B": "118.0",
       "Name": "施予誠"
     },
     {
       "Rank": "1O",
-      "O/B": "29.0",
+      "O/B": "38.0",
       "Name": "CAGUIOA,ZALDY CANTERO"
     },
     {
       "Rank": "2O",
-      "O/B": "29.0",
+      "O/B": "38.0",
       "Name": "馮　勇"
     },
     {
       "Rank": "2O",
-      "O/B": "204.0",
-      "Name": "尚春鴿"
-    },
-    {
-      "Rank": "2O",
-      "O/B": "20.0",
+      "O/B": "29.0",
       "Name": "張慈宇"
     },
     {
       "Rank": "3O",
-      "O/B": "15.0",
+      "O/B": "24.0",
       "Name": "陳泓澤"
     },
     {
       "Rank": "CE",
-      "O/B": "15.0",
+      "O/B": "24.0",
       "Name": "羅資鋒"
     },
     {
       "Rank": "2E",
-      "O/B": "72.0",
+      "O/B": "81.0",
       "Name": "李志強"
     },
     {
       "Rank": "3E",
-      "O/B": "24.0",
+      "O/B": "33.0",
       "Name": "林恒至"
     },
     {
       "Rank": "4E",
-      "O/B": "24.0",
-      "Name": "王炳霖"
-    },
-    {
-      "Rank": "4E",
-      "O/B": "174.0",
+      "O/B": "183.0",
       "Name": "任憲榮"
     },
     {
+      "Rank": "4E",
+      "O/B": "33.0",
+      "Name": "王炳霖"
+    },
+    {
       "Rank": "T5E",
-      "O/B": "109.0",
+      "O/B": "118.0",
       "Name": "黃柏翰"
     },
     {
       "Rank": "BS",
-      "O/B": "20.0",
+      "O/B": "29.0",
       "Name": "許一郎"
     },
     {
       "Rank": "AB",
-      "O/B": "20.0",
-      "Name": "MENDOZA, MANUEL YAPIT"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "200.0",
+      "O/B": "209.0",
       "Name": "RIVERA,CHIRO FRANKO LABAD"
     },
     {
       "Rank": "AB",
-      "O/B": "24.0",
-      "Name": "畢建明"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "20.0",
+      "O/B": "29.0",
       "Name": "RADAM, ED KERVIN ORDOVEZ"
     },
     {
       "Rank": "AB",
-      "O/B": "24.0",
+      "O/B": "33.0",
       "Name": "湯計昌"
     },
     {
       "Rank": "AB",
-      "O/B": "24.0",
+      "O/B": "33.0",
       "Name": "胡　杰"
     },
     {
+      "Rank": "AB",
+      "O/B": "29.0",
+      "Name": "MENDOZA, MANUEL YAPIT"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "33.0",
+      "Name": "畢建明"
+    },
+    {
       "Rank": "OS",
-      "O/B": "20.0",
+      "O/B": "29.0",
       "Name": "PEQUE, BRIAN DAVE SAMBRANO"
     },
     {
       "Rank": "FT",
-      "O/B": "24.0",
+      "O/B": "33.0",
       "Name": "周敬肖"
     },
     {
       "Rank": "MM",
-      "O/B": "20.0",
+      "O/B": "29.0",
       "Name": "蘇湐閎"
     },
     {
       "Rank": "MM",
-      "O/B": "24.0",
+      "O/B": "33.0",
       "Name": "尹　鑫"
     },
     {
       "Rank": "MM",
-      "O/B": "104.0",
+      "O/B": "113.0",
       "Name": "高青峰"
     },
     {
       "Rank": "CA",
-      "O/B": "20.0",
+      "O/B": "29.0",
       "Name": "黃仕勳"
     }
   ]

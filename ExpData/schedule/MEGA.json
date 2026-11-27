@@ -1,14 +1,91 @@
 {
   "scode": "MEGA",
-  "last_updated": "2026-11-25",
-  "total_records": 31,
+  "last_updated": "2026-11-27",
+  "total_records": 43,
   "records": [
+    {
+      "Line": "TAE",
+      "Voyage": "011W",
+      "Port Calling": "NLRDM",
+      "ETA Date/Time": "20260830/0400 (日)",
+      "ETD Date/Time": "20260901/0442"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011W",
+      "Port Calling": "FRLHV",
+      "ETA Date/Time": "20260902/0818 (三)",
+      "ETD Date/Time": "20260903/0623"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011E",
+      "Port Calling": "USNYC",
+      "ETA Date/Time": "20260913/1918 (日)",
+      "ETD Date/Time": "20260916/0130"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011E",
+      "Port Calling": "USNFK",
+      "ETA Date/Time": "20260918/1643 (五)",
+      "ETD Date/Time": "20260919/1800"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011E",
+      "Port Calling": "USCHS",
+      "ETA Date/Time": "20260922/0524 (二)",
+      "ETD Date/Time": "20260922/2105"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011E",
+      "Port Calling": "USSVN",
+      "ETA Date/Time": "20260923/1715 (三)",
+      "ETD Date/Time": "20260924/1912"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011E",
+      "Port Calling": "GBSOU",
+      "ETA Date/Time": "20261010/1416 (六)",
+      "ETD Date/Time": "20261011/0330"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0828-012E",
+      "Port Calling": "BEANW",
+      "ETA Date/Time": "20261012/0212 (一)",
+      "ETD Date/Time": "20261013/0625"
+    },
+    {
+      "Line": "TAE",
+      "Voyage": "011E",
+      "Port Calling": "DEBHV",
+      "ETA Date/Time": "20261015/0035 (四)",
+      "ETD Date/Time": "20261015/2110"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0828-012E",
+      "Port Calling": "DEHBG",
+      "ETA Date/Time": "20261016/2130 (五)",
+      "ETD Date/Time": "20261019/1000"
+    },
+    {
+      "Line": "CES",
+      "Voyage": "0828-012E",
+      "Port Calling": "NLRDM",
+      "ETA Date/Time": "20261020/1502 (二)",
+      "ETD Date/Time": "20261024/1536"
+    },
     {
       "Line": "CES",
       "Voyage": "0828-012E",
       "Port Calling": "SGSGP",
       "ETA Date/Time": "20261128/0300 (六)",
-      "ETD Date/Time": "20261129/0300"
+      "ETD Date/Time": "20261130/2200"
     },
     {
       "Line": "CES",
@@ -219,6 +296,13 @@
       "Port Calling": "EGSUZ",
       "ETA Date/Time": "20270430/2200 (五)",
       "ETD Date/Time": "20270501/1600"
+    },
+    {
+      "Line": "BEX",
+      "Voyage": "014E",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270521/2100 (五)",
+      "ETD Date/Time": "20270523/1100"
     }
   ]
 }

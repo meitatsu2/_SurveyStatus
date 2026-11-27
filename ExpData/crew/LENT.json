@@ -1,121 +1,121 @@
 {
   "scode": "LENT",
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-27",
   "total_records": 23,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "174.0",
+      "O/B": "184.0",
       "Name": "TIERRA,MENANDRO ESQUIVEL"
     },
     {
       "Rank": "1O",
-      "O/B": "176.0",
+      "O/B": "186.0",
       "Name": "ARALAR,KYLE-STEPHEN CUVIN"
     },
     {
       "Rank": "2O",
-      "O/B": "195.0",
+      "O/B": "205.0",
       "Name": "AMARILLE,LUCKY BOY BAUTISTA"
     },
     {
       "Rank": "3O",
-      "O/B": "44.0",
-      "Name": "CANTAGO, ROBERT PADEN"
-    },
-    {
-      "Rank": "3O",
-      "O/B": "195.0",
+      "O/B": "205.0",
       "Name": "DELA CRUZ,GEOVANI SORIANO"
     },
     {
+      "Rank": "3O",
+      "O/B": "57.0",
+      "Name": "CANTAGO,ROBERT PADEN"
+    },
+    {
       "Rank": "DC",
-      "O/B": "134.0",
+      "O/B": "144.0",
       "Name": "CROFT,JACOB WILLIAM"
     },
     {
       "Rank": "CE",
-      "O/B": "132.0",
+      "O/B": "142.0",
       "Name": "TOPACIO,ROEHL ZABULON SORIANO"
     },
     {
       "Rank": "2E",
-      "O/B": "264.0",
+      "O/B": "274.0",
       "Name": "LUYUN,VAL ANTHONY EVANGELISTA"
     },
     {
       "Rank": "3E",
-      "O/B": "44.0",
-      "Name": "NINGAL, CRISTOPHER MACALANDA"
+      "O/B": "57.0",
+      "Name": "NINGAL,CRISTOPHER MACALANDA"
     },
     {
       "Rank": "4E",
-      "O/B": "44.0",
-      "Name": "AYAT, MARK ANGELO TAGUBA"
-    },
-    {
-      "Rank": "4E",
-      "O/B": "132.0",
-      "Name": "NOSIS,BRYAN JAMES VALENZUELA"
-    },
-    {
-      "Rank": "4E",
-      "O/B": "119.0",
+      "O/B": "129.0",
       "Name": "RAMOS,ALVIN JOE LAPINA"
     },
     {
+      "Rank": "4E",
+      "O/B": "57.0",
+      "Name": "AYAT,MARK ANGELO TAGUBA"
+    },
+    {
+      "Rank": "4E",
+      "O/B": "142.0",
+      "Name": "NOSIS,BRYAN JAMES VALENZUELA"
+    },
+    {
       "Rank": "BS",
-      "O/B": "195.0",
+      "O/B": "205.0",
       "Name": "NUEVA,VICTORINO JR. ESCALA"
     },
     {
       "Rank": "AB",
-      "O/B": "126.0",
+      "O/B": "136.0",
       "Name": "DELA CRUZ,WILJAYSON AQUINO"
     },
     {
       "Rank": "AB",
-      "O/B": "195.0",
+      "O/B": "19.0",
+      "Name": "CARBAQUIL, VINCENT GENABE"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "205.0",
       "Name": "MANZANILLA,RONIELLE GUTIERREZ"
     },
     {
       "Rank": "AB",
-      "O/B": "126.0",
+      "O/B": "136.0",
       "Name": "MAYO,JEEVEE RASLEIGH GALANG"
     },
     {
-      "Rank": "AB",
-      "O/B": "9.0",
-      "Name": "CARBAQUIL, VINCENT GENABE"
-    },
-    {
       "Rank": "OS",
-      "O/B": "126.0",
-      "Name": "GAZO,SHEJAY CALUMPANG"
-    },
-    {
-      "Rank": "OS",
-      "O/B": "9.0",
+      "O/B": "19.0",
       "Name": "PASCO, MARK ANTHONY SOBERANO"
     },
     {
+      "Rank": "OS",
+      "O/B": "136.0",
+      "Name": "GAZO,SHEJAY CALUMPANG"
+    },
+    {
       "Rank": "FT",
-      "O/B": "223.0",
+      "O/B": "233.0",
       "Name": "AGUSTIN,ALLAN ELBANCOL"
     },
     {
       "Rank": "MM",
-      "O/B": "195.0",
+      "O/B": "205.0",
       "Name": "POLICARPIO,JOHN REAL DARIAGAN"
     },
     {
       "Rank": "JMM",
-      "O/B": "195.0",
+      "O/B": "205.0",
       "Name": "PALOMER,MICHAEL VINCE SENGCO"
     },
     {
       "Rank": "CA",
-      "O/B": "132.0",
+      "O/B": "142.0",
       "Name": "ETCHINIQUE,REDEN CANAMOO"
     }
   ]

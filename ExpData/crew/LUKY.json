@@ -1,126 +1,126 @@
 {
   "scode": "LUKY",
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-27",
   "total_records": 24,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "126.0",
+      "O/B": "136.0",
       "Name": "MORALIDAD,RALLY BECILLES"
     },
     {
       "Rank": "1O",
-      "O/B": "126.0",
+      "O/B": "136.0",
       "Name": "TECHO,FLORENCIO-JR UDTOHAN"
     },
     {
       "Rank": "2O",
-      "O/B": "126.0",
+      "O/B": "136.0",
       "Name": "GUIRRE,ROSNIER ARIZOBAL"
     },
     {
       "Rank": "3O",
-      "O/B": "59.0",
-      "Name": "ABELIDA,JOHN MARK MADRID"
+      "O/B": "51.0",
+      "Name": "GAYLA,ERRALD RENZ CHAN"
     },
     {
       "Rank": "3O",
-      "O/B": "40.0",
-      "Name": "GAYLA, ERRALD RENZ CHAN"
+      "O/B": "69.0",
+      "Name": "ABELIDA,JOHN MARK MADRID"
     },
     {
       "Rank": "DC",
-      "O/B": "59.0",
+      "O/B": "69.0",
       "Name": "GUNIO,GERALD HOSMILLO"
     },
     {
       "Rank": "DC",
-      "O/B": "59.0",
+      "O/B": "69.0",
       "Name": "BRIOSO,KARL JOSEPH CATAPANG"
     },
     {
       "Rank": "CE",
-      "O/B": "205.0",
+      "O/B": "215.0",
       "Name": "SOBREMONTE,ROWELL HADOC"
     },
     {
       "Rank": "2E",
-      "O/B": "126.0",
+      "O/B": "136.0",
       "Name": "CARREON,JOSHUA FORTUNO"
     },
     {
       "Rank": "3E",
-      "O/B": "126.0",
+      "O/B": "136.0",
       "Name": "NEGPARANON,XYLO NIEL ARIAS"
     },
     {
       "Rank": "4E",
-      "O/B": "205.0",
+      "O/B": "215.0",
       "Name": "LOPEZ,BRIX EUPENADO"
     },
     {
       "Rank": "J4E",
-      "O/B": "126.0",
+      "O/B": "136.0",
       "Name": "BUHAYANG,JUNEIL MABALA"
     },
     {
       "Rank": "BS",
-      "O/B": "205.0",
+      "O/B": "215.0",
       "Name": "AGOT,CIELO TACLOB"
     },
     {
       "Rank": "AB",
-      "O/B": "59.0",
-      "Name": "DAPOL,FRANZ MIKKO INDAYA"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "126.0",
+      "O/B": "136.0",
       "Name": "BOLORON,ROY ALVIN REQUIERME"
     },
     {
       "Rank": "AB",
-      "O/B": "126.0",
-      "Name": "ABADA,JESSIE JR. SALDOVIA"
+      "O/B": "69.0",
+      "Name": "DAPOL,FRANZ MIKKO INDAYA"
     },
     {
       "Rank": "AB",
-      "O/B": "126.0",
+      "O/B": "136.0",
       "Name": "GENOBATIN,CASEY BANTOTO"
     },
     {
       "Rank": "AB",
-      "O/B": "205.0",
+      "O/B": "136.0",
+      "Name": "ABADA,JESSIE JR. SALDOVIA"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "215.0",
       "Name": "LIMOCON,RONALD BOOC"
     },
     {
       "Rank": "OS",
-      "O/B": "205.0",
+      "O/B": "215.0",
       "Name": "張　兵"
     },
     {
       "Rank": "FT",
-      "O/B": "30.0",
+      "O/B": "40.0",
       "Name": "BACULIO,EDITHO ADELAN"
     },
     {
       "Rank": "MM",
-      "O/B": "205.0",
-      "Name": "GALVE,RAYMART ORPESA"
-    },
-    {
-      "Rank": "MM",
-      "O/B": "205.0",
+      "O/B": "215.0",
       "Name": "CRUZADA,CHRISTIAN GARBOSA"
     },
     {
+      "Rank": "MM",
+      "O/B": "215.0",
+      "Name": "GALVE,RAYMART ORPESA"
+    },
+    {
       "Rank": "JMM",
-      "O/B": "30.0",
+      "O/B": "40.0",
       "Name": "RUBIO,RENDEL CALAOR"
     },
     {
       "Rank": "CA",
-      "O/B": "59.0",
+      "O/B": "69.0",
       "Name": "CHAVEZ,OMAR CASAREO"
     }
   ]

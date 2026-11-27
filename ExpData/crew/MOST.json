@@ -1,136 +1,136 @@
 {
   "scode": "MOST",
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-27",
   "total_records": 26,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "165.0",
+      "O/B": "174.0",
       "Name": "屠建林"
     },
     {
       "Rank": "1O",
-      "O/B": "111.0",
+      "O/B": "120.0",
       "Name": "陳冠升"
     },
     {
       "Rank": "2O",
-      "O/B": "184.0",
+      "O/B": "193.0",
       "Name": "王宗政"
     },
     {
       "Rank": "3O",
-      "O/B": "42.0",
+      "O/B": "52.0",
       "Name": "王家豪"
     },
     {
       "Rank": "3O",
-      "O/B": "97.0",
+      "O/B": "106.0",
       "Name": "楊浩宇"
     },
     {
       "Rank": "DC",
-      "O/B": "97.0",
+      "O/B": "106.0",
       "Name": "程德恒"
     },
     {
       "Rank": "CE",
-      "O/B": "39.0",
+      "O/B": "48.0",
       "Name": "樓向東"
     },
     {
       "Rank": "2E",
-      "O/B": "121.0",
+      "O/B": "130.0",
       "Name": "張學雷"
     },
     {
       "Rank": "3E",
-      "O/B": "185.0",
-      "Name": "MENDOZA,JOHN KEVIN SALONGA"
-    },
-    {
-      "Rank": "3E",
-      "O/B": "114.0",
+      "O/B": "123.0",
       "Name": "MAIDNIC,BRYCE JAMES VICENTE"
     },
     {
-      "Rank": "4E",
-      "O/B": "185.0",
-      "Name": "BASCOS,RYAN JOE CACLINI"
+      "Rank": "3E",
+      "O/B": "4.0",
+      "Name": "JAVIER,JOVEN NHEL MOOG"
+    },
+    {
+      "Rank": "3E",
+      "O/B": "194.0",
+      "Name": "MENDOZA,JOHN KEVIN SALONGA"
     },
     {
       "Rank": "EC",
-      "O/B": "105.0",
-      "Name": "BALAONG,DANIEL GARIBAY"
-    },
-    {
-      "Rank": "EC",
-      "O/B": "105.0",
+      "O/B": "114.0",
       "Name": "ESTOLAS,ANTHONY ZACHARY TALAY"
     },
     {
+      "Rank": "EC",
+      "O/B": "114.0",
+      "Name": "BALAONG,DANIEL GARIBAY"
+    },
+    {
       "Rank": "BS",
-      "O/B": "184.0",
+      "O/B": "193.0",
       "Name": "孟立忠"
     },
     {
       "Rank": "AB",
-      "O/B": "60.0",
-      "Name": "VILLEGAS,JOJO RUEL TOLENTINO"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "107.0",
-      "Name": "MEJIDA,KING JAMES ELARDO"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "107.0",
-      "Name": "FERNANDEZ,RICKY ANAG"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "97.0",
-      "Name": "尹忠澤"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "120.0",
-      "Name": "DIONISIO,RONAN ACE GALVEZ"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "97.0",
+      "O/B": "106.0",
       "Name": "崔利軍"
     },
     {
       "Rank": "AB",
-      "O/B": "60.0",
+      "O/B": "69.0",
+      "Name": "VILLEGAS,JOJO RUEL TOLENTINO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "69.0",
       "Name": "NORICO,JOJO MADALINO"
     },
     {
+      "Rank": "AB",
+      "O/B": "116.0",
+      "Name": "MEJIDA,KING JAMES ELARDO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "116.0",
+      "Name": "FERNANDEZ,RICKY ANAG"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "106.0",
+      "Name": "尹忠澤"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "129.0",
+      "Name": "DIONISIO,RONAN ACE GALVEZ"
+    },
+    {
       "Rank": "FT",
-      "O/B": "97.0",
+      "O/B": "106.0",
       "Name": "謝明亮"
     },
     {
       "Rank": "MM",
-      "O/B": "39.0",
-      "Name": "鄭燦基"
+      "O/B": "130.0",
+      "Name": "洪宗權"
     },
     {
       "Rank": "MM",
-      "O/B": "106.0",
+      "O/B": "115.0",
       "Name": "謝東樺"
     },
     {
       "Rank": "MM",
-      "O/B": "121.0",
-      "Name": "洪宗權"
+      "O/B": "48.0",
+      "Name": "鄭燦基"
     },
     {
       "Rank": "CA",
-      "O/B": "167.0",
+      "O/B": "176.0",
       "Name": "郭獻哲"
     }
   ]

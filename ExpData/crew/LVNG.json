@@ -1,136 +1,136 @@
 {
   "scode": "LVNG",
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-27",
   "total_records": 26,
   "records": [
     {
       "Rank": "MS",
-      "O/B": "15.0",
+      "O/B": "25.0",
       "Name": "吳承蒙"
     },
     {
       "Rank": "1O",
-      "O/B": "54.0",
+      "O/B": "64.0",
       "Name": "李貢順"
     },
     {
       "Rank": "2O",
-      "O/B": "115.0",
+      "O/B": "125.0",
       "Name": "VILLANO,JUAN-GALILEO GARCIA"
     },
     {
       "Rank": "3O",
-      "O/B": "103.0",
+      "O/B": "113.0",
       "Name": "唐澤庭"
     },
     {
       "Rank": "3O",
-      "O/B": "115.0",
+      "O/B": "125.0",
       "Name": "CAPACIO,LUWYN GRANADOS"
     },
     {
       "Rank": "5O(T5O)",
-      "O/B": "158.0",
+      "O/B": "168.0",
       "Name": "藍紹丞"
     },
     {
       "Rank": "DC",
-      "O/B": "54.0",
+      "O/B": "64.0",
       "Name": "許晉嘉"
     },
     {
       "Rank": "CE",
-      "O/B": "145.0",
+      "O/B": "155.0",
       "Name": "丁鐵鋼"
     },
     {
       "Rank": "2E",
-      "O/B": "50.0",
+      "O/B": "60.0",
       "Name": "王　杰"
     },
     {
       "Rank": "3E",
-      "O/B": "54.0",
+      "O/B": "64.0",
       "Name": "劉鴻輝"
     },
     {
       "Rank": "4E",
-      "O/B": "104.0",
+      "O/B": "114.0",
       "Name": "程家安"
     },
     {
       "Rank": "5E",
-      "O/B": "104.0",
+      "O/B": "114.0",
       "Name": "徐胤航"
     },
     {
       "Rank": "EC",
-      "O/B": "2.0",
-      "Name": "孫任彬"
-    },
-    {
-      "Rank": "EC",
-      "O/B": "2.0",
+      "O/B": "11.0",
       "Name": "翁智勳"
     },
     {
+      "Rank": "EC",
+      "O/B": "11.0",
+      "Name": "孫任彬"
+    },
+    {
       "Rank": "BS",
-      "O/B": "63.0",
+      "O/B": "73.0",
       "Name": "ANOBLING,SANTIAGO JR. MELLIANG"
     },
     {
       "Rank": "AB",
-      "O/B": "37.0",
-      "Name": "NATIVIDAD, RUSSEL JAMES ZARRAGA"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "37.0",
-      "Name": "GACASAN, JOHNNY KAAMINO"
-    },
-    {
-      "Rank": "AB",
-      "O/B": "54.0",
+      "O/B": "64.0",
       "Name": "蔡胤杰"
     },
     {
       "Rank": "AB",
-      "O/B": "103.0",
+      "O/B": "48.0",
+      "Name": "GACASAN,JOHNNY KAAMINO"
+    },
+    {
+      "Rank": "AB",
+      "O/B": "113.0",
       "Name": "鄧　勇"
     },
     {
+      "Rank": "AB",
+      "O/B": "48.0",
+      "Name": "NATIVIDAD,RUSSEL JAMES ZARRAGA"
+    },
+    {
       "Rank": "OS",
-      "O/B": "5.0",
+      "O/B": "15.0",
       "Name": "季彤昆"
     },
     {
       "Rank": "OS",
-      "O/B": "103.0",
+      "O/B": "113.0",
       "Name": "鄒彧豪"
     },
     {
       "Rank": "FT",
-      "O/B": "5.0",
+      "O/B": "15.0",
       "Name": "劉文山"
     },
     {
       "Rank": "MM",
-      "O/B": "115.0",
+      "O/B": "125.0",
       "Name": "JUAREZ,ELVIN JAMES YBANEZ"
     },
     {
       "Rank": "JMM",
-      "O/B": "5.0",
+      "O/B": "15.0",
       "Name": "劉國浩"
     },
     {
       "Rank": "JMM",
-      "O/B": "145.0",
+      "O/B": "155.0",
       "Name": "BUSTAMANTE,RAYMOND MANAGO"
     },
     {
       "Rank": "CA",
-      "O/B": "5.0",
+      "O/B": "15.0",
       "Name": "李福來"
     }
   ]

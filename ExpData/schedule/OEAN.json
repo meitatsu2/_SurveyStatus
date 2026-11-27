@@ -1,8 +1,134 @@
 {
   "scode": "OEAN",
-  "last_updated": "2026-11-25",
-  "total_records": 26,
+  "last_updated": "2026-11-27",
+  "total_records": 59,
   "records": [
+    {
+      "Line": "TIX",
+      "Voyage": "0520-104S",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20260827/0020 (四)",
+      "ETD Date/Time": "20260827/1325"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0520-104N",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20260829/0751 (六)",
+      "ETD Date/Time": "20260830/1611"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0520-104N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20260901/2230 (二)",
+      "ETD Date/Time": "20260902/2100"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0522-105S",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20260906/0040 (日)",
+      "ETD Date/Time": "20260907/0100"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0522-105S",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20260910/0110 (四)",
+      "ETD Date/Time": "20260910/2210"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0522-105N",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20260912/1334 (六)",
+      "ETD Date/Time": "20260913/2344"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0522-105N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20260917/0840 (四)",
+      "ETD Date/Time": "20260918/0130"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0524-106S",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20260923/0700 (三)",
+      "ETD Date/Time": "20260924/1500"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0524-106S",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20260927/0345 (日)",
+      "ETD Date/Time": "20260927/1800"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0524-106N",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20260930/1241 (三)",
+      "ETD Date/Time": "20261001/2126"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0524-106N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20261004/0420 (日)",
+      "ETD Date/Time": "20261005/1440"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0526-107S",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20261011/0900 (日)",
+      "ETD Date/Time": "20261012/1200"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0526-107S",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261015/2155 (四)",
+      "ETD Date/Time": "20261016/1035"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0526-107N",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20261017/2307 (六)",
+      "ETD Date/Time": "20261019/0653"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0526-107N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20261025/0730 (日)",
+      "ETD Date/Time": "20261026/0610"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0529-109S",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20261029/0720 (四)",
+      "ETD Date/Time": "20261030/1530"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0529-109S",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20261103/0300 (二)",
+      "ETD Date/Time": "20261103/2025"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0529-109N",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20261105/0759 (四)",
+      "ETD Date/Time": "20261106/1951"
+    },
     {
       "Line": "TIX",
       "Voyage": "0529-109N",
@@ -21,169 +147,274 @@
       "Line": "TIX",
       "Voyage": "0531-110S",
       "Port Calling": "SGSGP",
-      "ETA Date/Time": "20261118/1600 (三)",
-      "ETD Date/Time": "20261119/1830"
+      "ETA Date/Time": "20261118/2135 (三)",
+      "ETD Date/Time": "20261119/2145"
     },
     {
       "Line": "TIX",
       "Voyage": "0531-110N",
       "Port Calling": "IDDKT",
-      "ETA Date/Time": "20261121/0730 (六)",
-      "ETD Date/Time": "20261122/1630"
+      "ETA Date/Time": "20261121/1307 (六)",
+      "ETD Date/Time": "20261123/0833"
     },
     {
       "Line": "TIX",
       "Voyage": "0531-110N",
       "Port Calling": "MYPKL",
-      "ETA Date/Time": "20261124/1830 (二)",
-      "ETD Date/Time": "20261125/1130"
+      "ETA Date/Time": "20261127/2130 (五)",
+      "ETD Date/Time": "20261128/2100"
     },
     {
       "Line": "TIX",
       "Voyage": "0534-111S",
       "Port Calling": "THLCH",
-      "ETA Date/Time": "20261129/0200 (日)",
-      "ETD Date/Time": "20261130/0400"
+      "ETA Date/Time": "20261201/1230 (二)",
+      "ETD Date/Time": "20261202/1430"
     },
     {
       "Line": "TIX",
       "Voyage": "0534-111S",
       "Port Calling": "SGSGP",
-      "ETA Date/Time": "20261203/1400 (四)",
-      "ETD Date/Time": "20261204/0800"
+      "ETA Date/Time": "20261205/0130 (六)",
+      "ETD Date/Time": "20261205/1930"
     },
     {
       "Line": "TIX",
       "Voyage": "0534-111N",
       "Port Calling": "IDDKT",
-      "ETA Date/Time": "20261206/0530 (日)",
-      "ETD Date/Time": "20261207/1430"
+      "ETA Date/Time": "20261207/1700 (一)",
+      "ETD Date/Time": "20261209/0200"
     },
     {
       "Line": "TIX",
       "Voyage": "0534-111N",
       "Port Calling": "MYPKL",
-      "ETA Date/Time": "20261209/2330 (三)",
-      "ETD Date/Time": "20261210/1630"
+      "ETA Date/Time": "20261211/1100 (五)",
+      "ETD Date/Time": "20261212/0400"
     },
     {
       "Line": "TIX",
       "Voyage": "0536-112S",
       "Port Calling": "THLCH",
-      "ETA Date/Time": "20261214/0200 (一)",
-      "ETD Date/Time": "20261215/0400"
+      "ETA Date/Time": "20261214/1930 (一)",
+      "ETD Date/Time": "20261215/2130"
     },
     {
       "Line": "TIX",
       "Voyage": "0536-112S",
       "Port Calling": "SGSGP",
-      "ETA Date/Time": "20261216/1400 (三)",
-      "ETD Date/Time": "20261217/0800"
+      "ETA Date/Time": "20261218/0230 (五)",
+      "ETD Date/Time": "20261218/2030"
     },
     {
       "Line": "TIX",
       "Voyage": "0536-112N",
       "Port Calling": "IDDKT",
-      "ETA Date/Time": "20261219/0430 (六)",
-      "ETD Date/Time": "20261220/1530"
+      "ETA Date/Time": "20261220/0800 (日)",
+      "ETD Date/Time": "20261221/1700"
     },
     {
       "Line": "TIX",
       "Voyage": "0536-112N",
       "Port Calling": "MYPKL",
-      "ETA Date/Time": "20261222/2130 (二)",
-      "ETD Date/Time": "20261223/1630"
+      "ETA Date/Time": "20261223/1800 (三)",
+      "ETD Date/Time": "20261224/1100"
     },
     {
       "Line": "TIX",
       "Voyage": "0538-113S",
       "Port Calling": "THLCH",
-      "ETA Date/Time": "20261227/0000 (日)",
-      "ETD Date/Time": "20261228/0400"
+      "ETA Date/Time": "20261230/0000 (三)",
+      "ETD Date/Time": "20261231/0400"
     },
     {
       "Line": "TIX",
       "Voyage": "0538-113S",
       "Port Calling": "SGSGP",
-      "ETA Date/Time": "20261230/1200 (三)",
-      "ETD Date/Time": "20261231/0800"
+      "ETA Date/Time": "20270102/1200 (六)",
+      "ETD Date/Time": "20270103/0800"
     },
     {
       "Line": "TIX",
       "Voyage": "0538-113N",
       "Port Calling": "IDDKT",
-      "ETA Date/Time": "20270102/0430 (六)",
-      "ETD Date/Time": "20270103/1530"
+      "ETA Date/Time": "20270105/0430 (二)",
+      "ETD Date/Time": "20270106/1530"
     },
     {
       "Line": "TIX",
       "Voyage": "0538-113N",
       "Port Calling": "MYPKL",
-      "ETA Date/Time": "20270105/2130 (二)",
-      "ETD Date/Time": "20270106/1630"
+      "ETA Date/Time": "20270108/2130 (五)",
+      "ETD Date/Time": "20270109/1630"
     },
     {
       "Line": "TIX",
       "Voyage": "0540-114S",
       "Port Calling": "THLCH",
-      "ETA Date/Time": "20270110/0000 (日)",
-      "ETD Date/Time": "20270111/0400"
+      "ETA Date/Time": "20270113/0000 (三)",
+      "ETD Date/Time": "20270114/0400"
     },
     {
       "Line": "TIX",
       "Voyage": "0540-114S",
       "Port Calling": "SGSGP",
-      "ETA Date/Time": "20270113/1200 (三)",
-      "ETD Date/Time": "20270114/0800"
+      "ETA Date/Time": "20270116/1200 (六)",
+      "ETD Date/Time": "20270117/0800"
     },
     {
       "Line": "TIX",
       "Voyage": "0540-114N",
       "Port Calling": "IDDKT",
-      "ETA Date/Time": "20270116/0430 (六)",
-      "ETD Date/Time": "20270117/1530"
+      "ETA Date/Time": "20270119/0430 (二)",
+      "ETD Date/Time": "20270120/1530"
     },
     {
       "Line": "TIX",
       "Voyage": "0540-114N",
       "Port Calling": "MYPKL",
-      "ETA Date/Time": "20270119/2130 (二)",
-      "ETD Date/Time": "20270120/1630"
+      "ETA Date/Time": "20270122/2130 (五)",
+      "ETD Date/Time": "20270123/1630"
     },
     {
       "Line": "TIX",
       "Voyage": "0542-115S",
       "Port Calling": "THLCH",
-      "ETA Date/Time": "20270124/0000 (日)",
-      "ETD Date/Time": "20270125/0400"
+      "ETA Date/Time": "20270127/0000 (三)",
+      "ETD Date/Time": "20270128/0400"
     },
     {
       "Line": "TIX",
       "Voyage": "0542-115S",
       "Port Calling": "SGSGP",
-      "ETA Date/Time": "20270127/1200 (三)",
-      "ETD Date/Time": "20270128/0800"
+      "ETA Date/Time": "20270130/1200 (六)",
+      "ETD Date/Time": "20270131/0800"
     },
     {
       "Line": "TIX",
       "Voyage": "0542-115N",
       "Port Calling": "IDDKT",
-      "ETA Date/Time": "20270130/0430 (六)",
-      "ETD Date/Time": "20270131/1530"
+      "ETA Date/Time": "20270202/0430 (二)",
+      "ETD Date/Time": "20270203/1530"
     },
     {
       "Line": "TIX",
       "Voyage": "0542-115N",
       "Port Calling": "MYPKL",
-      "ETA Date/Time": "20270202/2130 (二)",
-      "ETD Date/Time": "20270203/1630"
+      "ETA Date/Time": "20270205/2130 (五)",
+      "ETD Date/Time": "20270206/1630"
     },
     {
       "Line": "TIX",
-      "Voyage": "0542-115N",
+      "Voyage": "0544-116S",
       "Port Calling": "THLCH",
-      "ETA Date/Time": "20270205/0000 (五)",
-      "ETD Date/Time": "20270206/0400"
+      "ETA Date/Time": "20270210/0000 (三)",
+      "ETD Date/Time": "20270211/0400"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0544-116S",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270213/1200 (六)",
+      "ETD Date/Time": "20270214/0800"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0544-116N",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20270216/0430 (二)",
+      "ETD Date/Time": "20270217/1530"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0544-116N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270219/2130 (五)",
+      "ETD Date/Time": "20270220/1630"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0546-117S",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20270224/0000 (三)",
+      "ETD Date/Time": "20270225/0400"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0546-117S",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270227/1200 (六)",
+      "ETD Date/Time": "20270228/0800"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0546-117N",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20270302/0430 (二)",
+      "ETD Date/Time": "20270303/1530"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0546-117N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270305/2130 (五)",
+      "ETD Date/Time": "20270306/1630"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0548-118S",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20270310/0000 (三)",
+      "ETD Date/Time": "20270311/0400"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0548-118S",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270313/1200 (六)",
+      "ETD Date/Time": "20270314/0800"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0548-118N",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20270316/0430 (二)",
+      "ETD Date/Time": "20270317/1530"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0548-118N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270319/2130 (五)",
+      "ETD Date/Time": "20270320/1630"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0550-119S",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20270324/0000 (三)",
+      "ETD Date/Time": "20270325/0400"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0550-119S",
+      "Port Calling": "SGSGP",
+      "ETA Date/Time": "20270327/1200 (六)",
+      "ETD Date/Time": "20270328/0800"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0550-119N",
+      "Port Calling": "IDDKT",
+      "ETA Date/Time": "20270330/0430 (二)",
+      "ETD Date/Time": "20270331/1530"
+    },
+    {
+      "Line": "TIX",
+      "Voyage": "0550-119N",
+      "Port Calling": "MYPKL",
+      "ETA Date/Time": "20270402/2130 (五)",
+      "ETD Date/Time": "20270403/1630"
     }
   ]
 }

@@ -1,35 +1,98 @@
 {
   "scode": "MGIC",
-  "last_updated": "2026-11-25",
-  "total_records": 13,
+  "last_updated": "2026-11-27",
+  "total_records": 26,
   "records": [
+    {
+      "Line": "HTW",
+      "Voyage": "1468-009E",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20260827/0536 (四)",
+      "ETD Date/Time": "20260829/0711"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1468-009W",
+      "Port Calling": "USLAX",
+      "ETA Date/Time": "20260912/0536 (六)",
+      "ETD Date/Time": "20260916/1812"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1468-009W",
+      "Port Calling": "USOKL",
+      "ETA Date/Time": "20260918/1648 (五)",
+      "ETD Date/Time": "20260921/0836"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1468-009W",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261006/1315 (二)",
+      "ETD Date/Time": "20261008/0524"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1477-010E",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20261012/1748 (一)",
+      "ETD Date/Time": "20261014/1200"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1477-010E",
+      "Port Calling": "VNVUU",
+      "ETA Date/Time": "20261017/0506 (六)",
+      "ETD Date/Time": "20261017/2130"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1477-010E",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261026/0206 (一)",
+      "ETD Date/Time": "20261026/1954"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1477-010E",
+      "Port Calling": "TWKSG",
+      "ETA Date/Time": "20261027/1025 (二)",
+      "ETD Date/Time": "20261028/2042"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1477-010E",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20261031/0336 (六)",
+      "ETD Date/Time": "20261102/0122"
+    },
     {
       "Line": "HTW",
       "Voyage": "1477-010W",
       "Port Calling": "USLAX",
-      "ETA Date/Time": "20261117/0600 (二)",
-      "ETD Date/Time": "20261121/1530"
+      "ETA Date/Time": "20261117/0548 (二)",
+      "ETD Date/Time": "20261122/0605"
     },
     {
       "Line": "HTW",
       "Voyage": "1477-010W",
       "Port Calling": "USOKL",
-      "ETA Date/Time": "20261123/1700 (一)",
-      "ETD Date/Time": "20261125/1800"
+      "ETA Date/Time": "20261119/1400 (四)",
+      "ETD Date/Time": "20261122/0600"
     },
     {
       "Line": "HTW",
       "Voyage": "1477-010W",
       "Port Calling": "USTCM",
-      "ETA Date/Time": "20261128/0400 (六)",
-      "ETD Date/Time": "20261129/1700"
+      "ETA Date/Time": "20261125/1700 (三)",
+      "ETD Date/Time": "20261127/2200"
     },
     {
       "Line": "HTW",
       "Voyage": "1477-010W",
       "Port Calling": "TWKSG",
-      "ETA Date/Time": "20261211/2000 (五)",
-      "ETD Date/Time": "20261213/0200"
+      "ETA Date/Time": "20261212/1300 (六)",
+      "ETD Date/Time": "20261214/1500"
     },
     {
       "Line": "HTW",
@@ -40,10 +103,24 @@
     },
     {
       "Line": "HTW",
+      "Voyage": "1477-010W",
+      "Port Calling": "THLCH",
+      "ETA Date/Time": "20261218/0800 (五)",
+      "ETD Date/Time": "20261219/1000"
+    },
+    {
+      "Line": "HTW",
       "Voyage": "1486-011E",
       "Port Calling": "VNVUU",
       "ETA Date/Time": "20261220/1200 (日)",
       "ETD Date/Time": "20261221/0430"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1477-010W",
+      "Port Calling": "VNVUU",
+      "ETA Date/Time": "20261221/1000 (一)",
+      "ETD Date/Time": "20261222/1200"
     },
     {
       "Line": "HTW",
@@ -61,10 +138,24 @@
     },
     {
       "Line": "HTW",
+      "Voyage": "1477-010W",
+      "Port Calling": "TWTPE",
+      "ETA Date/Time": "20261225/1800 (五)",
+      "ETD Date/Time": "20261226/1100"
+    },
+    {
+      "Line": "HTW",
       "Voyage": "1486-011E",
       "Port Calling": "CNYYT",
       "ETA Date/Time": "20261227/1400 (日)",
       "ETD Date/Time": "20261229/1400"
+    },
+    {
+      "Line": "HTW",
+      "Voyage": "1477-010W",
+      "Port Calling": "CNYYT",
+      "ETA Date/Time": "20261230/1300 (三)",
+      "ETD Date/Time": "20270101/1200"
     },
     {
       "Line": "HTW",
